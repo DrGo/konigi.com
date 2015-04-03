@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Usability Testing on Konigi</title>
-    <link>http://localhost:1313/tags/usability-testing/</link>
+    <link>http://konigi.com/tags/usability-testing/</link>
     <description>Recent content in Usability Testing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PowWow</title>
-      <link>http://localhost:1313/tools/submissions/powwow/</link>
+      <link>http://konigi.com/tools/submissions/powwow/</link>
       <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/powwow/</guid>
+      <guid>http://konigi.com/tools/submissions/powwow/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2661&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522f95bc25025_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;PowWow&lt;/a&gt; is a free simple service for scheduling user research using your Google Calendar. The fine folks at &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp (aka Viget)&lt;/a&gt; created this as a side project for handling scheduling of user interviews and testing, but could be used for any kind of event.&lt;/p&gt;&lt;/p&gt;
 
@@ -27,10 +27,10 @@ wt522f95bc25025_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>AirServer: Airplay receiver for iOS devices</title>
-      <link>http://localhost:1313/tools/submissions/airserver-airplay-receiver-ios-devices/</link>
+      <link>http://konigi.com/tools/submissions/airserver-airplay-receiver-ios-devices/</link>
       <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/airserver-airplay-receiver-ios-devices/</guid>
+      <guid>http://konigi.com/tools/submissions/airserver-airplay-receiver-ios-devices/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.airserverapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2693&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fc2a9d3fa1_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.airserverapp.com/&#34;&gt;AirServer&lt;/a&gt; is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.&lt;/p&gt;&lt;/p&gt;
 
@@ -43,10 +43,10 @@ wt522fc2a9d3fa1_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Reflector.app: iOS AirPlay mirroring to computer</title>
-      <link>http://localhost:1313/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</link>
+      <link>http://konigi.com/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</guid>
+      <guid>http://konigi.com/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://www.reflectorapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2696&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fc6286a649_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.reflectorapp.com/&#34;&gt;Reflector&lt;/a&gt; lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.&lt;/p&gt;&lt;/p&gt;
 
@@ -61,10 +61,10 @@ wt522fc6286a649_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
-      <link>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <link>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <guid>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/37421265&#34; width=&#34;572&#34; height=&#34;322&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mrtappy.com/&#34;&gt;Mr Tappy&lt;/a&gt; is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.&lt;/p&gt;
 &lt;p&gt;Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.&lt;/p&gt;
@@ -77,10 +77,10 @@ wt522fc6286a649_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Usabilla now supports mobile usability testing</title>
-      <link>http://localhost:1313/blog/usabilla-now-supports-mobile-usability-testing/</link>
+      <link>http://konigi.com/blog/usabilla-now-supports-mobile-usability-testing/</link>
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/usabilla-now-supports-mobile-usability-testing/</guid>
+      <guid>http://konigi.com/blog/usabilla-now-supports-mobile-usability-testing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.usabilla.com/mobile-ux-testing/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2537&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ea5be599b192_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usabilla is one of the remote, unmoderated usability test services I&amp;rsquo;ve reviewed and used in the past (full disclosure: they also now sponsor this site). They&amp;rsquo;ve added &lt;a href=&#34;http://blog.usabilla.com/mobile-ux-testing/&#34;&gt;mobile testing&lt;/a&gt; to their remote, unmoderated testing service.  The new feature lets users participate by using their smartphones or tablets to test the screenshots or urls you specify in each task or scenario.&lt;/p&gt;&lt;/p&gt;
 
@@ -92,10 +92,10 @@ wt4ea5be599b192_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usabilla is on
     
     <item>
       <title>Usaura: Free 5-second tests</title>
-      <link>http://localhost:1313/tools/submissions/usaura-free-5-second-tests/</link>
+      <link>http://konigi.com/tools/submissions/usaura-free-5-second-tests/</link>
       <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/usaura-free-5-second-tests/</guid>
+      <guid>http://konigi.com/tools/submissions/usaura-free-5-second-tests/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usaura.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2777&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230ab613b59e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usaura.com/&#34;&gt;Usaura&lt;/a&gt; is a free service for conducting 5-second tests. Upload a screenshot. Enter a question asking your respondents to respond by clicking somewhere on your screenshot. Copy the test url to give to participants or use Twitter to share the test. View the results as a heatmap or as click nodes with time-to-click data.&lt;/p&gt;&lt;/p&gt;
 
@@ -108,10 +108,10 @@ wt5230ab613b59e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>YouEye: User testing with webcam eye tracking</title>
-      <link>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</link>
+      <link>http://konigi.com/tools/submissions/youeye-user-testing-webcam-eye-tracking/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</guid>
+      <guid>http://konigi.com/tools/submissions/youeye-user-testing-webcam-eye-tracking/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://youeye.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2704&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd0c0b6b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;lt;a href=&amp;quot;&lt;a href=&#34;http://www.youeye.com/&#34;&gt;http://www.youeye.com/&lt;/a&gt;&amp;lsquo;&amp;gt;YouEye&lt;/a&gt; looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.&lt;/p&gt;&lt;/p&gt;
 
@@ -122,10 +122,10 @@ wt522fd0c0b6b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;lt;a hre
     
     <item>
       <title>Clue: A 5 Second Test Service</title>
-      <link>http://localhost:1313/tools/submissions/clue-5-second-test-service/</link>
+      <link>http://konigi.com/tools/submissions/clue-5-second-test-service/</link>
       <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/clue-5-second-test-service/</guid>
+      <guid>http://konigi.com/tools/submissions/clue-5-second-test-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2819&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsquo;s &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue&lt;/a&gt; is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.&lt;/p&gt;&lt;/p&gt;
 
@@ -142,10 +142,10 @@ wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsqu
     
     <item>
       <title>Mobile Usability Testing Tips</title>
-      <link>http://localhost:1313/blog/mobile-usability-testing-tips/</link>
+      <link>http://konigi.com/blog/mobile-usability-testing-tips/</link>
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mobile-usability-testing-tips/</guid>
+      <guid>http://konigi.com/blog/mobile-usability-testing-tips/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.90percentofeverything.com/2010/10/05/mobile-usability-testing-tip-recording-from-two-webcams&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2440&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4cab57ab05be0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull has been posting some great quick tips for doing mobile usability testing including &lt;a href=&#34;http://www.90percentofeverything.com/2010/10/05/mobile-usability-testing-tip-recording-from-two-webcams&#34;&gt;how to record from two webcams&lt;/a&gt; using an application called &lt;a href=&#34;http://noeld.com/programs.asp?cat=video&#34;&gt;AmCap&lt;/a&gt; and how to craft inexpensive &lt;a href=&#34;http://www.90percentofeverything.com/2010/05/07/quick-tip-make-your-own-iphone-usability-testing-sled-for-5/&#34;&gt;usability testing sleds&lt;/a&gt; for mobile phones.&lt;/p&gt;&lt;/p&gt;
 
@@ -155,10 +155,10 @@ wt4cab57ab05be0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull
     
     <item>
       <title>WhatUsersDo.com Review on 90 Percent of Everything</title>
-      <link>http://localhost:1313/blog/whatusersdocom-review-90-percent-everything/</link>
+      <link>http://konigi.com/blog/whatusersdocom-review-90-percent-everything/</link>
       <pubDate>Tue, 03 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/whatusersdocom-review-90-percent-everything/</guid>
+      <guid>http://konigi.com/blog/whatusersdocom-review-90-percent-everything/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.90percentofeverything.com/2010/08/03/reviewing-whatusersdo-com-a-uk-based-remote-unmoderated-qualitative-usability-testing-platform/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2423&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c5836efe518c_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull did &lt;a href=&#34;http://www.90percentofeverything.com/2010/08/03/reviewing-whatusersdo-com-a-uk-based-remote-unmoderated-qualitative-usability-testing-platform/?utm_source=feedburner&amp;amp;utm_medium=email&amp;amp;utm_campaign=Feed%3A+90percentofeverything%2Ffeed+%2890+Percent+of+Everything+%29&#34;&gt;a thorough review&lt;/a&gt; of &lt;a href=&#34;http://www.whatusersdo.com/&#34;&gt;WhatUsersDo.com&lt;/a&gt;, a UK-based remote, unmoderated, qualitative usability testing service. To use the service, you pay £25-£30 per participant and you get back screen recordings with audio of them thinking aloud during the tasks. The test participants are chosen from a pool of users paid to take usability tests, similar to usertesting.com.&lt;/p&gt;&lt;/p&gt;
 
@@ -170,10 +170,10 @@ wt4c5836efe518c_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull
     
     <item>
       <title>AddUse User research service</title>
-      <link>http://localhost:1313/tools/submissions/adduse-user-research-service/</link>
+      <link>http://konigi.com/tools/submissions/adduse-user-research-service/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/adduse-user-research-service/</guid>
+      <guid>http://konigi.com/tools/submissions/adduse-user-research-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2683&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;AddUse&lt;/a&gt; is a commercial user research service that allow you to run and analyze web surveys and allows usability test facilitators to manually capture and analyze the results of test sessions.&lt;/p&gt;&lt;/p&gt;
 
@@ -184,10 +184,10 @@ wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>OpenHallway: Unmoderated Remote Usability Testing with Screen Recording</title>
-      <link>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
+      <link>http://konigi.com/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
+      <guid>http://konigi.com/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
       <description>&lt;p&gt;Inspired by the 5 second test, a lot web-based services have cropped up to support remote usability testing. In the past few years, I&#39;ve been experimenting with some of these to conduct super small, unmoderated remote usability testing sessions. I&#39;ve used Morae extensively in the past, but for most of my needs, that&#39;s like using a sledgehammer on a pushpin.&lt;/p&gt;
 &lt;p&gt;I&#39;d been successful using &lt;a href=&#34;http://fivesecondtest.com/&#34;&gt;fivesecondtest&lt;/a&gt; and &lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt;, who decided to sponsor me after I participated in the beta and gave feedback. I then got wind of &lt;a href=&#34;http://openhallway.com/&#34;&gt;OpenHallway&lt;/a&gt;, which also provides unmoderated testing with the addition of recording the users&#39; screen and voice using. I want to note that having agreed to participate in the beta, Open Hallway is also now a sponsor of Konigi.&lt;/p&gt;
 &lt;p&gt;I conducted a simple test with one task using Open Hallway. The observations below take you through the application in the current beta, and are based on my experience testing a common task in Balsamiq Mockups, updating your software.  &lt;/p&gt;
@@ -226,10 +226,10 @@ wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Usabilla Officially Launches</title>
-      <link>http://localhost:1313/blog/usabilla-officially-launches/</link>
+      <link>http://konigi.com/blog/usabilla-officially-launches/</link>
       <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/usabilla-officially-launches/</guid>
+      <guid>http://konigi.com/blog/usabilla-officially-launches/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1887&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a9ffafacb35a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Remote usability testing service &lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt; has officially launched with tiered payment plans and PDF reports for all your test results. They will continue to provide a free service for up to 5 pages which lets you analyze the results of the first 25 participants of each test.&lt;/p&gt;&lt;/p&gt;
 
@@ -243,10 +243,10 @@ wt4a9ffafacb35a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Remote usability t
     
     <item>
       <title>Usabilla Travel Site Test: Underdogs beat Expedia in usability showdown</title>
-      <link>http://localhost:1313/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</link>
+      <link>http://konigi.com/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</link>
       <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</guid>
+      <guid>http://konigi.com/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.usabilla.com/?p=172&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1930&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4af491f5b0fd0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usabilla was ran usability tests to compare the usability of four travel sites and has posted the results. Their analysis concludes that Expedia gets defeated by its competitors Hotwire, Priceline, and Travelocity on basic usability tasks. Expedia performed the worst in a usability showdown between the four major international travel sites. A total of 148 people participated in this usability test and tried to perform three basic tasks on one of the four websites.&lt;/p&gt;&lt;/p&gt;
 
@@ -258,10 +258,10 @@ wt4af491f5b0fd0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usabilla was r
     
     <item>
       <title>Treejack - Information architecture testing</title>
-      <link>http://localhost:1313/tools/submissions/treejack-information-architecture-testing/</link>
+      <link>http://konigi.com/tools/submissions/treejack-information-architecture-testing/</link>
       <pubDate>Sun, 06 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/treejack-information-architecture-testing/</guid>
+      <guid>http://konigi.com/tools/submissions/treejack-information-architecture-testing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.optimalworkshop.com/treejack.htm&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2732&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ffa93a86b5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.optimalworkshop.com/treejack.htm&#34;&gt;Treejack&lt;/a&gt; is a tool to help you test the effectiveness of an information architecture.&amp;nbsp; Use it to find out which categories are strong, which labels need tweaking and what tasks people are struggling with.&amp;nbsp; Because you can upload an existing or proposed IA, and test with participants remotely, you get rapid feedback at a fraction of the cost of in-person testing.&lt;/p&gt;
 &lt;p&gt;Often, usability testing only reveals flaws with the interaction and interface elements.&amp;nbsp; Treejack is a way to effectively test the quality of an information architecture itself.&lt;/p&gt;

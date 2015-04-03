@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crowdsourcing on Konigi</title>
-    <link>http://localhost:1313/tags/crowdsourcing/</link>
+    <link>http://konigi.com/tags/crowdsourcing/</link>
     <description>Recent content in Crowdsourcing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NYPL Labs Infomaki: A lightweight usability testing service</title>
-      <link>http://localhost:1313/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</link>
+      <link>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</link>
       <pubDate>Tue, 17 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</guid>
+      <guid>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://labs.nypl.org/2009/02/16/introducing-infomaki-bite-sized-usability-testing/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/nypl-infomaki.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The New York Public Library Labs has begun testing a &lt;a href=&#34;http://labs.nypl.org/2009/02/16/introducing-infomaki-bite-sized-usability-testing/&#34;&gt;light usability testing system&lt;/a&gt; to supplement their formal tests, inspired by the &lt;a href=&#34;http://fivesecondtest.com/&#34;&gt;Five Second Test&lt;/a&gt; method which was devised by Jared Spool and turned into a service by the guys at mayhem(method).  The service, nicknamed Infomaki (info roll?), combines the type of service 5 second test provides, as well as allowing single question surveys for checking on things like simple labeling issues, which you might have tested using card sorting.&lt;/p&gt;
 &lt;p&gt;The test lets you answer only 1 question, or continue answering as you like, which makes the task feel very game like, and reminds me of crowdsourcing apps like Amazon&amp;rsquo;s Mechanical Turk. I love that the types of questions you can ask require simple twitch-like responses, so you can get through a lot very quickly. Here&amp;rsquo;s a bit more from the NYPL Labs site about the project: &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;It has become apparent that we needed a tool in our kit that would allow us to get simple usability questions in front of users with a minimum of fuss.&lt;/p&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>NO!SPEC vs. crowdSPRING Debate at 37signals</title>
-      <link>http://localhost:1313/blog/nospec-vs-crowdspring-debate-37signals/</link>
+      <link>http://konigi.com/blog/nospec-vs-crowdspring-debate-37signals/</link>
       <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/nospec-vs-crowdspring-debate-37signals/</guid>
+      <guid>http://konigi.com/blog/nospec-vs-crowdspring-debate-37signals/</guid>
       <description>&lt;p&gt;37 signals gave the soapbox to crowdSPRING to justify the crowdsourcing and spec work platform and &lt;a href=&#34;http://www.37signals.com/svn/posts/1253-the-nospec-campaign-vs-crowdspring&#34;&gt;the debate ensued&lt;/a&gt;. I got through about half of the long rant, then half of the comments, and called it a day. &lt;/p&gt;
 &lt;p&gt;I&#39;ve already &lt;a href=&#34;crowdspring-crowdsourcing-creative-projects.html&#34;&gt;chimed in&lt;/a&gt; about my opinion for crowdSPRING. I believe there is a place for this market, and if small businesses will support it with dollars, then it will continue to exist. As a lot of designers commented, market places like this don&#39;t threaten them. Someone going to crowdSPRING doesn&#39;t really expect depth of experience for what they pay. Like it or not, this marketplace appears to be thriving and a good number of designers of varying levels of experience are participating, much to the disappointment of AIGA. Nevertheless, the debate rages on.&lt;/p&gt;
     
@@ -44,10 +44,10 @@
     
     <item>
       <title>Drupal.org crowd wireframing</title>
-      <link>http://localhost:1313/blog/drupal-org-crowd-wireframing/</link>
+      <link>http://konigi.com/blog/drupal-org-crowd-wireframing/</link>
       <pubDate>Fri, 12 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/drupal-org-crowd-wireframing/</guid>
+      <guid>http://konigi.com/blog/drupal-org-crowd-wireframing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.disambiguity.com/drupalorg-come-wireframe-with-me/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1362&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48ca6d5eabb18_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Leisa Reichelt starts up some participatory design by getting Drupal contributors to &lt;a href=&#34;http://www.disambiguity.com/drupalorg-come-wireframe-with-me/&#34;&gt;sketch suggestions&lt;/a&gt; for things they&amp;rsquo;d like to see change on Drupal.org.&lt;/p&gt;&lt;/p&gt;
 
@@ -57,10 +57,10 @@ wt48ca6d5eabb18_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Leisa Reichelt sta
     
     <item>
       <title>Cymbolism, Words &amp; Colors</title>
-      <link>http://localhost:1313/blog/cymbolism-words-colors/</link>
+      <link>http://konigi.com/blog/cymbolism-words-colors/</link>
       <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/cymbolism-words-colors/</guid>
+      <guid>http://konigi.com/blog/cymbolism-words-colors/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.cymbolism.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1346&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt489b69fa1d87b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.cymbolism.com/&#34;&gt;Cymbolism&lt;/a&gt; is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
 
@@ -70,10 +70,10 @@ wt489b69fa1d87b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;&lt;a h
     
     <item>
       <title>RYZ Rating and Favoriting</title>
-      <link>http://localhost:1313/interface/ryz-rating-and-favoriting/</link>
+      <link>http://konigi.com/interface/ryz-rating-and-favoriting/</link>
       <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/ryz-rating-and-favoriting/</guid>
+      <guid>http://konigi.com/interface/ryz-rating-and-favoriting/</guid>
       <description>&lt;p&gt;RYZ is a sneaker manufacturer that crowdsources the design of their product and shares the revenue with winners. Users download a template to create design and upload to their profile. Participants vote on the designs by giving ratings and winners receive $1000 and $1 for every pair sold. The site provides simple interfaces for both favoriting and rating entries.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The voting page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The voting page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the star badge in the corner of the image adds to favorites.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the star badge in the corner of the image adds to favorites.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking a checkmark below the image adds your vote.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking a checkmark below the image adds your vote.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Clicking PASS adds your &amp;quot;not interested&amp;quot; vote. Not sure what value this is given.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Clicking PASS adds your &amp;quot;not interested&amp;quot; vote. Not sure what value this is given.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Favorites appear on your profile.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Favorites appear on your profile.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.ryzwear.com/&#34;&gt;http://www.ryzwear.com/&lt;/a&gt;&lt;/p&gt;
@@ -82,10 +82,10 @@ wt489b69fa1d87b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;&lt;a h
     
     <item>
       <title>NameThis: Crowdsourced Project Naming</title>
-      <link>http://localhost:1313/blog/namethis-crowdsourced-project-naming/</link>
+      <link>http://konigi.com/blog/namethis-crowdsourced-project-naming/</link>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/namethis-crowdsourced-project-naming/</guid>
+      <guid>http://konigi.com/blog/namethis-crowdsourced-project-naming/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://namethis.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1304&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt484d6ccbd1bbe.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://namethis.com/&#34;&gt;NameThis&lt;/a&gt; is an innovative new crowdsourced community that uses the wisdom of crowds to name products and services. Companies or individuals who are looking to name something pay $99 to request help in naming the thing. Participants provide suggestions and vote or invest a stake in the suggestions that have been posted. &lt;a href=&#34;http://kluster.com/&#34;&gt;Kluster&amp;rsquo;s&lt;/a&gt; robots decide which is best, and participants get paid back when they&amp;rsquo;ve invested in the winner. You can find out more about &lt;a href=&#34;http://namethis.com/name_this/projects/new&#34;&gt;how it works&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The UI shows the list of projects posted and a countdown for the time remaining to participate. It&amp;rsquo;s pretty interesting stuff if taken seriously by the participants. I suspect the payoffs will keep things from going sour. &lt;/p&gt;
@@ -103,10 +103,10 @@ wt484d6ccbd1bbe.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Crowdsourced Color Explorer</title>
-      <link>http://localhost:1313/blog/crowdsourced-color-explorer/</link>
+      <link>http://konigi.com/blog/crowdsourced-color-explorer/</link>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/crowdsourced-color-explorer/</guid>
+      <guid>http://konigi.com/blog/crowdsourced-color-explorer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://assets.doloreslabs.com/jobs/colors/explorer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1300&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48493d28676b4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I have to admit, that &lt;a href=&#34;http://assets.doloreslabs.com/jobs/colors/explorer/&#34;&gt;this crowdsourced color explorer&lt;/a&gt; is one of the coolest ideas I&amp;rsquo;ve seen in, oh, the last few weeks. &lt;/p&gt;
 &lt;p&gt;On the Dolores blog, Brendan &lt;a href=&#34;http://blog.doloreslabs.com/2008/03/where-does-blue-end-and-red-begin/&#34;&gt;explains&lt;/a&gt; how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the &lt;a href=&#34;http://www.icsi.berkeley.edu/wcs/&#34;&gt;World Color Survey&lt;/a&gt;. &lt;/p&gt;
@@ -118,10 +118,10 @@ wt48493d28676b4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I have to admit, tha
     
     <item>
       <title>brand and celeb tags</title>
-      <link>http://localhost:1313/blog/brand-and-celeb-tags/</link>
+      <link>http://konigi.com/blog/brand-and-celeb-tags/</link>
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/brand-and-celeb-tags/</guid>
+      <guid>http://konigi.com/blog/brand-and-celeb-tags/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://celebtags.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1242&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48283d745a527.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noah Brier&amp;rsquo;s &lt;a href=&#34;http://celebtags.com/&#34;&gt;celeb tags&lt;/a&gt; and &lt;a href=&#34;http://brandtags.com/&#34;&gt;brand tags&lt;/a&gt; sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.&lt;/p&gt;
 &lt;p&gt;I tried to take screenshots, but the celebrities&amp;rsquo; tag results were full of nonsensical tags. Someone decided to game the site obviously to fill it with tags that take over the results pages because of the variable font sizing of cloud tags. The brand tags site actually worked better in terms of having better tags. &lt;/p&gt;&lt;/p&gt;
@@ -132,10 +132,10 @@ wt48283d745a527.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noah Brier&amp;rsquo
     
     <item>
       <title>Users around the world translate Facebook for free</title>
-      <link>http://localhost:1313/blog/users-around-world-translate-facebook-free/</link>
+      <link>http://konigi.com/blog/users-around-world-translate-facebook-free/</link>
       <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/users-around-world-translate-facebook-free/</guid>
+      <guid>http://konigi.com/blog/users-around-world-translate-facebook-free/</guid>
       <description>&lt;p&gt;Facebook is &lt;a href=&#34;http://www.usatoday.com/tech/world/2008-04-18-facebook-free-translation_N.htm?csp=34&#34;&gt;tapping its international user community&lt;/a&gt; to help translate it&#39;s interface, namely the copy for its guidelines, into nearly the 2 dozen languages that represent the community&#39;s market outside the US. The localization effort is a massive crowdsourcing task that has been both criticized and lauded. The critics often point to the unpredictability and inconsistency of translations. Proponents of the effort applaud  the boldness at utilizing an already eager community to contribute to making the application better for users in other non English-speaking countries. &lt;/p&gt;
     
 
@@ -145,10 +145,10 @@ wt48283d745a527.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noah Brier&amp;rsquo
     
     <item>
       <title>Crowdsourcing The Library of Congress</title>
-      <link>http://localhost:1313/blog/crowdsourcing-library-congress/</link>
+      <link>http://konigi.com/blog/crowdsourcing-library-congress/</link>
       <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/crowdsourcing-library-congress/</guid>
+      <guid>http://konigi.com/blog/crowdsourcing-library-congress/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.loc.gov/rr/print/flickr_pilot.html&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2022/2179931106_344c5984a7.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Library of Congress has maded 2 of its collections of &lt;a href=&#34;http://www.flickr.com/photos/Library_of_Congress&#34;&gt;historical photographs available on Flickr&lt;/a&gt;. The goal is to get users to tag and comment on the photos, as well as help provide identifying information. &lt;/p&gt;
 &lt;p&gt;It&#39;s very interesting to see such a large and old institution embracing open social collaboration like this. When I was in school, the idea of user supplied freetagging was pretty seen as an edge-case activity even for things like private databases. This openness and the use of a site as simple flickr for the task of implies that crowdsourcing on the web is really beginning to become an accepted mainstream activity. Exciting stuff. I applaud the willingness of the LOC to experiment with social software.&lt;/p&gt;

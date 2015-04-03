@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video Games on Konigi</title>
-    <link>http://localhost:1313/tags/video-games/</link>
+    <link>http://konigi.com/tags/video-games/</link>
     <description>Recent content in Video Games on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/video-games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/video-games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing Enjoyable User Interfaces: Lessons learned from computer games</title>
-      <link>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
+      <link>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
+      <guid>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
       <description>&lt;p&gt;I find inspiration in the literature that examines &lt;a href=&#34;tags/games.html&#34;&gt;games&lt;/a&gt; and &lt;a href=&#34;tags/play.html&#34;&gt;play&lt;/a&gt; as factors in creating delightful and engaging experiences. I like to think of how this applies to products outside of the video gaming industry. I&#39;ve had Thomas Malone&#39;s 1981 paper, &#34;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=800049.801756&#34;&gt;Heuristics for Designing Enjoyable Interfaces: Lessons from computer games&lt;/a&gt;&#34; on my desk for a while. I finally got around to reading it and found some interesting ideas that resonated with me. &lt;/p&gt;
 &lt;p&gt;The paper asks why users find games captivating and proposes guidelines for designing enjoyable systems. What I found relevant for interface design are Malone&#39;s observations about the experience with toys versus tools, and how to incorporate elements of game play to make tools more enjoyable. &lt;/p&gt;
 &lt;p&gt;One of the distinctions he makes is that when using tools, their interfaces tend to become virtually invisible, to allow the user to focus attention on tasks that satisfy their external needs and goals. &lt;/p&gt;

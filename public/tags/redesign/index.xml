@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redesign on Konigi</title>
-    <link>http://localhost:1313/tags/redesign/</link>
+    <link>http://konigi.com/tags/redesign/</link>
     <description>Recent content in Redesign on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/redesign/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/redesign/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Interaction Design Association Redesign</title>
-      <link>http://localhost:1313/blog/interaction-design-association-redesign/</link>
+      <link>http://konigi.com/blog/interaction-design-association-redesign/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/interaction-design-association-redesign/</guid>
+      <guid>http://konigi.com/blog/interaction-design-association-redesign/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.ixda.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2325&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b8c140bee870_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;ve finally gotten around to checking out the Interaction Design Association (IXDA) site relaunch, which has been redesigned and migrated to the Drupal platform. The IXDA has one of the most impressive list archives for professional association that I&amp;rsquo;ve ever used, and the new features provided by this platform open up a host of new notification options. There are a few more browsing options in the discussion area, a resource library, and what looks like a redesigned job board.&lt;/p&gt;&lt;/p&gt;
 
@@ -26,10 +26,10 @@ wt4b8c140bee870_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;ve
     
     <item>
       <title>An exploration of the Basecamp Account (Upgrade/Billing) Screen</title>
-      <link>http://localhost:1313/blog/exploration-basecamp-account-upgradebilling-screen/</link>
+      <link>http://konigi.com/blog/exploration-basecamp-account-upgradebilling-screen/</link>
       <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/exploration-basecamp-account-upgradebilling-screen/</guid>
+      <guid>http://konigi.com/blog/exploration-basecamp-account-upgradebilling-screen/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://37signals.com/designexplore/Basecamp_Accounts.html&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/basecamp-upgrade-account-1.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars shares the process of &lt;a href=&#34;http://37signals.com/designexplore/Basecamp_Accounts.html&#34;&gt;redesigning the upgrade/billing panel&lt;/a&gt; in Basecamp.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://37signals.com/designexplore/Basecamp_Accounts.html&#34;&gt;http://37signals.com/designexplore/Basecamp_Accounts.html&lt;/a&gt;&lt;/p&gt;
@@ -38,10 +38,10 @@ wt4b8c140bee870_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;ve
     
     <item>
       <title>Highrise Contacts Design Exploration</title>
-      <link>http://localhost:1313/blog/highrise-contacts-design-exploration/</link>
+      <link>http://konigi.com/blog/highrise-contacts-design-exploration/</link>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/highrise-contacts-design-exploration/</guid>
+      <guid>http://konigi.com/blog/highrise-contacts-design-exploration/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1604&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a12bbb79d99b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars describes the &lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;explorations and iterations&lt;/a&gt; over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. &lt;/p&gt;&lt;/p&gt;
 
@@ -51,10 +51,10 @@ wt4a12bbb79d99b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars descri
     
     <item>
       <title>Fubiz Redesign</title>
-      <link>http://localhost:1313/blog/fubiz-redesign/</link>
+      <link>http://konigi.com/blog/fubiz-redesign/</link>
       <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/fubiz-redesign/</guid>
+      <guid>http://konigi.com/blog/fubiz-redesign/</guid>
       <description>&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.fubiz.net/2009/01/28/fubiz-nouvelle-version/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1477&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt498324ad880cc.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fubiz has done a beautiful &lt;a href=&#34;http://www.fubiz.net/2009/01/28/fubiz-nouvelle-version/&#34;&gt;redesign&lt;/a&gt;. The gorgeous video below showcases the redesign, giving you a taste of what to expect as you begin to use it. I&#39;m really digging the Mosaic view and the Popular carousel in the sidebar.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
@@ -67,10 +67,10 @@ wt498324ad880cc.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fubiz has done a bea
     
     <item>
       <title>Pacemaker Mobile MP3 DJ Device Gets a GUI Redesign</title>
-      <link>http://localhost:1313/blog/pacemaker-mobile-mp3-dj-device-gets-gui-redesign/</link>
+      <link>http://konigi.com/blog/pacemaker-mobile-mp3-dj-device-gets-gui-redesign/</link>
       <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/pacemaker-mobile-mp3-dj-device-gets-gui-redesign/</guid>
+      <guid>http://konigi.com/blog/pacemaker-mobile-mp3-dj-device-gets-gui-redesign/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.pacemaker.net/default.aspx?documentID=294&amp;amp;entryID=10482&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/pacemaker2.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Pacemaker, the mobile MP3 DJ device that debuted last year with a 120 GB hard drive, is getting a 2.0 release this spring and offering an additional lower capacity 60 GB hard drive option, and a new user interface. &lt;/p&gt;
 &lt;p&gt;I was enamored with this device and the way they could incorporate most of the possible mixer and track selection controls for 2 deck track mixing into a single, albeit large, handheld device with their &lt;a href=&#34;http://www.pacemaker.net/device/tutorials/&#34;&gt;original product&lt;/a&gt; UI. The &lt;a href=&#34;http://www.pacemaker.net/default.aspx?documentID=294&amp;amp;entryID=10482&#34;&gt;newly redesigned UI&lt;/a&gt; looks like it made some usability tweaks and subtle improvements. For instance, there&amp;rsquo;s a new scrolling behavior that highlights your alpha headings. Some filtering options look like they&amp;rsquo;d be welcome improvements as well. For those that actually DJ, there are a bunch of new effects in there too it seems. The hardware remeains the same.&lt;/p&gt;
 &lt;p&gt;Now the lower price point and an improved UI, I might actually get one of these. It&amp;rsquo;s still pricey, but over the years my use of 1200s, Trakktor, and Torq have diminished to near nothing. I get by now playing with a DS KORG. I miss DJing, but this may be the toy for me.&lt;/p&gt;&lt;/p&gt;
@@ -81,10 +81,10 @@ wt498324ad880cc.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fubiz has done a bea
     
     <item>
       <title>50 Stunning Examples of a Great Redesign</title>
-      <link>http://localhost:1313/blog/50-stunning-examples-great-redesign/</link>
+      <link>http://konigi.com/blog/50-stunning-examples-great-redesign/</link>
       <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/50-stunning-examples-great-redesign/</guid>
+      <guid>http://konigi.com/blog/50-stunning-examples-great-redesign/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wefunction.com/2008/10/50-stunning-examples-of-a-great-redesign/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1394&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49143c16b0be0_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Function lists &lt;a href=&#34;http://wefunction.com/2008/10/50-stunning-examples-of-a-great-redesign/&#34;&gt;50 great redesigns&lt;/a&gt; in a wide range of industries and product types from logos to automobile design. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;A redesign can be worth its weight in gold if you get it right. There is a thin line between freshening up your design, and taking a step backwards with a redesign.  Sometimes a redesign can be subtle and simple, and other times it can be a huge re-vamp of a company and it’s goals.&lt;/p&gt;&lt;/blockquote&gt;
@@ -96,10 +96,10 @@ wt49143c16b0be0_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Function lists &lt
     
     <item>
       <title>MySpace Redesign</title>
-      <link>http://localhost:1313/blog/myspace-redesign/</link>
+      <link>http://konigi.com/blog/myspace-redesign/</link>
       <pubDate>Fri, 13 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/myspace-redesign/</guid>
+      <guid>http://konigi.com/blog/myspace-redesign/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.techcrunch.com/2008/06/12/redesign-a-first-step-in-bringing-order-to-the-myspace-chaos/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/2008-06-13-msypace-redesign.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechCrunch has screenshots of the &lt;a href=&#34;http://www.techcrunch.com/2008/06/12/redesign-a-first-step-in-bringing-order-to-the-myspace-chaos/&#34;&gt;MySpace redesign&lt;/a&gt; that launches next week. &lt;a href=&#34;http://adaptivepath.com/&#34;&gt;Adaptive Path&lt;/a&gt; were involved in the design and IA process.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Los Angeles based social network MySpace, which has 115 million monthly visitors worldwide (Comscore, April 2008), will be launching a redesign of its site next week. The first phase of the project, internally called “MySpace 2.0,” will launch on Wednesday June 18.&lt;/p&gt;
 &lt;p&gt;The changes affect five major areas of the service: homepage, navigation, profile editor, search and the MySpaceTV Flash player.&lt;/p&gt;&lt;/blockquote&gt;
@@ -111,10 +111,10 @@ wt49143c16b0be0_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Function lists &lt
     
     <item>
       <title>Should Redesign?</title>
-      <link>http://localhost:1313/blog/should-redesign/</link>
+      <link>http://konigi.com/blog/should-redesign/</link>
       <pubDate>Sat, 05 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/should-redesign/</guid>
+      <guid>http://konigi.com/blog/should-redesign/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.shouldredesign.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1176&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt47f7adb8e2108.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.shouldredesign.com/&#34;&gt;Should Redesign&lt;/a&gt; is a new design gallery that displays a screenshot of a site and asks users to vote on whether or not they should be redesigned.&lt;/p&gt;&lt;/p&gt;
 
@@ -124,10 +124,10 @@ wt47f7adb8e2108.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Design Eye for South By</title>
-      <link>http://localhost:1313/blog/design-eye-south/</link>
+      <link>http://konigi.com/blog/design-eye-south/</link>
       <pubDate>Mon, 17 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-eye-south/</guid>
+      <guid>http://konigi.com/blog/design-eye-south/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2085/2340299283_f6449eff68_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;br /&gt;
 &lt;a href=&#34;http://designeye.org/sxswi/&#34;&gt;Design Eye&lt;/a&gt; strikes again, with a redesign barn raising for SXSW.&lt;/p&gt;
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Link Drop on Konigi</title>
-    <link>http://localhost:1313/tags/link-drop/</link>
+    <link>http://konigi.com/tags/link-drop/</link>
     <description>Recent content in Link Drop on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/link-drop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/link-drop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Link Drop, June 2013</title>
-      <link>http://localhost:1313/blog/link-drop-june-2013/</link>
+      <link>http://konigi.com/blog/link-drop-june-2013/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-june-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-june-2013/</guid>
       <description>&lt;p&gt;&lt;p&gt;Not a lot of bookmarking this month.  &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://learnxinyminutes.com/&#34; class=&#34;ttl&#34;&gt;Learn X in Y Minutes: Scenic Programming Language Tours&lt;/a&gt; &lt;/li&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Link Drop, May 2013</title>
-      <link>http://localhost:1313/blog/link-drop-may-2013/</link>
+      <link>http://konigi.com/blog/link-drop-may-2013/</link>
       <pubDate>Fri, 31 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-may-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-may-2013/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.teehanlax.com/blog/density-converter/&#34; class=&#34;ttl&#34;&gt;Designing (and converting) for multiple mobile densities | Teehan+Lax&lt;/a&gt; Converting graphics for different resolution densities.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://neilcrofts.wordpress.com/2013/05/28/how-to-be-mediocre/&#34; class=&#34;ttl&#34;&gt;How to be mediocre | neilcrofts&lt;/a&gt; Reminders for being aware of when you fall into the traps of medicority.&lt;/li&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Link Drop, Apr 2013</title>
-      <link>http://localhost:1313/blog/link-drop-apr-2013/</link>
+      <link>http://konigi.com/blog/link-drop-apr-2013/</link>
       <pubDate>Mon, 06 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-apr-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-apr-2013/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.elasticspace.com/2013/03/no-to-no-ui&#34; class=&#34;ttl&#34;&gt;No to NoUI – Timo Arnall&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://designmodo.com/flat-free/&#34; class=&#34;ttl&#34;&gt;Flat UI Free - PSD&amp;amp;HTML User Interface Kit - Designmodo&lt;/a&gt; &lt;/li&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Link Drop, Mar 2013</title>
-      <link>http://localhost:1313/blog/link-drop-mar-2013/</link>
+      <link>http://konigi.com/blog/link-drop-mar-2013/</link>
       <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-mar-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-mar-2013/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.scottporad.com/2013/03/19/poor-mans-agile-scrum-in-5-simple-steps/&#34; class=&#34;ttl&#34;&gt;Poor Man’s Agile: Scrum in 5 Simple Steps&lt;/a&gt; There are 478 page hard cover books on Scrum? Don&#39;t read them. Read Scott Porad&#39;s Scrum in 5 steps.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pegleg.it/&#34; class=&#34;ttl&#34;&gt;Pegleg&lt;/a&gt; Crowd-sourced full-length movies on YouTube.&lt;/li&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>Link Drop, Feb 2013</title>
-      <link>http://localhost:1313/blog/link-drop-feb-2013/</link>
+      <link>http://konigi.com/blog/link-drop-feb-2013/</link>
       <pubDate>Mon, 04 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-feb-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-feb-2013/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
              &lt;li&gt;&lt;a href=&#34;http://stephencorwin.com/blog/?p=97&#34; class=&#34;ttl&#34;&gt;Why Pinterest-style infinite-scroll layouts are worthless for everyone except Pinterest | Stephen Corwin&#39;s Blog&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://usablica.github.com/front-end-frameworks/compare.html&#34; class=&#34;ttl&#34;&gt;A collection of best front-end frameworks with comparison | By usabli.ca&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://nathanbarry.com/step-by-step-landing-page-copywriting/&#34; class=&#34;ttl&#34;&gt;Step-By-Step Landing Page Copywriting | Nathan Barry&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.macosxtips.co.uk/index_files/quickly-show-hidden-files.php&#34; class=&#34;ttl&#34;&gt;Quickly show and hide hidden files | Finder, Terminal | Mac OS X Tips&lt;/a&gt; How to create a new automator workflow that shows a toggle hidden files in the Finder service menu.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.amazon.com/gp/feature.html?ie=UTF8&amp;amp;docId=1000765261&#34; class=&#34;ttl&#34;&gt;Kindle Previewer&lt;/a&gt; Tool that emulates how books display across Kindle devices and apps.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://vesavanska.com/jquery-inline-footnotes/&#34; class=&#34;ttl&#34;&gt;Simple Inline Footnotes&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://amobil.se/2011/11/responsive-embeds/&#34; class=&#34;ttl&#34;&gt;Responsive video embed code : Anders M. Andersen&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;https://gocardless.com/blog/unresponsive-design/&#34; class=&#34;ttl&#34;&gt;Ditching responsive design — GoCardless Blog&lt;/a&gt; Why one site decided not to.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.sitepoint.com/new-css3-relative-font-size/&#34; class=&#34;ttl&#34;&gt;The New CSS3 vw, vh and vmin Relative Font Sizing Units - SitePoint&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://blog.jasonshah.org/post/42648846774/mailbox-ux-delivering-subtle-beauty&#34; class=&#34;ttl&#34;&gt;Delivering Subtle Beauty&lt;/a&gt; The Mailbox.app pre user experience.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://firstround.com/article/How-Etsy-Grew-their-Number-of-Female-Engineers-by-500-in-One-Year&#34; class=&#34;ttl&#34;&gt;How Etsy Grew their Number of Female Engineers by Almost 500% in One Year&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://meteor.com/main&#34; class=&#34;ttl&#34;&gt;Meteor&lt;/a&gt; &lt;/li&gt;
         &lt;/ul&gt;
@@ -119,10 +119,10 @@
     
     <item>
       <title>Link Drop, Jan 2013</title>
-      <link>http://localhost:1313/blog/link-drop-jan-2013/</link>
+      <link>http://konigi.com/blog/link-drop-jan-2013/</link>
       <pubDate>Fri, 08 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-jan-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-jan-2013/</guid>
       <description>&lt;p&gt;&lt;p&gt;Switching to monthly link drops rather than weekly. &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.getspeakeasy.com/&#34; class=&#34;ttl&#34;&gt;Speakeasy&lt;/a&gt; Best way to throw a non-exclusive rave or allow a whole bunch of strangers into your party.&lt;/li&gt;
@@ -145,10 +145,10 @@
     
     <item>
       <title>Link Drop (Weeks 47-52 2012, 1-3 2013) </title>
-      <link>http://localhost:1313/blog/link-drop-weeks-47-52-2012-1-3-2013/</link>
+      <link>http://konigi.com/blog/link-drop-weeks-47-52-2012-1-3-2013/</link>
       <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-weeks-47-52-2012-1-3-2013/</guid>
+      <guid>http://konigi.com/blog/link-drop-weeks-47-52-2012-1-3-2013/</guid>
       <description>&lt;p&gt;&lt;p&gt;Crazy big link drop because the world gets crushingly demanding of one&amp;rsquo;s time around the holidays, and it takes time to recoup. &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://lifehacker.com/5976725/build-your-own-adobe-creative-suite-with-free-and-cheap-software&#34; class=&#34;ttl&#34;&gt;Build Your Own Adobe Creative Suite with Free and Cheap Software&lt;/a&gt; &lt;/li&gt;
@@ -178,10 +178,10 @@
     
     <item>
       <title>Link Drop (Weeks 45, 46)</title>
-      <link>http://localhost:1313/blog/link-drop-weeks-45-46/</link>
+      <link>http://konigi.com/blog/link-drop-weeks-45-46/</link>
       <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-weeks-45-46/</guid>
+      <guid>http://konigi.com/blog/link-drop-weeks-45-46/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
              &lt;li&gt;&lt;a href=&#34;http://joshduck.com/periodic-table.html&#34; class=&#34;ttl&#34;&gt;Periodic Table of the Elements - Josh Duck&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JNjnv-Gcpnw&#34; class=&#34;ttl&#34;&gt;Angelina Fabbro: Inspector Web and the Mystery of the Shadow DOM -- JSConf EU 2012 - YouTube&lt;/a&gt; &lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://icomoon.io/&#34; class=&#34;ttl&#34;&gt;❍ IcoMoon&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://layervault.tumblr.com/post/35721297597/early-sketches-from-the-webs-finest&#34; class=&#34;ttl&#34;&gt;Early sketches from the web&#39;s finest — LayerVault Blog&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;https://github.com/xdissent/ievms&#34; class=&#34;ttl&#34;&gt;xdissent/ievms · GitHub&lt;/a&gt; Microsoft provides virtual machine disk images to facilitate website testing in multiple versions of IE, regardless of the host operating system. Unfortunately, setting these virtual machines up without Microsoft&#39;s VirtualPC can be extremely difficult. The ievms scripts aim to facilitate that process using VirtualBox on Linux or OS X. With a single command, you can have IE6, IE7, IE8 and IE9 running in separate virtual machines.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.theuselessweb.com/&#34; class=&#34;ttl&#34;&gt;The Useless Web&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;https://www.uberconference.com/zDpYgEZZ&#34; class=&#34;ttl&#34;&gt;ÜberConference - Free Visual Conference Calls&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://uxstage.com/&#34; class=&#34;ttl&#34;&gt;UX Stage&lt;/a&gt; Click through prototyping app for iPhone.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.theinteractive.it/&#34; class=&#34;ttl&#34;&gt;the Interactive - Stories of everyday interaction&lt;/a&gt; &lt;/li&gt;
         &lt;/ul&gt;
@@ -191,10 +191,10 @@
     
     <item>
       <title>Link Drop (Week 44)</title>
-      <link>http://localhost:1313/blog/link-drop-week-44/</link>
+      <link>http://konigi.com/blog/link-drop-week-44/</link>
       <pubDate>Fri, 02 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-44/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-44/</guid>
       <description>&lt;p&gt;&lt;p&gt;If you can, &lt;strong&gt;give to the &lt;a href=&#34;http://www.redcross.org/charitable-donations&#34;&gt;Red Cross&lt;/a&gt;&lt;/strong&gt; to provide support to Hurricane Sandy victims, and help elect a president who will keep FEMA in tact.&lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.topdesignmag.com/all-the-cheat-sheets-that-a-web-developer-needs/&#34; class=&#34;ttl&#34;&gt;All The Cheat Sheets That A Web Developer Needs | Top Design Magazine - Web Design and Digital Content&lt;/a&gt; &lt;/li&gt;
@@ -214,10 +214,10 @@
     
     <item>
       <title>Link Drop (Weeks 40-43)</title>
-      <link>http://localhost:1313/blog/link-drop-weeks-40-43/</link>
+      <link>http://konigi.com/blog/link-drop-weeks-40-43/</link>
       <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-weeks-40-43/</guid>
+      <guid>http://konigi.com/blog/link-drop-weeks-40-43/</guid>
       <description>&lt;p&gt;&lt;p&gt;This is a rather long link drop because I&amp;rsquo;ve been doin stuff. &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.getskeleton.com/&#34; class=&#34;ttl&#34;&gt;Skeleton: Beautiful Boilerplate for Responsive, Mobile-Friendly Development&lt;/a&gt; Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17&amp;rdquo; laptop screen or an iPhone.&lt;/li&gt;
@@ -252,10 +252,10 @@
     
     <item>
       <title>Link Drop (Week 36, 39) </title>
-      <link>http://localhost:1313/blog/link-drop-week-36-39/</link>
+      <link>http://konigi.com/blog/link-drop-week-36-39/</link>
       <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-36-39/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-36-39/</guid>
       <description>&lt;p&gt;&lt;p&gt;Have been busy getting settled on the West coast, so starting back up again and a very short list of links. &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://starterleague.com/&#34; class=&#34;ttl&#34;&gt;Starter League&lt;/a&gt; Want to be the Unicorn? Do it the now. Learn how to code, design, &amp;amp; ship web apps from the pros.&lt;/li&gt;
@@ -269,10 +269,10 @@
     
     <item>
       <title>Link Drop (week 35 of 2012)</title>
-      <link>http://localhost:1313/blog/link-drop-week-35-2012/</link>
+      <link>http://konigi.com/blog/link-drop-week-35-2012/</link>
       <pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-35-2012/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-35-2012/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface.html/&#34; class=&#34;ttl&#34;&gt;The Cooper Journal: The best interface is no interface&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://swanson.github.com/blog/2012/08/27/move-your-feet.html&#34; class=&#34;ttl&#34;&gt;Matt Swanson - Move your feet&lt;/a&gt; The secret to improving your running—you have to start moving your feet. AKA just do it and start now.&lt;/li&gt;
@@ -293,10 +293,10 @@
     
     <item>
       <title>Link Drop (week 34 of 2012)</title>
-      <link>http://localhost:1313/blog/link-drop-week-34-2012/</link>
+      <link>http://konigi.com/blog/link-drop-week-34-2012/</link>
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-34-2012/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-34-2012/</guid>
       <description>&lt;p&gt;&lt;p&gt;Light drop this week because I was out camping for most of it. Little tidbit about the Link Drop name. I like it because it reminds me of a record &lt;a href=&#34;http://en.wikipedia.org/wiki/Needle_drop_(DJing)&#34;&gt;needle drop&lt;/a&gt;. &lt;/p&gt;
 &lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://feltpresence.com/articles/17-keeping-the-goal-in-sight-while-designing-component-flows&#34; class=&#34;ttl&#34;&gt;Keeping the goal in sight while designing component flows - (Ryan Singer)&lt;/a&gt; Ryan Singer looks at a product component that fails to deliver on satisfying a user&amp;rsquo;s core need, and reminds not to design and reviewing components in isolation. Every build and iteration requires review and circling back to evaluate the component in terms of the need identified in the use case scenario. Put into action, he says:&lt;br /&gt;
@@ -312,10 +312,10 @@ From there, the group puts the sketches into a computer-aided design program and
     
     <item>
       <title>Link Drop (week 33 of 2012)</title>
-      <link>http://localhost:1313/blog/link-drop-week-33-2012/</link>
+      <link>http://konigi.com/blog/link-drop-week-33-2012/</link>
       <pubDate>Fri, 17 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-33-2012/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-33-2012/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
              &lt;li&gt;&lt;a href=&#34;http://www.bigbuttonsapp.com/&#34; class=&#34;ttl&#34;&gt;Big Buttons - control your Mac with your iPhone&lt;/a&gt; Control anything that you can script on your Mac with your iPhone.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.stephenkenn.com/projects/&#34; class=&#34;ttl&#34;&gt;Stephen Kenn: Inheritance collection&lt;/a&gt; LA designer learns of a military surplus facility and upcycles tons of fabric into furniture with a mid-century nod in form. The video tells the story of the vison and spirit of Kenn. I love videos like this, and the Made by Hand series, that show how a maker starts with a pure idea that is imbued with the creator&#39;s beliefs and turns it into a usable product. /via Core77&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://ianstormtaylor.com/design-tip-never-use-black/&#34; class=&#34;ttl&#34;&gt;Design Tip: Never Use Black by Ian Storm Taylor&lt;/a&gt; &#34;Problem is, we see dark things and assume they are black things. When, in reality, it’s very hard to find something that is pure black. Roads aren’t black. Your office chair isn’t black. The sidebar in Sparrow isn’t black. Words on web pages aren’t black.&#34;&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://10k.aneventapart.com/&#34; class=&#34;ttl&#34;&gt;10K Apart - An Event Apart + Mix Online&lt;/a&gt; Loved the 5K project. The 10K is just as cool.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.campaignmonitor.com/guides/mobile/design/&#34; class=&#34;ttl&#34;&gt;Responsive Email Design | Campaign Monitor&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://speckyboy.com/2012/02/29/40-examples-of-brilliant-responsive-website-layouts/&#34; class=&#34;ttl&#34;&gt;40 Examples of Brilliant Responsive Website Layouts - Speckyboy Design Magazine&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://shop.kneadle.com/product/httpster-tee-bird-edition-tri-black&#34; class=&#34;ttl&#34;&gt;Kneadle — HTTPSTER Tee, Bird Edition (Tri-Black)&lt;/a&gt; Am I only slightly less conformist if I only link to this rather than buy it? Like.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://parislemon.com/post/29382684552/soxiam-ibm-port-a-punch-someone-call-the&#34; class=&#34;ttl&#34;&gt;IBM Port-A-Punch | parislemon&lt;/a&gt; The IBM punch card programmer&#39;s paper tablet.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.independent.co.uk/news/people/profiles/sir-jonathan-ive-we-nearly-axed-the-iphone-it-wasnt-enough-to-be-good-we-knew-it-had-to-be-great-7988045.html&#34; class=&#34;ttl&#34;&gt;Sir Jonathan Ive: We nearly axed the iPhone, it wasn&#39;t enough to be good ...we knew it had to be great - The Independent&lt;/a&gt; Sir Jony, who has worked at Apple since 1992, said it was not uncommon to feel during the planning stage of a device that &#34;we were pursuing something that we think &#39;that&#39;s really incredibly compelling&#39;, but we&#39;re really struggling to solve the problem that it represents&#34;. &#34;We have been, on a number of occasions, preparing for mass production and in a room and realised we are talking a little too loud about the virtues of something. That to me is always the danger, if I&#39;m trying to talk a little too loud about something and realising I&#39;m trying to convince myself that something&#39;s good.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.inc.com/jeff-haden/10-habits-of-remarkably-charismatic-people.html?nav=pop&#34; class=&#34;ttl&#34;&gt;10 Habits of Remarkably Charismatic People | Inc.com&lt;/a&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://www.bestvendor.com/best/wireframing&#34; class=&#34;ttl&#34;&gt;The 10+ Best Wireframing Tools - BestVendor.com&lt;/a&gt; There is no best tool, there&#39;s only what works for your situation and storyline. The best thing is your brain.&lt;/li&gt; &lt;li&gt;&lt;a href=&#34;http://macperformanceguide.com/MountainLion-SaveAs-data-destruction.html&#34; class=&#34;ttl&#34;&gt;MPG - OS X 10.8 Mountain Lion - OS X Mountain Lion: Data Loss via &#39;Save As&#39;&lt;/a&gt; Apple is crazy bold. I wonder how many would go with hiding options like Save As, using a key combination. There are some serious side effects to their hidden save as, by the way, as this post notes, resulting in the need to use the Revert To... feature, a technique also referred to as &#34;unfucking.&#34; All of this only makes me think of people who use the term &#34;unfuckingbelievable&#34; in moments of crisis and disbelief.  It&#39;s never easy to remove from an interface, but at this level of use, it is is bold and not at all unbelievable.&lt;/li&gt;
         &lt;/ul&gt;    
@@ -325,10 +325,10 @@ From there, the group puts the sketches into a computer-aided design program and
     
     <item>
       <title>Link Drop (week 32 of 2012)</title>
-      <link>http://localhost:1313/blog/link-drop-week-32-2012/</link>
+      <link>http://konigi.com/blog/link-drop-week-32-2012/</link>
       <pubDate>Fri, 10 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/link-drop-week-32-2012/</guid>
+      <guid>http://konigi.com/blog/link-drop-week-32-2012/</guid>
       <description>&lt;ul class=&#34;ld&#34;&gt;
 &lt;li&gt;&lt;a href=&#34;http://joelrunyon.com/two3/an-unexpected-ass-kicking&#34; class=&#34;ttl&#34;&gt;An Unexpected Ass Kicking&lt;/a&gt; Great post by Joel Runyon, who talks about getting schooled by Russel Kirsch. 2 takeaways: 1) Nothing is withheld from us which we have conceived to do. 2) Do things that have never been done. The first meaning: if you’ve conceived something in your mind, decide to do it, and are willing to put in the work – nothing can stop you. The second is fairly self-explanatory but carries the extra weight of it coming from the guy who invented the very thing that’s letting me type these words out on the internet.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.nasa.gov/mission_pages/msl/multimedia/pia16013.html&#34; class=&#34;ttl&#34;&gt;NASA: First full resolution Mars images from Curiosity Rover&lt;/a&gt; If this doesn&#39;t inspire you, you need to watch some Star Trek.&lt;/li&gt;

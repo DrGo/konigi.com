@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notifications on Konigi</title>
-    <link>http://localhost:1313/tags/notifications/</link>
+    <link>http://konigi.com/tags/notifications/</link>
     <description>Recent content in Notifications on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/notifications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/notifications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Twitter Confirmations</title>
-      <link>http://localhost:1313/interface/twitter-confirmations/</link>
+      <link>http://konigi.com/interface/twitter-confirmations/</link>
       <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/twitter-confirmations/</guid>
+      <guid>http://konigi.com/interface/twitter-confirmations/</guid>
       <description>&lt;p&gt;Twitter provides a subtle, unobtrusive notification messages, e.g. when a direct message is sent. The confirmation appears as a layer with a white background over the top of the page, covering the page header, and unfortunately, not providing a more obvious &#34;Close&#34; link to dismiss the message. The message can be easily dismissed by clicking anywhere in the div, but that&#39;s not readily apparent.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Direct message interface.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/twitter-dm-confirmation-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Direct message interface.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/twitter-dm-confirmation-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Confirmation that direct message has been sent appears as layer over the top of the page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/twitter-dm-confirmation-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Confirmation that direct message has been sent appears as layer over the top of the page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/twitter-dm-confirmation-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/home&#34;&gt;http://twitter.com/home&lt;/a&gt;&lt;/p&gt;

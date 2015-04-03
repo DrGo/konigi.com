@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internationalization on Konigi</title>
-    <link>http://localhost:1313/tags/internationalization/</link>
+    <link>http://konigi.com/tags/internationalization/</link>
     <description>Recent content in Internationalization on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internationalization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/internationalization/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>International Address Fields in Web Forms</title>
-      <link>http://localhost:1313/blog/international-address-fields-web-forms/</link>
+      <link>http://konigi.com/blog/international-address-fields-web-forms/</link>
       <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/international-address-fields-web-forms/</guid>
+      <guid>http://konigi.com/blog/international-address-fields-web-forms/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmatters.com/MT/archives/000295.php&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/international-address-fields-uxmatters.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://uxmatters.com/MT/archives/000295.php&#34;&gt;Luke Wroblewski writes&lt;/a&gt;, in UX Matters, about how to deal with international addresses in form fields. I don&amp;rsquo;t think this is a topic covered in the web form design book, so be sure to check it out.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://uxmatters.com/MT/archives/000295.php&#34;&gt;http://uxmatters.com/MT/archives/000295.php&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Users around the world translate Facebook for free</title>
-      <link>http://localhost:1313/blog/users-around-world-translate-facebook-free/</link>
+      <link>http://konigi.com/blog/users-around-world-translate-facebook-free/</link>
       <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/users-around-world-translate-facebook-free/</guid>
+      <guid>http://konigi.com/blog/users-around-world-translate-facebook-free/</guid>
       <description>&lt;p&gt;Facebook is &lt;a href=&#34;http://www.usatoday.com/tech/world/2008-04-18-facebook-free-translation_N.htm?csp=34&#34;&gt;tapping its international user community&lt;/a&gt; to help translate it&#39;s interface, namely the copy for its guidelines, into nearly the 2 dozen languages that represent the community&#39;s market outside the US. The localization effort is a massive crowdsourcing task that has been both criticized and lauded. The critics often point to the unpredictability and inconsistency of translations. Proponents of the effort applaud  the boldness at utilizing an already eager community to contribute to making the application better for users in other non English-speaking countries. &lt;/p&gt;
     
 

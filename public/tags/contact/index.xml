@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Konigi</title>
-    <link>http://localhost:1313/tags/contact/</link>
+    <link>http://konigi.com/tags/contact/</link>
     <description>Recent content in Contact on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Feb 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Digg Contact</title>
-      <link>http://localhost:1313/interface/digg-contact/</link>
+      <link>http://konigi.com/interface/digg-contact/</link>
       <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/digg-contact/</guid>
+      <guid>http://konigi.com/interface/digg-contact/</guid>
       <description>&lt;p&gt;This is perhaps more about information architecture than interface or interaction design. One thing I like about Digg&#39;s About section is the transparency of the company that&#39;s suggested here. They only provide email addresses for contacting the company, rather than providing a form. They provide 4 types of contact: feedback, abuse, press, and partners, each type of gets sent to an email address. This exposes you, the sender, as it doesn&#39;t allow the sending of anonymous email, and gives them a way to respond to you. It also gives a sense that someone will respond, which is not the perception I have when I fill out a form and get an autoresponder. That may provide a false sense of openness, however. With the volume of traffic Digg gets, I wonder if they are able to respond to each piece of communication they receive in a timely fashion. To further emphasize this transparency, Digg exposes who the staff are by providing a list of avatars linking to each person&#39;s Digg profile. &lt;/p&gt;
 &lt;p&gt;Digg provides a form for contacting them regarding bugs, which makes sense because in this case they want more information about the page you&#39;re looking at, the browser/OS you&#39;re using, etc. That doesn&#39;t appear to be done very well, however. Clicking the Report Bug link from the footer could auto-fill the referring URL, and grab the Browser and OS using environmental variables. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Main &amp;quot;About&amp;quot; page. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Main &amp;quot;About&amp;quot; page. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Mailto links for contact info and report a bug links in right sidebar. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Mailto links for contact info and report a bug links in right sidebar. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Digg staff.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Digg staff.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Bug Report form.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Bug Report form.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -24,10 +24,10 @@
     
     <item>
       <title>Oranges Contact Form</title>
-      <link>http://localhost:1313/interface/oranges-contact-form/</link>
+      <link>http://konigi.com/interface/oranges-contact-form/</link>
       <pubDate>Wed, 30 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/oranges-contact-form/</guid>
+      <guid>http://konigi.com/interface/oranges-contact-form/</guid>
       <description>&lt;p&gt;Edward Pistachio is a writer pulping fine short stories. Consistent with the lighthearted tone of this site, he provides a contact form that is also all about words. Getting his email address requires solving a few jumbles, and then decoding the address from letters found in the jumbles. Sure it may be frustrating if you can&#39;t figure out the jumbles, and is one of the cleverest ways I&#39;ve ever seen to gain access to a bit of info. And you can always Google &lt;a href=&#34;http://www.google.com/search?q=jumble+solver&#34;&gt;jumble solver&lt;/a&gt; if you&#39;re lazy like me. One thing that might make this even better is a validation check on each of the jumbles. Otherwise a very fun idea.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/oranges-contact-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/oranges-contact-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://o.rang.es/contact/&#34;&gt;http://o.rang.es/contact/&lt;/a&gt;&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Sidebar Creative Contact Form</title>
-      <link>http://localhost:1313/interface/sidebar-creative-contact-form/</link>
+      <link>http://konigi.com/interface/sidebar-creative-contact-form/</link>
       <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/sidebar-creative-contact-form/</guid>
+      <guid>http://konigi.com/interface/sidebar-creative-contact-form/</guid>
       <description>&lt;p&gt;The contact page for this design agency features a clever use of an AJAX slider to allow potential clients to  for entering their budget in the range of 10K to 500K. Interesting that the slider increments in 25K&#39;s up to 100K, then increments in 100K&#39;s. Once you get them on the phone, I suppose you can give them your real budget. Maybe that helps eliminate small jobs?&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/sidebarcreative-contactform-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/sidebarcreative-contactform-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://sidebarcreative.com/&#34;&gt;http://sidebarcreative.com/&lt;/a&gt;&lt;/p&gt;

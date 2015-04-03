@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interviews on Konigi</title>
-    <link>http://localhost:1313/tags/interviews/</link>
+    <link>http://konigi.com/tags/interviews/</link>
     <description>Recent content in Interviews on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UI / UX Design Interviews on Medium</title>
-      <link>http://localhost:1313/blog/ui-ux-design-interviews-medium/</link>
+      <link>http://konigi.com/blog/ui-ux-design-interviews-medium/</link>
       <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ui-ux-design-interviews-medium/</guid>
+      <guid>http://konigi.com/blog/ui-ux-design-interviews-medium/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2878&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@frankiefreesbie&#34;&gt;Frank Rapacciuolo&lt;/a&gt; is writing a series of &lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Interviews of User Interface &amp;amp; User Experience Designers&lt;/a&gt; in a collection at Medium. In the interviews he asks people about their background, what they tell people they do, what a typical work day looks like, and gets opinions on several UX topics including the impact of design on society and where they stand on jumping directly into visual design.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Read the interviews at Medium&lt;/a&gt;.&lt;/p&gt;
@@ -26,10 +26,10 @@ wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>Pear Note: Note taking utility for Mac</title>
-      <link>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</link>
+      <link>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2736&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note&lt;/a&gt; from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.&lt;/p&gt;&lt;/p&gt;
 
@@ -46,10 +46,10 @@ wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Cohdoo Highlight: Voice recording iPhone app</title>
-      <link>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
+      <link>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
+      <guid>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2677&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.&lt;/p&gt;&lt;/p&gt;
 
@@ -64,10 +64,10 @@ wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the c
     
     <item>
       <title>Charlie Rose interview with Jeff Bezos</title>
-      <link>http://localhost:1313/blog/charlie-rose-interview-jeff-bezos/</link>
+      <link>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/charlie-rose-interview-jeff-bezos/</guid>
+      <guid>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.charlierose.com/view/interview/11138&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2428&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c6b099204990_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;a href=&#34;http://www.charlierose.com/view/interview/11138&#34;&gt;fantastic interview of Jeff Bezos&lt;/a&gt; on Charlie Rose where Bezos talks about why Kindle shouldn&amp;rsquo;t be the iPad and why Amazon&amp;rsquo;s new mission is &amp;quot;Earth&amp;rsquo;s most customer-centric company.&amp;quot;&lt;/p&gt;&lt;/p&gt;
 
@@ -77,10 +77,10 @@ wt4c6b099204990_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;
     
     <item>
       <title>So you&#39;re thinking about becoming a designer?</title>
-      <link>http://localhost:1313/blog/so-youre-thinking-about-becoming-designer/</link>
+      <link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link>
       <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/so-youre-thinking-about-becoming-designer/</guid>
+      <guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid>
       <description>&lt;p&gt;Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;So you’re thinking about becoming a designer? If I could tell you only one thing about going into the field, my advice would be ___________ .&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. &lt;/p&gt;
@@ -119,10 +119,10 @@ Being empathetic helps designers create things that move people.&lt;br /&gt;
     
     <item>
       <title>The Setup</title>
-      <link>http://localhost:1313/blog/setup/</link>
+      <link>http://konigi.com/blog/setup/</link>
       <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/setup/</guid>
+      <guid>http://konigi.com/blog/setup/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sam.brown.usesthis.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1835&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a65925d1696f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://usesthis.com/&#34;&gt;The Setup&lt;/a&gt; does nerdy interviews to find out what people use to get stuff done. &lt;/p&gt;&lt;/p&gt;
 
@@ -132,10 +132,10 @@ wt4a65925d1696f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Ryan Singer Interview on Think Vitamin</title>
-      <link>http://localhost:1313/blog/ryan-singer-interview-think-vitamin/</link>
+      <link>http://konigi.com/blog/ryan-singer-interview-think-vitamin/</link>
       <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ryan-singer-interview-think-vitamin/</guid>
+      <guid>http://konigi.com/blog/ryan-singer-interview-think-vitamin/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://thinkvitamin.com/features/ryan-singer-on-ui-design-frontend-development-project-management-and-inspiration/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1802&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a538003c61e2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Think Vitamin interviews 37 Signals&amp;rsquo; Ryan Singer to talk about ui design, frontend development, project management and inspiration. I like that Singer suggests that designers read more about writing copy, but even more so, I like how he suggests that designers should also consider learning more about front end development and programming frameworks. At the very least, it allows designers to be conversant with developers, and ideally it gives a designer a new range of skills they can use for such things as prototyping or doing proof of concept work on their own. Excellent advice for growing the &lt;a href=&#34;http://instone.org/tshapedpeople&#34;&gt;T-Shaped designer&lt;/a&gt;. &lt;/p&gt;&lt;/p&gt;
 
@@ -145,10 +145,10 @@ wt4a538003c61e2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Think Vitamin interv
     
     <item>
       <title>Dan Klyn interview with Richard Saul Wurman</title>
-      <link>http://localhost:1313/blog/dan-klyn-interview-richard-saul-wurman/</link>
+      <link>http://konigi.com/blog/dan-klyn-interview-richard-saul-wurman/</link>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dan-klyn-interview-richard-saul-wurman/</guid>
+      <guid>http://konigi.com/blog/dan-klyn-interview-richard-saul-wurman/</guid>
       <description>&lt;p&gt;IA instructor and author of the forthcoming book &#34;Now That I See It&#34; &lt;a href=&#34;http://danklyn.com/blog/?p=459&#34;&gt;interviewed Richard Saul Wurman&lt;/a&gt; to discuss architecture and design, IA roots in library and information work, and the work of making the complex clear.&lt;/p&gt;
 &lt;p&gt;One thing that I latched onto is Wurman&#39;s contention that his success working with the design of information systems and structures comes as a result of acknowledging his ignorance. &#34;Grasp your life as an ignorant person,&#34; he says. Most of us, in our arrogance are unwilling to do that. He also notes that the importance of doing this was selfishly motivated by his desire to explore and find patterns that help with this need for making things clear, but it starts with acknowledging this knowledge gap.&lt;/p&gt;
 &lt;p&gt;This idea resonates with me largely because that&#39;s how I feel approaching new projects every time, and that&#39;s why this blog exists--Konigi means &#34;to make known&#34;--to find what others have shared, understand them, and share that knowledge. Secondly, it seems similar to &lt;a href=&#34;paula-scher-gets-serious-ted.html&#34;&gt;what Paula Scher discusses&lt;/a&gt; in &lt;a href=&#34;http://www.ted.com/index.php/talks/paula_scher_gets_serious.html&#34;&gt;her TED talk&lt;/a&gt; about ignorance--that the ignorance of the new is what has led her to her most innovative moments. There&#39;s something powerful in that idea shared by these exemplars of design.&lt;/p&gt;
@@ -161,10 +161,10 @@ wt4a538003c61e2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Think Vitamin interv
     
     <item>
       <title>A Discussion on User Experience Design</title>
-      <link>http://localhost:1313/blog/discussion-user-experience-design/</link>
+      <link>http://konigi.com/blog/discussion-user-experience-design/</link>
       <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/discussion-user-experience-design/</guid>
+      <guid>http://konigi.com/blog/discussion-user-experience-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1574&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49f1c037507b6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I spoke with Russ Perry at the &lt;a href=&#34;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&#34;&gt;Phoenix Ad Blog&lt;/a&gt; to discuss what User Experience Design might mean to graphic designers and marketing professionals, especially those not involved in the design of sites and apps. &lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t like getting caught up in the &amp;ldquo;defining the damned thing&amp;rdquo; discussions, but there you have it. Oh, and I mention Zappos, not because of their visual or interface design, per se, but about their relevance in terms of the holistic approach to user experience outside of the interface. &lt;/p&gt;&lt;/p&gt;
@@ -175,10 +175,10 @@ wt49f1c037507b6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I spoke with Russ Pe
     
     <item>
       <title>The History &amp; Evolution of User Experience Design</title>
-      <link>http://localhost:1313/blog/history-evolution-user-experience-design/</link>
+      <link>http://konigi.com/blog/history-evolution-user-experience-design/</link>
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/history-evolution-user-experience-design/</guid>
+      <guid>http://konigi.com/blog/history-evolution-user-experience-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.teawithteresa.com/2009/03/history-evolution-of-user-experience.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1534&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49b811b22fb50.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&amp;rsquo;s Peter Merholz to talk about the history and evolution of User Experience Design. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&amp;rsquo;s actually not the way many designers historically thought about making things. In fact, it wasn&amp;rsquo;t until the 1990s that an industry came together around this particular approach to design.&lt;/p&gt;
@@ -192,10 +192,10 @@ wt49b811b22fb50.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On the Tea with Tere
     
     <item>
       <title>How Software is Built: Interview with Liz Danzico</title>
-      <link>http://localhost:1313/blog/how-software-built-interview-liz-danzico/</link>
+      <link>http://konigi.com/blog/how-software-built-interview-liz-danzico/</link>
       <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-software-built-interview-liz-danzico/</guid>
+      <guid>http://konigi.com/blog/how-software-built-interview-liz-danzico/</guid>
       <description>&lt;p&gt;The Scott Swigart and Sean Campbell interview Liz Danico to discuss user experience on the How Software is Built blog. The lengthy conversation covers a wide array of topics including Liz&#39;s view of the differences in design process between typical clients with small teams and larger open source projects with communities of participants, design vision and leadership in open source software, and opinions about the acceptance with the direction that open source software has led users in terms of sharing data. &lt;a href=&#34;http://howsoftwareisbuilt.com/2009/03/03/interview-with-liz-danico-user-experience-wordpress/&#34;&gt;Read the full interview&lt;/a&gt;.&lt;/p&gt;
     
 
@@ -205,10 +205,10 @@ wt49b811b22fb50.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On the Tea with Tere
     
     <item>
       <title>Milton Glaser on Shepard Fairey and Plagiarism</title>
-      <link>http://localhost:1313/blog/milton-glaser-shepard-fairey-and-plagiarism/</link>
+      <link>http://konigi.com/blog/milton-glaser-shepard-fairey-and-plagiarism/</link>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/milton-glaser-shepard-fairey-and-plagiarism/</guid>
+      <guid>http://konigi.com/blog/milton-glaser-shepard-fairey-and-plagiarism/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.printmag.com/design_articles/MiltonGlaseronShepardFairey/tabid/492/Default.aspx&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/glaser-on-fairey.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Print Magazine &lt;a href=&#34;http://www.printmag.com/design_articles/MiltonGlaseronShepardFairey/tabid/492/Default.aspx&#34;&gt;interviews Milton Glaser to discuss Shepard Fairey&lt;/a&gt; and the topic of appropriation and plagiarism. If you&amp;rsquo;re not familiar, Fairey is the graffiti artist responsible for such iconic imagery as the ubiquitous Andre OBEY tag and the Obama Hope image. Glaser had this to say, on the topic of copying other artists&amp;rsquo; work:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The process of looking back at the past is very accepted in our business—the difference is when you take something without adding anything to the conversation. &amp;hellip; I think unless you’re modifying it and making it your own, you’re on very tenuous ground. &lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;He makes the finer point that copying ideas and appropriating imagery is not patently wrong. To the contrary, it is the basis for a lot of work that is celebrated. The difference comes in appropriating and making one&amp;rsquo;s own. He points out the danger the idea of copying poses to future designers and artists.&lt;/p&gt;
@@ -222,10 +222,10 @@ wt49b811b22fb50.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On the Tea with Tere
     
     <item>
       <title>STC Usability Toolkit</title>
-      <link>http://localhost:1313/tools/submissions/stc-usability-toolkit/</link>
+      <link>http://konigi.com/tools/submissions/stc-usability-toolkit/</link>
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/stc-usability-toolkit/</guid>
+      <guid>http://konigi.com/tools/submissions/stc-usability-toolkit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2830&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;Usability Toolkit&lt;/a&gt; is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. &lt;/p&gt;&lt;/p&gt;
 
@@ -236,10 +236,10 @@ wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a
     
     <item>
       <title>Creative 30</title>
-      <link>http://localhost:1313/blog/creative-30/</link>
+      <link>http://konigi.com/blog/creative-30/</link>
       <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative-30/</guid>
+      <guid>http://konigi.com/blog/creative-30/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.creative30.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1389&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt490613e5f251a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;VICE, Volvo, The Independent and Yahoo! have teamed up on a project called Creative 30 which aims to find and celebrate thirty of Britain’s most promising young creative people. Check out the &lt;a href=&#34;http://www.creative30.net/&#34;&gt;video interviews&lt;/a&gt; that take a peek into the lives and process of the selected designers.&lt;/p&gt;&lt;/p&gt;
 

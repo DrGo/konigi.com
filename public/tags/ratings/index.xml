@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ratings on Konigi</title>
-    <link>http://localhost:1313/tags/ratings/</link>
+    <link>http://konigi.com/tags/ratings/</link>
     <description>Recent content in Ratings on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Mar 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ratings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/ratings/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iTunes Ratings</title>
-      <link>http://localhost:1313/interface/itunes-ratings/</link>
+      <link>http://konigi.com/interface/itunes-ratings/</link>
       <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/itunes-ratings/</guid>
+      <guid>http://konigi.com/interface/itunes-ratings/</guid>
       <description>&lt;p&gt;The iTunes Store allows customers to rate items and displays the average rating and total ratings below the product image. They use a disclosure arrow to allow customers to view a breakdown of ratings by number of stars.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Customers&#39; average rating, and form select to add your own rating.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-ratings-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Customers&#39; average rating, and form select to add your own rating.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-ratings-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Expanded ratings break down after clicking the disclosure triangle.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-ratings-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Expanded ratings break down after clicking the disclosure triangle.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-ratings-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.apple.com/itunes/&#34;&gt;http://www.apple.com/itunes/&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>YouTube Comment Rating</title>
-      <link>http://localhost:1313/interface/youtube-comment-rating/</link>
+      <link>http://konigi.com/interface/youtube-comment-rating/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/youtube-comment-rating/</guid>
+      <guid>http://konigi.com/interface/youtube-comment-rating/</guid>
       <description>&lt;p&gt;YouTube&#39;s comment rating controls allow users to vote a comment up or down. When user enters a down vote, the comment is collapsed from view. There is a link to the left of rating controls to report a comment as spam.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-comment-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-comment-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.youtube.com/&#34;&gt;http://www.youtube.com/&lt;/a&gt;&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Engadget Comment Voting</title>
-      <link>http://localhost:1313/interface/engadget-comment-voting/</link>
+      <link>http://konigi.com/interface/engadget-comment-voting/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/engadget-comment-voting/</guid>
+      <guid>http://konigi.com/interface/engadget-comment-voting/</guid>
       <description>&lt;p&gt;Engadget&#39;s comment rating and karma system uses +1/-1 voting, so users can vote comments up or down. Votes below a certain threshold get dimmed out rather than hidden. When a vote is applied, the user&#39;s vote is registered, a message appears, and the voting controls are hidden. To the right, there&#39;s an exclamation mark to flag inappropriate comments, which are then immediately collapsed from view.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/engadget-voting-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/engadget-voting-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.engadget.com/&#34;&gt;http://www.engadget.com/&lt;/a&gt;&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Netflix Rate for Recommendations</title>
-      <link>http://localhost:1313/interface/netflix-rate-recommendations/</link>
+      <link>http://konigi.com/interface/netflix-rate-recommendations/</link>
       <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/netflix-rate-recommendations/</guid>
+      <guid>http://konigi.com/interface/netflix-rate-recommendations/</guid>
       <description>&lt;p&gt;Netflix shows a module to signed in users at the top of their home page asking the user to rate recent returns. The module promises to give 2 recommendations immediately after they&#39;ve rated. On sites like Flickr, the recommendation engine is perhaps one of the single best incentives for adding ratings. On a lot of sites, ratings give you nothing back. This is a good example to illustrate quickly why you&#39;d want to add a rating, and would be particularly useful to demonstrate the value to new users.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Module on home page shows movies you recently returned.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-rate-recommendations-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Module on home page shows movies you recently returned.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-rate-recommendations-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. After rating the return, you get 2 recommendations back immediately.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-rate-recommendations-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. After rating the return, you get 2 recommendations back immediately.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-rate-recommendations-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.netflix.com/MemberHome&#34;&gt;http://www.netflix.com/MemberHome&lt;/a&gt;&lt;/p&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>RYZ Rating and Favoriting</title>
-      <link>http://localhost:1313/interface/ryz-rating-and-favoriting/</link>
+      <link>http://konigi.com/interface/ryz-rating-and-favoriting/</link>
       <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/ryz-rating-and-favoriting/</guid>
+      <guid>http://konigi.com/interface/ryz-rating-and-favoriting/</guid>
       <description>&lt;p&gt;RYZ is a sneaker manufacturer that crowdsources the design of their product and shares the revenue with winners. Users download a template to create design and upload to their profile. Participants vote on the designs by giving ratings and winners receive $1000 and $1 for every pair sold. The site provides simple interfaces for both favoriting and rating entries.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The voting page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The voting page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the star badge in the corner of the image adds to favorites.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the star badge in the corner of the image adds to favorites.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking a checkmark below the image adds your vote.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking a checkmark below the image adds your vote.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Clicking PASS adds your &amp;quot;not interested&amp;quot; vote. Not sure what value this is given.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Clicking PASS adds your &amp;quot;not interested&amp;quot; vote. Not sure what value this is given.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Favorites appear on your profile.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ryz-voting-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Favorites appear on your profile.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ryz-voting-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.ryzwear.com/&#34;&gt;http://www.ryzwear.com/&lt;/a&gt;&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>The Filter Rating</title>
-      <link>http://localhost:1313/interface/filter-rating/</link>
+      <link>http://konigi.com/interface/filter-rating/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/filter-rating/</guid>
+      <guid>http://konigi.com/interface/filter-rating/</guid>
       <description>&lt;p&gt;The rating controls in The Filter provide a slider control with a 10 point scale. Each rating is accompanied by an English language equivalent, e.g. 0% on the negative side is &#34;Never show me this again!&#34; and 100% on the positive side is &#34;A new kind of awesome.&#34; Middling ratings are &#34;Not for me&#34;, &#34;Average&#34;, and &#34;This is good.&#34;&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Ratings slider control.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Ratings slider control.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The Ratings module in the video player. More related items in carousel below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The Ratings module in the video player. More related items in carousel below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Ratings module in user&#39;s music ratings page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Ratings module in user&#39;s music ratings page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://thefilter.com/&#34;&gt;http://thefilter.com/&lt;/a&gt;&lt;/p&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>QUEEKY Ratings</title>
-      <link>http://localhost:1313/interface/queeky-ratings/</link>
+      <link>http://konigi.com/interface/queeky-ratings/</link>
       <pubDate>Mon, 21 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/queeky-ratings/</guid>
+      <guid>http://konigi.com/interface/queeky-ratings/</guid>
       <description>&lt;p&gt;QUEEKY is a drawing community that allows users to draw pictures in their browsers using the site&#39;s flash application. Users can rate the drawings using a rating scale ranging from 1 (Hmmm) to 10 (A masterpiece!). Scores on the low side are color coded to a cool violet color and on the high side towards a hotter pink/fuschia.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Low rating&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/queeky-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Low rating&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/queeky-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. High rating&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/queeky-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. High rating&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/queeky-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Full page&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/queeky-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Full page&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/queeky-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.queeky.com/&#34;&gt;http://www.queeky.com/&lt;/a&gt;&lt;/p&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Brooklyn Museum Click! Rating</title>
-      <link>http://localhost:1313/interface/brooklyn-museum-click-rating/</link>
+      <link>http://konigi.com/interface/brooklyn-museum-click-rating/</link>
       <pubDate>Mon, 21 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/brooklyn-museum-click-rating/</guid>
+      <guid>http://konigi.com/interface/brooklyn-museum-click-rating/</guid>
       <description>&lt;p&gt;The Brooklyn Museum&#39;s Click! show is a crowd-curated exhibition that accepted user submissions for photographs that reflect the theme, &#34;The changing face of Brooklyn.&#34; Following the submission period, visitors are asked to help curate the photography show by evaluation submissions on their effectiveness at demonstrating the theme. The interface for evaluating photos steps the user through each entry and provides a slider control to rate the photo on a scle from most effective to least effective.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Introduction to show and guidelines for evaluation photos.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bma-click-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Introduction to show and guidelines for evaluation photos.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bma-click-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Example photo with evaulation slider and user statistics on right.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bma-click-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Example photo with evaulation slider and user statistics on right.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bma-click-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Photos include artist&#39;s title and description.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bma-click-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Photos include artist&#39;s title and description.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bma-click-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.brooklynmuseum.org/exhibitions/click/&#34;&gt;http://www.brooklynmuseum.org/exhibitions/click/&lt;/a&gt;&lt;/p&gt;
@@ -107,10 +107,10 @@
     
     <item>
       <title>ibeatyou rating</title>
-      <link>http://localhost:1313/interface/ibeatyou-rating/</link>
+      <link>http://konigi.com/interface/ibeatyou-rating/</link>
       <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/ibeatyou-rating/</guid>
+      <guid>http://konigi.com/interface/ibeatyou-rating/</guid>
       <description>&lt;p&gt;ibeatyou is a video portal that allows people to create challenges to compete on anything. Users either upload a video, record from webcam, or import from YouTube.&lt;/p&gt;
 &lt;p&gt;The rating system is a whimsical little widget for allowing a score from 1 to 5. The vote is indicated by a little blue man holding up a scrore card. They also provide a qualitative award, allowing users to give an award to the entry and name it anything they like. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Video page with player on left, and other challenges to the right of player (typical playlist format).&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ibeatyou-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Video page with player on left, and other challenges to the right of player (typical playlist for...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ibeatyou-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Entry info. Rating is indicated on hover as person icon with score card held over head. After rating is applied, user&#39;s score in the user point system is indicated.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ibeatyou-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Entry info. Rating is indicated on hover as person icon with score card held over head. After rat...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ibeatyou-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking the &amp;quot;award it&amp;quot; button allows users type an award name.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ibeatyou-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking the &amp;quot;award it&amp;quot; button allows users type an award name.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ibeatyou-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Award saved to right sidebar adjacent to comments.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ibeatyou-rating-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Award saved to right sidebar adjacent to comments.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ibeatyou-rating-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -120,10 +120,10 @@
     
     <item>
       <title>TED Ratings</title>
-      <link>http://localhost:1313/interface/ted-ratings/</link>
+      <link>http://konigi.com/interface/ted-ratings/</link>
       <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/ted-ratings/</guid>
+      <guid>http://konigi.com/interface/ted-ratings/</guid>
       <description>&lt;p&gt;I was a bit confused the first time I saw this rating interface, and have to admit that I ignored it for months. The thing that threw me was the multiple checkboxes offered for each value. But I came back and realized that what this was doing was giving you a pre-defined set of tags which it was then using to create a filtering mechanism for the site. I appreciate that. I think it could be streamlined a bit by implementing those checkboxes differently.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. User must click the Rating button in the lower right of the video player.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ted-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. User must click the Rating button in the lower right of the video player.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ted-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The rating panel expands and shows rating options as text values.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ted-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The rating panel expands and shows rating options as text values.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ted-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. User may click 3 values, and may click one value 3 times if they wish.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ted-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. User may click 3 values, and may click one value 3 times if they wish.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ted-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Ratings are displayed as a cloud.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ted-rating-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Ratings are displayed as a cloud.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ted-rating-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. The talks list allows users to filter videos using the ratings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ted-rating-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. The talks list allows users to filter videos using the ratings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ted-rating-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://ted.com/index.php/talks&#34;&gt;http://ted.com/index.php/talks&lt;/a&gt;&lt;/p&gt;
@@ -132,10 +132,10 @@
     
     <item>
       <title>Fancast Rating (Hulu Player)</title>
-      <link>http://localhost:1313/interface/fancast-rating-hulu-player/</link>
+      <link>http://konigi.com/interface/fancast-rating-hulu-player/</link>
       <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/fancast-rating-hulu-player/</guid>
+      <guid>http://konigi.com/interface/fancast-rating-hulu-player/</guid>
       <description>&lt;p&gt;The Fancast experience for the Hulu video player provides a customized rating widget that differs from the straight-forward star rating on Hulu. Users select a text value that gets converted to stars.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Button in lower right prompts user to rate the video&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-fancast-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Button in lower right prompts user to rate the video&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-fancast-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the button displays scale as text values&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-fancast-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the button displays scale as text values&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-fancast-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Value selected by user is converted to star rating scale&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-fancast-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Value selected by user is converted to star rating scale&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-fancast-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://fancast.com/&#34;&gt;http://fancast.com&lt;/a&gt;&lt;/p&gt;

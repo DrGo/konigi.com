@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toggles on Konigi</title>
-    <link>http://localhost:1313/tags/toggles/</link>
+    <link>http://konigi.com/tags/toggles/</link>
     <description>Recent content in Toggles on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/toggles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/toggles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>QuickSnapper Toggle Control</title>
-      <link>http://localhost:1313/interface/quicksnapper-toggle-control/</link>
+      <link>http://konigi.com/interface/quicksnapper-toggle-control/</link>
       <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/quicksnapper-toggle-control/</guid>
+      <guid>http://konigi.com/interface/quicksnapper-toggle-control/</guid>
       <description>&lt;p&gt;The toggle control in QuickSnapper&#39;s account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/quicksnapper-toggle-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/quicksnapper-toggle-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.quicksnapper.com/&#34;&gt;http://www.quicksnapper.com/&lt;/a&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mega Drop Down Menus on Konigi</title>
-    <link>http://localhost:1313/tags/mega-drop-down-menus/</link>
+    <link>http://konigi.com/tags/mega-drop-down-menus/</link>
     <description>Recent content in Mega Drop Down Menus on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Nov 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mega-drop-down-menus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/mega-drop-down-menus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Google Analytics Drop Down Menus</title>
-      <link>http://localhost:1313/interface/google-analytics-drop-down-menus/</link>
+      <link>http://konigi.com/interface/google-analytics-drop-down-menus/</link>
       <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/google-analytics-drop-down-menus/</guid>
+      <guid>http://konigi.com/interface/google-analytics-drop-down-menus/</guid>
       <description>&lt;p&gt;I&#39;m a fan of the drop down menus that span a wide area, e.g. the main body or full page, in order to show a wider range of options rather showing fewer in a vertical drop down and forcing navigation through a fly-out tree. This convention is showing up mostly in global navigation, and with the introduction of Microsoft&#39;s Ribbon, we can expect to see more of it.&lt;/p&gt;
 &lt;p&gt;Google shows buttons with down arrows to indicate that clicking one of those controls will show expanded options in-screen, a la the drop down menu. However, rather than floating a div above the flow of the page, their control expands a div in place below the button, and the expanded div is attached to the button which now looks like a tab. The page flow is respected and content is pushed down, and as each control is opened, any expanded controls are collapsed.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Analytics Dashboard. Controls with down arrows indicate that options are available.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Analytics Dashboard. Controls with down arrows indicate that options are available.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the date range selector displays calendar or timeline controls.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the date range selector displays calendar or timeline controls.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. The segment control expands to show granular selection options for filtering your report.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. The segment control expands to show granular selection options for filtering your report.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Simple inline list of export options.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Simple inline list of export options.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Visit filtering options.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Visit filtering options.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -24,10 +24,10 @@
     
     <item>
       <title>Daylife Drop Down Menus</title>
-      <link>http://localhost:1313/interface/daylife-drop-down-menus/</link>
+      <link>http://konigi.com/interface/daylife-drop-down-menus/</link>
       <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/daylife-drop-down-menus/</guid>
+      <guid>http://konigi.com/interface/daylife-drop-down-menus/</guid>
       <description>&lt;p&gt;Daylife&#39;s drop down menu in global navigation that provides a wide ribbon to show both navigation to secondary levels and to show teaser content, e.g. the Latest News menu shows top level news categories as well as recent articles in each category. &lt;/p&gt;
 &lt;p&gt;News sites like Daylife and NewsVine have been coming up with interesting ways of changing user&#39;s expectations of what can exist in global navigation. In some cases, the labels and categories for what appear in global navigation suggest a shifting information architecture that is based on what&#39;s interesting now or what people have been reading. &lt;/p&gt;
 &lt;p&gt;The notion of either letting editorial selectivity or bottom-up data analysis determine navigation is what&#39;s interesting to me here when combined with a ribbon menu. It extends the idea of what can be done with a top tags navigation bar, to show more context within each category, which may be more useful with large sets of categories or freetags than displaying every top level in a hierarhical list. I imagine it would even be useful for promoting information or advertising. Ack! I&#39;m sure someone already does it.&lt;/p&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Hulu Channel Drop Down Menu</title>
-      <link>http://localhost:1313/interface/hulu-channel-drop-down-menu/</link>
+      <link>http://konigi.com/interface/hulu-channel-drop-down-menu/</link>
       <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/hulu-channel-drop-down-menu/</guid>
+      <guid>http://konigi.com/interface/hulu-channel-drop-down-menu/</guid>
       <description>&lt;p&gt;Hulu&#39;s drop down menu for channels stretches to the width of the design and provides a multi-column grid of channels. This method of running a drop down or flyout menu left-to-right rather than top-to-bottom allows interface designers to present longer lists of options without worrying about what appears in relation to the fold, and forcing scroll on longer lists.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-channel-drop-menu-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-channel-drop-menu-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.hulu.com/&#34;&gt;http://www.hulu.com/&lt;/a&gt;&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>CBS Navigation</title>
-      <link>http://localhost:1313/interface/cbs-navigation/</link>
+      <link>http://konigi.com/interface/cbs-navigation/</link>
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/cbs-navigation/</guid>
+      <guid>http://konigi.com/interface/cbs-navigation/</guid>
       <description>&lt;p&gt;The CBS site features a drop down menu that spans the entire width of the layout when the user hovers over shows. Wide drop downs are not unusual, and for a time appeared on the Amazon.com site when they experiencing the growth of their departments. On CBS, this type of interface is used to display as many of the network&#39;s shows as it can, segmenting them by airing time and format. &lt;/p&gt;
 &lt;p&gt;Below the navigation the site shows featured shows in a promotional module with a carousel UI. Lower down in the page, the featured and algorithmic lists of videos are presented in carousels as well.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Home page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cbs-globalnav-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Home page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cbs-globalnav-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over the &amp;quot;Shows&amp;quot; link in the global navigation displays wide drop down menu.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cbs-globalnav-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over the &amp;quot;Shows&amp;quot; link in the global navigation displays wide drop down menu.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cbs-globalnav-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        

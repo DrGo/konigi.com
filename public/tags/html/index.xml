@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Konigi</title>
-    <link>http://localhost:1313/tags/html/</link>
+    <link>http://konigi.com/tags/html/</link>
     <description>Recent content in Html on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Static Site Generator Directories</title>
-      <link>http://localhost:1313/tools/submissions/static-site-generator-directories/</link>
+      <link>http://konigi.com/tools/submissions/static-site-generator-directories/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/static-site-generator-directories/</guid>
+      <guid>http://konigi.com/tools/submissions/static-site-generator-directories/</guid>
       <description>&lt;p&gt;These are the 2 main directories listing generators that you can use to build a static site. Each offers a sortable lists to browse by user rating or language.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;StaticGen&lt;/a&gt; - Lists the top Open Source static site generators only. Filter by language. Sort by rating, issues, forks, titles.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>VideoSWS: HTML5 Video Player Comparison</title>
-      <link>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</link>
+      <link>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</link>
       <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</guid>
+      <guid>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2852&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&amp;quot;See What Sucks&amp;quot;&lt;/a&gt; table of HTML5 Video players, for comparing features of the video players like library dependencies, flash fallback, playlist and audio support. Starred products indicate the &amp;quot;Suck less than others&amp;quot; rating.&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &
     
     <item>
       <title>Semantic UI Library</title>
-      <link>http://localhost:1313/tools/submissions/semantic-ui-library/</link>
+      <link>http://konigi.com/tools/submissions/semantic-ui-library/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/semantic-ui-library/</guid>
+      <guid>http://konigi.com/tools/submissions/semantic-ui-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2848&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;Semantic UI&lt;/a&gt; is a framework for building HTML sites that aims at creating a system based on semantic naming and sensible defaults.&lt;/p&gt;&lt;/p&gt;
 
@@ -55,10 +55,10 @@ wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Random User Generator</title>
-      <link>http://localhost:1313/tools/submissions/random-user-generator/</link>
+      <link>http://konigi.com/tools/submissions/random-user-generator/</link>
       <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/random-user-generator/</guid>
+      <guid>http://konigi.com/tools/submissions/random-user-generator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://randomuser.me/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2657&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522795038a56f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://randomuser.me/&#34;&gt;RandomUser&lt;/a&gt; is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information.&lt;/p&gt;&lt;/p&gt;
 
@@ -69,10 +69,10 @@ wt522795038a56f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Making Infield Form Labels Suck Less</title>
-      <link>http://localhost:1313/blog/making-infield-form-labels-suck-less/</link>
+      <link>http://konigi.com/blog/making-infield-form-labels-suck-less/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-infield-form-labels-suck-less/</guid>
+      <guid>http://konigi.com/blog/making-infield-form-labels-suck-less/</guid>
       <description>&lt;p&gt;Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/infield-plugin.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less&#34;&gt;Part 1&lt;/a&gt; talks about the problems using infield labels. &lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less-2&#34;&gt;Part 2&lt;/a&gt; shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a &lt;a href=&#34;http://jsfiddle.net/ten1seven/hYM8G/3/light/&#34;&gt;jsFiddle snippet&lt;/a&gt; to play with the code. You can &lt;a href=&#34;https://github.com/ten1seven/infieldLabel&#34;&gt;download the jquery plugin from Git&lt;/a&gt;.&lt;/p&gt;
@@ -84,10 +84,10 @@ wt522795038a56f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Mixture</title>
-      <link>http://localhost:1313/tools/submissions/mixture/</link>
+      <link>http://konigi.com/tools/submissions/mixture/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mixture/</guid>
+      <guid>http://konigi.com/tools/submissions/mixture/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2706&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd46e5b40d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;Mixture&lt;/a&gt; is a rapid prototyping and static site generation tool for Mac and Windows. It works with the Liquid templating system, supports includes and smart paths, handles HAML and SASS comilation, CSS and JS minification, and provides a simple model system for global and custom data, and supports access to form and query data in their request model. It can produce static HTML that you can push to a hosting service, and allows use of your own domain. Service integration for testing with BrowserStack and other services is planned.&lt;/p&gt;&lt;/p&gt;
 
@@ -100,10 +100,10 @@ wt522fd46e5b40d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Static HTML: The new old school</title>
-      <link>http://localhost:1313/blog/static-html-new-old-school/</link>
+      <link>http://konigi.com/blog/static-html-new-old-school/</link>
       <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/static-html-new-old-school/</guid>
+      <guid>http://konigi.com/blog/static-html-new-old-school/</guid>
       <description>&lt;p&gt;I&#39;ve been looking for ways to energize my creativity in between the longer stretches of time spent on difficult, routine, and less creative work. The thing that has been doing it for me lately is working with static html on some of my smaller production sites.&lt;/p&gt;
 &lt;p&gt;I was playing around with static html tools for a little side project I&#39;ve been toying with. I was tinkering with &lt;a href=&#34;http://www.staceyapp.com/&#34;&gt;Stacey&lt;/a&gt; and &lt;a href=&#34;http://getkirby.com/&#34;&gt;Kirby&lt;/a&gt;. Awesome tools for static PHP page building. I was also playing around with &lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;CodeKit&lt;/a&gt;, which looked like the most promising tool for little projects. But I figured it was all just playing and there wouldn&#39;t be a real static site project for me to work on for a while probably.&lt;/p&gt;
 &lt;p&gt;Then last month we launched &lt;a href=&#34;http://www.uxapprentice.com/&#34;&gt;UX Apprentice&lt;/a&gt; using WordPress. We were on a stable server that hosts some pretty massive sites, so I was happy. But then, as web hosts always do, it went down for a short period. Some rare issue on load balancers was the cause we were told. Downtime happens. But then while discussing this issue I said, &#34;Fuckit. This site is so simple, let&#39;s make it static and put it on an S3 bucket.&#34;&lt;/p&gt;
@@ -133,10 +133,10 @@ Publishing on S3 is pretty simple. A normal person just needs to set up a bucket
     
     <item>
       <title>Hammer for Mac</title>
-      <link>http://localhost:1313/tools/submissions/hammer-mac/</link>
+      <link>http://konigi.com/tools/submissions/hammer-mac/</link>
       <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/hammer-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/hammer-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2813&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523157b204616_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;Hammer&lt;/a&gt; is a static web site builder for the Mac that lets you build out sites quickly with no server side requirements.&lt;/p&gt;&lt;/p&gt;
 
@@ -149,10 +149,10 @@ wt523157b204616_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>jKit: jQuery based UI Toolkit</title>
-      <link>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</link>
+      <link>http://konigi.com/tools/submissions/jkit-jquery-based-ui-toolkit/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</guid>
+      <guid>http://konigi.com/tools/submissions/jkit-jquery-based-ui-toolkit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2667&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fa3108a630_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;jKit&lt;/a&gt; is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.&lt;/p&gt;&lt;/p&gt;
 
@@ -163,10 +163,10 @@ wt522fa3108a630_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>One div: Pure CSS icons</title>
-      <link>http://localhost:1313/tools/submissions/one-div-pure-css-icons/</link>
+      <link>http://konigi.com/tools/submissions/one-div-pure-css-icons/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/one-div-pure-css-icons/</guid>
+      <guid>http://konigi.com/tools/submissions/one-div-pure-css-icons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://one-div.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2712&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fe3ea09688_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://one-div.com/&#34;&gt;One Div&lt;/a&gt; is a library of icons that are realised in pure css with only one html div as an alternative to SVG. Icons allow precise borders even when resized—same as one would expect with vector icons.&lt;/p&gt;&lt;/p&gt;
 
@@ -177,10 +177,10 @@ wt522fe3ea09688_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>responsivepx</title>
-      <link>http://localhost:1313/tools/submissions/responsivepx/</link>
+      <link>http://konigi.com/tools/submissions/responsivepx/</link>
       <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/responsivepx/</guid>
+      <guid>http://konigi.com/tools/submissions/responsivepx/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://responsivepx.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2827&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231e92098b06_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://responsivepx.com/&#34;&gt;Responsivepx&lt;/a&gt; allows you to enter the url to your site (local or online) and use the controls to adjust the width and height of your viewport to find exact breakpoint widths in pixels. Then you can use that information in your media queries to create a responsive design.&lt;/p&gt;&lt;/p&gt;
 
@@ -191,10 +191,10 @@ wt5231e92098b06_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Ai to Canvas Plug-In</title>
-      <link>http://localhost:1313/tools/submissions/ai-canvas-plug/</link>
+      <link>http://konigi.com/tools/submissions/ai-canvas-plug/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ai-canvas-plug/</guid>
+      <guid>http://konigi.com/tools/submissions/ai-canvas-plug/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2806&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;Ai-&amp;gt;Canvas plug-in&lt;/a&gt; enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.&lt;/p&gt;&lt;/p&gt;
 
@@ -205,10 +205,10 @@ wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Learn to Code</title>
-      <link>http://localhost:1313/wiki/learn-code/</link>
+      <link>http://konigi.com/wiki/learn-code/</link>
       <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/learn-code/</guid>
+      <guid>http://konigi.com/wiki/learn-code/</guid>
       <description>&lt;p&gt;&lt;h2 id=&#34;toc0&#34;&gt;The Debate&lt;/h2&gt;
 &lt;p&gt;The debate about whether or not designers need to learn to code is essentially about knowing enough HTML and CSS, and maybe some Javascript to be able to prototype web views.&lt;/p&gt;&lt;/p&gt;
 
@@ -240,10 +240,10 @@ wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Wirefy: Responsive Wireframe Library</title>
-      <link>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</link>
+      <link>http://konigi.com/tools/submissions/wirefy-responsive-wireframe-library/</link>
       <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</guid>
+      <guid>http://konigi.com/tools/submissions/wirefy-responsive-wireframe-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2776&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230a9c13e1b7_custom_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;Wirefy&lt;/a&gt; is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.&lt;/p&gt;&lt;/p&gt;
 
@@ -254,10 +254,10 @@ wt5230a9c13e1b7_custom_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=
     
     <item>
       <title>Responsive Design Bookmarklet</title>
-      <link>http://localhost:1313/tools/submissions/responsive-design-bookmarklet/</link>
+      <link>http://konigi.com/tools/submissions/responsive-design-bookmarklet/</link>
       <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/responsive-design-bookmarklet/</guid>
+      <guid>http://konigi.com/tools/submissions/responsive-design-bookmarklet/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://responsive.victorcoulon.fr/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/rdbookmarklet-1.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Victor Coulon&#39;s &lt;a href=&#34;http://responsive.victorcoulon.fr/&#34;&gt;Responsive Design Bookmarklet&lt;/a&gt; is a simple browser-based tool  for testing your web layout in desktop, tablet and mobile phone dimensions. Save the bookmarklet, go to the page you want to test, then select the bookmarklet. It puts your page in a frame at the dimensions you want to test. &lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Found via &lt;a href=&#34;www.bookslope.html&#34;&gt;Takashi Sakamoto&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graphics on Konigi</title>
-    <link>http://localhost:1313/tags/graphics/</link>
+    <link>http://konigi.com/tags/graphics/</link>
     <description>Recent content in Graphics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clever PNG Optimization Techniques</title>
-      <link>http://localhost:1313/blog/clever-png-optimization-techniques/</link>
+      <link>http://konigi.com/blog/clever-png-optimization-techniques/</link>
       <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/clever-png-optimization-techniques/</guid>
+      <guid>http://konigi.com/blog/clever-png-optimization-techniques/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2567&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4fdb41aa9b373_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sergey Chikuyonok&amp;rsquo;s Smashing Magazine &lt;a href=&#34;http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/&#34;&gt;article on PNG optimization&lt;/a&gt; is an oldie, but I just found myself returning to use it for maybe the 4th time since I originally read it. I don&amp;rsquo;t do web graphics so frequently anymore, so I always return here to get reminded of things like the posterization layer in Photoshop. See also Sergey&amp;rsquo;s &lt;a href=&#34;http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/&#34;&gt;JPEG Optimization article&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt4fdb41aa9b373_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sergey Chikuyo
     
     <item>
       <title>Raphael JavaScript Library for Vector Graphics</title>
-      <link>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</link>
+      <link>http://konigi.com/blog/raphael-javascript-library-vector-graphics/</link>
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</guid>
+      <guid>http://konigi.com/blog/raphael-javascript-library-vector-graphics/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://raphaeljs.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/raphaeljs.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.&lt;/p&gt;
 &lt;p&gt;Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later. Raphaël’s goal is to provide an adapter that will make drawing cross-browser and easy.&lt;/p&gt;&lt;/blockquote&gt;
@@ -39,10 +39,10 @@ wt4fdb41aa9b373_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sergey Chikuyo
     
     <item>
       <title>Sumopaint.com beta - Image Editing in the Browser</title>
-      <link>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</link>
+      <link>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</link>
       <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</guid>
+      <guid>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1383&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48f4b57bab96e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;Sumopaint&lt;/a&gt;, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. &lt;/p&gt;
 &lt;p&gt;This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing. On the surface this appears to be only a Photoshop-like tool, but if you were to leverage the community and versioning features, the possibilities for a flexible tool like this become pretty interesting. Check it out.&lt;/p&gt;&lt;/p&gt;

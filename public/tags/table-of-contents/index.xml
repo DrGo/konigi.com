@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table Of Contents on Konigi</title>
-    <link>http://localhost:1313/tags/table-of-contents/</link>
+    <link>http://konigi.com/tags/table-of-contents/</link>
     <description>Recent content in Table Of Contents on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automatically generate table of contents using jQuery</title>
-      <link>http://localhost:1313/blog/automatically-generate-table-contents-using-jquery/</link>
+      <link>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</link>
       <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/automatically-generate-table-contents-using-jquery/</guid>
+      <guid>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.jankoatwarpspeed.com/post/2009/08/20/Table-of-contents-using-jQuery.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1865&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a8d2798963a5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Janko at Warp Speed demonstrates a &lt;a href=&#34;http://www.jankoatwarpspeed.com/post/2009/08/20/Table-of-contents-using-jQuery.aspx&#34;&gt; technique using jQuery to provide a navigable table of contents menu&lt;/a&gt; using the headings in your page content. I particularly like the method he&amp;rsquo;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin. Nicely done and would work well with longer content, e.g. wiki pages.&lt;/p&gt;&lt;/p&gt;
 

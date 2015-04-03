@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Must Read on Konigi</title>
-    <link>http://localhost:1313/tags/must-read/</link>
+    <link>http://konigi.com/tags/must-read/</link>
     <description>Recent content in Must Read on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/must-read/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/must-read/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Presentation Skills Considered Harmful</title>
-      <link>http://localhost:1313/blog/presentation-skills-considered-harmful/</link>
+      <link>http://konigi.com/blog/presentation-skills-considered-harmful/</link>
       <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/presentation-skills-considered-harmful/</guid>
+      <guid>http://konigi.com/blog/presentation-skills-considered-harmful/</guid>
       <description>&lt;p&gt;I don&#39;t like public speaking. I love talking to people one to one and in very small groups. But public speaking and me don&#39;t mix, and if you&#39;ve ever seen me speak, you probably agree. In the handful of times that I have spoken publicly, I think only two were really worth coming to see and hear. &lt;/p&gt;
 &lt;p&gt;I believe the only reason the worthwhile talks were not utter failures was because I had something to share that I think people wanted to hear, and could get something out of. They really had little to do with me. I think those talks had more to do with what the audience could do with what I shared. My passion about the topic let me forget about myself until I was just basically just giving people something they wanted instead.&lt;/p&gt;
 &lt;p&gt;Kathy Sierra is one of the people whose articles I like to read and presentations I like to watch, because I come away with ideas that I feel I can do something with. There&#39;s something almost pragmatic to me about what she shares. Don&#39;t get me wrong though, she is a charismatic, funny, and super smart speaker. But &lt;a href=&#34;http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful&#34;&gt;her post about public speaking and presentation skills&lt;/a&gt; is useful to me as someone who hates public speaking, and always feels bad turning down the invitation. &lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Pace</title>
-      <link>http://localhost:1313/blog/pace/</link>
+      <link>http://konigi.com/blog/pace/</link>
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/pace/</guid>
+      <guid>http://konigi.com/blog/pace/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/articles/everything-in-its-right-pace/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2576&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt503901bbde9e1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Hannah Donovan&amp;rsquo;s &lt;a href=&#34;http://www.alistapart.com/articles/everything-in-its-right-pace/&#34;&gt;essay in A List Apart&lt;/a&gt; considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.&lt;/p&gt;&lt;/p&gt;
 
@@ -62,10 +62,10 @@ wt503901bbde9e1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Hannah Donovan
     
     <item>
       <title>Your app is a collection of tiny details</title>
-      <link>http://localhost:1313/blog/your-app-collection-tiny-details/</link>
+      <link>http://konigi.com/blog/your-app-collection-tiny-details/</link>
       <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/your-app-collection-tiny-details/</guid>
+      <guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&lt;span class=&#34;t14&#34;&gt;&#34;Getting the details right is the difference between something that delights, and something customers tolerate.&#34;&lt;/span&gt;&lt;br /&gt;
 &amp;#8212;Jeff Atwood&lt;/p&gt;
 &lt;p&gt;I didn&#39;t read &lt;a href=&#34;http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html&#34;&gt;Jeff Atwood&#39;s article about cat feeders&lt;/a&gt; right away, because it really is 90% about a cat product. It&#39;s also a terrific demonstration of what he&#39;s saying above. The first version of the product, a cat feeder, served a core need well enough for him to &lt;a href=&#34;http://en.wikipedia.org/wiki/Satisficing&#34;&gt;satisfice&lt;/a&gt; with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it. &lt;/p&gt;
@@ -85,10 +85,10 @@ wt503901bbde9e1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Hannah Donovan
     
     <item>
       <title>Letting Go</title>
-      <link>http://localhost:1313/blog/letting-go/</link>
+      <link>http://konigi.com/blog/letting-go/</link>
       <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/letting-go/</guid>
+      <guid>http://konigi.com/blog/letting-go/</guid>
       <description>&lt;p&gt;Two great slides from Yiibu&#39;s presentation, &lt;a href=&#34;http://www.slideshare.net/yiibu/letting-go-9109114&#34; rel=&#34;nofollow&#34;&gt;Letting Go&lt;/a&gt;, a talk about design in an time of increasing disruption.&lt;/p&gt;
 &lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm7.static.flickr.com/6170/6188891324_71eb68e152_z.jpg&#34; /&gt;&lt;/div&gt;
 &lt;blockquote&gt;&lt;p&gt;&#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;&lt;br /&gt;
@@ -106,10 +106,10 @@ wt503901bbde9e1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Hannah Donovan
     
     <item>
       <title>Caterina Fake on why working hard is overrated</title>
-      <link>http://localhost:1313/blog/caterina-fake-why-working-hard-overrated/</link>
+      <link>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/caterina-fake-why-working-hard-overrated/</guid>
+      <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.caterina.net/archive/001196.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1902&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ac372308eb1f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Caterina Fake, founder of Flickr and Hunch, &lt;a href=&#34;http://www.caterina.net/archive/001196.html&#34;&gt;talks about why working hard isn&amp;rsquo;t as important as working on the right things&lt;/a&gt;. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be. Being able to read what people want. Putting yourself in the right place where information is flowing freely and interesting new juxtapositions can be seen. But you can save yourself a lot of time by working on the right thing. Working hard, even, if that&amp;rsquo;s what you like to do.&lt;/p&gt;&lt;/blockquote&gt;
@@ -123,10 +123,10 @@ wt4ac372308eb1f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Caterina Fake, found
     
     <item>
       <title>Bill Buxton on How to Keep Innovating</title>
-      <link>http://localhost:1313/blog/bill-buxton-how-keep-innovating/</link>
+      <link>http://konigi.com/blog/bill-buxton-how-keep-innovating/</link>
       <pubDate>Thu, 19 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bill-buxton-how-keep-innovating/</guid>
+      <guid>http://konigi.com/blog/bill-buxton-how-keep-innovating/</guid>
       <description>&lt;p&gt;In BusinessWeek, Bill Buxton discusses &lt;a href=&#34;http://www.businessweek.com/innovate/content/feb2009/id20090218_337947.htm&#34;&gt;how to keep innovating&lt;/a&gt;, with the main idea being that you can continue to cultivate creativity and innovation by finding new things that you have a passion for. He suggests that when you get good enough at a thing, you should find something else to be passionate about, and commit and throw yourself into learning how to do it. You&#39;ll be bad at it at first, but the experience of learning something new, no matter how bad you are at it at first, may affect your creativity in positive ways that you won&#39;t realize until you experience it. In some cases, they may inform what you are already expert at, and in others lead you in entirely new and surprising directions.&lt;/p&gt;
 &lt;p&gt;The discussion reminds me of Paula Scher&#39;s talk focussing on &lt;a href=&#34;paula-scher-gets-serious-ted.html&#34;&gt;serious versus solemn design&lt;/a&gt; at TED. Scher spoke about the different times in her career where she was able to be most innovative in her craft, and the thing that was common in each case was that she was doing something new--something she didn&#39;t know much about when she started that particular project. The fact that one has no reference point or bearing can lead to innovative thinking.&lt;/p&gt;
 &lt;p&gt;This is the same argument Buxton is making. I think Buxton is saying that the continued pursuit of new endeavors itself, is what can help cultivate one&#39;s creativity and create the pre-conditions for innovation. I&#39;m sure a lot of people who take up new hobbies and have the continuing need to learn see the obvious in this. This is one of the reasons I feel at home in a city where it is easy for me to start investigating and learning something new all the time. Being in a city isn&#39;t necessary, per se, but being able to get inspired and start doing something new is a hell of a lot easier for me here. This coupled with the fact that my wife and I homeschool our 8 year old son, which has lead me to dive deep on countless topics and project that I would never have held my interest in the past. If you read my personal blog, you know about my forays into toy making, game design, character creation and storytelling. &lt;/p&gt;
@@ -139,10 +139,10 @@ wt4ac372308eb1f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Caterina Fake, found
     
     <item>
       <title>Bill Buxton on Innovation and the Long Nose Theory</title>
-      <link>http://localhost:1313/blog/bill-buxton-innovation-and-long-nose-theory/</link>
+      <link>http://konigi.com/blog/bill-buxton-innovation-and-long-nose-theory/</link>
       <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bill-buxton-innovation-and-long-nose-theory/</guid>
+      <guid>http://konigi.com/blog/bill-buxton-innovation-and-long-nose-theory/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://boltpeters.com/blog/?p=31&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1200&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48079d9619afd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Bolt|Peters &lt;a href=&#34;http://boltpeters.com/blog/?p=31&#34;&gt;summarizes Bill Buxton&amp;rsquo;s talk&lt;/a&gt; at CHI 2008, which is focussed largely around his &lt;a href=&#34;http://www.businessweek.com/innovate/content/jan2008/id2008012_297369.htm&#34;&gt;theory of long nose&lt;/a&gt;. The article in BusinessWeek describes the danger of trying to innovate around the long tail theory alone, and attempts to create awareness for this other phenomenon which he calls the long nose. The theory describes how the bulk of innovation is low-amplitude and takes place over a long period of time. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;[T]he bulk of innovation behind the latest &amp;ldquo;wow&amp;rdquo; moment (multi-touch on the iPhone, for example) is also low-amplitude and takes place over a long period—but well before the &amp;ldquo;new&amp;rdquo; idea has become generally known, much less reached the tipping point.&lt;/p&gt;&lt;/blockquote&gt;
@@ -160,10 +160,10 @@ wt48079d9619afd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Bolt|Peters &lt;a hr
     
     <item>
       <title>Apple&#39;s Design process</title>
-      <link>http://localhost:1313/blog/apples-design-process/</link>
+      <link>http://konigi.com/blog/apples-design-process/</link>
       <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/apples-design-process/</guid>
+      <guid>http://konigi.com/blog/apples-design-process/</guid>
       <description>&lt;p&gt;Michael Lopp, Senior Engineering Manager at Apple discussed Apple&#39;s design process at a presentation given at SXSW. &lt;a href=&#34;http://www.businessweek.com/the_thread/techbeat/archives/2008/03/apples_design_p.html&#34;&gt;Business Week summarized the points&lt;/a&gt;, excerpted below. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;
 &lt;strong&gt;Pixel Perfect Mockups&lt;/strong&gt;&lt;br /&gt;
@@ -185,10 +185,10 @@ This refers to a story Lopp told earlier in the session, in which he described t
     
     <item>
       <title>Shneiderman&#39;s Eight Golden Rules of Interface Design</title>
-      <link>http://localhost:1313/blog/shneidermans-eight-golden-rules-interface-design/</link>
+      <link>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</link>
       <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shneidermans-eight-golden-rules-interface-design/</guid>
+      <guid>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</guid>
       <description>&lt;p&gt;Ben Shneiderman&#39;s Eight Golden Rules of Interface Design are user interface design rules described in &lt;i&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/0321197860?ie=UTF8&amp;amp;tag=urlgreyhot-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321197860&#34;&gt;Designing the User Interface: Strategies for Effective Human-Computer Interaction&lt;/a&gt;&lt;img src=&#34;http://www.assoc-amazon.com/e/ir?t=urlgreyhot-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=0321197860&#34; width=&#34;1&#34; height=&#34;1&#34; border=&#34;0&#34; alt=&#34;&#34; style=&#34;border:none !important; margin:0px !important;&#34; /&gt;&lt;/i&gt;. Shneiderman proposed this collection of principles that are derived heuristically from experience and applicable in most interactive systems after being properly refined, extended, and interpreted.&lt;/p&gt;
 &lt;p&gt;To improve the usability of an application it is important to have a well designed interface and these &#34;Eight Golden Rules of Interface Design&#34; are claimed to be a guide to good interaction design.&lt;/p&gt;
 &lt;dl&gt;

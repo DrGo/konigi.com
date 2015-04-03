@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper Prototyping on Konigi</title>
-    <link>http://localhost:1313/tags/paper-prototyping/</link>
+    <link>http://konigi.com/tags/paper-prototyping/</link>
     <description>Recent content in Paper Prototyping on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/paper-prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/paper-prototyping/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>PAPERPROTO</title>
-      <link>http://localhost:1313/tools/submissions/paperproto/</link>
+      <link>http://konigi.com/tools/submissions/paperproto/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/paperproto/</guid>
+      <guid>http://konigi.com/tools/submissions/paperproto/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://paperproto.com/&#34;&gt;PAPERPROTO&lt;/a&gt; is a 3D printable model to use for paper prototyping mobile applications, in the style of a &lt;a href=&#34;http://lifestyle.howstuffworks.com/crafts/seasonal/winter/theatre-activities-for-kids7.htm&#34; target=&#34;_blank&#34;&gt;story scroll&lt;/a&gt;. You can download the file or buy the model for printing on demand directly from Shapeways.&lt;/p&gt;
 
 &lt;p&gt;Via &lt;a href=&#34;http://zekefranco.com/&#34;&gt;Zeke Franco&lt;/a&gt;&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Sticky Jots</title>
-      <link>http://localhost:1313/tools/submissions/sticky-jots/</link>
+      <link>http://konigi.com/tools/submissions/sticky-jots/</link>
       <pubDate>Thu, 18 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sticky-jots/</guid>
+      <guid>http://konigi.com/tools/submissions/sticky-jots/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://stickyjots.com/&#34;&gt;Sticky Jots&lt;/a&gt; is a set of storytelling sticky note paper and paper prototyping kits for designing mobile and tablet interfaces. The product is designed by Rae Milne and Pamela Jue, two grad students in the SVA Interaction Design program. &lt;/p&gt;
 &lt;p&gt;&lt;iframe width=&#34;600&#34; height=&#34;450&#34; src=&#34;http://www.kickstarter.com/projects/1990245787/sticky-jots/widget/video.html&#34; frameborder=&#34;0&#34;&gt; &lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;Pam writes about &lt;a href=&#34;http://pjue.tumblr.com/post/43540940145/so-why-sticky-jots&#34;&gt;the thinking behind Sticky Jots&lt;/a&gt;. &lt;/p&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Protosketch</title>
-      <link>http://localhost:1313/tools/submissions/protosketch/</link>
+      <link>http://konigi.com/tools/submissions/protosketch/</link>
       <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/protosketch/</guid>
+      <guid>http://konigi.com/tools/submissions/protosketch/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://protosketch.uistencils.com/&#34;&gt;Protosketch&lt;/a&gt; is a new free app for iOS from UI Stencils to convert sketches to interactive prototypes. The app is made to work with their sketch pads and stencils.  Sketch your screens, add them to the app, define hot areas for links, select link destinations, and prototype.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://protosketch.uistencils.com/&#34;&gt;https://protosketch.uistencils.com&lt;/a&gt;&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>POP: Prototyping on Paper</title>
-      <link>http://localhost:1313/tools/submissions/pop-prototyping-paper/</link>
+      <link>http://konigi.com/tools/submissions/pop-prototyping-paper/</link>
       <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pop-prototyping-paper/</guid>
+      <guid>http://konigi.com/tools/submissions/pop-prototyping-paper/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://popapp.in/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2690&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fbc659f7f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://popapp.in/&#34;&gt;POP&lt;/a&gt; is an iPhone app that lets you take pictures of your sketches, and map areas on each screen to create simple click-through prototypes.&lt;/p&gt;&lt;/p&gt;
 
@@ -70,10 +70,10 @@ wt522fbc659f7f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>UX Stickynotes</title>
-      <link>http://localhost:1313/tools/submissions/ux-stickynotes/</link>
+      <link>http://konigi.com/tools/submissions/ux-stickynotes/</link>
       <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ux-stickynotes/</guid>
+      <guid>http://konigi.com/tools/submissions/ux-stickynotes/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.uxstickynotes.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2786&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230d0af1e9be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;ve had a &lt;a href=&#34;http://www.uxstickynotes.com/&#34;&gt;UX Stickynotes&lt;/a&gt; pad near me for a few weeks to play with. I&amp;rsquo;m kind of a sticky notes nerd. I mostly like to place them in sketchbooks to mark and annotate, but also like them for brainstorming and doing info organization exercises. Sticky notes for UI sketches and sketchboards makes sense.&lt;/p&gt;&lt;/p&gt;
 
@@ -88,10 +88,10 @@ wt5230d0af1e9be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;v
     
     <item>
       <title>UXPin: Paper prototyping redesigned</title>
-      <link>http://localhost:1313/tools/submissions/uxpin-paper-prototyping-redesigned/</link>
+      <link>http://konigi.com/tools/submissions/uxpin-paper-prototyping-redesigned/</link>
       <pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uxpin-paper-prototyping-redesigned/</guid>
+      <guid>http://konigi.com/tools/submissions/uxpin-paper-prototyping-redesigned/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.uxpin.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2761&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230689b83d86_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.uxpin.com/&#34;&gt;UXPin&lt;/a&gt; just made it a little easier for you to paper prototype. They&amp;rsquo;ve created a kit with sticky note interface elements (buttons, combo-boxes, check-boxes etc. – 50 each), universal elements (to easily make menus, lists, boxes – 50 each) and a 50 page paper browser notepad packaged in a hard cover case.&lt;/p&gt;&lt;/p&gt;
 
@@ -102,10 +102,10 @@ wt5230689b83d86_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>The Process Toolbox, part eight: Prototyping</title>
-      <link>http://localhost:1313/blog/process-toolbox-part-eight-prototyping/</link>
+      <link>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</link>
       <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/process-toolbox-part-eight-prototyping/</guid>
+      <guid>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://erskinelabs.com/post/the-process-toolbox-part-eight-prototyping/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2190&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4af833276c2d0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Simon Collison writes about the different forms of prototyping in ErskineLabs&amp;rsquo; Process Toolbox, describing the benefits of paper, wireframe, and browser prototypes.&lt;/p&gt;&lt;/p&gt;
 
@@ -119,10 +119,10 @@ wt4af833276c2d0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Simon Collison
     
     <item>
       <title>Jane Austin &amp; Chris Neale on Sketch Prototypes</title>
-      <link>http://localhost:1313/blog/jane-austin-chris-neale-sketch-prototypes/</link>
+      <link>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jane-austin-chris-neale-sketch-prototypes/</guid>
+      <guid>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;335&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=6415203&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=6415203&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;335&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;The paper prototype is generally used as a design tool and even usability testing tool, but the folks at IG Index have figured out a creative way to use sketches and paper prototypes as a communication tool in place of wireframes for demonstrating interaction to development teams. Martin Belam posted video from UX London 09 of Jane Austin, Chris Neale and Frances Eida discussing this simple method of taking wireframe/storyboard sketches or paper prototypes, and creating stop-motion animation to demonstrate interface. Wonderful stuff. &lt;a href=&#34;http://www.currybet.net/cbet_blog/2009/09/uxlondon_redux_jane_austin_chris_neale.php&#34;&gt;More at Currybet&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -133,10 +133,10 @@ wt4af833276c2d0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Simon Collison
     
     <item>
       <title>The Value of Paper Prototyping</title>
-      <link>http://localhost:1313/blog/value-paper-prototyping/</link>
+      <link>http://konigi.com/blog/value-paper-prototyping/</link>
       <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/value-paper-prototyping/</guid>
+      <guid>http://konigi.com/blog/value-paper-prototyping/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smileycat.com/miaow/archives/001561.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1601&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a096a771aec5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson discusses &lt;a href=&#34;http://www.smileycat.com/miaow/archives/001561.php&#34;&gt;how he uses paper prototypes&lt;/a&gt;, showing a photo of a recent project he worked on.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Rather than sketch the whole page on a sheet of paper, I prefer to draw out the various components of the page, cut them out, and Blu-Tack them to the paper. This makes it easy to change different elements, switch them around, etc, without having to redraw the whole page each time.&lt;/p&gt;
@@ -152,10 +152,10 @@ wt4a096a771aec5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson dis
     
     <item>
       <title>Paper Prototyping Webtrends</title>
-      <link>http://localhost:1313/blog/paper-prototyping-webtrends/</link>
+      <link>http://konigi.com/blog/paper-prototyping-webtrends/</link>
       <pubDate>Wed, 22 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/paper-prototyping-webtrends/</guid>
+      <guid>http://konigi.com/blog/paper-prototyping-webtrends/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-prototyping/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/webtrends-paperprototyping.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-prototyping/&#34;&gt;Justin Garrity writes&lt;/a&gt; about Web Trends&amp;rsquo; use of paper prototyping to design the applications&amp;rsquo; Tag Builder.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-prototyping/&#34;&gt;http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-prototyping/&lt;/a&gt;&lt;/p&gt;
@@ -164,10 +164,10 @@ wt4a096a771aec5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson dis
     
     <item>
       <title>Software Tool Design: Design by Sketching</title>
-      <link>http://localhost:1313/blog/software-tool-design-design-sketching/</link>
+      <link>http://konigi.com/blog/software-tool-design-design-sketching/</link>
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/software-tool-design-design-sketching/</guid>
+      <guid>http://konigi.com/blog/software-tool-design-design-sketching/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/design-by-sketching.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/&#34;&gt;second part of Stephen Chambers&amp;rsquo; series&lt;/a&gt; on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&amp;rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.&lt;/p&gt;
 &lt;p&gt;James, the team leader had just read Bill Buxton&amp;rsquo;s &lt;em&gt;Sketching the User Experience&lt;/em&gt; and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas. After some initial discomfort, a few people got the ball rolling, and then as the ideas started flowing, constraints and possibilities were clarified, revelations ensued, and useful design directions manifested themselves.&lt;/p&gt;
 &lt;p&gt;Stephen writes that the 2 main things he took away from the exercise were:&lt;/p&gt;
@@ -183,10 +183,10 @@ wt4a096a771aec5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson dis
     
     <item>
       <title>Hanmail Paper Prototype</title>
-      <link>http://localhost:1313/blog/hanmail-paper-prototype/</link>
+      <link>http://konigi.com/blog/hanmail-paper-prototype/</link>
       <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/hanmail-paper-prototype/</guid>
+      <guid>http://konigi.com/blog/hanmail-paper-prototype/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/GrV2SZuRPv0&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/GrV2SZuRPv0&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;Video of a paper prototype created for Daum&amp;rsquo;s AJAX-based &lt;a href=&#34;http://hanmail.net/&#34;&gt;hanmail.net&lt;/a&gt; webmail service. It&amp;rsquo;s a little hard to know what&amp;rsquo;s going on without hearing the test participant think out loud, but it&amp;rsquo;s a nice demo of the prototype.&lt;/p&gt;
@@ -198,10 +198,10 @@ wt4a096a771aec5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson dis
     
     <item>
       <title>Paper Prototyping with Morae</title>
-      <link>http://localhost:1313/blog/paper-prototyping-morae/</link>
+      <link>http://konigi.com/blog/paper-prototyping-morae/</link>
       <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/paper-prototyping-morae/</guid>
+      <guid>http://konigi.com/blog/paper-prototyping-morae/</guid>
       <description>&lt;p&gt;Userfocus provides some inspiration for &lt;a href=&#34;http://www.userfocus.co.uk/articles/morae-pp.html&#34;&gt;capturing paper prototype tests with Morae&lt;/a&gt; and a webcam. Their method invovlves positioning the camera over the prototype, connect the cam directly to the PC, viewing the camera live in a video editor, and recording the output of the editor in Morae. &lt;/p&gt;
 &lt;p&gt;This method is ingenious. It gives you all of the agility of doing a paper prototype, with the flexbility and control of using Morae for the observation, note taking, and highlight reel creation.&lt;/p&gt;
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typography on Konigi</title>
-    <link>http://localhost:1313/tags/typography/</link>
+    <link>http://konigi.com/tags/typography/</link>
     <description>Recent content in Typography on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/typography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Typograph</title>
-      <link>http://localhost:1313/blog/typograph/</link>
+      <link>http://konigi.com/blog/typograph/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typograph/</guid>
+      <guid>http://konigi.com/blog/typograph/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://lamb.cc/typograph/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2252&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b3cb98295a13_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Iain Lamb&amp;rsquo;s &lt;a href=&#34;http://lamb.cc/typograph/&#34;&gt;Typograph&lt;/a&gt; is cool tool that allows you to explore the relationship between scale and rhythm by modifying the properties of typographic elements in a page of sample text.&lt;/p&gt;&lt;/p&gt;
 
@@ -26,10 +26,10 @@ wt4b3cb98295a13_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Iain Lamb&amp;
     
     <item>
       <title>fontcapture.com: Create fonts from your handwriting</title>
-      <link>http://localhost:1313/tools/submissions/fontcapturecom-create-fonts-your-handwriting/</link>
+      <link>http://konigi.com/tools/submissions/fontcapturecom-create-fonts-your-handwriting/</link>
       <pubDate>Mon, 31 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/fontcapturecom-create-fonts-your-handwriting/</guid>
+      <guid>http://konigi.com/tools/submissions/fontcapturecom-create-fonts-your-handwriting/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.fontcapture.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2710&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fdeae09b7e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.fontcapture.com/&#34;&gt;fontcapture&lt;/a&gt; might be interesting to people who create sketch-style wireframes, but don&amp;rsquo;t like using Apple&amp;rsquo;s Casual or Comic Sans. Simply download and fill in the font template, scan and upload it to fontcatpure, and download your completed font, usable on both Windows and Mac computers.&lt;/p&gt;&lt;/p&gt;
 
@@ -40,10 +40,10 @@ wt522fdeae09b7e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>@font-face: The Potential of Web Typography</title>
-      <link>http://localhost:1313/blog/font-face-potential-web-typography/</link>
+      <link>http://konigi.com/blog/font-face-potential-web-typography/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/font-face-potential-web-typography/</guid>
+      <guid>http://konigi.com/blog/font-face-potential-web-typography/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/font-face-potential.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;How can @font-face be used with currently implemented CSS selectors to create engaging, nuanced and more mature typography? Ian Lynam &amp;amp; Craig Mod &lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;discuss the potential of using @font-face&lt;/a&gt; now that Firefox 3.5 is out. &lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;http://craigmod.com/journal/font-face/&lt;/a&gt;&lt;/p&gt;
@@ -52,10 +52,10 @@ wt522fdeae09b7e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Typography Is the UI on the Zune HD</title>
-      <link>http://localhost:1313/blog/typography-ui-zune-hd/</link>
+      <link>http://konigi.com/blog/typography-ui-zune-hd/</link>
       <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typography-ui-zune-hd/</guid>
+      <guid>http://konigi.com/blog/typography-ui-zune-hd/</guid>
       <description>&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;458&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=4889455&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=4889455&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;458&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/4889455&#34;&gt;Zune HD Video Hands On&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user562128&#34;&gt;Gizmodo&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
@@ -67,10 +67,10 @@ wt522fdeae09b7e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Typekit: Foundry-Approved Font Embedding</title>
-      <link>http://localhost:1313/blog/typekit-foundry-approved-font-embedding/</link>
+      <link>http://konigi.com/blog/typekit-foundry-approved-font-embedding/</link>
       <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typekit-foundry-approved-font-embedding/</guid>
+      <guid>http://konigi.com/blog/typekit-foundry-approved-font-embedding/</guid>
       <description>&lt;p&gt;Jeff Veen &lt;a href=&#34;http://blog.typekit.com/2009/05/27/introducing-typekit/&#34;&gt;announces Typekit&lt;/a&gt;, a solution for providing foundry-approved font embedding on the web. More info below from the Typkekit blog.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;We’ve been working with foundries to develop a consistent web-only font linking license. We’ve built a technology platform that lets us to host both free and commercial fonts in a way that is incredibly fast, smoothes out differences in how browsers handle type, and offers the level of protection that type designers need without resorting to annoying and ineffective DRM.&lt;/p&gt;
 &lt;p&gt;As a Typekit user, you’ll have access to our library of high-quality fonts. Just add a line of JavaScript to your markup, tell us what fonts you want to use, and then craft your pages the way you always have. Except now you’ll be able to use real fonts.&lt;/p&gt;&lt;/blockquote&gt;
@@ -83,10 +83,10 @@ wt522fdeae09b7e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Striking Web Sites with Font Stacks that Inspire</title>
-      <link>http://localhost:1313/blog/striking-web-sites-font-stacks-inspire/</link>
+      <link>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</link>
       <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/striking-web-sites-font-stacks-inspire/</guid>
+      <guid>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.inspirationbit.com/striking-web-sites-with-font-stacks-that-inspire/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1483&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt498b2374939cd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Inspiration Bit has a wonderful collection of sites whose style sheets &lt;a href=&#34;http://www.inspirationbit.com/striking-web-sites-with-font-stacks-that-inspire/&#34;&gt;utilize users&amp;rsquo; system-installed fonts&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -96,10 +96,10 @@ wt498b2374939cd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Inspiration Bit has 
     
     <item>
       <title>Feltron 2008 Annual Report</title>
-      <link>http://localhost:1313/blog/feltron-2008-annual-report/</link>
+      <link>http://konigi.com/blog/feltron-2008-annual-report/</link>
       <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/feltron-2008-annual-report/</guid>
+      <guid>http://konigi.com/blog/feltron-2008-annual-report/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://feltron.com/index.php?/content/2008_annual_report/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/feltron-2008.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Nick Felton&amp;rsquo;s annual report continues to take mundane data and meticulously render superb stastical diagrams and information graphics. If every corporate Power Point chart looked this good, fewer people would be bored out of their skulls in meetings.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://feltron.com/index.php?/content/2008_annual_report/&#34;&gt;http://feltron.com/index.php?/content/2008_annual_report/&lt;/a&gt;&lt;/p&gt;
@@ -108,10 +108,10 @@ wt498b2374939cd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Inspiration Bit has 
     
     <item>
       <title>20 Websites with Beautiful Typography</title>
-      <link>http://localhost:1313/blog/20-websites-beautiful-typography/</link>
+      <link>http://konigi.com/blog/20-websites-beautiful-typography/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/20-websites-beautiful-typography/</guid>
+      <guid>http://konigi.com/blog/20-websites-beautiful-typography/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1439&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4967e178d8436.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Six revisions showcases &lt;a href=&#34;http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/&#34;&gt;20 sites&lt;/a&gt; that use typography exceptionally well.&lt;/p&gt;&lt;/p&gt;
 
@@ -121,10 +121,10 @@ wt4967e178d8436.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Six revisions showca
     
     <item>
       <title>The 100% Easy-2-Read Standard</title>
-      <link>http://localhost:1313/blog/100-easy-2-read-standard/</link>
+      <link>http://konigi.com/blog/100-easy-2-read-standard/</link>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/100-easy-2-read-standard/</guid>
+      <guid>http://konigi.com/blog/100-easy-2-read-standard/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://informationarchitects.jp/100e2r/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1434&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49637eae0435a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just stumbled onto &lt;a href=&#34;http://informationarchitects.jp/100e2r/&#34;&gt;ia.jp&amp;rsquo;s web type manifesto&lt;/a&gt; for the first time and whole heartedly agree. &lt;/p&gt;&lt;/p&gt;
 
@@ -134,10 +134,10 @@ wt49637eae0435a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just stumbled on
     
     <item>
       <title>typeface.js: Rendering text with Javascript, canvas, and VML</title>
-      <link>http://localhost:1313/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</link>
+      <link>http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</guid>
+      <guid>http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://typeface.neocracy.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1430&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt495cc52f28966.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just came across &lt;a href=&#34;http://typeface.neocracy.org/&#34;&gt;typeface.js&lt;/a&gt;, a type face replacement method like &lt;a href=&#34;http://wiki.novemberborn.net/sifr/&#34;&gt;SIFR&lt;/a&gt; and &lt;a href=&#34;http://facelift.mawhorter.net/&#34;&gt;FLIR&lt;/a&gt;, that lets you embed custom fonts in your pages using CSS. On the backend, javscript is used with &lt;canvas&gt; or VML to draw the glyphs for your fonts. &lt;/p&gt;
 &lt;p&gt;Compared with SIFR, this suffers from some issues. Biggest one perhaps is that you can&amp;rsquo;t select text since it&amp;rsquo;s rendered as an image. Not so with SIFR. I wouldn&amp;rsquo;t go using this method for body text, but if you&amp;rsquo;re already considering doing image replacement for elements like headings, this would be a library to watch. There&amp;rsquo;s bound to be accessibility improvements in the future using methods that put invisible text over the image, or something like that.&lt;/p&gt;&lt;/p&gt;
@@ -148,10 +148,10 @@ wt495cc52f28966.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just came across &
     
     <item>
       <title>Typocalypse</title>
-      <link>http://localhost:1313/blog/typocalypse/</link>
+      <link>http://konigi.com/blog/typocalypse/</link>
       <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typocalypse/</guid>
+      <guid>http://konigi.com/blog/typocalypse/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://flickr.com/photos/larsveldkamp/sets/72157607710779069/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/typocalypse.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Lars Willem Veldkampf&amp;rsquo;s &lt;a href=&#34;http://flickr.com/photos/larsveldkamp/sets/72157607710779069/&#34;&gt;Typocalypse&lt;/a&gt; flickr set exposes the subliminal messages in type.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://flickr.com/photos/larsveldkamp/sets/72157607710779069/&#34;&gt;http://flickr.com/photos/larsveldkamp/sets/72157607710779069/&lt;/a&gt;&lt;/p&gt;
@@ -160,10 +160,10 @@ wt495cc52f28966.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just came across &
     
     <item>
       <title>Lighthouse International - Making Text Legible</title>
-      <link>http://localhost:1313/blog/lighthouse-international-making-text-legible/</link>
+      <link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/lighthouse-international-making-text-legible/</guid>
+      <guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid>
       <description>&lt;p&gt;Lighthouse provides &lt;a href=&#34;http://www.lighthouse.org/accessibility/legible/&#34;&gt;10 basic guidelines&lt;/a&gt; for designing for people with partial sight. &lt;/p&gt;
 &lt;p&gt;&#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;&lt;/p&gt;
     
@@ -174,10 +174,10 @@ wt495cc52f28966.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just came across &
     
     <item>
       <title>Typechart - Browse Web Type, Grab CSS</title>
-      <link>http://localhost:1313/blog/typechart-browse-web-type-grab-css/</link>
+      <link>http://konigi.com/blog/typechart-browse-web-type-grab-css/</link>
       <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typechart-browse-web-type-grab-css/</guid>
+      <guid>http://konigi.com/blog/typechart-browse-web-type-grab-css/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.typechart.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1370&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48da8ab694cf0_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.typechart.com/&#34;&gt;TYPECHART&lt;/a&gt; is pretty neat. It lets you flip through, preview for Mac or Windows and compare web typography while retrieving the CSS.&lt;/p&gt;&lt;/p&gt;
 
@@ -187,10 +187,10 @@ wt48da8ab694cf0_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>12 Examples of Paragraph Typography</title>
-      <link>http://localhost:1313/blog/12-examples-paragraph-typography/</link>
+      <link>http://konigi.com/blog/12-examples-paragraph-typography/</link>
       <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/12-examples-paragraph-typography/</guid>
+      <guid>http://konigi.com/blog/12-examples-paragraph-typography/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jontangerine.com/silo/typography/p/#default&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48d7c91cdf784_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jontangerine.com/silo/typography/p/&#34;&gt;12 examples&lt;/a&gt; complete with CSS from Jon Tan&amp;rsquo;s article on &lt;a href=&#34;http://jontangerine.com/log/2008/06/the-paragraph-in-web-typography-and-design&#34;&gt;The Paragraph in Web Typography &amp;amp; Design&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -200,10 +200,10 @@ wt48d7c91cdf784_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>Copy Paste Character</title>
-      <link>http://localhost:1313/blog/copy-paste-character/</link>
+      <link>http://konigi.com/blog/copy-paste-character/</link>
       <pubDate>Thu, 18 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/copy-paste-character/</guid>
+      <guid>http://konigi.com/blog/copy-paste-character/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.copypastecharacter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1363&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48d25799ceef8.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.copypastecharacter.com/&#34;&gt;Click a character to copy it&lt;/a&gt;—hold down «alt» to copy several characters. Simple and brilliant.&lt;/p&gt;
 &lt;p&gt;Update: Martin updated the site to allow copying as text or HTML. Sweet.&lt;/p&gt;&lt;/p&gt;

@@ -2,19 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Konigi</title>
-    <link>http://localhost:1313/categories/blog/</link>
+    <link>http://konigi.com/categories/blog/</link>
     <description>Recent content in Blog on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://konigi.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jim Kalbach on Jazz as a Model for the Way Businesses Work</title>
+      <link>http://konigi.com/blog/jim-kalbach-jazz/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jim-kalbach-jazz/</guid>
+      <description>&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/j8Gmp194zbI?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tedxtalks.ted.com/video/Jazz-Improvisation-as-a-Model-f;search%3Ajazz&#34;&gt;Jim Kalbach talks&lt;/a&gt; about the improvisational model of Jazz as a metaphor for the way some businesses approach collaboration today. What was probably seen a few years ago as a radical way of structuring companies to organize around the work rather than using inflexible business units as boundaries, is now more commonplace.&lt;/p&gt;
+
+&lt;p&gt;To demonstrate what happens in the teamwork of a group of jazz performers, Kalbach assembled a group of musicians to perform a song they hadn&amp;rsquo;t played together before, and described how jazz performances &amp;ldquo;work&amp;rdquo; as a type of collaboration. These are the characteristics we can learn from.&lt;/p&gt;
+
+&lt;p&gt;Empathy: Everyone brings something unique to the performance, but it&amp;rsquo;s only when the individuals come together that great music happens. So while Jazz performers allows for individuality to shine through, it&amp;rsquo;s in the listening and working with each musician&amp;rsquo;s solo that the whole emerges.&lt;/p&gt;
+
+&lt;p&gt;Embracing uncertainty: The idea of approaching each performance with an expectation that what may unfold is unknown means that performers can experiment and improvise.&lt;/p&gt;
+
+&lt;p&gt;Lastly, improvisation in a team doesn&amp;rsquo;t mean doing as you please. Without some rules or guidelines, it&amp;rsquo;d be easier to make a mess than music worth listening to. It could be a set of patterns, guidelines, and principles that set the stage for the work to be done. In jazz it can mean using song structure like working within the AABA song pattern so that the musicians have queues for how the individual moments can be framed. It can also mean having principles that the players have a common understanding of, so they can work with how the others&amp;rsquo; use them.&lt;/p&gt;
+
+&lt;p&gt;These three points can be easily applied to how businesses organize and do work. I like the chart he shows, giving a snapshot of how &lt;a href=&#34;https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf&#34;&gt;Spotify&amp;rsquo;s organic Guild structure (PDF)&lt;/a&gt; has allowed their Agile teams to make do with a fast growing company. It&amp;rsquo;s a great example showing how a business organizes teams into organic groups around projects. This makes it possible to flex with the constantly changing organization and business goals in order to get things done. This way of working is the antithesis of what Kalbach refers to as the command and control model of work from the Drucker age of business management for information work. The work becomes more important as does embracing the uncertainty of flatter and continuously morphing teams.&lt;/p&gt;
+
+&lt;p&gt;Where I work, a lot of our inspiration comes from the same examples of companies that Kalbach references like Gore and Valve&amp;ndash;companies that have created flatter, work-oriented teams where the focus on how the company works is as important as the products. Our founder Peldi&amp;rsquo;s greatest achievement in many of our opinions is not the product, but the company he&amp;rsquo;s created. Our most interesting meetings have been discussion focussed on continuous improvement, rather than anything related to technology.&lt;/p&gt;
+
+&lt;p&gt;This is an inspiring presentation, and I love the connection made with Jazz performance. You can see more talks from Jim at his blog &lt;a href=&#34;https://experiencinginformation.wordpress.com/&#34;&gt;Experiencing Information&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jboogie&#34;&gt;Hat tip to @jboogie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello Hugo: Konigi is now a Static Site</title>
-      <link>http://localhost:1313/blog/hello-hugo/</link>
+      <link>http://konigi.com/blog/hello-hugo/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-hugo/</guid>
+      <guid>http://konigi.com/blog/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;After many years of being a Drupal user, from version 2 when I started iaslash.org to version 6 on this site, I&amp;rsquo;ve made the move from PHP/MySQL blog to full on static site. Here&amp;rsquo;s why and how I did it.&lt;/p&gt;
@@ -27,7 +55,7 @@
 
 &lt;p&gt;I started our first experiment by moving a site to Hammer, then shortly after moved it to become a grunt generated site. Those sites are happily chugging along, maintained by a team that generates the pages with grunt. Our main site at &lt;a href=&#34;http://balsamiq.com&#34;&gt;balsamiq.com&lt;/a&gt; is one of them.&lt;/p&gt;
 
-&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://localhost:1313/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
+&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://konigi.com/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a generator written in the &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; programming language. I chose Hugo over a few of the other great options out there like Jekkyl and Octopress because of its speed, support for taxonomies, and markdown support. I&amp;rsquo;m no programmer, so my implementation of Hugo is very simple and I put together my theme using only the examples in the docs, and a couple of questions to the discussion forum.&lt;/p&gt;
 
@@ -58,16 +86,18 @@
 
 &lt;p&gt;The last step is a command that uses &lt;a href=&#34;http://s3tools.org/s3cmd&#34;&gt;s3cmd&lt;/a&gt; to sync only the changed pages to the generated public directory, removing deletions. See the options in the docs for doing this. There are many blog posts with different suggestions for how to deploy, but I found all I needed &lt;a href=&#34;http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/&#34;&gt;in this one on Programblings&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get everything on Git and hooked up to a middleman that will automate the deploy part of the process. So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get my content, which is on Git, hooked up to a middleman that will automate the deploy part of the process. If you&amp;rsquo;re interested in seeing how I created this site, you can look at my theme templates. The entire site is publicly &lt;a href=&#34;https://github.com/jibbajabba/konigi.com/tree/master/themes/konigi&#34;&gt;viewable on Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Balsamiq Mockups Version 3 Released</title>
-      <link>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</link>
+      <link>http://konigi.com/blog/balsamiq-mockups-version-3-released/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</guid>
+      <guid>http://konigi.com/blog/balsamiq-mockups-version-3-released/</guid>
       <description>&lt;p&gt;We &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;released version 3 of Balsamiq Mockups today&lt;/a&gt;! There&#39;s plenty to see including an updated interface, new file format (single packaged project files), better asset and symbols management, the addition of &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34; target=&#34;_blank&#34;&gt;FontAwesome&lt;/a&gt; icons, and plenty of improvements under the surface. We point out some of the highlights in the video below.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/-Zz8EYPhEew?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;There&#39;s plenty more under the hood, and lots of new stuff on deck. You can &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;read all about it in the announcement&lt;/a&gt;. It&#39;s a free update to existing users. &lt;a href=&#34;http://balsamiq.com/download/&#34;&gt;Download it here.&lt;/a&gt;&lt;/p&gt;
@@ -80,10 +110,10 @@
     
     <item>
       <title>Code.org Program for K-5</title>
-      <link>http://localhost:1313/blog/codeorg-program-k-5/</link>
+      <link>http://konigi.com/blog/codeorg-program-k-5/</link>
       <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/codeorg-program-k-5/</guid>
+      <guid>http://konigi.com/blog/codeorg-program-k-5/</guid>
       <description>&lt;p&gt;&lt;p&gt;Code.org now has an &lt;a href=&#34;http://code.org/educate/k5&#34;&gt;elementary school program&lt;/a&gt; (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free &lt;a href=&#34;http://scratch.mit.edu/&#34;&gt;MIT Scratch app&lt;/a&gt;, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/rNIM1fzJ8u0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
@@ -91,10 +121,10 @@
     
     <item>
       <title>Aral Balkan: I, Simulation</title>
-      <link>http://localhost:1313/blog/aral-balkan-i-simulation/</link>
+      <link>http://konigi.com/blog/aral-balkan-i-simulation/</link>
       <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/aral-balkan-i-simulation/</guid>
+      <guid>http://konigi.com/blog/aral-balkan-i-simulation/</guid>
       <description>&lt;p&gt;Aral Balkan’s &lt;a href=&#34;https://vimeo.com/106681730&#34;&gt;“I, Simulation”&lt;/a&gt; talk about the current state of privacy and freedom in software and services is one the best presentations I’ve watched this year. Balkan talks about business models that focus on user data, and what that can mean to your &#34;privacy.&#34;  Watch the talk below, given at Open Exchange in Munich, Germany. &lt;/p&gt;
 
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/106681730?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -111,10 +141,10 @@
     
     <item>
       <title>Dedesign the Web 2</title>
-      <link>http://localhost:1313/blog/dedesign-web-2/</link>
+      <link>http://konigi.com/blog/dedesign-web-2/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dedesign-web-2/</guid>
+      <guid>http://konigi.com/blog/dedesign-web-2/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://dedesigntheweb.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2887&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt5425b0a9e9e50_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Head to &lt;a href=&#34;http://dedesigntheweb.com/&#34;&gt;Dedesign the Web&lt;/a&gt; and play name that website using wireframes. Courtesy of &lt;a href=&#34;http://www.designation.io/&#34;&gt;Designation&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -124,10 +154,10 @@ wt5425b0a9e9e50_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Head to &lt;a 
     
     <item>
       <title>Des Traynor: Product Strategy is About Saying No</title>
-      <link>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</link>
+      <link>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</guid>
+      <guid>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</guid>
       <description>&lt;p&gt;&lt;p&gt;The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&amp;rsquo;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic. &lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/81544164?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 
@@ -137,10 +167,10 @@ wt5425b0a9e9e50_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Head to &lt;a 
     
     <item>
       <title>Experimenting with the IPEVO Interactive Whiteboard</title>
-      <link>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</link>
+      <link>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</link>
       <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</guid>
+      <guid>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</guid>
       <description>&lt;p&gt;I got an &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&#34;&gt;IPEVO Interactive Whiteboard System&lt;/a&gt; ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here&#39;s a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/101344544&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it&#39;s pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you&#39;re so inclined. I used a regular painted wall, but I&#39;m going to give it a try on a real whiteboard. &lt;/p&gt;
@@ -152,10 +182,10 @@ wt5425b0a9e9e50_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Head to &lt;a 
     
     <item>
       <title>What If DJ Controllers Had Built In Screens?</title>
-      <link>http://localhost:1313/blog/what-if-dj-controllers-had-built-screens/</link>
+      <link>http://konigi.com/blog/what-if-dj-controllers-had-built-screens/</link>
       <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what-if-dj-controllers-had-built-screens/</guid>
+      <guid>http://konigi.com/blog/what-if-dj-controllers-had-built-screens/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2881&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt53cda276915a2_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a cool &lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;design challenge&lt;/a&gt; that showed up on DJ Tech Tools&amp;rsquo; blog to mock up DJ controllers. DJ gear vendor &lt;a href=&#34;http://www.djtechtools.com/2014/07/14/numark-nv-dj-controller-full-color-screens-built-in/&#34;&gt;Numark is reported&lt;/a&gt; to be releasing a controller with a screen. That&amp;rsquo;s kind of interesting, because it could potentially let digital DJs that use them close their computer screen and focus on performing.&lt;/p&gt;&lt;/p&gt;
 
@@ -173,10 +203,10 @@ wt53cda276915a2_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a cool
     
     <item>
       <title>UI / UX Design Interviews on Medium</title>
-      <link>http://localhost:1313/blog/ui-ux-design-interviews-medium/</link>
+      <link>http://konigi.com/blog/ui-ux-design-interviews-medium/</link>
       <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ui-ux-design-interviews-medium/</guid>
+      <guid>http://konigi.com/blog/ui-ux-design-interviews-medium/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2878&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@frankiefreesbie&#34;&gt;Frank Rapacciuolo&lt;/a&gt; is writing a series of &lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Interviews of User Interface &amp;amp; User Experience Designers&lt;/a&gt; in a collection at Medium. In the interviews he asks people about their background, what they tell people they do, what a typical work day looks like, and gets opinions on several UX topics including the impact of design on society and where they stand on jumping directly into visual design.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Read the interviews at Medium&lt;/a&gt;.&lt;/p&gt;
@@ -188,10 +218,10 @@ wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>99u Master Class: Irene Au on Mindfulness Techniques to Make You a Better Creative</title>
-      <link>http://localhost:1313/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</link>
+      <link>http://konigi.com/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</guid>
+      <guid>http://konigi.com/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</guid>
       <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://blog.ireneau.com/&#34;&gt;Irene Au&lt;/a&gt; was a design and user experience leader at Google, Yahoo, and Netscape. She&amp;rsquo;s now a partner at Khosla Ventures, and has been focussing on her yoga instruction in the past few years. She led a session at the 99u Conference to discuss mindfulness mediation techniques for creatives.&lt;/p&gt;
 &lt;p&gt;Au talked about different methods of mindfulness mediation practice. Mindfulness, in general, is a state of awareness or consciousness of the present moment. Mindfulness mediation comes from the Buddhist practice of controlling the mind, and uses awareness of the present as a form of meditation.&lt;/p&gt;
 &lt;p&gt;Au talked about benefits of mindfulness practice, including references to scientific research, use in treating psychological issues. Mindfulness practice is also becoming more of a secular, mainstream topic appearing in the media frequently, including a &lt;a href=&#34;http://time.com/1556/the-mindful-revolution/&#34;&gt;Time Magazine feature&lt;/a&gt; on mindfulness. &lt;a href=&#34;http://en.wikipedia.org/wiki/Jon_Kabat-Zinn&#34;&gt;Jon Kabat-Zinn&amp;rsquo;s&lt;/a&gt; work on bringing mindfulness meditation to non-Buddhists for its benefits in stress reduction is only one example. &lt;/p&gt;
@@ -218,10 +248,10 @@ wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>99u Conference Notes: The Way We Work</title>
-      <link>http://localhost:1313/blog/99u-conference-notes-way-we-work/</link>
+      <link>http://konigi.com/blog/99u-conference-notes-way-we-work/</link>
       <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/99u-conference-notes-way-we-work/</guid>
+      <guid>http://konigi.com/blog/99u-conference-notes-way-we-work/</guid>
       <description>&lt;p&gt;These is part 1 of my notes from day 1 of the &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u&lt;/a&gt;, which began with some great talks about how we work. I&#39;ll post part 2 for the talks on how we lead in a later entry.&lt;/p&gt;
 
 &lt;p&gt;This set of talks featured &lt;a href=&#34;#joshuaklein&#34;&gt;Joshua Klein&lt;/a&gt; talking about the power of networks, &lt;a href=&#34;#sarahlewis&#34;&gt;Sarah Lewis&lt;/a&gt; talking about the importance of personal space, and &lt;a href=&#34;#wendymacnaughton&#34;&gt;Wendy MacNaughton&lt;/a&gt; talking about the power of listening.&lt;/p&gt;
@@ -276,10 +306,10 @@ wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>99u Conference Notes: Quirky Studio Visit with Ben Kaufman</title>
-      <link>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
+      <link>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
+      <guid>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
       <description>&lt;p&gt;A group of &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u attendees&lt;/a&gt; had a visit with Ben Kaufman, the CEO/founder of product development company &lt;a href=&#34;https://www.quirky.com/&#34;&gt;Quirky&lt;/a&gt;, who gave us a look into how his company uses crowd-sourcing to deliver products. Here are some of my notes from that visit. More 99u notes to follow.&lt;/p&gt;
 
 &lt;p&gt;Kaufman got his start as an inventor in high school when he made a lanyard to hold an iPod shuffle. The company he started to ship this product later morphed into Mophie, the maker of the JuiceBox battery case. He later sold that company to start Quirky. His wanted to take all of the pain and learning he went through designing, developing and shipping a product to the masses, so that anyone with a great idea could become an inventor and let someone else handle the rest.&lt;/p&gt;
@@ -310,10 +340,10 @@ wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>Car UX</title>
-      <link>http://localhost:1313/blog/car-ux/</link>
+      <link>http://konigi.com/blog/car-ux/</link>
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/car-ux/</guid>
+      <guid>http://konigi.com/blog/car-ux/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://car-ux.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2877&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt53557d1047b8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Min Seung Song&amp;rsquo;s &lt;a href=&#34;http://car-ux.com/&#34;&gt;Car UX&lt;/a&gt; site captures elements of car interiors with photos of instrument panels, gear boxes, and wheel buttons.&lt;/p&gt;&lt;/p&gt;
 
@@ -325,10 +355,10 @@ wt53557d1047b8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Min Seung Song
     
     <item>
       <title>Studio Breaks: Sunny Day Session</title>
-      <link>http://localhost:1313/blog/studio-breaks-sunny-day-session/</link>
+      <link>http://konigi.com/blog/studio-breaks-sunny-day-session/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/studio-breaks-sunny-day-session/</guid>
+      <guid>http://konigi.com/blog/studio-breaks-sunny-day-session/</guid>
       <description>&lt;p&gt;&lt;p&gt;This is a new thing I&amp;rsquo;m doing. During work breaks I&amp;rsquo;m mixing and recording. I&amp;rsquo;m rediscovering mixing music and realizing how much I&amp;rsquo;ve missed it, so I&amp;rsquo;m making it part of my life again as a bedroom/studio DJ. &lt;/p&gt;
 &lt;p&gt;This is my first baby step in. Be gentle. Headphones on? Let&amp;rsquo;s go.&lt;/p&gt;
 &lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;http://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fjibbajabba%2Fsunny-day-session%2F&amp;amp;embed_uuid=a2ce4d36-62e8-4018-acf5-e2db6cc8c033&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;
@@ -337,21 +367,6 @@ wt53557d1047b8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Min Seung Song
 &lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://i.mixcloud.com/CHW8D5&#34;&gt;http://i.mixcloud.com/CHW8D5&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cloudwash: Washing machine prototype by Berg</title>
-      <link>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</link>
-      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/87522764?color=ffffff&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;I love Berg&amp;rsquo;s demo of their &lt;a href=&#34;http://vimeo.com/bergstudio/cloudwash&#34;&gt;Cloudwash smart washing machine&lt;/a&gt; concept. The company created the prototype to demonstrate how a smart networked appliance might be better designed. The video provides an excellent walkthrough of their design process.&lt;/p&gt;
-&lt;p&gt;They simplify the face, which consisted of many controls for dedicated functions, reducing that to &amp;ldquo;high value functions&amp;rdquo; only. More functionality is accessible via a smart phone app, which also integrates the device with services such as warranty and supplies management and purchasing. &lt;/p&gt;
-&lt;p&gt;I haven&amp;rsquo;t been very interested in the current offerings of smart appliances, particularly networked refrigerators and stoves, but the value of design in this concept is communicated so well that it is compelling. The future of networked appliances is also getting interesting with Google&amp;rsquo;s acquisition of Nest, for example. The greatest concern I might have for core appliances is trust in the security and reliability of these products. Maybe I just watch too much sci-fi. &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://vimeo.com/87522764&#34;&gt;http://vimeo.com/87522764&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

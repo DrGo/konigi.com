@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segmented Control on Konigi</title>
-    <link>http://localhost:1313/tags/segmented-control/</link>
+    <link>http://konigi.com/tags/segmented-control/</link>
     <description>Recent content in Segmented Control on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Jan 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/segmented-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/segmented-control/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Moody Tags</title>
-      <link>http://localhost:1313/interface/moody-tags/</link>
+      <link>http://konigi.com/interface/moody-tags/</link>
       <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/moody-tags/</guid>
+      <guid>http://konigi.com/interface/moody-tags/</guid>
       <description>&lt;p&gt;Moody provides a visual tagging interface for music played on iTunes. A 4 x 4 grid of colored squares provides the clickable UI for describing the mood of music tracks along the vertical axis as calm to intense, and along the horizontal axis as sad to happy. Great concept and quite easy to get after a few tries. With tracks tagged by mood, you can later play them back by selecting clicking the listen tab, and selecting as few or many moods as you would like, and finally click play. Moody works by simply adding tags to the tracks&#39; comments field and creates playlists when you select a new set of moods to play.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Tag a track playing in iTunes. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/moody-tagging-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Tag a track playing in iTunes. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/moody-tagging-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Listen to tracks by mood.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/moody-tagging-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Listen to tracks by mood.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/moody-tagging-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://crayonroom.com/moody.php&#34;&gt;http://crayonroom.com/moody.php&lt;/a&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grids on Konigi</title>
-    <link>http://localhost:1313/tags/grids/</link>
+    <link>http://konigi.com/tags/grids/</link>
     <description>Recent content in Grids on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Nov 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/grids/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/grids/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ultimate Guide To Grid-Based Web Design</title>
-      <link>http://localhost:1313/blog/ultimate-guide-grid-based-web-design/</link>
+      <link>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ultimate-guide-grid-based-web-design/</guid>
+      <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2195&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4af9cebbf15ff_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noupe offers up &lt;a href=&#34;http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html&#34;&gt;a complete guide to techniques and tools&lt;/a&gt; for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.&lt;/p&gt;&lt;/p&gt;
 
@@ -26,10 +26,10 @@ wt4af9cebbf15ff_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noupe offers u
     
     <item>
       <title>Making grids in Illustrator</title>
-      <link>http://localhost:1313/blog/making-grids-illustrator/</link>
+      <link>http://konigi.com/blog/making-grids-illustrator/</link>
       <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-grids-illustrator/</guid>
+      <guid>http://konigi.com/blog/making-grids-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://font.is/?p=1226&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1754&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a href=&#34;http://font.is/?p=1226&#34;&gt;an excellent tutorial&lt;/a&gt; for setting up grids in Adobe Illustrator using the Split Into Grid tool.&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a 
     
     <item>
       <title>Wireframe Sketch Book Now Available</title>
-      <link>http://localhost:1313/blog/wireframe-sketch-book-now-available/</link>
+      <link>http://konigi.com/blog/wireframe-sketch-book-now-available/</link>
       <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wireframe-sketch-book-now-available/</guid>
+      <guid>http://konigi.com/blog/wireframe-sketch-book-now-available/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://shop.konigi.com/product/wireframe-sketch-book-small?q=store/product/wireframe-sketch-book-small&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/konigi-sketchbook.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The sketch book is &lt;a href=&#34;http://shop.konigi.com/product/wireframe-sketch-book-small?q=store/product/wireframe-sketch-book-small&#34;&gt;finally available in the store&lt;/a&gt;. It&amp;rsquo;s a small 8.25 x 5.5 inch wirebound book that lays flat, has a 24 x 24 grid with note block on the front (landscape orientation) and 48 x 24 grid on the back (landscape or portrait). Includes 50 perforated sheets (100 pages) printed in non-photo blue ink, and an interior flap on the back cover. For the first set sold, I&amp;rsquo;m also including a Zebra 0.7mm mechanical pencil. Yay, you!&lt;/p&gt;
 &lt;p&gt;As you may know, I&amp;rsquo;ve been looking for a notebook with a grid that works well for a UI designer&amp;rsquo;s workflow, similar to the larger letter sized graphpaper, but made to be small and portable. I&amp;rsquo;m accustomed to doing initial sketches small and rough. The smaller sized paper lets you work more freely and loosely I find, so you can generate many ideas before selecting and refining. This sketch book is the one I&amp;rsquo;ve been using for this work.&lt;/p&gt;
 &lt;p&gt;It helps with my workflow because I now have the small format for sketches, the larger format for refinement of ideas, and the OmniGraffle templates for deliverables. Each of these has the same number of grid columns and I&amp;rsquo;m continually working to improve the consistency between them so the flow makes the translation of ideas smooth from one format to another.&lt;/p&gt;
@@ -54,10 +54,10 @@ wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a 
     
     <item>
       <title>Photoshop and Illustrator Grid Templates</title>
-      <link>http://localhost:1313/blog/photoshop-and-illustrator-grid-templates/</link>
+      <link>http://konigi.com/blog/photoshop-and-illustrator-grid-templates/</link>
       <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/photoshop-and-illustrator-grid-templates/</guid>
+      <guid>http://konigi.com/blog/photoshop-and-illustrator-grid-templates/</guid>
       <description>&lt;p&gt;&lt;p&gt;I moved the &lt;a href=&#34;../tools/photoshop-template-blueprint-css-comps.html&#34;&gt;Photoshop&lt;/a&gt; and &lt;a href=&#34;../tools/illustrator-template-blueprint-css-comps.html&#34;&gt;Illustrator templates&lt;/a&gt; for the Blueprint Grid System over from my personal blog at urlgreyhot to Konigi&amp;rsquo;s &lt;a href=&#34;../tools/overview.html&#34;&gt;Tools section&lt;/a&gt;. So now you can make the most of the system I use here and go from sketch to wireframe, to visual design comp.&lt;/p&gt;
 &lt;p&gt;The complete tool kit now includes: &lt;/p&gt;
 &lt;ul&gt;
@@ -74,10 +74,10 @@ wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a 
     
     <item>
       <title>Grid Designer: CSS grid generator</title>
-      <link>http://localhost:1313/blog/grid-designer-css-grid-generator/</link>
+      <link>http://konigi.com/blog/grid-designer-css-grid-generator/</link>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/grid-designer-css-grid-generator/</guid>
+      <guid>http://konigi.com/blog/grid-designer-css-grid-generator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://grid.mindplay.dk/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1437&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496794aebe121.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a cool &lt;a href=&#34;http://grid.mindplay.dk/&#34;&gt;browser-based CSS grid generator&lt;/a&gt; created by Rasmus Schultz of mindplay.dk. Lets you quickly set some column, gutter, and margin sizes using forms inputs or button controls. Similarly you can set typography with form controls, and the results are shown on screen. When you&amp;rsquo;re happy, you can bookmark your work, and export the CSS. Sweet.&lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://twitter.com/emenel/status/1106919151&#34;&gt;@emenel&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -88,10 +88,10 @@ wt496794aebe121.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a cool &lt;a
     
     <item>
       <title>The Grid System</title>
-      <link>http://localhost:1313/blog/grid-system/</link>
+      <link>http://konigi.com/blog/grid-system/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/grid-system/</guid>
+      <guid>http://konigi.com/blog/grid-system/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.thegridsystem.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1419&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt493540b9d46e8.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The ultimate resource on Grid Systems. You&amp;rsquo;ll find links to articles, books, tools, and other resources related to grid systems here. &lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://coudal.com/archives/2008/12/the_grid_system.php&#34;&gt;Coudal&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -102,10 +102,10 @@ wt493540b9d46e8.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The ultimate resourc
     
     <item>
       <title>CSS Framework Roundup</title>
-      <link>http://localhost:1313/blog/css-framework-roundup/</link>
+      <link>http://konigi.com/blog/css-framework-roundup/</link>
       <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/css-framework-roundup/</guid>
+      <guid>http://konigi.com/blog/css-framework-roundup/</guid>
       <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;Hidden Pixels recently &lt;a href=&#34;http://hiddenpixels.com/css-stuffs/css-frameworks/&#34;&gt;rounded up the available CSS frameworks&lt;/a&gt; into a list. I happen to be evaluating CSS frameworks as well to find a flexible system to provide on a CMS I&amp;rsquo;m working on. The Hidden Pixels list isn&amp;rsquo;t very descriptive of the specific usage or value each framework has to offer, so I&amp;rsquo;ve provided a summary of each to make this a useful reference when evaluating the list.&lt;/p&gt;
 &lt;p&gt;The CSS presentation frameworks listed below provide the underlying CSS structure for typical web site needs. The idea behind most of these is that they provide rules for the kinds of markup and layout web designers do repeatedly. They may supply grid systems and typography support, but not all of these provide both. Most provide at minimum an Eric Meyer style CSS reset. I&amp;rsquo;ve divided the lists into separate the frameworks providing support for grid-based customizable layouts from the other types of systems.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Frameworks supporting grid-based customizable layout&lt;/strong&gt;&lt;/p&gt;
@@ -154,10 +154,10 @@ Provides a fixed width and several multi-column layout options.&lt;/li&gt;
     
     <item>
       <title>emastic CSS Framework</title>
-      <link>http://localhost:1313/blog/emastic-css-framework/</link>
+      <link>http://konigi.com/blog/emastic-css-framework/</link>
       <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/emastic-css-framework/</guid>
+      <guid>http://konigi.com/blog/emastic-css-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://code.google.com/p/emastic/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/emastic-css-framework.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/emastic/&#34;&gt;emastic&lt;/a&gt; is an interesting looking CSS Framework that is designed for both fixed and fluid layout. It looks like a nice alternative to fluid layouts than YUI Grids, with simpler and more flexible column structuring and class naming.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;* Lightweight (compressed weight less then 4kb)&lt;br /&gt;
 * Personalized width of the page in (em,px,%)&lt;br /&gt;
@@ -171,10 +171,10 @@ Provides a fixed width and several multi-column layout options.&lt;/li&gt;
     
     <item>
       <title>Grid tips for Photoshop users</title>
-      <link>http://localhost:1313/blog/grid-tips-photoshop-users/</link>
+      <link>http://konigi.com/blog/grid-tips-photoshop-users/</link>
       <pubDate>Thu, 19 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/grid-tips-photoshop-users/</guid>
+      <guid>http://konigi.com/blog/grid-tips-photoshop-users/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.madebyelephant.com/blog/grid-tips-for-photoshop-users&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1310&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt485abf8e3d74a_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Made by Elephant has a great article with &lt;a href=&#34;http://www.madebyelephant.com/blog/grid-tips-for-photoshop-users&#34;&gt;tips for creating guides&lt;/a&gt; quickly and accurately in Photoshop.&lt;/p&gt;&lt;/p&gt;
 

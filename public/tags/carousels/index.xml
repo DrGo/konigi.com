@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carousels on Konigi</title>
-    <link>http://localhost:1313/tags/carousels/</link>
+    <link>http://konigi.com/tags/carousels/</link>
     <description>Recent content in Carousels on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/carousels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/carousels/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>jQuery Slider Gallery</title>
-      <link>http://localhost:1313/blog/jquery-slider-gallery/</link>
+      <link>http://konigi.com/blog/jquery-slider-gallery/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jquery-slider-gallery/</guid>
+      <guid>http://konigi.com/blog/jquery-slider-gallery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1900&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ac364be46e49.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;jQuery Slider Gallery&lt;/a&gt; article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&amp;rsquo;s product pages.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt4ac364be46e49.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;
     
     <item>
       <title>Smart Experience on Carousels</title>
-      <link>http://localhost:1313/blog/smart-experience-carousels/</link>
+      <link>http://konigi.com/blog/smart-experience-carousels/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/smart-experience-carousels/</guid>
+      <guid>http://konigi.com/blog/smart-experience-carousels/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://smartexperience.org/sp/ixd-skills-carousels/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1494&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has posted &lt;a href=&#34;http://smartexperience.org/sp/ixd-skills-carousels/&#34;&gt;a 5 minute video&lt;/a&gt; showing different kinds of carousels in action and teaches you the three key design criteria you need to know to create your own. Excellent stuff and the best discussion of why carousels are effective, and a thorough review of the different kinds of carousels you might use. Check it for free now. This micro-seminar goes on sale soon.&lt;/p&gt;&lt;/p&gt;
 
@@ -37,10 +37,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>iTunes Pagination</title>
-      <link>http://localhost:1313/interface/itunes-pagination/</link>
+      <link>http://konigi.com/interface/itunes-pagination/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/itunes-pagination/</guid>
+      <guid>http://konigi.com/interface/itunes-pagination/</guid>
       <description>&lt;p&gt;The iTunes Store has 3 different pagination controls it uses in different places. The most common method for paging through a series of items is to show a carousel on the main pages, with prev/next arrow icons to shuffle through sets of 3-4. On special featured modules with larger poster image thumbnails they use coverflow with their hybrid scrollbar which has arrows that increment one item at a time, or allow you to scroll to move through larger increments. Lastly, they have a simple back/more link control that they use on some of the generated views. I noticed this is in the Upgrade to iTunes Plus area.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Carousel showing prev/next arrows and position indicator circles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Carousel showing prev/next arrows and position indicator circles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Generic Back/More links with text showing [current range] of [total number].&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Generic Back/More links with text showing [current range] of [total number].&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -49,10 +49,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>MSNBC Spectra Visual Newsreader Carousel</title>
-      <link>http://localhost:1313/interface/msnbc-spectra-visual-newsreader-carousel/</link>
+      <link>http://konigi.com/interface/msnbc-spectra-visual-newsreader-carousel/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/msnbc-spectra-visual-newsreader-carousel/</guid>
+      <guid>http://konigi.com/interface/msnbc-spectra-visual-newsreader-carousel/</guid>
       <description>&lt;p&gt;MSNBC.com&#39;s Spectra Visual Newsreader provides an interesting way of visually presenting channels of content from the massive news site. Adding channels drops media cards into the screen and rotates them in a 3D carousel. &lt;/p&gt;
 &lt;p&gt;Below the vortext of cards, a hybrid pagination scrollbar, which bests Apple&#39;s concept, allows the user to select cards to view one at a time. Previous/Next arrows allow linear progression. A helpful [current card]/[total cards] indicator is shown on the scroll bar. The currently selected card is shown below the carousel with media details and thumbnail. What really makes this control nail the experience is that after each card in the order is displayed, every prior card is tucked away into the stack. This hiding behavior is based on the linear order cards rather than hiding the ones the user has actually viewed. If they were eventually able to use the latter, the &#34;read/viewed&#34; status, as the criteria would make this that more interesting. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Full view of the Spectra Visual Newsreader.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Full view of the Spectra Visual Newsreader.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking on a card in the carousel displays details and the pagination controls update to show the number of the card in the stack.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking on a card in the carousel displays details and the pagination controls update to show th...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Carousel showing prev/next, first/last, and scroll bar.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Carousel showing prev/next, first/last, and scroll bar.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Selecting cards hide all prior items behind the current card deck/stack and show the remaining items in the carousel.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Selecting cards hide all prior items behind the current card deck/stack and show the remaining it...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -62,10 +62,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>QuickSnapper Vertical Carousel</title>
-      <link>http://localhost:1313/interface/quicksnapper-vertical-carousel/</link>
+      <link>http://konigi.com/interface/quicksnapper-vertical-carousel/</link>
       <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/quicksnapper-vertical-carousel/</guid>
+      <guid>http://konigi.com/interface/quicksnapper-vertical-carousel/</guid>
       <description>&lt;p&gt;The vertical carousel on Quicksnapper shows a preview of recently snapped screenshots. Unlike most carousels, however, this one auto-scrolls vertically, and provides controls at the top and bottom rather than at the sides. It displays 4 items at a time.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Carousel of recent websnaps with scroll buttons at top and bottom.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/quicksnapper-vertical-carousel-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Carousel of recent websnaps with scroll buttons at top and bottom.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/quicksnapper-vertical-carousel-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Carousel shown in page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/quicksnapper-vertical-carousel-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Carousel shown in page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/quicksnapper-vertical-carousel-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.quicksnapper.com/&#34;&gt;http://www.quicksnapper.com/&lt;/a&gt;&lt;/p&gt;
@@ -74,10 +74,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>Hulu 3 Up Carousel</title>
-      <link>http://localhost:1313/interface/hulu-3-carousel/</link>
+      <link>http://konigi.com/interface/hulu-3-carousel/</link>
       <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/hulu-3-carousel/</guid>
+      <guid>http://konigi.com/interface/hulu-3-carousel/</guid>
       <description>&lt;p&gt;Hulu&#39;s new 3-up carousel is being utilized in the site&#39;s channels sections to offer a promotional space that takes up less screen height than their 1 up carousel, allowing the display of 3 promo items. This is very similar to the horizontal scrolling Cover Flow module in use on Apple.com interior pages.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. First set of channels. Scroll bar below allows the user to view more.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-3up-carousel-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. First set of channels. Scroll bar below allows the user to view more.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-3up-carousel-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Second set of channels. Hovering over a channel reveals it&#39;s name and an &amp;quot;explore&amp;quot; button to jump to it.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-3up-carousel-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Second set of channels. Hovering over a channel reveals it&#39;s name and an &amp;quot;explore&amp;quot;...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-3up-carousel-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.hulu.com/&#34;&gt;http://www.hulu.com/&lt;/a&gt;&lt;/p&gt;
@@ -86,10 +86,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>Apple Carousels</title>
-      <link>http://localhost:1313/interface/apple-carousels/</link>
+      <link>http://konigi.com/interface/apple-carousels/</link>
       <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/apple-carousels/</guid>
+      <guid>http://konigi.com/interface/apple-carousels/</guid>
       <description>&lt;p&gt;Apple&#39;s Coverflow-like carousels are used on interior pages of Apple.com to provide visual navigation of products using product images. A set of images is displayed in a wide panel with a horizontal scrollbar. Carousels are used primarily for promotion when most sites place a set of images in this upper area of the screen below the navigation. Apple utilizes this space to provide better findability of products within each section of the site.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The coverflow area opened up to Macs on the Mac page. The labels in the scrollbar are used to jump to product category in the horizontal scrolling list.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/apple-coverflow-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The coverflow area opened up to Macs on the Mac page. The labels in the scrollbar are used to jum...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/apple-coverflow-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;Servers&amp;quot; jumps to the end of the list. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/apple-coverflow-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;Servers&amp;quot; jumps to the end of the list. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/apple-coverflow-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.apple.com/mac/&#34;&gt;http://www.apple.com/mac/&lt;/a&gt;&lt;/p&gt;
@@ -98,10 +98,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>CBS Navigation</title>
-      <link>http://localhost:1313/interface/cbs-navigation/</link>
+      <link>http://konigi.com/interface/cbs-navigation/</link>
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/cbs-navigation/</guid>
+      <guid>http://konigi.com/interface/cbs-navigation/</guid>
       <description>&lt;p&gt;The CBS site features a drop down menu that spans the entire width of the layout when the user hovers over shows. Wide drop downs are not unusual, and for a time appeared on the Amazon.com site when they experiencing the growth of their departments. On CBS, this type of interface is used to display as many of the network&#39;s shows as it can, segmenting them by airing time and format. &lt;/p&gt;
 &lt;p&gt;Below the navigation the site shows featured shows in a promotional module with a carousel UI. Lower down in the page, the featured and algorithmic lists of videos are presented in carousels as well.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Home page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cbs-globalnav-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Home page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cbs-globalnav-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over the &amp;quot;Shows&amp;quot; link in the global navigation displays wide drop down menu.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cbs-globalnav-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over the &amp;quot;Shows&amp;quot; link in the global navigation displays wide drop down menu.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cbs-globalnav-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -111,10 +111,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>Yahoo! Autos Carousel and Accordion Panel</title>
-      <link>http://localhost:1313/interface/yahoo-autos-carousel-and-accordion-panel/</link>
+      <link>http://konigi.com/interface/yahoo-autos-carousel-and-accordion-panel/</link>
       <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/yahoo-autos-carousel-and-accordion-panel/</guid>
+      <guid>http://konigi.com/interface/yahoo-autos-carousel-and-accordion-panel/</guid>
       <description>&lt;p&gt;Yahoo! Autos has uses a nice hybrid design pattern for promoting the different categories of top cars selected by users. Situated in the right hand column, the arrows at the upper right allow the user to slide through the different lists. The details for the top car are shown in an exposed panel of the accordion, and the titles of the remaining 4 are displayed as well with large number to indicate order. Moving the cursor over one of the other titles slides that panel open and collapses the others out of view.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The User Picks panel is promoted on the right side of the page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The User Picks panel is promoted on the right side of the page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over the title of one of the cars expands the accordion to reveal that car&#39;s detail.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over the title of one of the cars expands the accordion to reveal that car&#39;s detail...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking the arrows in the upper right slide to the previous or next list, and the dot indicator above the arrows show what page you&#39;re viewing in the set.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking the arrows in the upper right slide to the previous or next list, and the dot indicator ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-carousel-accordion-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/AceKEwA&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;486&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://autos.yahoo.com/&#34;&gt;http://autos.yahoo.com/&lt;/a&gt;&lt;/p&gt;
@@ -123,10 +123,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>Panic Tabs and Carousel Panel</title>
-      <link>http://localhost:1313/interface/panic-tabs-and-carousel-panel/</link>
+      <link>http://konigi.com/interface/panic-tabs-and-carousel-panel/</link>
       <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/panic-tabs-and-carousel-panel/</guid>
+      <guid>http://konigi.com/interface/panic-tabs-and-carousel-panel/</guid>
       <description>&lt;p&gt;Panic&#39;s product page for Coda provides a hybrid interface utilizing both tabs along the top of the information panel, and arrows on the sides to slide through all of the pages in a carousel.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The product information panel in the full page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-tab-carousel-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The product information panel in the full page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-tab-carousel-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the next arrow slides to the next panel in the carousel.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-tab-carousel-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the next arrow slides to the next panel in the carousel.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-tab-carousel-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking a tab further to the right, slides all panels off to the left until the target page is reached.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-tab-carousel-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking a tab further to the right, slides all panels off to the left until the target page is r...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-tab-carousel-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/AceKDAA&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;434&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.panic.com/coda/&#34;&gt;http://www.panic.com/coda/&lt;/a&gt;&lt;/p&gt;
@@ -135,10 +135,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>The Filter Rating</title>
-      <link>http://localhost:1313/interface/filter-rating/</link>
+      <link>http://konigi.com/interface/filter-rating/</link>
       <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/filter-rating/</guid>
+      <guid>http://konigi.com/interface/filter-rating/</guid>
       <description>&lt;p&gt;The rating controls in The Filter provide a slider control with a 10 point scale. Each rating is accompanied by an English language equivalent, e.g. 0% on the negative side is &#34;Never show me this again!&#34; and 100% on the positive side is &#34;A new kind of awesome.&#34; Middling ratings are &#34;Not for me&#34;, &#34;Average&#34;, and &#34;This is good.&#34;&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Ratings slider control.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Ratings slider control.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The Ratings module in the video player. More related items in carousel below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The Ratings module in the video player. More related items in carousel below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Ratings module in user&#39;s music ratings page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/thefilter-rating-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Ratings module in user&#39;s music ratings page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/thefilter-rating-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://thefilter.com/&#34;&gt;http://thefilter.com/&lt;/a&gt;&lt;/p&gt;
@@ -147,10 +147,10 @@ wt4999572a9af98.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smart Experience has
     
     <item>
       <title>hulu Carousel</title>
-      <link>http://localhost:1313/interface/hulu-carousel/</link>
+      <link>http://konigi.com/interface/hulu-carousel/</link>
       <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/hulu-carousel/</guid>
+      <guid>http://konigi.com/interface/hulu-carousel/</guid>
       <description>&lt;p&gt;Hulu provides an interesting carousel for the promotion of content on their home page. They use a large stage that spans the entire width of the browser window and shows one promoted piece of content at a time. Left/Right arrows allow the user to page through the promos, and a representation of the promos as mini-screens (small multiples) at the bottom of the stage allows the user to see what number they&#39;re looking at, among the total promos. Clicking one of the small rectangles allows the user to jump to that promo. If the user doesn&#39;t click on the stage after they arrive to the home page, the carousel automatically scrolls through to the following promos, one at a time, slideshow style.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Home page with carousel.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-carousel-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Home page with carousel.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-carousel-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Selecting next promo.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-carousel-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Selecting next promo.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-carousel-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking icons to jump to promo.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hulu-carousel-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking icons to jump to promo.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hulu-carousel-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.hulu.com/&#34;&gt;http://www.hulu.com/&lt;/a&gt;&lt;/p&gt;

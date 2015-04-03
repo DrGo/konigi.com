@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideation on Konigi</title>
-    <link>http://localhost:1313/tags/ideation/</link>
+    <link>http://konigi.com/tags/ideation/</link>
     <description>Recent content in Ideation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ideation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/ideation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Give it five minutes</title>
-      <link>http://localhost:1313/blog/give-it-five-minutes/</link>
+      <link>http://konigi.com/blog/give-it-five-minutes/</link>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/give-it-five-minutes/</guid>
+      <guid>http://konigi.com/blog/give-it-five-minutes/</guid>
       <description>&lt;p&gt;I&#39;m certainly no stranger to being opinionated and argumentative. I&#39;ve put my foot in my mouth a few times by pushing back on others&#39; ideas, and am well aware that being quick to react can be detrimental. The older I get, the more I realize how little I know and how much more time I need to spend thinking after listening, before I open my mouth or start to type to respond.&lt;/p&gt;
 
 &lt;p&gt;I admire Jason Fried&#39;s recent blog post, &lt;a href=&#34;http://37signals.com/svn/posts/3124-give-it-five-minutes&#34;&gt;&amp;quot;Give it five minutes.&amp;quot;&lt;/a&gt; In it, he writes candidly about the issue of pushing back on ideas, starting from an exchange he had with Richard Saul Wurman, where the two had given talks at the same event. Wurman approached Fried to congratulate him, and Fried replied by telling Wurman what he disagreed with about his talk. The take away from that exchange was that Wurman taught Fried to stop and think, to give ideas a chance before challenging them with little respect or consideration.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Shades of Grey: Wireframes as Thinking Device</title>
-      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <link>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
 &lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;
@@ -54,10 +54,10 @@ wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans wri
     
     <item>
       <title>Concept Design Tools</title>
-      <link>http://localhost:1313/blog/concept-design-tools/</link>
+      <link>http://konigi.com/blog/concept-design-tools/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/concept-design-tools/</guid>
+      <guid>http://konigi.com/blog/concept-design-tools/</guid>
       <description>&lt;p&gt;Victor Lombardi &lt;a href=&#34;http://www.digital-web.com/articles/concept_design_tools/&#34;&gt;discusses concept design&lt;/a&gt; in Digital Web Magazine, pointing out that digital designers should take some inspiration from design processes for ideation and concept generation from the fields of architecture and industrial design. I think the main idea is to learn from the practices and methods from these fields, and use that as inspiration for what might be useful in your concept design practice. That is not to say that every project needs to result in a dozen concepts that need to be prototyped at high fidelity and therefore at significant cost. But by all means it could mean spending more time in ideation, sketching more alternatives, working from various perspectives and constraints and lack of constraints, and re-framing the problem/solution space&amp;#8212;practices that are inexpensive.&lt;/p&gt;
 &lt;p&gt;One of the reasons I take such inspiration from &lt;i&gt;Sketching the User Experience&lt;/i&gt; is because it is filled with these such examples of concept design from industrial design. The key take away for me from that book is that generating concepts loosely and in volume at the onset in what are noncommital gestures or ideas is probably 80% of the process. The sketch as a tool is the most important part as it relates the designer. On the flip-side, the refined prototype, or multiple and different prototypes as the case may be, is 80% of the importance when it comes to the decision makers and stakeholders who approve the design. So what we&#39;re talking about here in terms of concept design for digital designers is front-loading the design process in terms of ideation and concept generation.&lt;/p&gt;
 &lt;p&gt;Victor continues his investigation into concept design at &lt;a href=&#34;http://smartexperience.org/conceptdesign/&#34;&gt;Smart Experience&lt;/a&gt;.&lt;/p&gt;

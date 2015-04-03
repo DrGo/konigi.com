@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Management on Konigi</title>
-    <link>http://localhost:1313/tags/project-management/</link>
+    <link>http://konigi.com/tags/project-management/</link>
     <description>Recent content in Project Management on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Aug 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ProofHQ</title>
-      <link>http://localhost:1313/tools/submissions/proofhq/</link>
+      <link>http://konigi.com/tools/submissions/proofhq/</link>
       <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/proofhq/</guid>
+      <guid>http://konigi.com/tools/submissions/proofhq/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.proofhq.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2847&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5236118b735c4_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ProofHQ is a collaborative tool for reviewing creative projects such as photography and graphic design. The tool allows you to upload anything from a PDFs, PSDs, and JPGs to Word and PowerPoint files up to 75 MB. The functionality is a bit like a mashup of Flickr and Skitch. It allows users to annotate, mark up, and comment on the work. The art can be embedded into a web site with the provided embed code.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5236118b735c4_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ProofHQ is a 
     
     <item>
       <title>Backboard</title>
-      <link>http://localhost:1313/tools/submissions/backboard/</link>
+      <link>http://konigi.com/tools/submissions/backboard/</link>
       <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/backboard/</guid>
+      <guid>http://konigi.com/tools/submissions/backboard/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://getbackboard.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2752&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230460821450_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://getbackboard.com/&#34;&gt;Backboard&lt;/a&gt; is a very simple collaboration service that allows teams to upload images (e.g. schematics, design comps, and screenshots) to a web page and elicit feedback from team members. &lt;/p&gt;&lt;/p&gt;
 

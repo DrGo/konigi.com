@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Problem Solving on Konigi</title>
-    <link>http://localhost:1313/tags/problem-solving/</link>
+    <link>http://konigi.com/tags/problem-solving/</link>
     <description>Recent content in Problem Solving on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fred Wilson on Subconscious Information Processing</title>
-      <link>http://localhost:1313/blog/fred-wilson-subconscious-information-processing/</link>
+      <link>http://konigi.com/blog/fred-wilson-subconscious-information-processing/</link>
       <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/fred-wilson-subconscious-information-processing/</guid>
+      <guid>http://konigi.com/blog/fred-wilson-subconscious-information-processing/</guid>
       <description>&lt;p&gt;Fred Wilson shares advice from his father on how to take advantage of the human brain&#39;s capacity to subconsciously process information for problem solving.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote&gt;He explained that I should start working on a project as soon as it was assigned. An hour or so would do fine, he told me. He told me to come back to the project every day for at least a little bit and make progress on it slowly over time. I asked him why that was better than cramming at the very end (as I was doing during the conversation).&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Shades of Grey: Wireframes as Thinking Device</title>
-      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <link>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
 &lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;

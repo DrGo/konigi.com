@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Needs on Konigi</title>
-    <link>http://localhost:1313/tags/needs/</link>
+    <link>http://konigi.com/tags/needs/</link>
     <description>Recent content in Needs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/needs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/needs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pace</title>
-      <link>http://localhost:1313/blog/pace/</link>
+      <link>http://konigi.com/blog/pace/</link>
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/pace/</guid>
+      <guid>http://konigi.com/blog/pace/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/articles/everything-in-its-right-pace/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2576&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt503901bbde9e1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Hannah Donovan&amp;rsquo;s &lt;a href=&#34;http://www.alistapart.com/articles/everything-in-its-right-pace/&#34;&gt;essay in A List Apart&lt;/a&gt; considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.&lt;/p&gt;&lt;/p&gt;
 

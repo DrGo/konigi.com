@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wheel Menu on Konigi</title>
-    <link>http://localhost:1313/tags/wheel-menu/</link>
+    <link>http://konigi.com/tags/wheel-menu/</link>
     <description>Recent content in Wheel Menu on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wheel-menu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/wheel-menu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wikipedia Roll Clusters and Wheel Menus</title>
-      <link>http://localhost:1313/interface/wikipedia-roll-clusters-and-wheel-menus/</link>
+      <link>http://konigi.com/interface/wikipedia-roll-clusters-and-wheel-menus/</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/wikipedia-roll-clusters-and-wheel-menus/</guid>
+      <guid>http://konigi.com/interface/wikipedia-roll-clusters-and-wheel-menus/</guid>
       <description>&lt;p&gt;Wikipedia Roll, a Flash-based Wikipedia browsing application attempts to help provide better exploration of Wikipedia entries by doing some content/link analysis and clustering topics and sub-topics related to the retrieved entry. &lt;/p&gt;
 &lt;p&gt;The screen above shows the entry for &#34;&lt;a href=&#34;http://api-exploration.net/mashups/wikipedia-roll/index_en.php#/Interaction%20design&#34;&gt;interaction design.&lt;/a&gt;&#34; You can see that the links occurring in the article, and presumably, other related topics are grouped into clusters that can be further explored. Each cluster provides a wheel tool for spinning through the group&#39;s available terms. Scrolling to the left/right on the page shows more clusters for the group.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wikipedia-roll-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wikipedia-roll-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        

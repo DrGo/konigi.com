@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accessibility on Konigi</title>
-    <link>http://localhost:1313/tags/accessibility/</link>
+    <link>http://konigi.com/tags/accessibility/</link>
     <description>Recent content in Accessibility on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Accessibility Project</title>
-      <link>http://localhost:1313/tools/submissions/accessibility-project/</link>
+      <link>http://konigi.com/tools/submissions/accessibility-project/</link>
       <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/accessibility-project/</guid>
+      <guid>http://konigi.com/tools/submissions/accessibility-project/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://a11yproject.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2892&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://a11yproject.com/&#34;&gt;A11Y project&lt;/a&gt; is a community-driven effort to make web accessibility easier. They provide articles on best practices for doing front end development with accessibility in mind. The site includes an &lt;a href=&#34;http://a11yproject.com/checklist.html&#34;&gt;accessibility checklist&lt;/a&gt;, &lt;a href=&#34;http://a11yproject.com/patterns/&#34;&gt;a pattern library&lt;/a&gt; for accessible widgets, and a list of resources for diving deeper into web accessibility.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Contrast-A: Find Accessible Color Combinations</title>
-      <link>http://localhost:1313/tools/submissions/contrast-find-accessible-color-combinations/</link>
+      <link>http://konigi.com/tools/submissions/contrast-find-accessible-color-combinations/</link>
       <pubDate>Fri, 03 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/contrast-find-accessible-color-combinations/</guid>
+      <guid>http://konigi.com/tools/submissions/contrast-find-accessible-color-combinations/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.dasplankton.de/ContrastA/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2750&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230417827442_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.dasplankton.de/ContrastA/&#34;&gt;Contrast-A&lt;/a&gt; allows you to experiment with color combinations, examine them using accessibility guidelines and, create custom color palettes. The app checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt5230417827442_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>We are Colorblind Relaunches</title>
-      <link>http://localhost:1313/blog/we-are-colorblind-relaunches/</link>
+      <link>http://konigi.com/blog/we-are-colorblind-relaunches/</link>
       <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/we-are-colorblind-relaunches/</guid>
+      <guid>http://konigi.com/blog/we-are-colorblind-relaunches/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wearecolorblind.com/examples&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2560&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4f55447a7d9ca_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Tom van Beveren re-launches We are Colorblind. The site is restarting from scratch with new &lt;a href=&#34;http://wearecolorblind.com/articles&#34;&gt;articles&lt;/a&gt; and &lt;a href=&#34;http://wearecolorblind.com/examples&#34;&gt;examples&lt;/a&gt; of good and bad uses of color in terms of how those design decisions affect people with colorblindness. When you mouse over the examples, the screenshots allow you to compare the example with normal vison and simulated colorblindness. He also presents excellent examples for how these interfaces can be improved to become more accessible.&lt;/p&gt;&lt;/p&gt;
 
@@ -52,10 +52,10 @@ wt4f55447a7d9ca_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Tom van Bevere
     
     <item>
       <title>We are Colorblind</title>
-      <link>http://localhost:1313/blog/we-are-colorblind/</link>
+      <link>http://konigi.com/blog/we-are-colorblind/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/we-are-colorblind/</guid>
+      <guid>http://konigi.com/blog/we-are-colorblind/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wearecolorblind.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1894&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ab786bb0894e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://wearecolorblind.com/&#34;&gt;Wearecolorblind.com&lt;/a&gt; is a website about colorblindness created by Tom van Beveren. Van Beveren discusses good and bad examples of interfaces, charts and diagrams with respect to how they are viewed by color-blind users. He also provides patterns and suggestions for improving their accessibility. &lt;/p&gt;
 &lt;p&gt;Would be excellent to pass some of the examples through some of the &lt;a href=&#34;../tools/submissions/color-deficit-simulators.html&#34;&gt;simulators&lt;/a&gt; I recommend.&lt;/p&gt;&lt;/p&gt;
@@ -66,10 +66,10 @@ wt4ab786bb0894e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>NonVisual Desktop Access (NVDA) Screen Reader     </title>
-      <link>http://localhost:1313/tools/submissions/nonvisual-desktop-access-nvda-screen-reader/</link>
+      <link>http://konigi.com/tools/submissions/nonvisual-desktop-access-nvda-screen-reader/</link>
       <pubDate>Mon, 17 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/nonvisual-desktop-access-nvda-screen-reader/</guid>
+      <guid>http://konigi.com/tools/submissions/nonvisual-desktop-access-nvda-screen-reader/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.nvda-project.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2835&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52328aa895d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.nvda-project.org/&#34;&gt;NonVisual Desktop Access (NVDA)&lt;/a&gt; is a free and open source screen reader for the Microsoft Windows operating system. Providing feedback via synthetic speech and Braille, it enables blind or vision impaired people to access computers running Windows for no more cost than a sighted person. Major features include support for over 20 languages and the ability to run entirely from a USB drive with no installation.&lt;/p&gt;&lt;/p&gt;
 
@@ -80,10 +80,10 @@ wt52328aa895d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Check My Colours: Analyse the color contrast of your web pages</title>
-      <link>http://localhost:1313/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</link>
+      <link>http://konigi.com/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</guid>
+      <guid>http://konigi.com/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.checkmycolours.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2728&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ff35169d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CheckMyColours is a tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits. All the tests are based on the algorithms suggested by the World Wide Web Consortium (W3C).&lt;/p&gt;
 &lt;p&gt;(Via &lt;a href=&#34;http://swiss-miss.com/&#34;&gt;SwissMiss&lt;/a&gt;)&lt;/p&gt;&lt;/p&gt;
@@ -95,10 +95,10 @@ wt522ff35169d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CheckMyColour
     
     <item>
       <title>Worldspace Accesibility Analysis Service</title>
-      <link>http://localhost:1313/tools/submissions/worldspace-accesibility-analysis-service/</link>
+      <link>http://konigi.com/tools/submissions/worldspace-accesibility-analysis-service/</link>
       <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/worldspace-accesibility-analysis-service/</guid>
+      <guid>http://konigi.com/tools/submissions/worldspace-accesibility-analysis-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://worldspace.deque.com/wsservice/eval/checkCompliance.jsp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2846&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5235869a8a712_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://worldspace.deque.com/wsservice/eval/checkCompliance.jsp&#34;&gt;Worldspace&lt;/a&gt; is an accessibility analysis tool designed by Deque to identify errors with Section 508, and the Web Content Accessibility Guidelines.&lt;/p&gt;&lt;/p&gt;
 
@@ -109,10 +109,10 @@ wt5235869a8a712_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Accessibility Checklist</title>
-      <link>http://localhost:1313/tools/submissions/accessibility-checklist/</link>
+      <link>http://konigi.com/tools/submissions/accessibility-checklist/</link>
       <pubDate>Wed, 22 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/accessibility-checklist/</guid>
+      <guid>http://konigi.com/tools/submissions/accessibility-checklist/</guid>
       <description>&lt;p&gt;Ben Cano has created an accessibility checklist with priority categorized accesibility checkpoints or criteria that map to 14 accessibility principles. Going through the prioritized checklist, the designer/developer takes a gradual approach from minimal acecessibility towards optimal or most accessible.&lt;/p&gt;
 &lt;p&gt;(This entry posted on behalf of Ben Cano)&lt;/p&gt;
   
@@ -124,10 +124,10 @@ wt5235869a8a712_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Colors and the UI</title>
-      <link>http://localhost:1313/blog/colors-and-ui/</link>
+      <link>http://konigi.com/blog/colors-and-ui/</link>
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/colors-and-ui/</guid>
+      <guid>http://konigi.com/blog/colors-and-ui/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.infoq.com/articles/Colors-UI&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1411&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komischke highlights some &lt;a href=&#34;http://www.infoq.com/articles/Colors-UI&#34;&gt;aspects of colors&lt;/a&gt; and color perception together with recommendations for UI design.&lt;/p&gt;&lt;/p&gt;
 
@@ -137,10 +137,10 @@ wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komi
     
     <item>
       <title>Be Kind to the Color Blind</title>
-      <link>http://localhost:1313/blog/be-kind-color-blind/</link>
+      <link>http://konigi.com/blog/be-kind-color-blind/</link>
       <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/be-kind-color-blind/</guid>
+      <guid>http://konigi.com/blog/be-kind-color-blind/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/particletree-colorblind.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Chris Campbell or Particle Tree provides an excellent &lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;set of guidelines&lt;/a&gt; and examples for designing with users with color deficiencies in mind.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;http://particletree.com/features/interfaces-and-color-blindness/&lt;/a&gt;&lt;/p&gt;
@@ -149,10 +149,10 @@ wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komi
     
     <item>
       <title>Lighthouse International - Making Text Legible</title>
-      <link>http://localhost:1313/blog/lighthouse-international-making-text-legible/</link>
+      <link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/lighthouse-international-making-text-legible/</guid>
+      <guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid>
       <description>&lt;p&gt;Lighthouse provides &lt;a href=&#34;http://www.lighthouse.org/accessibility/legible/&#34;&gt;10 basic guidelines&lt;/a&gt; for designing for people with partial sight. &lt;/p&gt;
 &lt;p&gt;&#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;&lt;/p&gt;
     
@@ -163,10 +163,10 @@ wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komi
     
     <item>
       <title>Color Deficit Simulators</title>
-      <link>http://localhost:1313/tools/submissions/color-deficit-simulators/</link>
+      <link>http://konigi.com/tools/submissions/color-deficit-simulators/</link>
       <pubDate>Sun, 18 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/color-deficit-simulators/</guid>
+      <guid>http://konigi.com/tools/submissions/color-deficit-simulators/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://michelf.com/projects/sim-daltonism/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2363/2504760137_46933438f5_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;There are several applications and web services that help you determine if the colors used in your designs will be accessible to users that cannot view all colors. My personal favorite is the Sim Daltonism app for the Mac (pictured above). &lt;/p&gt;
 &lt;ul&gt;

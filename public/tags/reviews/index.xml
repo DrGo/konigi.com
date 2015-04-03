@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reviews on Konigi</title>
-    <link>http://localhost:1313/tags/reviews/</link>
+    <link>http://konigi.com/tags/reviews/</link>
     <description>Recent content in Reviews on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New sketch gear at JetPens: Maruman sketchbooks</title>
-      <link>http://localhost:1313/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</link>
+      <link>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</link>
       <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</guid>
+      <guid>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/jetpens-1.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;People still occasionally ask me if I make the small bound &lt;a href=&#34;wireframe-sketch-book-now-available.html&#34;&gt;Wireframe Sketchbooks&lt;/a&gt;, but I stopped selling them after a few years, and instead just posted &lt;a href=&#34;../tools/sketchbooks-diy.html&#34;&gt;instructions&lt;/a&gt; for how to make your own. I know that few people have the time or interest to do that, so I&#39;ve been looking at alternatives for them.&lt;/p&gt;
 &lt;p&gt;A month ago, Brad  from JetPens contacted me to tell me that he started supplying a sketchbook from Maruman that I might like. What I really liked is how closely it resembles the one I made. Some of my Instagram friends have been seeing pics of me using the &lt;a href=&#34;http://www.jetpens.com/Maruman-Mnemosyne-Inspiration-Notebook-A5-5.8-X-8.3-5-mm-X-5-mm-Graph-70-Sheets/pd/4078&#34;&gt;Maruman Mnemosyne Inspiration Notebook&lt;/a&gt;, and a few like it as I do. The one I&#39;m using is the A5 (5.8&#34; X 8.3&#34;), which has a 5 mm X 5 mm pale gray lined grid, title line, and 70 perforated sheets.&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Sketching with the iClooly Stylus</title>
-      <link>http://localhost:1313/blog/sketching-iclooly-stylus/</link>
+      <link>http://konigi.com/blog/sketching-iclooly-stylus/</link>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sketching-iclooly-stylus/</guid>
+      <guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4622655821/&#34; title=&#34;Quick sketch testing out Clooly pen on iPad by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3323/4622655821_058b3da992_o.jpg&#34; alt=&#34;Quick sketch testing out Clooly pen on iPad&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;div class=&#34;dek&#34;&gt;This seems the ideal solution for my iPad sketching needs.&lt;/div&gt;
 &lt;p&gt;A few days ago, when I thought of &lt;a href=&#34;hacking-pogo-stylus-smoother-ipad-sketching.html&#34;&gt;hacking&lt;/a&gt; my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&amp;rsquo;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&amp;rsquo;d try it out of curiosity.&lt;/p&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Appopedia, Business App Reviews</title>
-      <link>http://localhost:1313/blog/appopedia-business-app-reviews/</link>
+      <link>http://konigi.com/blog/appopedia-business-app-reviews/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/appopedia-business-app-reviews/</guid>
+      <guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.theappgap.com/reviews&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1416&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases the &lt;a href=&#34;http://www.theappgap.com/reviews&#34;&gt;Appopedia&lt;/a&gt;, a directory and review site for &amp;ldquo;2.0 apps&amp;rdquo; for work.&lt;/p&gt;&lt;/p&gt;
 
@@ -67,10 +67,10 @@ wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases 
     
     <item>
       <title>The Designer&#39;s Review of Books</title>
-      <link>http://localhost:1313/blog/designers-review-books/</link>
+      <link>http://konigi.com/blog/designers-review-books/</link>
       <pubDate>Tue, 25 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designers-review-books/</guid>
+      <guid>http://konigi.com/blog/designers-review-books/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.designersreviewofbooks.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/designers-review-books.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Andy Polaine&amp;rsquo;s &lt;a href=&#34;http://www.designersreviewofbooks.com/&#34;&gt;review of books for designers&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Although there are several good design websites that occasionally have book reviews, there didn’t seem to be a single place online where you could get constant updates and reviews of new (and sometimes old) design books.&lt;/p&gt;
 &lt;p&gt;Design books are often expensive and contrary – sometimes the book is worth having for the physical production values alone, sometimes for the images, sometimes for the words and, occasionally, for all three. We wanted to cover those elements in our reviews so that you know whether it’s worth owning.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
@@ -81,10 +81,10 @@ wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases 
     
     <item>
       <title>16 User Interface Prototyping Tools</title>
-      <link>http://localhost:1313/blog/16-user-interface-prototyping-tools/</link>
+      <link>http://konigi.com/blog/16-user-interface-prototyping-tools/</link>
       <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/16-user-interface-prototyping-tools/</guid>
+      <guid>http://konigi.com/blog/16-user-interface-prototyping-tools/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.dexodesign.com/2008/11/07/review-16-user-interface-prototyping-tools/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/dexo-prototyping-review.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Russel Wilson of Dexo Design has done an excellent &lt;a href=&#34;http://www.dexodesign.com/2008/11/07/review-16-user-interface-prototyping-tools/&#34;&gt;review of available UI Prototyping tools&lt;/a&gt; and provided tables comparing attributes including how fun they are to use, time to ramp up, and support for interactivity. &lt;/p&gt;
 &lt;p&gt;His final assessment is below:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;1) Low fidelity mockups for idea exploration and communication:  Balsamiq&lt;br /&gt;
@@ -97,10 +97,10 @@ wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases 
     
     <item>
       <title>BusinessWeek Best and Worst of the Web</title>
-      <link>http://localhost:1313/blog/businessweek-best-and-worst-web/</link>
+      <link>http://konigi.com/blog/businessweek-best-and-worst-web/</link>
       <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/businessweek-best-and-worst-web/</guid>
+      <guid>http://konigi.com/blog/businessweek-best-and-worst-web/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1329&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48692c3d2a96c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;BusinessWeek selects a jury to pick the &lt;a href=&#34;http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm&#34;&gt;best and worst designed web sites&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;BusinessWeek canvassed the Web&amp;rsquo;s best and brightest designers—from Khoi Vinh of The New York Times&amp;rsquo; Web site to Don Norman, Silicon Valley&amp;rsquo;s chief usability guru—to find out which site designs they rate — and which ones they hate.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;

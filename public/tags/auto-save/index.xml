@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auto Save on Konigi</title>
-    <link>http://localhost:1313/tags/auto-save/</link>
+    <link>http://konigi.com/tags/auto-save/</link>
     <description>Recent content in Auto Save on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Feb 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/auto-save/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/auto-save/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Untitled Document Syndrome</title>
-      <link>http://localhost:1313/blog/untitled-document-syndrome/</link>
+      <link>http://konigi.com/blog/untitled-document-syndrome/</link>
       <pubDate>Mon, 23 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/untitled-document-syndrome/</guid>
+      <guid>http://konigi.com/blog/untitled-document-syndrome/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://daringfireball.net/2009/02/untitled_document_syndrome&#34;&gt;John Gruber laments&lt;/a&gt; the illogical, yet human, tendency to avoid saving new documents, which occasionally leads users to the loss of data when an &#34;Untitled Document&#34; is left in limbo and a crash leaves them scrambling to figure out what happened to it. The point is that users often can&#39;t be bothered with things like figuring out where to put this thing on a file system because we&#39;re too busy with the task at hand, e.g. writing the thing that we might not have a name or place for yet.&lt;/p&gt;
 &lt;p&gt;Good software would save users from their non-saving, human selves. Software needs to offer a way to protect us from our laziness (and I say that as someone who is very lazy about certain things) by providing systematic methods for frictionless data protection and recovery. We&#39;re talking about the realm of usability principles that Jef Raskin wrote about, e.g. providing undos rather than dialogs for destructive actions. &lt;/p&gt;
 &lt;p&gt;Gruber also talks about the &#34;i&#34; apps&#39; implicit handling of things like file system paths in iTunes and iPhoto, which take care of file organization for you, so you can just focus on things that makes sense to you, like albums and playlists, and let the system just do the file management for you in a logical manner. Gruber also writes of the autosave intelligence in apps like Stickies and BBEdit, which auto-save in the background unbeknownst to the user, and upon return from an abandoned session, data is back where she left it, in whatever state they left it in. &lt;/p&gt;

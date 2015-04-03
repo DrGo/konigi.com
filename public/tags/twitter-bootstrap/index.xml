@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter Bootstrap on Konigi</title>
-    <link>http://localhost:1313/tags/twitter-bootstrap/</link>
+    <link>http://konigi.com/tags/twitter-bootstrap/</link>
     <description>Recent content in Twitter Bootstrap on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/twitter-bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/twitter-bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Omnigraffle Stencil for Twitter Bootstrap 2</title>
-      <link>http://localhost:1313/tools/submissions/omnigraffle-stencil-twitter-bootstrap-2/</link>
+      <link>http://konigi.com/tools/submissions/omnigraffle-stencil-twitter-bootstrap-2/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/omnigraffle-stencil-twitter-bootstrap-2/</guid>
+      <guid>http://konigi.com/tools/submissions/omnigraffle-stencil-twitter-bootstrap-2/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2695&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fc4ff89557_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The team at Viget have created a free &lt;a href=&#34;http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/&#34;&gt;OmniGraffle stencil for designing interfaces with Twitter Bootstrap&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 

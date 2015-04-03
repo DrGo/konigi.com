@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Konigi</title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>http://konigi.com/tags/css/</link>
     <description>Recent content in Css on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AniJS: Declarative handling library for CSS animations</title>
-      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <link>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <guid>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
 &lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
@@ -28,10 +28,10 @@ Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.
     
     <item>
       <title>Bootstrap, from Twitter</title>
-      <link>http://localhost:1313/tools/submissions/bootstrap-twitter/</link>
+      <link>http://konigi.com/tools/submissions/bootstrap-twitter/</link>
       <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/bootstrap-twitter/</guid>
+      <guid>http://konigi.com/tools/submissions/bootstrap-twitter/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2722&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Bootstrap&lt;/a&gt; is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.&lt;/p&gt;&lt;/p&gt;
 
@@ -42,10 +42,10 @@ wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>InstaCSS: CSS Documentation Search</title>
-      <link>http://localhost:1313/tools/submissions/instacss-css-documentation-search/</link>
+      <link>http://konigi.com/tools/submissions/instacss-css-documentation-search/</link>
       <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/instacss-css-documentation-search/</guid>
+      <guid>http://konigi.com/tools/submissions/instacss-css-documentation-search/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;a href=&#34;http://instacss.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/instacss.png&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;Using &lt;a href=&#34;http://instacss.com/&#34;&gt;InstaCSS&lt;/a&gt; is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&amp;rsquo;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item &lt;a href=&#34;../../notebook/creating-google-menubar-application.html&#34;&gt;like this&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://thinkvitamin.com/&#34;&gt;Think Vitamin Newsletter&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
@@ -57,10 +57,10 @@ wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Animate.css: Plug-and-play CSS animation stylesheet</title>
-      <link>http://localhost:1313/tools/submissions/animatecss-plug-and-play-css-animation-stylesheet/</link>
+      <link>http://konigi.com/tools/submissions/animatecss-plug-and-play-css-animation-stylesheet/</link>
       <pubDate>Tue, 18 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/animatecss-plug-and-play-css-animation-stylesheet/</guid>
+      <guid>http://konigi.com/tools/submissions/animatecss-plug-and-play-css-animation-stylesheet/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://daneden.me/animate/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2744&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230264559506_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://daneden.me/animate/&#34;&gt;animate.css&lt;/a&gt; is a stylesheet created by Dan Eden for doing common, cross-browser css3 animations for things like transitions for emphasis. To use them in your project, simply add add the stylesheet and link, add a class to an element, or call the animation yourself in your CSS file.&lt;/p&gt;&lt;/p&gt;
 
@@ -71,10 +71,10 @@ wt5230264559506_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
-      <link>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2462&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on Paul Irish and Divya Manian&amp;rsquo;s &lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt; after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this &lt;a href=&#34;http://wordpress.org/support/topic/jquery-from-google-cdn-fall-back-to-wp-local&#34;&gt;technique for WordPress&lt;/a&gt;. &lt;a href=&#34;http://make-things.com/&#34;&gt;Ben Kutil&lt;/a&gt; also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.&lt;/p&gt;&lt;/p&gt;
 
@@ -88,10 +88,10 @@ wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on 
     
     <item>
       <title>ProCSSor: CSS Prettifier</title>
-      <link>http://localhost:1313/tools/submissions/procssor-css-prettifier/</link>
+      <link>http://konigi.com/tools/submissions/procssor-css-prettifier/</link>
       <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/procssor-css-prettifier/</guid>
+      <guid>http://konigi.com/tools/submissions/procssor-css-prettifier/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.procssor.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2812&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231573edbbce_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.procssor.com/&#34;&gt;ProCSSor&lt;/a&gt; is a tool to format your CSS to be readable. Paste, specify URL, or upload file, and then select your options and ProCSSor outputs a cleaned up version of your stylesheet.&lt;/p&gt;&lt;/p&gt;
 
@@ -102,10 +102,10 @@ wt5231573edbbce_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Sencha Touch HTML5 Mobile App Framework</title>
-      <link>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
+      <link>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2764&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;Sencha Touch&lt;/a&gt; looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: &lt;a href=&#34;http://geocongress.us/&#34;&gt;GeoCongress&lt;/a&gt; (makes use of geolocation), &lt;a href=&#34;http://touchsolitaire.mobi/&#34;&gt;Solitaire&lt;/a&gt; (drag and drop and flip animations), &lt;a href=&#34;http://kivamobile.org/&#34;&gt;Kiva&lt;/a&gt; (provides iPad popover controls).&lt;/p&gt;&lt;/p&gt;
 
@@ -120,10 +120,10 @@ wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Quick Grid Overlay with CSS and JQuery</title>
-      <link>http://localhost:1313/tools/submissions/quick-grid-overlay-css-and-jquery/</link>
+      <link>http://konigi.com/tools/submissions/quick-grid-overlay-css-and-jquery/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/quick-grid-overlay-css-and-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/quick-grid-overlay-css-and-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://devgrow.com/griddy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2751&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52304326a7297_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://devgrow.com/griddy/&#34;&gt;Griddy&lt;/a&gt; is a simple JQuery plugin that overlays a customizable grid over any element.&lt;/p&gt;&lt;/p&gt;
 
@@ -134,10 +134,10 @@ wt52304326a7297_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>When can I use... HTML5, CSS3, etc.</title>
-      <link>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</link>
+      <link>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</link>
       <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
+      <guid>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://caniuse.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2718&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use provides &lt;a href=&#34;http://caniuse.com/&#34;&gt;compatibility tables&lt;/a&gt; for features in HTML5, CSS3, SVG and other upcoming web technologies.&lt;/p&gt;&lt;/p&gt;
 
@@ -148,10 +148,10 @@ wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use pro
     
     <item>
       <title>Design, the web, and craft</title>
-      <link>http://localhost:1313/blog/design-web-and-craft/</link>
+      <link>http://konigi.com/blog/design-web-and-craft/</link>
       <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-web-and-craft/</guid>
+      <guid>http://konigi.com/blog/design-web-and-craft/</guid>
       <description>&lt;p&gt;I&#39;m a little late on getting to this one, but wanted to post before I forgot because it is a great topic for early and mid-career web designers. &lt;a href=&#34;http://www.emenel.ca/post/407052566/design-the-web-and-craft&#34;&gt;Matt (emenel) reacted&lt;/a&gt; to Mark Boulton&#39;s &lt;a href=&#34;http://www.markboulton.co.uk/journal/comments/on-designers-writing-html&#34;&gt;thoughts&lt;/a&gt; about whether or not designers needed to know html.&lt;/p&gt;
 
 &lt;p&gt;Matt summarizes what he believes:&lt;/p&gt;
@@ -172,10 +172,10 @@ wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use pro
     
     <item>
       <title>LESS: Simple CSS variables and more</title>
-      <link>http://localhost:1313/tools/submissions/less-simple-css-variables-and-more/</link>
+      <link>http://konigi.com/tools/submissions/less-simple-css-variables-and-more/</link>
       <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/less-simple-css-variables-and-more/</guid>
+      <guid>http://konigi.com/tools/submissions/less-simple-css-variables-and-more/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2754&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523050916ab1f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://lesscss.org/&#34;&gt;LESS&lt;/a&gt; Ruby gem compiles LESS code into CSS. LESS extends CSS with variables, mixins, operations, and extended rules, and uses existing CSS syntax. You simply rename your .css files as .less files and compile with a plugin or a simple app like &lt;a href=&#34;http://incident57.com/less/&#34;&gt;LESS.app&lt;/a&gt; for the Mac.&lt;/p&gt;&lt;/p&gt;
 
@@ -186,10 +186,10 @@ wt523050916ab1f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Brosho - Design CSS in the browser</title>
-      <link>http://localhost:1313/tools/submissions/brosho-design-css-browser/</link>
+      <link>http://konigi.com/tools/submissions/brosho-design-css-browser/</link>
       <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/brosho-design-css-browser/</guid>
+      <guid>http://konigi.com/tools/submissions/brosho-design-css-browser/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://usejquery.com/posts/8/brosho-design-in-the-browser-jquery-plugin&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2762&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230699c7b8b7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.&lt;/p&gt;&lt;/p&gt;
 
@@ -204,10 +204,10 @@ wt5230699c7b8b7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This plugin a
     
     <item>
       <title>Drawter: DrawAble Markup Language</title>
-      <link>http://localhost:1313/blog/drawter-drawable-markup-language/</link>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/drawter-drawable-markup-language/</guid>
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2261&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;Drawter&lt;/a&gt; has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the &lt;a href=&#34;http://drawter.com/screencast/&#34;&gt;screencast&lt;/a&gt;, however, that I really got to see how beautifully it generates markup and css.&lt;/p&gt;&lt;/p&gt;
 
@@ -223,10 +223,10 @@ wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>jQuery Masonry</title>
-      <link>http://localhost:1313/tools/submissions/jquery-masonry/</link>
+      <link>http://konigi.com/tools/submissions/jquery-masonry/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jquery-masonry/</guid>
+      <guid>http://konigi.com/tools/submissions/jquery-masonry/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2703&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;Masonry&lt;/a&gt; is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.&lt;/p&gt;&lt;/p&gt;
 
@@ -237,10 +237,10 @@ wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>CSS3 Gradient Generator</title>
-      <link>http://localhost:1313/tools/submissions/css3-gradient-generator/</link>
+      <link>http://konigi.com/tools/submissions/css3-gradient-generator/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/css3-gradient-generator/</guid>
+      <guid>http://konigi.com/tools/submissions/css3-gradient-generator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://gradients.glrzad.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2841&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52333d2ea054c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://gradients.glrzad.com/&#34;&gt;CSS3 Gradient Generator&lt;/a&gt; tool creates the CSS needed to render gradient backgrounds in block elements, e.g. divs and buttons, in Mozilla or Webkit browsers, e.g. Safari or Google Chrome, or the Firefox 3.6 beta.&lt;/p&gt;&lt;/p&gt;
 

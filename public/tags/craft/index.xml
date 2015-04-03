@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craft on Konigi</title>
-    <link>http://localhost:1313/tags/craft/</link>
+    <link>http://konigi.com/tags/craft/</link>
     <description>Recent content in Craft on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/craft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/craft/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Jiro Dreams of Sushi</title>
-      <link>http://localhost:1313/blog/jiro-dreams-sushi/</link>
+      <link>http://konigi.com/blog/jiro-dreams-sushi/</link>
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jiro-dreams-sushi/</guid>
+      <guid>http://konigi.com/blog/jiro-dreams-sushi/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe width=&#34;610&#34; height=&#34;343&#34; src=&#34;http://www.youtube.com/embed/I1UDS2kgqY8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;I got around to watching David Gelb&amp;rsquo;s documentary, &lt;a href=&#34;http://www.magpictures.com/jirodreamsofsushi/&#34;&gt;Jiro Dreams of Sushi&lt;/a&gt; after seeing it making the rounds on the web repeatedly. I&amp;rsquo;ve been on a documentary kick lately, and this has made it into the category of films I&amp;rsquo;d re-watch. &lt;/p&gt;
 &lt;p&gt;The film looks at the life of celebrated sushi chef, Jiro Ono, whose small restaurant serves only sushi and requires a reservation 3 months in advance, and who is regarded as the most masterful sushi chef in Japan. After watching, I took a week to see what resonated with me, and there are a few topic that stick, related to the nurturing of one&amp;rsquo;s craft. &lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Realizing Empathy: An Inquiry into the Meaning of Making</title>
-      <link>http://localhost:1313/blog/realizing-empathy-inquiry-meaning-making/</link>
+      <link>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</link>
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/realizing-empathy-inquiry-meaning-making/</guid>
+      <guid>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;iframe frameborder=&#34;0&#34; height=&#34;360px&#34; src=&#34;http://www.kickstarter.com/projects/800798301/realizing-empathy-an-inquiry-into-the-meaning-of-m/widget/video.html&#34; width=&#34;480px&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>UP THERE and Appreciation of Craft</title>
-      <link>http://localhost:1313/blog/there-and-appreciation-craft/</link>
+      <link>http://konigi.com/blog/there-and-appreciation-craft/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/there-and-appreciation-craft/</guid>
+      <guid>http://konigi.com/blog/there-and-appreciation-craft/</guid>
       <description>&lt;p&gt;With the glut of anti-craft sentiment I hear and read so often, I think it fitting to post an entry about the love of one&#39;s work, drawing from a  craft outside of our own.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;UP THERE&lt;/em&gt; is a beautiful documentary about the slow, laborious, and fading craft of hand-painted advertising murals. This is the NY I love. This is the type of appreciation of craft that I admire.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title>Design, the web, and craft</title>
-      <link>http://localhost:1313/blog/design-web-and-craft/</link>
+      <link>http://konigi.com/blog/design-web-and-craft/</link>
       <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-web-and-craft/</guid>
+      <guid>http://konigi.com/blog/design-web-and-craft/</guid>
       <description>&lt;p&gt;I&#39;m a little late on getting to this one, but wanted to post before I forgot because it is a great topic for early and mid-career web designers. &lt;a href=&#34;http://www.emenel.ca/post/407052566/design-the-web-and-craft&#34;&gt;Matt (emenel) reacted&lt;/a&gt; to Mark Boulton&#39;s &lt;a href=&#34;http://www.markboulton.co.uk/journal/comments/on-designers-writing-html&#34;&gt;thoughts&lt;/a&gt; about whether or not designers needed to know html.&lt;/p&gt;
 
 &lt;p&gt;Matt summarizes what he believes:&lt;/p&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Creative Mornings: Physical Computing</title>
-      <link>http://localhost:1313/blog/creative-mornings-physical-computing/</link>
+      <link>http://konigi.com/blog/creative-mornings-physical-computing/</link>
       <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creative-mornings-physical-computing/</guid>
+      <guid>http://konigi.com/blog/creative-mornings-physical-computing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/creativemornings-arduino.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;At today&amp;rsquo;s excellent &lt;a href=&#34;http://www.swiss-miss.com/weblog/2008/11/creativemorni-1.html&#34;&gt;Creative Mornings&lt;/a&gt; on physical computing, &lt;a href=&#34;http://10minchat.com/&#34;&gt;Zach Klein and Casey Pugh from Vimeo&lt;/a&gt; talked about tinkering with &lt;a href=&#34;http://www.arduino.cc/&#34;&gt;Arduino&lt;/a&gt;, an open-source electronics prototyping platform. They showed some simple circuit controls using the LEDs and Processing, and then demoed a Daft Punk helmet they created with LEDs, that could then be controlled/drawn on via a Flash UI. Neat stuff.  &lt;/p&gt;
 &lt;p&gt;Later, I got to talk to Carl, a freelance developer/interaction designer who turned me onto &lt;a href=&#34;http://www.nycresistor.com/&#34;&gt;NYC Resistor&lt;/a&gt;. NYC Resistor is a hacker collective with a shared space located in downtown Brooklyn where people meet regularly to share knowledge, and hack on projects together.&lt;/p&gt;
 &lt;p&gt;As a maker, I&amp;rsquo;ve been really interested in doing more to combine my craft hobbies with my techie and interface design interests. Resistor sounds like the kind of place I&amp;rsquo;d be able to do that, and I agree that more web people should play around in this area. Reminds me of some of the 1990&amp;rsquo;s fusion of art/tech in NYC, ala adaweb, JODI, and Eyebeam.&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mix on Konigi</title>
-    <link>http://localhost:1313/tags/mix/</link>
+    <link>http://konigi.com/tags/mix/</link>
     <description>Recent content in Mix on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/mix/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mixes</title>
-      <link>http://localhost:1313/music/mixes/</link>
+      <link>http://konigi.com/music/mixes/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/mixes/</guid>
+      <guid>http://konigi.com/music/mixes/</guid>
       <description>&lt;ul id=&#34;filter&#34; class=&#34;inline mt0&#34;&gt;
   &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;a/li&gt;
   &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Featured&lt;/a&gt;&lt;/li&gt;

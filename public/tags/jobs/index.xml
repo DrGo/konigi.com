@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jobs on Konigi</title>
-    <link>http://localhost:1313/tags/jobs/</link>
+    <link>http://konigi.com/tags/jobs/</link>
     <description>Recent content in Jobs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Dec 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Jobs</title>
-      <link>http://localhost:1313/wiki/jobs/</link>
+      <link>http://konigi.com/wiki/jobs/</link>
       <pubDate>Mon, 28 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/jobs/</guid>
+      <guid>http://konigi.com/wiki/jobs/</guid>
       <description>&lt;p&gt;&lt;h3 id=&#34;toc1&#34;&gt;Professional Association Job Listings&lt;/h3&gt;
 &lt;ul&gt;
     &lt;li&gt; &lt;a href=&#34;http://designjobs.aiga.org/public/jobs_browse.asp&#34;&gt;AIGA Design Jobs&lt;/a&gt;&lt;/li&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>Resume Template</title>
-      <link>http://localhost:1313/blog/resume-template/</link>
+      <link>http://konigi.com/blog/resume-template/</link>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/resume-template/</guid>
+      <guid>http://konigi.com/blog/resume-template/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sampleresumetemplate.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1630&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a311a218d434_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Matt Brown of thingsthatarebrown.com offers a &lt;a href=&#34;http://sampleresumetemplate.net/&#34;&gt;free, simple, well-designed HTML resume template&lt;/a&gt; for those in need.&lt;/p&gt;&lt;/p&gt;
 

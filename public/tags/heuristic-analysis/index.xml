@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heuristic Analysis on Konigi</title>
-    <link>http://localhost:1313/tags/heuristic-analysis/</link>
+    <link>http://konigi.com/tags/heuristic-analysis/</link>
     <description>Recent content in Heuristic Analysis on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/heuristic-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/heuristic-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UX Check</title>
-      <link>http://localhost:1313/tools/submissions/ux-check/</link>
+      <link>http://konigi.com/tools/submissions/ux-check/</link>
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ux-check/</guid>
+      <guid>http://konigi.com/tools/submissions/ux-check/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2894&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt54b5949b0d995_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;UX Check&lt;/a&gt; is a Google Chrome extension for reviewing web sites and apps against &lt;a href=&#34;http://www.nngroup.com/articles/ten-usability-heuristics/&#34;&gt;Jakob Neilsen&amp;rsquo;s Usability Heuristics&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -29,10 +29,10 @@ wt54b5949b0d995_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>STC Usability Toolkit</title>
-      <link>http://localhost:1313/tools/submissions/stc-usability-toolkit/</link>
+      <link>http://konigi.com/tools/submissions/stc-usability-toolkit/</link>
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/stc-usability-toolkit/</guid>
+      <guid>http://konigi.com/tools/submissions/stc-usability-toolkit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2830&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;Usability Toolkit&lt;/a&gt; is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. &lt;/p&gt;&lt;/p&gt;
 

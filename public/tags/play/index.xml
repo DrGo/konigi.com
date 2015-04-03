@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Play on Konigi</title>
-    <link>http://localhost:1313/tags/play/</link>
+    <link>http://konigi.com/tags/play/</link>
     <description>Recent content in Play on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/play/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/play/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing Enjoyable User Interfaces: Lessons learned from computer games</title>
-      <link>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
+      <link>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
+      <guid>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
       <description>&lt;p&gt;I find inspiration in the literature that examines &lt;a href=&#34;tags/games.html&#34;&gt;games&lt;/a&gt; and &lt;a href=&#34;tags/play.html&#34;&gt;play&lt;/a&gt; as factors in creating delightful and engaging experiences. I like to think of how this applies to products outside of the video gaming industry. I&#39;ve had Thomas Malone&#39;s 1981 paper, &#34;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=800049.801756&#34;&gt;Heuristics for Designing Enjoyable Interfaces: Lessons from computer games&lt;/a&gt;&#34; on my desk for a while. I finally got around to reading it and found some interesting ideas that resonated with me. &lt;/p&gt;
 &lt;p&gt;The paper asks why users find games captivating and proposes guidelines for designing enjoyable systems. What I found relevant for interface design are Malone&#39;s observations about the experience with toys versus tools, and how to incorporate elements of game play to make tools more enjoyable. &lt;/p&gt;
 &lt;p&gt;One of the distinctions he makes is that when using tools, their interfaces tend to become virtually invisible, to allow the user to focus attention on tasks that satisfy their external needs and goals. &lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Will Wright on Game Play and Education</title>
-      <link>http://localhost:1313/blog/will-wright-game-play-and-education/</link>
+      <link>http://konigi.com/blog/will-wright-game-play-and-education/</link>
       <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/will-wright-game-play-and-education/</guid>
+      <guid>http://konigi.com/blog/will-wright-game-play-and-education/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/22670388&#34; width=&#34;610&#34; height=&#34;450&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://vimeo.com/22670388&#34;&gt;Will Wright&amp;rsquo;s talk&lt;/a&gt; at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.&lt;/p&gt;
 &lt;h3&gt;How we process information&lt;/h3&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>Playfulness, Usability, &amp; Context: The Three Pillars of a Delightful User Experience</title>
-      <link>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</link>
+      <link>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
+      <guid>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1896&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around. The delight that playfulness contributes to an experience depends on the context surrounding that experience. &lt;/p&gt;
@@ -98,10 +98,10 @@ wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an 
     
     <item>
       <title>iPhone is all Fun and Games</title>
-      <link>http://localhost:1313/blog/iphone-all-fun-and-games/</link>
+      <link>http://konigi.com/blog/iphone-all-fun-and-games/</link>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/iphone-all-fun-and-games/</guid>
+      <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1863&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a8b1adb1092d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher wrote the excellent article &amp;ldquo;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;The iPhone is Not Easy to Use: A New Direction for User Experience&lt;/a&gt;&amp;rdquo; on Johnny Holland to talk about why the iPhone is &lt;strong&gt;not&lt;/strong&gt; easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;As a user experience designer, I thought my job was to make things not suck. Until recently. As technology has evolved, human behavior has evolved along with it. Since behavior is the basis of user experience design, my job has evolved as well. Now, my job is to make things people love. At the 2009 IA Summit, Karl Fast articulated the value proposition of user experience design with sparkling clarity. “Engineers make things,” he said, “we make people love them.” And then he held up an iPhone as an example.&lt;/p&gt;

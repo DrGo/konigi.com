@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagination on Konigi</title>
-    <link>http://localhost:1313/tags/pagination/</link>
+    <link>http://konigi.com/tags/pagination/</link>
     <description>Recent content in Pagination on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iTunes Pagination</title>
-      <link>http://localhost:1313/interface/itunes-pagination/</link>
+      <link>http://konigi.com/interface/itunes-pagination/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/itunes-pagination/</guid>
+      <guid>http://konigi.com/interface/itunes-pagination/</guid>
       <description>&lt;p&gt;The iTunes Store has 3 different pagination controls it uses in different places. The most common method for paging through a series of items is to show a carousel on the main pages, with prev/next arrow icons to shuffle through sets of 3-4. On special featured modules with larger poster image thumbnails they use coverflow with their hybrid scrollbar which has arrows that increment one item at a time, or allow you to scroll to move through larger increments. Lastly, they have a simple back/more link control that they use on some of the generated views. I noticed this is in the Upgrade to iTunes Plus area.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Carousel showing prev/next arrows and position indicator circles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Carousel showing prev/next arrows and position indicator circles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Generic Back/More links with text showing [current range] of [total number].&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Generic Back/More links with text showing [current range] of [total number].&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>MSNBC Spectra Visual Newsreader Carousel</title>
-      <link>http://localhost:1313/interface/msnbc-spectra-visual-newsreader-carousel/</link>
+      <link>http://konigi.com/interface/msnbc-spectra-visual-newsreader-carousel/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/msnbc-spectra-visual-newsreader-carousel/</guid>
+      <guid>http://konigi.com/interface/msnbc-spectra-visual-newsreader-carousel/</guid>
       <description>&lt;p&gt;MSNBC.com&#39;s Spectra Visual Newsreader provides an interesting way of visually presenting channels of content from the massive news site. Adding channels drops media cards into the screen and rotates them in a 3D carousel. &lt;/p&gt;
 &lt;p&gt;Below the vortext of cards, a hybrid pagination scrollbar, which bests Apple&#39;s concept, allows the user to select cards to view one at a time. Previous/Next arrows allow linear progression. A helpful [current card]/[total cards] indicator is shown on the scroll bar. The currently selected card is shown below the carousel with media details and thumbnail. What really makes this control nail the experience is that after each card in the order is displayed, every prior card is tucked away into the stack. This hiding behavior is based on the linear order cards rather than hiding the ones the user has actually viewed. If they were eventually able to use the latter, the &#34;read/viewed&#34; status, as the criteria would make this that more interesting. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Full view of the Spectra Visual Newsreader.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Full view of the Spectra Visual Newsreader.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking on a card in the carousel displays details and the pagination controls update to show the number of the card in the stack.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking on a card in the carousel displays details and the pagination controls update to show th...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Carousel showing prev/next, first/last, and scroll bar.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Carousel showing prev/next, first/last, and scroll bar.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Selecting cards hide all prior items behind the current card deck/stack and show the remaining items in the carousel.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Selecting cards hide all prior items behind the current card deck/stack and show the remaining it...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/msnbc-spectra-pagination-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -36,10 +36,10 @@
     
     <item>
       <title>Autoblog Pagination</title>
-      <link>http://localhost:1313/interface/autoblog-pagination/</link>
+      <link>http://konigi.com/interface/autoblog-pagination/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/autoblog-pagination/</guid>
+      <guid>http://konigi.com/interface/autoblog-pagination/</guid>
       <description>&lt;p&gt;Autoblog&#39;s photo galleries feature beautiful, large automobile photos. Each gallery shows large beveled previous/next buttons above and below the photo, with a [current photo]/[total photos] indicator above. Below, a strip of thumbnails shows the full list of images in the gallery. An indicator of the current photo in that strip, e.g. with a special border treatment would ice the cake.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/autoblog-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/autoblog-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.autoblog.com/gallery&#34;&gt;http://www.autoblog.com/gallery&lt;/a&gt;&lt;/p&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Previous and Next Actions in Web Forms</title>
-      <link>http://localhost:1313/blog/previous-and-next-actions-web-forms/</link>
+      <link>http://konigi.com/blog/previous-and-next-actions-web-forms/</link>
       <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/previous-and-next-actions-web-forms/</guid>
+      <guid>http://konigi.com/blog/previous-and-next-actions-web-forms/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uie.com/articles/previous_next_luke&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/wroblewski-prevnext-buttons.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Nice short &lt;a href=&#34;http://www.uie.com/articles/previous_next_luke&#34;&gt;article in UIE&lt;/a&gt; by Luke Wroblewski illustrating the issues to think of when designing previous/next buttons in forms. &lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.uie.com/articles/previous_next_luke&#34;&gt;http://www.uie.com/articles/previous_next_luke&lt;/a&gt;&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Kurafire and Smashing Mag on Pagination</title>
-      <link>http://localhost:1313/blog/kurafire-and-smashing-mag-pagination/</link>
+      <link>http://konigi.com/blog/kurafire-and-smashing-mag-pagination/</link>
       <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/kurafire-and-smashing-mag-pagination/</guid>
+      <guid>http://konigi.com/blog/kurafire-and-smashing-mag-pagination/</guid>
       <description>&lt;p&gt;Faruk Ateş provides some &lt;a href=&#34;http://kurafire.net/log/archive/2007/06/22/pagination-101&#34;&gt;suggestions for implementing pagination&lt;/a&gt;, all of which I would agree with. After the suggestion list, Ateş shows quite a few examples and discusses what&#39;s good and bad about them. There&#39;s a huge list of examples &lt;a href=&#34;http://www.smashingmagazine.com/2007/11/16/pagination-gallery-examples-and-good-practices/&#34;&gt;on Smashing Magazine&lt;/a&gt; as well, although some of them are a little fussy.&lt;/p&gt;
 &lt;p&gt;Oddly enough, while a few of the examples show the method of using an ellipsis plus the last few page numbers as a way to show number of pages, Ateş doesn&#39;t count that as a recommended practice. &lt;/p&gt;
 &lt;p&gt;Here&#39;s a screenshot of Flickr using this method. I like Flickr&#39;s as an example because it&#39;s as straightforward as ou can get with no fuss. &lt;/p&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Flickr Pagination</title>
-      <link>http://localhost:1313/interface/flickr-pagination/</link>
+      <link>http://konigi.com/interface/flickr-pagination/</link>
       <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/flickr-pagination/</guid>
+      <guid>http://konigi.com/interface/flickr-pagination/</guid>
       <description>&lt;p&gt;Pagination is often overlooked as a minor detail. Good pagination gives the user a sense of how many pages of content, e.g. search results or gallery pages, are available to view and makes it obvious how to navigate those pages. It indicates the current page, provides link targets to advance or go backward, provides a shortcuts to jump to the start of the list, and indicates how many pages are left in the list, and possibly how many items are found in the pages. Flickr is one of the sites that meets all of these requirements and displays these controls very clearly and without any fuss.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://flickr.com/&#34;&gt;http://flickr.com/&lt;/a&gt;&lt;/p&gt;
@@ -89,10 +89,10 @@
     
     <item>
       <title>Issuu Pagination</title>
-      <link>http://localhost:1313/interface/issuu-pagination/</link>
+      <link>http://konigi.com/interface/issuu-pagination/</link>
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/issuu-pagination/</guid>
+      <guid>http://konigi.com/interface/issuu-pagination/</guid>
       <description>&lt;p&gt;Issuu is an online self-publishing service that allows users to create e-magazines and books that are displayed in their slick Flash reader. The service also provides social features around the content. &lt;/p&gt;
 &lt;p&gt;One of the nicest things about the reader is the usable pagination. The reader features the typical next/previous and jump to page features you&#39;d find in an ebook or PDF reader. They also provide some features that are similar to the browsing experience with Preview, the Dock, and QuickLook in the Mac, utilizing miniature thumbnails of pages to scroll through pages.&lt;/p&gt;
 &lt;p&gt;This is perhaps the best ebook-type reader I&#39;ve seen on the web. I don&#39;t know if they every utilized that behavior where a hovered page would show a turned down corner to indicate that you could &#34;pull&#34; the page corner to turn it. I remember seeing that behavior here and there on some flash sites that had multi-page magazines. This pagination is much easier and flexible than most, and every possible browsing and reading use case seems to have been thought of that I can imagine.&lt;/p&gt;

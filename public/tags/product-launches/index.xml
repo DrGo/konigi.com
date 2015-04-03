@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product Launches on Konigi</title>
-    <link>http://localhost:1313/tags/product-launches/</link>
+    <link>http://konigi.com/tags/product-launches/</link>
     <description>Recent content in Product Launches on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Nov 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/product-launches/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/product-launches/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sling.com Launches</title>
-      <link>http://localhost:1313/blog/slingcom-launches/</link>
+      <link>http://konigi.com/blog/slingcom-launches/</link>
       <pubDate>Mon, 24 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/slingcom-launches/</guid>
+      <guid>http://konigi.com/blog/slingcom-launches/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://beta.sling.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1409&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt492b1b25b7730.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The video portal I worked on last year went Public Beta today. Check it out at &lt;a href=&#34;http://sling.com/&#34;&gt;Sling.com&lt;/a&gt;. If you have a Sling Box, you can also now view your sling player in a web browser as well (IE/Windows only for now). I guess the rollout of features will be gradual. Can&amp;rsquo;t wait until Clip N Sling is available for Sling Box owners and more social features are released. We designed a number of very interesting interfaces which don&amp;rsquo;t appear to be available yet.&lt;/p&gt;&lt;/p&gt;
 

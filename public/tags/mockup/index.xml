@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mockup on Konigi</title>
-    <link>http://localhost:1313/tags/mockup/</link>
+    <link>http://konigi.com/tags/mockup/</link>
     <description>Recent content in Mockup on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mockup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/mockup/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ForeUI: Create Skinnable &amp; Interactive Prototype</title>
-      <link>http://localhost:1313/tools/submissions/foreui-create-skinnable-interactive-prototype/</link>
+      <link>http://konigi.com/tools/submissions/foreui-create-skinnable-interactive-prototype/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/foreui-create-skinnable-interactive-prototype/</guid>
+      <guid>http://konigi.com/tools/submissions/foreui-create-skinnable-interactive-prototype/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.foreui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2685&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb29f56d0b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and&lt;br /&gt;
   clickable UI prototype for your website or software, and run the interactive&lt;br /&gt;

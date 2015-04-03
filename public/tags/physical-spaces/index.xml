@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physical Spaces on Konigi</title>
-    <link>http://localhost:1313/tags/physical-spaces/</link>
+    <link>http://konigi.com/tags/physical-spaces/</link>
     <description>Recent content in Physical Spaces on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/physical-spaces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/physical-spaces/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UX Lessons Learned From Offline Experiences</title>
-      <link>http://localhost:1313/blog/ux-lessons-learned-offline-experiences/</link>
+      <link>http://konigi.com/blog/ux-lessons-learned-offline-experiences/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-lessons-learned-offline-experiences/</guid>
+      <guid>http://konigi.com/blog/ux-lessons-learned-offline-experiences/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2348&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bb5fc90a0f11_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jon Phillips writes about how &lt;a href=&#34;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&#34;&gt;the user experience of restaurant flow can be redesigned&lt;/a&gt; by illustrating the flow in a cafeteria-style space from entry, order and pickup to seating and exit. In his great diagrams he shows how the orginal flow frustrated diners (users) and could be easily re-designed to consider a flow that was immediately understandable&amp;ndash;the design he experienced made him feel stupid. Sound familiar?&lt;/p&gt;&lt;/p&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layout Editors on Konigi</title>
-    <link>http://localhost:1313/tags/layout-editors/</link>
+    <link>http://konigi.com/tags/layout-editors/</link>
     <description>Recent content in Layout Editors on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Dec 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/layout-editors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/layout-editors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WordPress Layout Customization</title>
-      <link>http://localhost:1313/interface/wordpress-layout-customization/</link>
+      <link>http://konigi.com/interface/wordpress-layout-customization/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/wordpress-layout-customization/</guid>
+      <guid>http://konigi.com/interface/wordpress-layout-customization/</guid>
       <description>&lt;p&gt;WordPress added some excellent layout customization options on administration screens in version 2.7. The most obvious change comes in the form of the Screen Options tab, which expands a settings panel that let&#39;s the admin hide or show parts of the UI being viewed, and saves those settings for the user immediately. &lt;/p&gt;
 &lt;p&gt;The UI also provides a drag and drop behavior to re-arrange modules. When hovering over a module heading, the icon turns into a full hand and lets the user move modules up or down in the column, or between columns. A down arrow appears on hover over the headings and allows the user to collapse the body of the module.&lt;/p&gt;
 &lt;p&gt;This seems like an excellent idea for an administrative interface, and the behaviors were very intuitive. I noticed the options, and my changes without even knowing that this was a new feature. At some point I wondered if it would be desirable to reset all your customizations to move the modules to their default positions. Other than that, everything I could to customize the layout seemed easy, and it seemed particularly nice to be able to modify the post forms. Good stuff.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Google Sites Theme Editor</title>
-      <link>http://localhost:1313/interface/google-sites-theme-editor/</link>
+      <link>http://konigi.com/interface/google-sites-theme-editor/</link>
       <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/google-sites-theme-editor/</guid>
+      <guid>http://konigi.com/interface/google-sites-theme-editor/</guid>
       <description>&lt;p&gt;Google released the technology acquired by JotSpot as the new Sites tool in the Google Apps suite. The Sites tools provides the interface you see here for modifying the appearance of your site, using pre-defined themes as a starting place, allowing you to modify the layout of content modules in the left column, and the colors used in the layout.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Selecting a theme.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Selecting a theme.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Modifying page elements.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Modifying page elements.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Configuring a module.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Configuring a module.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Setting colors.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Setting colors.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Setting background images.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Setting background images.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. The modified site appearance.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/googlesites-appearance-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. The modified site appearance.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/googlesites-appearance-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://sites.google.com/&#34;&gt;http://sites.google.com/&lt;/a&gt;&lt;/p&gt;

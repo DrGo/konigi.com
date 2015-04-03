@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on Konigi</title>
-    <link>http://localhost:1313/tags/games/</link>
+    <link>http://konigi.com/tags/games/</link>
     <description>Recent content in Games on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing Enjoyable User Interfaces: Lessons learned from computer games</title>
-      <link>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
+      <link>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
+      <guid>http://konigi.com/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
       <description>&lt;p&gt;I find inspiration in the literature that examines &lt;a href=&#34;tags/games.html&#34;&gt;games&lt;/a&gt; and &lt;a href=&#34;tags/play.html&#34;&gt;play&lt;/a&gt; as factors in creating delightful and engaging experiences. I like to think of how this applies to products outside of the video gaming industry. I&#39;ve had Thomas Malone&#39;s 1981 paper, &#34;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=800049.801756&#34;&gt;Heuristics for Designing Enjoyable Interfaces: Lessons from computer games&lt;/a&gt;&#34; on my desk for a while. I finally got around to reading it and found some interesting ideas that resonated with me. &lt;/p&gt;
 &lt;p&gt;The paper asks why users find games captivating and proposes guidelines for designing enjoyable systems. What I found relevant for interface design are Malone&#39;s observations about the experience with toys versus tools, and how to incorporate elements of game play to make tools more enjoyable. &lt;/p&gt;
 &lt;p&gt;One of the distinctions he makes is that when using tools, their interfaces tend to become virtually invisible, to allow the user to focus attention on tasks that satisfy their external needs and goals. &lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>Will Wright on Game Play and Education</title>
-      <link>http://localhost:1313/blog/will-wright-game-play-and-education/</link>
+      <link>http://konigi.com/blog/will-wright-game-play-and-education/</link>
       <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/will-wright-game-play-and-education/</guid>
+      <guid>http://konigi.com/blog/will-wright-game-play-and-education/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/22670388&#34; width=&#34;610&#34; height=&#34;450&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://vimeo.com/22670388&#34;&gt;Will Wright&amp;rsquo;s talk&lt;/a&gt; at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.&lt;/p&gt;
 &lt;h3&gt;How we process information&lt;/h3&gt;
@@ -79,10 +79,10 @@
     
     <item>
       <title>Playful Design Book Site</title>
-      <link>http://localhost:1313/blog/playful-design-book-site/</link>
+      <link>http://konigi.com/blog/playful-design-book-site/</link>
       <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/playful-design-book-site/</guid>
+      <guid>http://konigi.com/blog/playful-design-book-site/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://rosenfeldmedia.com/books/game-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2272&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b4cc414dc264_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Rosenfeld Media have a &lt;a href=&#34;http://rosenfeldmedia.com/books/game-design/&#34;&gt;book site&lt;/a&gt; and &lt;a href=&#34;http://playfuldesign.ning.com/&#34;&gt;Ning community&lt;/a&gt; up for John Ferrara&amp;rsquo;s forthcoming book, &lt;em&gt;Playful Design: Creating Game Expderiences in Everyday Interfaces&lt;/em&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -96,10 +96,10 @@ wt4b4cc414dc264_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Rosenfeld Medi
     
     <item>
       <title>6 Things Video Games Can Teach Us About Web Usability</title>
-      <link>http://localhost:1313/blog/6-things-video-games-can-teach-us-about-web-usability/</link>
+      <link>http://konigi.com/blog/6-things-video-games-can-teach-us-about-web-usability/</link>
       <pubDate>Mon, 16 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/6-things-video-games-can-teach-us-about-web-usability/</guid>
+      <guid>http://konigi.com/blog/6-things-video-games-can-teach-us-about-web-usability/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2196&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b0176edbc402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mark Riggan makes some interesting observations about &lt;a href=&#34;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&#34;&gt;design strategies and techniques used in video games&lt;/a&gt; that keep the experience usable, and suggests how these ideas apply to designing for the web.&lt;/p&gt;&lt;/p&gt;
 
@@ -109,10 +109,10 @@ wt4b0176edbc402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mark Riggan ma
     
     <item>
       <title>iPhone is all Fun and Games</title>
-      <link>http://localhost:1313/blog/iphone-all-fun-and-games/</link>
+      <link>http://konigi.com/blog/iphone-all-fun-and-games/</link>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/iphone-all-fun-and-games/</guid>
+      <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1863&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a8b1adb1092d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher wrote the excellent article &amp;ldquo;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;The iPhone is Not Easy to Use: A New Direction for User Experience&lt;/a&gt;&amp;rdquo; on Johnny Holland to talk about why the iPhone is &lt;strong&gt;not&lt;/strong&gt; easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;As a user experience designer, I thought my job was to make things not suck. Until recently. As technology has evolved, human behavior has evolved along with it. Since behavior is the basis of user experience design, my job has evolved as well. Now, my job is to make things people love. At the 2009 IA Summit, Karl Fast articulated the value proposition of user experience design with sparkling clarity. “Engineers make things,” he said, “we make people love them.” And then he held up an iPhone as an example.&lt;/p&gt;
@@ -131,10 +131,10 @@ wt4a8b1adb1092d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher wrote t
     
     <item>
       <title>GRID In-Game Motion Graphics</title>
-      <link>http://localhost:1313/blog/grid-game-motion-graphics/</link>
+      <link>http://konigi.com/blog/grid-game-motion-graphics/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/grid-game-motion-graphics/</guid>
+      <guid>http://konigi.com/blog/grid-game-motion-graphics/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://motionographer.com/2008/06/30/real-time-motion-graphics-grid/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1372&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has some cool &lt;a href=&#34;http://motionographer.com/2008/06/30/real-time-motion-graphics-grid/&#34;&gt;video of the in-game menus&lt;/a&gt; and motion graphics in &lt;a href=&#34;http://www.racedrivergrid.com/&#34;&gt;RACE DRIVER GRID&lt;/a&gt; video game from Codemasters.&lt;/p&gt;&lt;/p&gt;
 
@@ -144,10 +144,10 @@ wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has
     
     <item>
       <title>The New Xbox Experience</title>
-      <link>http://localhost:1313/blog/new-xbox-experience/</link>
+      <link>http://konigi.com/blog/new-xbox-experience/</link>
       <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/new-xbox-experience/</guid>
+      <guid>http://konigi.com/blog/new-xbox-experience/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/xbox-experience.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Kotaku reports on the &lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;New Xbox Experience&lt;/a&gt;, which does away with the Blade interface, and replaces with a remote-control type UI with cover-flow-like browsability. We&amp;rsquo;ll have to see what the reception will be for this. Xbox are integrating Netflix soon, and may be hoping to simplify the experience for a wider audience. I found the Blade UI to be pretty interesting the few times I got to use it.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&lt;/a&gt;&lt;/p&gt;
@@ -156,10 +156,10 @@ wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has
     
     <item>
       <title>CamSpace Webcam Game Controller</title>
-      <link>http://localhost:1313/blog/camspace-webcam-game-controller/</link>
+      <link>http://konigi.com/blog/camspace-webcam-game-controller/</link>
       <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/camspace-webcam-game-controller/</guid>
+      <guid>http://konigi.com/blog/camspace-webcam-game-controller/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/v0srY37kkMw&amp;amp;hl=en&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/v0srY37kkMw&amp;amp;hl=en&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://camspace.com/&#34;&gt;Camspace is pretty slick&lt;/a&gt;. The people at CamTrax are demoing the PC camera-based interface. At first blush, I thought it similar to the gimicky Eye Toy games, but this is much better. CamTrax is a software-based technology that enables the tracking of hand-held objects in real time, with high reliability. What you see in the demo is that the software recognizes the hand-held objects and effectively turns them into pointers and other controls that can be used to act on the simple end as a cursor, and on the more sophisticated end as a game controller.&lt;/p&gt;
@@ -171,10 +171,10 @@ wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has
     
     <item>
       <title>Get Out And Play</title>
-      <link>http://localhost:1313/blog/get-out-and-play/</link>
+      <link>http://konigi.com/blog/get-out-and-play/</link>
       <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/get-out-and-play/</guid>
+      <guid>http://konigi.com/blog/get-out-and-play/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3080/2489521621_a7c07f9a43_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Nokia ngage &lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;Get Out and Play&lt;/a&gt; site features some fun stop motion animation, a sick Breakout game using people, and the game Snake played out as an animation of 1,000 people. This is brilliant. Don&#39;t miss it.&lt;/p&gt;
     
@@ -185,10 +185,10 @@ wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has
     
     <item>
       <title>Cartoon Network to release casual multiplayer game</title>
-      <link>http://localhost:1313/blog/cartoon-network-release-casual-multiplayer-game/</link>
+      <link>http://konigi.com/blog/cartoon-network-release-casual-multiplayer-game/</link>
       <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/cartoon-network-release-casual-multiplayer-game/</guid>
+      <guid>http://konigi.com/blog/cartoon-network-release-casual-multiplayer-game/</guid>
       <description>&lt;p&gt;Cartoon Network are &lt;a href=&#34;http://www.reuters.com/article/technologyNews/idUSN1640720920080417?feedType=RSS&amp;amp;feedName=technologyNews&amp;amp;sp=true&#34;&gt;building a new online gaming community&lt;/a&gt; that hopes to challenge the model of the Massively Multiplayer Online Game (MMOG) with FusionFall, a game that leverages a community of players, but doesn&#39;t require the long term buildup of skillsets and earned resources. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;We&#39;re not building a game for hardcore gamers who will spend 60-plus hours a week here. If you think of those as hour-long dramas on TV, we want to be the half-hour sitcom. All of our missions are built in a way that they can be completed in 30 minutes at most. That get-in-and-get-out style of play is what makes casual gaming so popular, and we hope it is what will make &#39;FusionFall&#39; popular.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The game producers are hoping to capitalize on what they see as a growing interest in casual gaming, by providing a space that appeals to gamers who want bite-sized gameplay inside a more collaborative gaming space. The audience for this game are the youngsters who might now play Club Penguin, Habbo Hotel, and Runescape.&lt;/p&gt;
@@ -201,10 +201,10 @@ wt48e23e8ad087b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Motionographer has
     
     <item>
       <title>The Superest: Who is the superest hero of them all?</title>
-      <link>http://localhost:1313/blog/superest-who-superest-hero-them-all/</link>
+      <link>http://konigi.com/blog/superest-who-superest-hero-them-all/</link>
       <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/superest-who-superest-hero-them-all/</guid>
+      <guid>http://konigi.com/blog/superest-who-superest-hero-them-all/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.thesuperest.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1182&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt47fb799286415_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I absolutely love the idea &lt;a href=&#34;http://www.thesuperest.com/&#34;&gt;The Superest&lt;/a&gt;, a game/blog that features drawings of superheroes. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The Superest is a continually running game of My Team, Your Team. The rules are simple:&lt;/p&gt;
@@ -217,10 +217,10 @@ wt47fb799286415_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I absolutely love 
     
     <item>
       <title>Engineer Unlocks Wii&#39;s Hidden Potential</title>
-      <link>http://localhost:1313/blog/engineer-unlocks-wiis-hidden-potential/</link>
+      <link>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</link>
       <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/engineer-unlocks-wiis-hidden-potential/</guid>
+      <guid>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</guid>
       <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.news.com/8301-13580_3-9858728-39.html&#34;&gt;CNET reports&lt;/a&gt; on Johnny Chung Lee&amp;rsquo;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them. He then proceeds to show us two things demonstrated in the videos below. Brilliant stuff.&lt;/p&gt;
 &lt;p&gt;How the remote can be used to visualize virtual reality displays by pointing the remote at a user with IR leds placed on their head.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on Konigi</title>
-    <link>http://localhost:1313/tags/productivity/</link>
+    <link>http://konigi.com/tags/productivity/</link>
     <description>Recent content in Productivity on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Typinator: Automatic text software</title>
-      <link>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</link>
+      <link>http://konigi.com/tools/submissions/typinator-automatic-text-software/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</guid>
+      <guid>http://konigi.com/tools/submissions/typinator-automatic-text-software/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2826&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using &lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;Typinator&lt;/a&gt;, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.&lt;/p&gt;&lt;/p&gt;
 
@@ -29,10 +29,10 @@ wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since startin
     
     <item>
       <title>Finding Focus While Trying to Work</title>
-      <link>http://localhost:1313/blog/finding-focus-while-trying-work/</link>
+      <link>http://konigi.com/blog/finding-focus-while-trying-work/</link>
       <pubDate>Tue, 27 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/finding-focus-while-trying-work/</guid>
+      <guid>http://konigi.com/blog/finding-focus-while-trying-work/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;How I try and occasionally succeed at finding focus.&lt;/p&gt;
 &lt;p&gt;Ambient information and notification is killing me; so much so I&#39;m mostly avoiding email, I&#39;m disabling Growl notifications for apps, and looking at stuff like Tweetie on my own time rather than leaving it always on.  I have to admit that I occasionally have a hard time focusing on tasks and have sometimes put more effort into tweaking my systems for getting things done than I should. All for the greater good of finding a better way to be productive, I say. I am of course fooling myself. &lt;/p&gt;
 &lt;p&gt;I have found some practices rather useful for getting things done, and mostly they involve 2 things: 1) turning off the ambient noise and, 2) looking at what needs to get done and getting to work. Here are some of the ways I try to do this.&lt;/p&gt;
@@ -72,10 +72,10 @@ wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since startin
     
     <item>
       <title>Finding the Productivity Method That Fits</title>
-      <link>http://localhost:1313/blog/finding-productivity-method-fits/</link>
+      <link>http://konigi.com/blog/finding-productivity-method-fits/</link>
       <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/finding-productivity-method-fits/</guid>
+      <guid>http://konigi.com/blog/finding-productivity-method-fits/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/printable-ceo-task-timer.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;As many of my friends and colleagues know, I&amp;rsquo;m one of those people that read David Allen&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Getting_Things_Done&#34;&gt;Getting Things Done&lt;/a&gt;&lt;/em&gt;, got the religion, and tried various methods for planning and managing project tasks, using both software and paper. In the past few years, like many, I&amp;rsquo;ve tweaked my approach, taking bits and pieces from here and there to settle on the solution that&amp;rsquo;s most suitable for the way I work. At this point, any resemblance to GTD might be less noticable, but it&amp;rsquo;s beginnings are there. &lt;/p&gt;
 &lt;p&gt;The methods and tools that work best for me now are influenced by &lt;em&gt;GTD&lt;/em&gt;, Niel Fiore&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/0874775043&#34;&gt;The Now Habit&lt;/a&gt;&lt;/em&gt;, and from a broader perspective, by ideas inspired by Napoleon Hill&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Think_and_Grow_Rich&#34;&gt;Think and Grow Rich&lt;/a&gt;&lt;/em&gt;, which seems now to me to be less about planning your road to wealth, and more about how to use thought to visualize goals. Out of those kinds of ideas, stem the more practical suggestions of taking the larger goals and breaking them down into smaller tasks, a la the book &lt;em&gt;&lt;a href=&#34;http://ezinearticles.com/?How-Do-You-Eat-An-Elephant?&amp;amp;id=945215&#34;&gt;How Do You Eat An Elephant: One bite at a time&lt;/a&gt;&lt;/em&gt;, which seemed to be recommended reading years ago to grad students.&lt;/p&gt;
 &lt;p&gt;In any case, the sum of everything I&amp;rsquo;ve taken from those books that I deem doable for me without being unreasonable. I do some of these with regularity, e.g. the high level planning, and others more loosely, e.g. the daily task list.&lt;/p&gt;
@@ -112,10 +112,10 @@ wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since startin
     
     <item>
       <title>Action Method Online</title>
-      <link>http://localhost:1313/blog/action-method-online/</link>
+      <link>http://konigi.com/blog/action-method-online/</link>
       <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/action-method-online/</guid>
+      <guid>http://konigi.com/blog/action-method-online/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1385&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48ff71dc05870.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Behance introduces &lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;Action Method Online&lt;/a&gt;, a web-based sister to the Action Method paper products that help creatives track and hit action items, and stay productive. Nice.&lt;/p&gt;&lt;/p&gt;
 

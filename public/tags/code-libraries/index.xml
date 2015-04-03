@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Libraries on Konigi</title>
-    <link>http://localhost:1313/tags/code-libraries/</link>
+    <link>http://konigi.com/tags/code-libraries/</link>
     <description>Recent content in Code Libraries on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/code-libraries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/code-libraries/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AniJS: Declarative handling library for CSS animations</title>
-      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <link>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <guid>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
 &lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
@@ -28,10 +28,10 @@ Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.
     
     <item>
       <title>uilang</title>
-      <link>http://localhost:1313/tools/submissions/uilang/</link>
+      <link>http://konigi.com/tools/submissions/uilang/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uilang/</guid>
+      <guid>http://konigi.com/tools/submissions/uilang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;uilang&lt;/a&gt; is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt;&lt;/pre&gt;&lt;p&gt;
 You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things. &lt;a href=&#34;http://uilang.com/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
@@ -45,10 +45,10 @@ You still have to write your CSS to handle things like effects, but that&#39;s a
     
     <item>
       <title>Semantic UI Library</title>
-      <link>http://localhost:1313/tools/submissions/semantic-ui-library/</link>
+      <link>http://konigi.com/tools/submissions/semantic-ui-library/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/semantic-ui-library/</guid>
+      <guid>http://konigi.com/tools/submissions/semantic-ui-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2848&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;Semantic UI&lt;/a&gt; is a framework for building HTML sites that aims at creating a system based on semantic naming and sensible defaults.&lt;/p&gt;&lt;/p&gt;
 
@@ -61,10 +61,10 @@ wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Making Infield Form Labels Suck Less</title>
-      <link>http://localhost:1313/blog/making-infield-form-labels-suck-less/</link>
+      <link>http://konigi.com/blog/making-infield-form-labels-suck-less/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-infield-form-labels-suck-less/</guid>
+      <guid>http://konigi.com/blog/making-infield-form-labels-suck-less/</guid>
       <description>&lt;p&gt;Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/infield-plugin.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less&#34;&gt;Part 1&lt;/a&gt; talks about the problems using infield labels. &lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less-2&#34;&gt;Part 2&lt;/a&gt; shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a &lt;a href=&#34;http://jsfiddle.net/ten1seven/hYM8G/3/light/&#34;&gt;jsFiddle snippet&lt;/a&gt; to play with the code. You can &lt;a href=&#34;https://github.com/ten1seven/infieldLabel&#34;&gt;download the jquery plugin from Git&lt;/a&gt;.&lt;/p&gt;
@@ -76,10 +76,10 @@ wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>MiniAjax: Rich UI Showcase</title>
-      <link>http://localhost:1313/blog/miniajax-rich-ui-showcase/</link>
+      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
       <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/miniajax-rich-ui-showcase/</guid>
+      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://miniajax.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2512&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4e1b018a5178a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://miniajax.com/&#34;&gt;MiniAjax&lt;/a&gt; is a nice showcase of javascript libraries for rich interaction behaviors.&lt;/p&gt;&lt;/p&gt;
 
@@ -89,10 +89,10 @@ wt4e1b018a5178a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>Sencha Touch HTML5 Mobile App Framework</title>
-      <link>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
+      <link>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2764&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;Sencha Touch&lt;/a&gt; looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: &lt;a href=&#34;http://geocongress.us/&#34;&gt;GeoCongress&lt;/a&gt; (makes use of geolocation), &lt;a href=&#34;http://touchsolitaire.mobi/&#34;&gt;Solitaire&lt;/a&gt; (drag and drop and flip animations), &lt;a href=&#34;http://kivamobile.org/&#34;&gt;Kiva&lt;/a&gt; (provides iPad popover controls).&lt;/p&gt;&lt;/p&gt;
 
@@ -107,10 +107,10 @@ wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Drupal Coda Clips</title>
-      <link>http://localhost:1313/tools/submissions/drupal-coda-clips/</link>
+      <link>http://konigi.com/tools/submissions/drupal-coda-clips/</link>
       <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/drupal-coda-clips/</guid>
+      <guid>http://konigi.com/tools/submissions/drupal-coda-clips/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.dezinerfolio.com/freebie/drupal-coda-clips&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2753&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52304b5b464bf_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dezinerfolio&amp;rsquo;s &lt;a href=&#34;http://www.dezinerfolio.com/freebie/drupal-coda-clips&#34;&gt;free Drupal snippet library for the Coda editor&lt;/a&gt; (Mac OS only) provides a very useful set of code clips for theming Drupal sites.&lt;/p&gt;&lt;/p&gt;
 
@@ -121,10 +121,10 @@ wt52304b5b464bf_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dezinerfolio&
     
     <item>
       <title>jQuery Slider Gallery</title>
-      <link>http://localhost:1313/blog/jquery-slider-gallery/</link>
+      <link>http://konigi.com/blog/jquery-slider-gallery/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jquery-slider-gallery/</guid>
+      <guid>http://konigi.com/blog/jquery-slider-gallery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1900&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ac364be46e49.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;jQuery Slider Gallery&lt;/a&gt; article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&amp;rsquo;s product pages.&lt;/p&gt;&lt;/p&gt;
 
@@ -134,10 +134,10 @@ wt4ac364be46e49.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;
     
     <item>
       <title>Uni-Form</title>
-      <link>http://localhost:1313/tools/submissions/uni-form/</link>
+      <link>http://konigi.com/tools/submissions/uni-form/</link>
       <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uni-form/</guid>
+      <guid>http://konigi.com/tools/submissions/uni-form/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://sprawsm.com/uni-form/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2721&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fee31adc47_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://sprawsm.com/uni-form/&#34;&gt;Uni-Form&lt;/a&gt; is a cool tool from Dragan Babić of Superawesome. The CSS library standardizes form markup (xhtml) and css, and &amp;ldquo;modularizes&amp;rdquo; it so even people with only basic knowledge of these technologies can get nice looking, well structured, highly customizable, semantic, accessible and usable forms. Download the plug and play XHTML and CSS and you&amp;rsquo;re ready to go.&lt;/p&gt;&lt;/p&gt;
 
@@ -148,10 +148,10 @@ wt522fee31adc47_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Yahoo! BrowserPlus</title>
-      <link>http://localhost:1313/blog/yahoo-browserplus/</link>
+      <link>http://konigi.com/blog/yahoo-browserplus/</link>
       <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/yahoo-browserplus/</guid>
+      <guid>http://konigi.com/blog/yahoo-browserplus/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://re1-bplus-002.yos.re1.yahoo.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/browserplus-flickr-demo.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://re1-bplus-002.yos.re1.yahoo.com/&#34;&gt;Yahoo! BrowserPlus&lt;/a&gt; is software that extends the capabilities of web browsers to make rich web experiences possible. Websites can use the software to support behaviors like drag and drop from the desktop, easier file uploads, acquisition of feeds and information, and native desktop notifications. &lt;/p&gt;
 &lt;p&gt;The site is showing very cool demos right now including dragging and dropping photos from the desktop to a web browser, live image manipulation, and live refreshing IRC chatrooms in the browser. One of the nice things about how this is implemented is that when you&amp;rsquo;ve arrived at a site requiring BrowserPlus, the software is installed in your browser and does not require a restart.&lt;/p&gt;&lt;/p&gt;
 
@@ -161,10 +161,10 @@ wt522fee31adc47_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Timeframe: A Javascript Control For Date Ranges</title>
-      <link>http://localhost:1313/blog/timeframe-javascript-control-date-ranges/</link>
+      <link>http://konigi.com/blog/timeframe-javascript-control-date-ranges/</link>
       <pubDate>Sat, 26 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/timeframe-javascript-control-date-ranges/</guid>
+      <guid>http://konigi.com/blog/timeframe-javascript-control-date-ranges/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2443576294/&#34; title=&#34;Timeframe by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3181/2443576294_17c462e320_o.png&#34; alt=&#34;Timeframe&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Stephen Celis&#39; &lt;a href=&#34;http://stephencelis.com/projects/timeframe#example_information&#34;&gt;Timeframe javascript library&lt;/a&gt; allows you to create a calendar that allows users to select date-ranges by first clicking a start or end date, and then clicking the other end of the range. The range is shown as you expect in desktop calendar applications with a filled bar between the dates. Hover over the range and click the X control to delete. Nice.&lt;/p&gt;
     

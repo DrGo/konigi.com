@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interface on Konigi</title>
-    <link>http://localhost:1313/interface/</link>
+    <link>http://konigi.com/interface/</link>
     <description>Recent content in Interface on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/interface/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/interface/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pinterest Mobile Radial Menus</title>
-      <link>http://localhost:1313/interface/pinterest-mobile-radial-menus/</link>
+      <link>http://konigi.com/interface/pinterest-mobile-radial-menus/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pinterest-mobile-radial-menus/</guid>
+      <guid>http://konigi.com/interface/pinterest-mobile-radial-menus/</guid>
       <description>&lt;p&gt;Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.&lt;/p&gt;
 
 &lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/jeGkxfY_UOM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Pinterest Tag Search and Suggestions</title>
-      <link>http://localhost:1313/interface/pinterest-tag-search-and-suggestions/</link>
+      <link>http://konigi.com/interface/pinterest-tag-search-and-suggestions/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pinterest-tag-search-and-suggestions/</guid>
+      <guid>http://konigi.com/interface/pinterest-tag-search-and-suggestions/</guid>
       <description>&lt;p&gt;Pinterest&#39;s search feature shows tag and board suggestions in the auto-completion list. Select terms/tags to display, and a horizontal list (accordion) of correlating tags to refine or narrow your your search are displayed below the search box.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/JpIEOVTY-a8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Tumblr Fave Animation</title>
-      <link>http://localhost:1313/interface/tumblr-fave-animation/</link>
+      <link>http://konigi.com/interface/tumblr-fave-animation/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/tumblr-fave-animation/</guid>
+      <guid>http://konigi.com/interface/tumblr-fave-animation/</guid>
       <description>&lt;p&gt;This is a small animation of the  heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/8bxvrHabfLA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>Mention Call To Action</title>
-      <link>http://localhost:1313/interface/mention-call-action/</link>
+      <link>http://konigi.com/interface/mention-call-action/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/mention-call-action/</guid>
+      <guid>http://konigi.com/interface/mention-call-action/</guid>
       <description>&lt;p&gt;Mention.com&#39;s Success Stories section  uses this great phrase to introduce the Proof in the drip pan at the bottom of the page.&lt;/p&gt;
 
 &lt;p&gt;&amp;quot;They also started with a free trial.&amp;quot; Short and persuasive copy that makes an otherwise common CTA more compelling.&lt;/p&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Cotton Bureau Off-Canvas Checkout</title>
-      <link>http://localhost:1313/interface/cotton-bureau-canvas-checkout/</link>
+      <link>http://konigi.com/interface/cotton-bureau-canvas-checkout/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/cotton-bureau-canvas-checkout/</guid>
+      <guid>http://konigi.com/interface/cotton-bureau-canvas-checkout/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://cottonbureau.com/&#34;&gt;Cotton Bureau&lt;/a&gt; uses the off-canvas pattern to slide steps of the checkout flow into the screen from the right, as the product page and previous steps slide off screen to the left.&lt;/p&gt;
 
 &lt;p&gt;I like how this implies the forward movement through the checkout process a bit better than the cart workflows that use vertically arranged collapsing panels.&lt;/p&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>Beatport Pro Music Store</title>
-      <link>http://localhost:1313/interface/beatport-pro-music-store/</link>
+      <link>http://konigi.com/interface/beatport-pro-music-store/</link>
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/beatport-pro-music-store/</guid>
+      <guid>http://konigi.com/interface/beatport-pro-music-store/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pro.beatport.com/&#34;&gt;Beatport&#39;s Pro app&lt;/a&gt; for the Mac offers a shopping experience that&#39;s tailored for the way DJs shop for music. The app lets users analyze their music (tracks, sounds, and playlists) to prepare sets and add music to their playlists. Here are some of the elements of the version 2 interface related to shopping in the app.&lt;/p&gt;
 
 &lt;p&gt;Beatport comes close to the experience of shopping in a record store, breaking down music into genres and sub-genres. Beyond that, they provide filters to offer some of the experience you would expect in a boutique shop of having someone select tracks by mood and type of venue/set. Hand picked charts round out the experience of having the in-the-know shop owner as curator to recommend tracks.&lt;/p&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Basecamp Form Focus</title>
-      <link>http://localhost:1313/interface/basecamp-form-focus/</link>
+      <link>http://konigi.com/interface/basecamp-form-focus/</link>
       <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/basecamp-form-focus/</guid>
+      <guid>http://konigi.com/interface/basecamp-form-focus/</guid>
       <description>&lt;p&gt;This is a cute interaction for the input focus and data validation on Basecamp&#39;s registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.&lt;/p&gt;
 
 &lt;p&gt;The illustrations on the site do a great job of making you feel like this isn&#39;t &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp. Simple things that make the customer smile probably go a long way in this case.&lt;/p&gt;
@@ -113,10 +113,10 @@
     
     <item>
       <title>Geeklist Sign Up Password Strength</title>
-      <link>http://localhost:1313/interface/geeklist-sign-password-strength/</link>
+      <link>http://konigi.com/interface/geeklist-sign-password-strength/</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/geeklist-sign-password-strength/</guid>
+      <guid>http://konigi.com/interface/geeklist-sign-password-strength/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://geekli.st/signup&#34;&gt;Geeklist&#39;s sign up form&lt;/a&gt; tells you how secure your password is by indicating how long it would take to crack. Sounds much more understandable and convincing than the typical weak/strong message.&lt;/p&gt;
 
 &lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. A really strong password.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. A really strong password.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. A dictionary word is weak. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. A dictionary word is weak. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Better, but still weak. The messaging may be convincing enough to get users to think about their choice.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Better, but still weak. The messaging may be convincing enough to get users to think about their ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -126,10 +126,10 @@
     
     <item>
       <title>YouTube Delete Timer</title>
-      <link>http://localhost:1313/interface/youtube-delete-timer/</link>
+      <link>http://konigi.com/interface/youtube-delete-timer/</link>
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/youtube-delete-timer/</guid>
+      <guid>http://konigi.com/interface/youtube-delete-timer/</guid>
       <description>&lt;p&gt;YouTube puts up 2 speed bumps when you try to delete a video from the video manager. This technique slows down the user about to peform a destructive action, and protects them from inadvertently deleting content.&lt;/p&gt;
 
 &lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Selecting Delete action shows dialog confirming action.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-delete-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Selecting Delete action shows dialog confirming action.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-delete-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. A second confirmation dialog requires confirmation, but the Delete button is disabled until the countdown timer runs out.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-delete-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. A second confirmation dialog requires confirmation, but the Delete button is disabled until the c...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-delete-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -139,10 +139,10 @@
     
     <item>
       <title>La Wine Agency Date Picker</title>
-      <link>http://localhost:1313/interface/la-wine-agency-date-picker/</link>
+      <link>http://konigi.com/interface/la-wine-agency-date-picker/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/la-wine-agency-date-picker/</guid>
+      <guid>http://konigi.com/interface/la-wine-agency-date-picker/</guid>
       <description>&lt;p&gt;I like the design of the La Wine Agency site. The beautiful large type on the off-white paper reminds me of letterpress cards.&lt;/p&gt;
 
 &lt;p&gt;One thing I loved immediately was the age gate, which asks you when you were born so you can get through to shop for wine.&lt;/p&gt;
@@ -156,10 +156,10 @@
     
     <item>
       <title>Pinterest Switches</title>
-      <link>http://localhost:1313/interface/pinterest-switches/</link>
+      <link>http://konigi.com/interface/pinterest-switches/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pinterest-switches/</guid>
+      <guid>http://konigi.com/interface/pinterest-switches/</guid>
       <description>&lt;p&gt;Sure you can use a checkbox to enter binary values in a form, but Pinterest goes the hi-fi route and instead uses sexy switches, a la iOS controls, in their email settings form.&lt;/p&gt;
 
 &lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/pinterest-email-settings-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/pinterest-email-settings-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -169,10 +169,10 @@
     
     <item>
       <title>Zerply Email Notifications Settings</title>
-      <link>http://localhost:1313/interface/zerply-email-notifications-settings/</link>
+      <link>http://konigi.com/interface/zerply-email-notifications-settings/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/zerply-email-notifications-settings/</guid>
+      <guid>http://konigi.com/interface/zerply-email-notifications-settings/</guid>
       <description>&lt;p&gt;Simple things appeal to me. I like the simplicity of being able to usubscribe immediately. Zerply goes the extra mile and not only gives me options to never get email notifications via links in the notification itself, but also to change the frequency of updates. Nice.&lt;/p&gt;
 
 &lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Email notification from Zerply.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/zerply-email-notifications-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Email notification from Zerply.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/zerply-email-notifications-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Update frequency settings in the bottom. Click and you&amp;rsquo;re done.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/zerply-email-notifications-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Update frequency settings in the bottom. Click and you&#39;re done.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/zerply-email-notifications-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -182,10 +182,10 @@
     
     <item>
       <title>Photojojo Captcha</title>
-      <link>http://localhost:1313/interface/photojojo-captcha/</link>
+      <link>http://konigi.com/interface/photojojo-captcha/</link>
       <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/photojojo-captcha/</guid>
+      <guid>http://konigi.com/interface/photojojo-captcha/</guid>
       <description>&lt;p&gt;Yes, I know you hate captchas and they&#39;re riddled with problems. Why do it if you don&#39;t have to? But if you do it, at least make it a brainless action like this.&lt;/p&gt;
 
 &lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Click to answer the captcha challenge.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/photojojo-captcha-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Click to answer the captcha challenge.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/photojojo-captcha-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -195,10 +195,10 @@
     
     <item>
       <title>Slavery Footprint Form: Drag to Select</title>
-      <link>http://localhost:1313/interface/slavery-footprint-form-drag-select/</link>
+      <link>http://konigi.com/interface/slavery-footprint-form-drag-select/</link>
       <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/slavery-footprint-form-drag-select/</guid>
+      <guid>http://konigi.com/interface/slavery-footprint-form-drag-select/</guid>
       <description>&lt;p&gt;The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.&lt;/p&gt;
 
 &lt;p&gt;They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.&lt;/p&gt;
@@ -212,10 +212,10 @@
     
     <item>
       <title>Slavery Footprint Form: Sliders</title>
-      <link>http://localhost:1313/interface/slavery-footprint-form-sliders/</link>
+      <link>http://konigi.com/interface/slavery-footprint-form-sliders/</link>
       <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/slavery-footprint-form-sliders/</guid>
+      <guid>http://konigi.com/interface/slavery-footprint-form-sliders/</guid>
       <description>&lt;p&gt;The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.&lt;/p&gt;
 
 &lt;p&gt;They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.&lt;/p&gt;

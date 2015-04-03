@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Front End Development on Konigi</title>
-    <link>http://localhost:1313/tags/front-end-development/</link>
+    <link>http://konigi.com/tags/front-end-development/</link>
     <description>Recent content in Front End Development on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/front-end-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/front-end-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RemoteIE: Remote Testing for Internet Explorer</title>
-      <link>http://localhost:1313/tools/submissions/remoteie-remote-testing-internet-explorer/</link>
+      <link>http://konigi.com/tools/submissions/remoteie-remote-testing-internet-explorer/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/remoteie-remote-testing-internet-explorer/</guid>
+      <guid>http://konigi.com/tools/submissions/remoteie-remote-testing-internet-explorer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://remote.modern.ie/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2888&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5457d9055ee6c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;https://remote.modern.ie/&#34;&gt;Microsoft Remote Desktop app&lt;/a&gt; lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5457d9055ee6c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>uilang</title>
-      <link>http://localhost:1313/tools/submissions/uilang/</link>
+      <link>http://konigi.com/tools/submissions/uilang/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uilang/</guid>
+      <guid>http://konigi.com/tools/submissions/uilang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;uilang&lt;/a&gt; is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt;&lt;/pre&gt;&lt;p&gt;
 You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things. &lt;a href=&#34;http://uilang.com/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
@@ -42,10 +42,10 @@ You still have to write your CSS to handle things like effects, but that&#39;s a
     
     <item>
       <title>Adobe Shadow Mobile Device Testing</title>
-      <link>http://localhost:1313/tools/submissions/adobe-shadow-mobile-device-testing/</link>
+      <link>http://konigi.com/tools/submissions/adobe-shadow-mobile-device-testing/</link>
       <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/adobe-shadow-mobile-device-testing/</guid>
+      <guid>http://konigi.com/tools/submissions/adobe-shadow-mobile-device-testing/</guid>
       <description>&lt;p&gt;Adobe Labs&#39; &lt;a href=&#34;http://labs.adobe.com/technologies/shadow/&#34;&gt;Shadow&lt;/a&gt; is an application for Mac and Windows that allows you to preview and inspect your mobile website on iOS and Android devices.&lt;/p&gt;
 
 &lt;p&gt;After installing the software on your computer and any number of mobile devices, you can connect and pair them and all devices will be kept in sync with the web site you&#39;re previewing on your computer. This should help perform remote inspection and debugging so you can see HTML/CSS/JavaScript changes instantly on your devices.&lt;/p&gt;
@@ -57,10 +57,10 @@ You still have to write your CSS to handle things like effects, but that&#39;s a
     
     <item>
       <title>Sauce Labs: Cloud-Based Cross-Browser Testing</title>
-      <link>http://localhost:1313/tools/submissions/saucelabs-cloud-based-cross-browser-testing/</link>
+      <link>http://konigi.com/tools/submissions/saucelabs-cloud-based-cross-browser-testing/</link>
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/saucelabs-cloud-based-cross-browser-testing/</guid>
+      <guid>http://konigi.com/tools/submissions/saucelabs-cloud-based-cross-browser-testing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://saucelabs.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2790&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230d4510254c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://saucelabs.com/&#34;&gt;Sauce Labs&lt;/a&gt; provides browser testing services for front end development and quality assurance.  Their Scout service lets you test your public or private web app in any browser via a VM that&amp;rsquo;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand.  Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc. with a dev team, which is nice for bug reporting. JIRA integration means those same videos and screenshots can be attached to JIRA incidents as well. They also let you run automated Selenium tests in the cloud with Sauce OnDemand, for those of you who work with QA automation tools.&lt;/p&gt;&lt;/p&gt;
 
@@ -75,10 +75,10 @@ wt5230d4510254c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>BrowserStack: Cross-Browser Testing Tool</title>
-      <link>http://localhost:1313/tools/submissions/browserstack-cross-browser-testing-tool/</link>
+      <link>http://konigi.com/tools/submissions/browserstack-cross-browser-testing-tool/</link>
       <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/browserstack-cross-browser-testing-tool/</guid>
+      <guid>http://konigi.com/tools/submissions/browserstack-cross-browser-testing-tool/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/browserstack.png&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.browserstack.com/&#34;&gt;Browserstack&lt;/a&gt; allows you to stop relying on screenshot web apps or using multiple virtual machines to do your testing. The service gives you remote, web-based, VNC screen sharing using the web browser you choose, so you can test your web sites and apps in real time rather than relying on static screen comparisons.&lt;/p&gt;
 &lt;p&gt;Enter a URL to test, and select a target browser in the version of your choosing and screen resolution. A VNC connection is opened inside the web app, giving you remote control of the target browser. You test your pages in real time via the VNC screen share, and each browser is configured with developer testing tools (Firebug, Chrome Developer Tools, IE Testing Tools, etc.). The service also allows you to set up a tunnel to test your local server or html pages in their remote browser.&lt;/p&gt;
@@ -92,10 +92,10 @@ wt5230d4510254c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
-      <link>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2462&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on Paul Irish and Divya Manian&amp;rsquo;s &lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt; after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this &lt;a href=&#34;http://wordpress.org/support/topic/jquery-from-google-cdn-fall-back-to-wp-local&#34;&gt;technique for WordPress&lt;/a&gt;. &lt;a href=&#34;http://make-things.com/&#34;&gt;Ben Kutil&lt;/a&gt; also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.&lt;/p&gt;&lt;/p&gt;
 
@@ -109,10 +109,10 @@ wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on 
     
     <item>
       <title>Google Chrome Extensions for web developers </title>
-      <link>http://localhost:1313/tools/submissions/google-chrome-extensions-web-developers/</link>
+      <link>http://konigi.com/tools/submissions/google-chrome-extensions-web-developers/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/google-chrome-extensions-web-developers/</guid>
+      <guid>http://konigi.com/tools/submissions/google-chrome-extensions-web-developers/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://chrome.google.com/extensions/featured/web_dev&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2805&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52311ddf9a9d2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://chrome.google.com/extensions/featured/web_dev&#34;&gt;Google Chrome’s developer extensions&lt;/a&gt; are useful in-browser web development tools for such things as testing pages on various screen resolutions, analyzing app performance, working with HTML, CSS, JS, generating lorem ipsum greeking, and more.&lt;/p&gt;&lt;/p&gt;
 
@@ -123,10 +123,10 @@ wt52311ddf9a9d2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>LESS: Simple CSS variables and more</title>
-      <link>http://localhost:1313/tools/submissions/less-simple-css-variables-and-more/</link>
+      <link>http://konigi.com/tools/submissions/less-simple-css-variables-and-more/</link>
       <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/less-simple-css-variables-and-more/</guid>
+      <guid>http://konigi.com/tools/submissions/less-simple-css-variables-and-more/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2754&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523050916ab1f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://lesscss.org/&#34;&gt;LESS&lt;/a&gt; Ruby gem compiles LESS code into CSS. LESS extends CSS with variables, mixins, operations, and extended rules, and uses existing CSS syntax. You simply rename your .css files as .less files and compile with a plugin or a simple app like &lt;a href=&#34;http://incident57.com/less/&#34;&gt;LESS.app&lt;/a&gt; for the Mac.&lt;/p&gt;&lt;/p&gt;
 
@@ -137,10 +137,10 @@ wt523050916ab1f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Drawter: DrawAble Markup Language</title>
-      <link>http://localhost:1313/blog/drawter-drawable-markup-language/</link>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/drawter-drawable-markup-language/</guid>
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2261&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;Drawter&lt;/a&gt; has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the &lt;a href=&#34;http://drawter.com/screencast/&#34;&gt;screencast&lt;/a&gt;, however, that I really got to see how beautifully it generates markup and css.&lt;/p&gt;&lt;/p&gt;
 
@@ -156,10 +156,10 @@ wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>Ultimate Guide To Grid-Based Web Design</title>
-      <link>http://localhost:1313/blog/ultimate-guide-grid-based-web-design/</link>
+      <link>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</link>
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ultimate-guide-grid-based-web-design/</guid>
+      <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2195&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4af9cebbf15ff_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noupe offers up &lt;a href=&#34;http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html&#34;&gt;a complete guide to techniques and tools&lt;/a&gt; for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.&lt;/p&gt;&lt;/p&gt;
 
@@ -171,10 +171,10 @@ wt4af9cebbf15ff_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Noupe offers u
     
     <item>
       <title>Yahoo! Grids CSS</title>
-      <link>http://localhost:1313/tools/submissions/yahoo-grids-css/</link>
+      <link>http://konigi.com/tools/submissions/yahoo-grids-css/</link>
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/yahoo-grids-css/</guid>
+      <guid>http://konigi.com/tools/submissions/yahoo-grids-css/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://developer.yahoo.com/yui/grids/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2717&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522febc338132_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;https://developer.yahoo.com/yui/grids/&#34;&gt;Yahoo! UI Library&amp;rsquo;s Grids CSS framework&lt;/a&gt; might seem hard to grok at first, but I&amp;rsquo;ve been using it for the past year on a commercial project and find that it&amp;rsquo;s solid for liquid CSS layouts. The &lt;a href=&#34;https://developer.yahoo.com/yui/grids/builder/&#34;&gt;grid builder&lt;/a&gt; helps to visualize what&amp;rsquo;s possible and view the rather obscure naming conventions they use in CSS classes.&lt;/p&gt;
 &lt;p&gt;The framework offers four preset page widths, six preset templates, and the ability to stack and nest subdivided regions of two, three, or four columns.&lt;/p&gt;&lt;/p&gt;
@@ -186,10 +186,10 @@ wt522febc338132_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Litmus Browser Testing Software</title>
-      <link>http://localhost:1313/blog/litmus-browser-testing-software/</link>
+      <link>http://konigi.com/blog/litmus-browser-testing-software/</link>
       <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/litmus-browser-testing-software/</guid>
+      <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/litmus-mac-app.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;Litmus&lt;/a&gt; is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.&lt;/p&gt;
 &lt;p&gt;They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above. This looks like it will be a great service for small teams or individuals. Doing my test with 2 browsers brought back screenshots within a minute or 2.&lt;/p&gt;
 &lt;p&gt;They offer flexible plans, e.g. a 1 day pass, and subscription plans that are downgraded retain screenshots of previous tests. If your pressed for time, or don&amp;rsquo;t want to fire up that VM, this looks like the service to beat.&lt;/p&gt;&lt;/p&gt;
@@ -200,10 +200,10 @@ wt522febc338132_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Fluid Grids</title>
-      <link>http://localhost:1313/blog/fluid-grids/</link>
+      <link>http://konigi.com/blog/fluid-grids/</link>
       <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/fluid-grids/</guid>
+      <guid>http://konigi.com/blog/fluid-grids/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://alistapart.com/articles/fluidgrids&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1545&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49c3e04302ff6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In the latest A List Apart, Airbag Industries&amp;rsquo; Ethan Marcotte writes about &lt;a href=&#34;http://alistapart.com/articles/fluidgrids&#34;&gt;designing fluid grids&lt;/a&gt;, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. &lt;/p&gt;
 &lt;p&gt;To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user. This becomes our context variable. Then we take the fixed pixel size we want to make fluid, e.g. a width in our fixed pixel design, and divide by the context variable, which gives us a relative value for our fluid grid.&lt;/p&gt;
@@ -220,10 +220,10 @@ wt49c3e04302ff6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In the latest A List
     
     <item>
       <title>jQuery Flash Plugin</title>
-      <link>http://localhost:1313/blog/jquery-flash-plugin/</link>
+      <link>http://konigi.com/blog/jquery-flash-plugin/</link>
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jquery-flash-plugin/</guid>
+      <guid>http://konigi.com/blog/jquery-flash-plugin/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jquery.lukelutman.com/plugins/flash/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1533&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49b8101500eda.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://jquery.lukelutman.com/plugins/flash/&#34;&gt;Flash Plugin&lt;/a&gt; looks like an extremely simple method to do Flash replacement using XHTML and JQuery. Can embed SWFs, You Tube videos, and even do SIFR. Sick. &lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://www.davidkaneda.com/post/85608474/jquery-flash-plugin&#34;&gt;David Kaneda&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -234,10 +234,10 @@ wt49b8101500eda.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;
     
     <item>
       <title>stopdesign is back!</title>
-      <link>http://localhost:1313/blog/stopdesign-back/</link>
+      <link>http://konigi.com/blog/stopdesign-back/</link>
       <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/stopdesign-back/</guid>
+      <guid>http://konigi.com/blog/stopdesign-back/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://stopdesign.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1474&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4980638619ae6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://stopdesign.com/&#34;&gt;Doug Bowman&lt;/a&gt; has started blogging again! &lt;/p&gt;&lt;/p&gt;
 

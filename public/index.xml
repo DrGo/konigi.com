@@ -2,19 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Konigi</title>
-    <link>http://localhost:1313/</link>
+    <link>http://konigi.com/</link>
     <description>Recent content on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://konigi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jim Kalbach on Jazz as a Model for the Way Businesses Work</title>
+      <link>http://konigi.com/blog/jim-kalbach-jazz/</link>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jim-kalbach-jazz/</guid>
+      <description>&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/j8Gmp194zbI?rel=0&amp;amp;showinfo=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tedxtalks.ted.com/video/Jazz-Improvisation-as-a-Model-f;search%3Ajazz&#34;&gt;Jim Kalbach talks&lt;/a&gt; about the improvisational model of Jazz as a metaphor for the way some businesses approach collaboration today. What was probably seen a few years ago as a radical way of structuring companies to organize around the work rather than using inflexible business units as boundaries, is now more commonplace.&lt;/p&gt;
+
+&lt;p&gt;To demonstrate what happens in the teamwork of a group of jazz performers, Kalbach assembled a group of musicians to perform a song they hadn&amp;rsquo;t played together before, and described how jazz performances &amp;ldquo;work&amp;rdquo; as a type of collaboration. These are the characteristics we can learn from.&lt;/p&gt;
+
+&lt;p&gt;Empathy: Everyone brings something unique to the performance, but it&amp;rsquo;s only when the individuals come together that great music happens. So while Jazz performers allows for individuality to shine through, it&amp;rsquo;s in the listening and working with each musician&amp;rsquo;s solo that the whole emerges.&lt;/p&gt;
+
+&lt;p&gt;Embracing uncertainty: The idea of approaching each performance with an expectation that what may unfold is unknown means that performers can experiment and improvise.&lt;/p&gt;
+
+&lt;p&gt;Lastly, improvisation in a team doesn&amp;rsquo;t mean doing as you please. Without some rules or guidelines, it&amp;rsquo;d be easier to make a mess than music worth listening to. It could be a set of patterns, guidelines, and principles that set the stage for the work to be done. In jazz it can mean using song structure like working within the AABA song pattern so that the musicians have queues for how the individual moments can be framed. It can also mean having principles that the players have a common understanding of, so they can work with how the others&amp;rsquo; use them.&lt;/p&gt;
+
+&lt;p&gt;These three points can be easily applied to how businesses organize and do work. I like the chart he shows, giving a snapshot of how &lt;a href=&#34;https://ucvox.files.wordpress.com/2012/11/113617905-scaling-agile-spotify-11.pdf&#34;&gt;Spotify&amp;rsquo;s organic Guild structure (PDF)&lt;/a&gt; has allowed their Agile teams to make do with a fast growing company. It&amp;rsquo;s a great example showing how a business organizes teams into organic groups around projects. This makes it possible to flex with the constantly changing organization and business goals in order to get things done. This way of working is the antithesis of what Kalbach refers to as the command and control model of work from the Drucker age of business management for information work. The work becomes more important as does embracing the uncertainty of flatter and continuously morphing teams.&lt;/p&gt;
+
+&lt;p&gt;Where I work, a lot of our inspiration comes from the same examples of companies that Kalbach references like Gore and Valve&amp;ndash;companies that have created flatter, work-oriented teams where the focus on how the company works is as important as the products. Our founder Peldi&amp;rsquo;s greatest achievement in many of our opinions is not the product, but the company he&amp;rsquo;s created. Our most interesting meetings have been discussion focussed on continuous improvement, rather than anything related to technology.&lt;/p&gt;
+
+&lt;p&gt;This is an inspiring presentation, and I love the connection made with Jazz performance. You can see more talks from Jim at his blog &lt;a href=&#34;https://experiencinginformation.wordpress.com/&#34;&gt;Experiencing Information&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jboogie&#34;&gt;Hat tip to @jboogie&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello Hugo: Konigi is now a Static Site</title>
-      <link>http://localhost:1313/blog/hello-hugo/</link>
+      <link>http://konigi.com/blog/hello-hugo/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-hugo/</guid>
+      <guid>http://konigi.com/blog/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;After many years of being a Drupal user, from version 2 when I started iaslash.org to version 6 on this site, I&amp;rsquo;ve made the move from PHP/MySQL blog to full on static site. Here&amp;rsquo;s why and how I did it.&lt;/p&gt;
@@ -27,7 +55,7 @@
 
 &lt;p&gt;I started our first experiment by moving a site to Hammer, then shortly after moved it to become a grunt generated site. Those sites are happily chugging along, maintained by a team that generates the pages with grunt. Our main site at &lt;a href=&#34;http://balsamiq.com&#34;&gt;balsamiq.com&lt;/a&gt; is one of them.&lt;/p&gt;
 
-&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://localhost:1313/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
+&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://konigi.com/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a generator written in the &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; programming language. I chose Hugo over a few of the other great options out there like Jekkyl and Octopress because of its speed, support for taxonomies, and markdown support. I&amp;rsquo;m no programmer, so my implementation of Hugo is very simple and I put together my theme using only the examples in the docs, and a couple of questions to the discussion forum.&lt;/p&gt;
 
@@ -58,16 +86,18 @@
 
 &lt;p&gt;The last step is a command that uses &lt;a href=&#34;http://s3tools.org/s3cmd&#34;&gt;s3cmd&lt;/a&gt; to sync only the changed pages to the generated public directory, removing deletions. See the options in the docs for doing this. There are many blog posts with different suggestions for how to deploy, but I found all I needed &lt;a href=&#34;http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/&#34;&gt;in this one on Programblings&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get everything on Git and hooked up to a middleman that will automate the deploy part of the process. So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get my content, which is on Git, hooked up to a middleman that will automate the deploy part of the process. If you&amp;rsquo;re interested in seeing how I created this site, you can look at my theme templates. The entire site is publicly &lt;a href=&#34;https://github.com/jibbajabba/konigi.com/tree/master/themes/konigi&#34;&gt;viewable on Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Static Site Generator Directories</title>
-      <link>http://localhost:1313/tools/submissions/static-site-generator-directories/</link>
+      <link>http://konigi.com/tools/submissions/static-site-generator-directories/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/static-site-generator-directories/</guid>
+      <guid>http://konigi.com/tools/submissions/static-site-generator-directories/</guid>
       <description>&lt;p&gt;These are the 2 main directories listing generators that you can use to build a static site. Each offers a sortable lists to browse by user rating or language.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;StaticGen&lt;/a&gt; - Lists the top Open Source static site generators only. Filter by language. Sort by rating, issues, forks, titles.&lt;/p&gt;
@@ -78,10 +108,10 @@
     
     <item>
       <title>Nulo</title>
-      <link>http://localhost:1313/music/nulo/</link>
+      <link>http://konigi.com/music/nulo/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/nulo/</guid>
+      <guid>http://konigi.com/music/nulo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve hinted at starting to play with music for a little while now. I&amp;rsquo;ve gotten past the point of just being overwhelmed and uncertain about whether I can learn to create music, and am now immersed in learning. Here&amp;rsquo;s the story, and why you may start to see me blog about music now.&lt;/p&gt;
 
 &lt;p&gt;In 2013 I committed to teaching a mixing (DJing) workshop to a group of colleagues, having rediscovered mixing with digital music. I mixed house and electronic music as a teenager (because Filipino) and college student, and then bedroom DJ through the years until I settled into an IA/IXD career, had kids, etc. I returned to bedroom DJ status when I acquired Traktor, and that&amp;rsquo;s rekindled the love I have for electronic music.&lt;/p&gt;
@@ -98,10 +128,10 @@
     
     <item>
       <title>Balsamiq Mockups Version 3 Released</title>
-      <link>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</link>
+      <link>http://konigi.com/blog/balsamiq-mockups-version-3-released/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</guid>
+      <guid>http://konigi.com/blog/balsamiq-mockups-version-3-released/</guid>
       <description>&lt;p&gt;We &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;released version 3 of Balsamiq Mockups today&lt;/a&gt;! There&#39;s plenty to see including an updated interface, new file format (single packaged project files), better asset and symbols management, the addition of &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34; target=&#34;_blank&#34;&gt;FontAwesome&lt;/a&gt; icons, and plenty of improvements under the surface. We point out some of the highlights in the video below.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/-Zz8EYPhEew?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;There&#39;s plenty more under the hood, and lots of new stuff on deck. You can &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;read all about it in the announcement&lt;/a&gt;. It&#39;s a free update to existing users. &lt;a href=&#34;http://balsamiq.com/download/&#34;&gt;Download it here.&lt;/a&gt;&lt;/p&gt;
@@ -114,10 +144,10 @@
     
     <item>
       <title>Astropad: Use iPad as Mac Graphics Tablet</title>
-      <link>http://localhost:1313/tools/submissions/astropad-use-ipads-mac-graphics-tablet/</link>
+      <link>http://konigi.com/tools/submissions/astropad-use-ipads-mac-graphics-tablet/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/astropad-use-ipads-mac-graphics-tablet/</guid>
+      <guid>http://konigi.com/tools/submissions/astropad-use-ipads-mac-graphics-tablet/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe width=&#34;853&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/ouwCHT3rGRY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://astropad.com/&#34;&gt;AstroPad&lt;/a&gt; turns your iPad into a Mac graphics tablet, mirroring a section of your Mac&amp;rsquo;s screen when connected via WiFi or USB. Once connected you can sketch/draw on the tablet with an iPad stylus or finger. It will operate pretty much like a Wacom graphics tablet when you&amp;rsquo;re using a Desktop graphics app with a drawing tool like Pixelmator, Photoshop, or Sketchbook Pro. &lt;/p&gt;&lt;/p&gt;
 
@@ -127,10 +157,10 @@
     
     <item>
       <title>PAPERPROTO</title>
-      <link>http://localhost:1313/tools/submissions/paperproto/</link>
+      <link>http://konigi.com/tools/submissions/paperproto/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/paperproto/</guid>
+      <guid>http://konigi.com/tools/submissions/paperproto/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://paperproto.com/&#34;&gt;PAPERPROTO&lt;/a&gt; is a 3D printable model to use for paper prototyping mobile applications, in the style of a &lt;a href=&#34;http://lifestyle.howstuffworks.com/crafts/seasonal/winter/theatre-activities-for-kids7.htm&#34; target=&#34;_blank&#34;&gt;story scroll&lt;/a&gt;. You can download the file or buy the model for printing on demand directly from Shapeways.&lt;/p&gt;
 
 &lt;p&gt;Via &lt;a href=&#34;http://zekefranco.com/&#34;&gt;Zeke Franco&lt;/a&gt;&lt;/p&gt;
@@ -141,10 +171,10 @@
     
     <item>
       <title>Pinterest Mobile Radial Menus</title>
-      <link>http://localhost:1313/interface/pinterest-mobile-radial-menus/</link>
+      <link>http://konigi.com/interface/pinterest-mobile-radial-menus/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pinterest-mobile-radial-menus/</guid>
+      <guid>http://konigi.com/interface/pinterest-mobile-radial-menus/</guid>
       <description>&lt;p&gt;Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.&lt;/p&gt;
 
 &lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/jeGkxfY_UOM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
@@ -155,10 +185,10 @@
     
     <item>
       <title>Pinterest Tag Search and Suggestions</title>
-      <link>http://localhost:1313/interface/pinterest-tag-search-and-suggestions/</link>
+      <link>http://konigi.com/interface/pinterest-tag-search-and-suggestions/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pinterest-tag-search-and-suggestions/</guid>
+      <guid>http://konigi.com/interface/pinterest-tag-search-and-suggestions/</guid>
       <description>&lt;p&gt;Pinterest&#39;s search feature shows tag and board suggestions in the auto-completion list. Select terms/tags to display, and a horizontal list (accordion) of correlating tags to refine or narrow your your search are displayed below the search box.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/JpIEOVTY-a8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -168,10 +198,10 @@
     
     <item>
       <title>Tumblr Fave Animation</title>
-      <link>http://localhost:1313/interface/tumblr-fave-animation/</link>
+      <link>http://konigi.com/interface/tumblr-fave-animation/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/tumblr-fave-animation/</guid>
+      <guid>http://konigi.com/interface/tumblr-fave-animation/</guid>
       <description>&lt;p&gt;This is a small animation of the  heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/8bxvrHabfLA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -181,10 +211,10 @@
     
     <item>
       <title>UX Check</title>
-      <link>http://localhost:1313/tools/submissions/ux-check/</link>
+      <link>http://konigi.com/tools/submissions/ux-check/</link>
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ux-check/</guid>
+      <guid>http://konigi.com/tools/submissions/ux-check/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2894&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt54b5949b0d995_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;UX Check&lt;/a&gt; is a Google Chrome extension for reviewing web sites and apps against &lt;a href=&#34;http://www.nngroup.com/articles/ten-usability-heuristics/&#34;&gt;Jakob Neilsen&amp;rsquo;s Usability Heuristics&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -199,10 +229,10 @@ wt54b5949b0d995_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>The Accessibility Project</title>
-      <link>http://localhost:1313/tools/submissions/accessibility-project/</link>
+      <link>http://konigi.com/tools/submissions/accessibility-project/</link>
       <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/accessibility-project/</guid>
+      <guid>http://konigi.com/tools/submissions/accessibility-project/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://a11yproject.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2892&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://a11yproject.com/&#34;&gt;A11Y project&lt;/a&gt; is a community-driven effort to make web accessibility easier. They provide articles on best practices for doing front end development with accessibility in mind. The site includes an &lt;a href=&#34;http://a11yproject.com/checklist.html&#34;&gt;accessibility checklist&lt;/a&gt;, &lt;a href=&#34;http://a11yproject.com/patterns/&#34;&gt;a pattern library&lt;/a&gt; for accessible widgets, and a list of resources for diving deeper into web accessibility.&lt;/p&gt;&lt;/p&gt;
 
@@ -213,10 +243,10 @@ wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Mention Call To Action</title>
-      <link>http://localhost:1313/interface/mention-call-action/</link>
+      <link>http://konigi.com/interface/mention-call-action/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/mention-call-action/</guid>
+      <guid>http://konigi.com/interface/mention-call-action/</guid>
       <description>&lt;p&gt;Mention.com&#39;s Success Stories section  uses this great phrase to introduce the Proof in the drip pan at the bottom of the page.&lt;/p&gt;
 
 &lt;p&gt;&amp;quot;They also started with a free trial.&amp;quot; Short and persuasive copy that makes an otherwise common CTA more compelling.&lt;/p&gt;
@@ -228,10 +258,10 @@ wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>UX Project Checklist</title>
-      <link>http://localhost:1313/tools/submissions/ux-project-checklist/</link>
+      <link>http://konigi.com/tools/submissions/ux-project-checklist/</link>
       <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ux-project-checklist/</guid>
+      <guid>http://konigi.com/tools/submissions/ux-project-checklist/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/ux-project-checklist.png&#34; class=&#34;bluga-thumbnail custom&#34;&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;This &lt;a href=&#34;http://uxchecklist.github.io/&#34;&gt;UX Checklist&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/sovesove&#34;&gt;Andrea Soverini&#39;s&lt;/a&gt; is a nice overview of potential UX-related tools and techniques that you could use for product design. It provides a layered visualization of a design process, like an extension of JJG&#39;s layers, with links to articles on the technique. Would make a good poster for a workspace.&lt;/p&gt;
@@ -243,27 +273,13 @@ wt54aef2f5871cc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Songs</title>
-      <link>http://localhost:1313/music/songs/</link>
+      <link>http://konigi.com/music/songs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/songs/</guid>
+      <guid>http://konigi.com/music/songs/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s nothing like the exquisite pain of starting something new.&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94505333&amp;amp;color=499bd7&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RemoteIE: Remote Testing for Internet Explorer</title>
-      <link>http://localhost:1313/tools/submissions/remoteie-remote-testing-internet-explorer/</link>
-      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tools/submissions/remoteie-remote-testing-internet-explorer/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://remote.modern.ie/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2888&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
-wt5457d9055ee6c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;https://remote.modern.ie/&#34;&gt;Microsoft Remote Desktop app&lt;/a&gt; lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://remote.modern.ie/&#34;&gt;https://remote.modern.ie/&lt;/a&gt;&lt;/p&gt;
-      
 </description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Konigi</title>
-    <link>http://localhost:1313/tags/events/</link>
+    <link>http://konigi.com/tags/events/</link>
     <description>Recent content in Events on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Conferences and Events</title>
-      <link>http://localhost:1313/wiki/conferences-and-events/</link>
+      <link>http://konigi.com/wiki/conferences-and-events/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/conferences-and-events/</guid>
+      <guid>http://konigi.com/wiki/conferences-and-events/</guid>
       <description>&lt;p&gt;&lt;ul id=&#34;filter&#34; class=&#34;inline mt0 strong&#34;&gt;
 &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#&#34;&gt;UX&lt;/a&gt;&lt;/li&gt;
@@ -382,10 +382,10 @@ td:second-child {
     
     <item>
       <title>Upcoming 2012-2013 UX Conferences</title>
-      <link>http://localhost:1313/blog/upcoming-2012-2013-ux-conferences/</link>
+      <link>http://konigi.com/blog/upcoming-2012-2013-ux-conferences/</link>
       <pubDate>Fri, 31 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/upcoming-2012-2013-ux-conferences/</guid>
+      <guid>http://konigi.com/blog/upcoming-2012-2013-ux-conferences/</guid>
       <description>&lt;p&gt;The 2012-2013 conference calendar is lining up and I&#39;ve been starting to track the upcoming events as tickets start to go on sale. I&#39;ve omitted those that are already sold out. Here&#39;s what&#39;s looking interesting on my radar, listed in date order. Am sure I&#39;m missing quite a few. This is a good start. &lt;/p&gt;
 
 &lt;ul&gt;
@@ -434,10 +434,10 @@ Lisbon, Portugal, May 15-17, 2013&lt;/li&gt;
     
     <item>
       <title>Asbury Agile 2012 Conference</title>
-      <link>http://localhost:1313/blog/asbury-agile-2012-conference/</link>
+      <link>http://konigi.com/blog/asbury-agile-2012-conference/</link>
       <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/asbury-agile-2012-conference/</guid>
+      <guid>http://konigi.com/blog/asbury-agile-2012-conference/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.asburyagile.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/asburyagile.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.asburyagile.com/&#34;&gt;Asbury Agile&lt;/a&gt; has launched the site for their second conference, which takes place in Asbury Park, the &lt;a href=&#34;bruce-springsteen-creativity.html&#34;&gt;The Boss&amp;rsquo;&lt;/a&gt; stomping grounds, on October 3, 2012. I&amp;rsquo;m honored to be one of the guest speakers, to give a talk on interface sketching. There&amp;rsquo;ll be an awesome cast of speakers including Chris Ackermann, Matt Bango, Brad Frost, Sasha Laundy, Kenneth Reitz, Tomer Sharon, Rob Spectre, Srjdjan Strbanovic. Early bird tickets are now available (save $50).&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Asbury Agile is a friendly, single track conference for  web professionals and students to gather, share ideas, learn, and connect with their peeps. The event lakes place at Watermark, in Asbury Park, NJ. You can follow &lt;a href=&#34;https://twitter.com/asburyagile&#34;&gt;@asburyagile&lt;/a&gt; for event updates.&lt;/p&gt;
@@ -450,10 +450,10 @@ Lisbon, Portugal, May 15-17, 2013&lt;/li&gt;
     
     <item>
       <title>Sketchnotes 2009 &amp; 2010: A book by Eva-Lotta Lamm</title>
-      <link>http://localhost:1313/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</link>
+      <link>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</link>
       <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</guid>
+      <guid>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.evalotta.net/sketchnotes/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2474&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d5072685bd0e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is pretty incredible. &lt;a href=&#34;http://www.evalotta.net/sketchnotes/&#34;&gt;Eva-Lotta Lamm&amp;rsquo;s self-published book&lt;/a&gt; contains 2 years&amp;rsquo; worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.&lt;/p&gt;&lt;/p&gt;
 
@@ -469,10 +469,10 @@ wt4d5072685bd0e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is pretty
     
     <item>
       <title>Interaction10: How to Design an Experience for Experience Designers</title>
-      <link>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</link>
+      <link>http://konigi.com/blog/interaction10-how-design-experience-experience-designers/</link>
       <pubDate>Fri, 26 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</guid>
+      <guid>http://konigi.com/blog/interaction10-how-design-experience-experience-designers/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2339&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bad3ae7b2390_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jennifer Bove writes for Fast Company about how she and Bill DeRouchey designed the conference experience in &amp;quot;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;Interaction10: How to Design an Experience for Experience Designers&lt;/a&gt;.&amp;quot; It&amp;rsquo; a great behind the scenes look at how they observed the event the year prior, and thought about every aspect of the attendee experience and designed the IXD10 event to create a service that caters to what&amp;rsquo;s important to the conference-goer at every point. I&amp;rsquo;m sad I missed it. Sounds different from most conferences I&amp;rsquo;ve been to, for sure.&lt;/p&gt;&lt;/p&gt;
 
@@ -482,10 +482,10 @@ wt4bad3ae7b2390_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jennifer Bove 
     
     <item>
       <title>UX People: Conference Showcasing Britain&#39;s Talent</title>
-      <link>http://localhost:1313/blog/ux-people-conference-showcasing-britains-talent/</link>
+      <link>http://konigi.com/blog/ux-people-conference-showcasing-britains-talent/</link>
       <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-people-conference-showcasing-britains-talent/</guid>
+      <guid>http://konigi.com/blog/ux-people-conference-showcasing-britains-talent/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxpeople.co.uk/2010/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2304&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b7a81651dd52_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;UX People is a conference showcasing Britain&amp;rsquo;s talent and achievements in User Experience Design.&lt;/p&gt;&lt;/p&gt;
 
@@ -503,10 +503,10 @@ UX People is committed to helping the rising stars of Britain become the world-c
     
     <item>
       <title>UX Lx: User Experience Lisbon</title>
-      <link>http://localhost:1313/blog/ux-lx-user-experience-lisbon/</link>
+      <link>http://konigi.com/blog/ux-lx-user-experience-lisbon/</link>
       <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-lx-user-experience-lisbon/</guid>
+      <guid>http://konigi.com/blog/ux-lx-user-experience-lisbon/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.ux-lx.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2264&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b47e608400ed_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.ux-lx.com/&#34;&gt;UX Lx&lt;/a&gt;, User Experience Lisbon, is set to take place in Lisbon Portugal next May 12 to 14. Nice time for a trip to Portugal. Speakers include Jared Spool, Luke Wroblewski, Dan Saffer, Peter Merholz, Donna Spencer, Brian Fling, Bill Scott, and Dana Chisnell.&lt;/p&gt;&lt;/p&gt;
 
@@ -516,10 +516,10 @@ wt4b47e608400ed_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&
     
     <item>
       <title>mobileHCI 2009 Proceedings</title>
-      <link>http://localhost:1313/blog/mobilehci-2009-proceedings/</link>
+      <link>http://konigi.com/blog/mobilehci-2009-proceedings/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mobilehci-2009-proceedings/</guid>
+      <guid>http://konigi.com/blog/mobilehci-2009-proceedings/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://mobilehci.uni-siegen.de/mhci2009.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2243&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b3cb1caf3b89_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The full text of the proceedings of &lt;a href=&#34;http://mobilehci.uni-siegen.de/mhci2009.html&#34;&gt;MobileHCI09&lt;/a&gt;, the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services is available online. The event, which covers mobile and wearable computing devices and services took place September, 2009 at the University of Bonn in Germany.&lt;/p&gt;&lt;/p&gt;
 
@@ -529,10 +529,10 @@ wt4b3cb1caf3b89_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The full text 
     
     <item>
       <title>Interaction 10 Registration Open</title>
-      <link>http://localhost:1313/blog/interaction-10-registration-open/</link>
+      <link>http://konigi.com/blog/interaction-10-registration-open/</link>
       <pubDate>Sun, 25 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/interaction-10-registration-open/</guid>
+      <guid>http://konigi.com/blog/interaction-10-registration-open/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://interaction.ixda.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1924&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ae4617d6a369.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://interaction.ixda.org/&#34;&gt;Registration for Interaction 10 is open&lt;/a&gt;. Early bird pricing ends November 30th. Interaction 10 is held at SCAD, Savannah College of Art and Design on Feb 4-7, 2010 in Savannah, Georgia. Keynote speakers are Paola Antonelli, Bill Moggridge, Nathan Shedroff, Ezio Manzini, Jon Kolko, Dan Hill.&lt;/p&gt;&lt;/p&gt;
 
@@ -542,10 +542,10 @@ wt4ae4617d6a369.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>The Drop Shadow Talks, Berlin</title>
-      <link>http://localhost:1313/blog/drop-shadow-talks-berlin/</link>
+      <link>http://konigi.com/blog/drop-shadow-talks-berlin/</link>
       <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/drop-shadow-talks-berlin/</guid>
+      <guid>http://konigi.com/blog/drop-shadow-talks-berlin/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://dropshadowtalks.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1923&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ae21f5d2685c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is interesting. This season, Berliner Technische Kunsthochschule Hochschule für Gestaltung (FH) is putting on a series of lectures in Berlin centering on topics related to the drop shadow and 3D visual elements in graphic design.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The Drop Shadow Talks reply to current developments on the visually enriched layer for machine interaction. In the shades of evening lectures the Drop Shadow Talks will present art and projects inﬂuenced and inspired by the baroque graphical user interface.&lt;/p&gt;&lt;/blockquote&gt;
@@ -557,10 +557,10 @@ wt4ae21f5d2685c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is interesting.
     
     <item>
       <title>Holland Festival Program Browser</title>
-      <link>http://localhost:1313/interface/holland-festival-program-browser/</link>
+      <link>http://konigi.com/interface/holland-festival-program-browser/</link>
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/holland-festival-program-browser/</guid>
+      <guid>http://konigi.com/interface/holland-festival-program-browser/</guid>
       <description>&lt;p&gt;The Holland Festival provides a program browser/calendar that provides an AJAX interface for viewing over 3 weeks of events in a grid. Drop down menus are provided to narrow or expand by genre, locale and route. A single toggle highlights featured events. And a sliding selector, which can be dragged to move the range left and right and with handles to narrow or expand the window, allows you to filter the days to be shown in the grid. Hovering over the individual events in the grid provides a link to show the details in a dialog layer.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The initial grid with all genres and locations shown.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hollandfestival-program-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The initial grid with all genres and locations shown.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hollandfestival-program-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Unchecking all genres allows the selection of individual values. Matches are highlighted in the grid and others are dimmed.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hollandfestival-program-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Unchecking all genres allows the selection of individual values. Matches are highlighted in the g...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hollandfestival-program-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Selecting the Locations drop down and unchecking the &amp;quot;All&amp;quot; value allows the selection of individual values.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hollandfestival-program-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Selecting the Locations drop down and unchecking the &amp;quot;All&amp;quot; value allows the selection o...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hollandfestival-program-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Velow the date range is narrowed using the handles, and the grid updates to show 1 column per day. The &amp;quot;Highlights&amp;quot; button is also checked and matches are shown with a yellow badge.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/hollandfestival-program-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Velow the date range is narrowed using the handles, and the grid updates to show 1 column per day...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/hollandfestival-program-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.hollandfestival.nl/page.ocl?pageid=13&#34;&gt;http://www.hollandfestival.nl/page.ocl?pageid=13&lt;/a&gt;&lt;/p&gt;
@@ -569,10 +569,10 @@ wt4ae21f5d2685c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is interesting.
     
     <item>
       <title>Jason Santa Maria: The Influence of Print Design</title>
-      <link>http://localhost:1313/blog/jason-santa-maria-influence-print-design/</link>
+      <link>http://konigi.com/blog/jason-santa-maria-influence-print-design/</link>
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jason-santa-maria-influence-print-design/</guid>
+      <guid>http://konigi.com/blog/jason-santa-maria-influence-print-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screencast&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;351&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=4394152&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=4394152&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;351&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/4394152&#34;&gt;SVA Dot Dot Dot Lectures: Jason Santa Maria&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user1119725&#34;&gt;MFA Interaction Design&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
@@ -584,10 +584,10 @@ wt4ae21f5d2685c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is interesting.
     
     <item>
       <title>Tap is the New Click</title>
-      <link>http://localhost:1313/blog/tap-new-click/</link>
+      <link>http://konigi.com/blog/tap-new-click/</link>
       <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tap-new-click/</guid>
+      <guid>http://konigi.com/blog/tap-new-click/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=2761844&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=2761844&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/2761844&#34;&gt;NYC IxDA - Tap is the New Click - Dan Saffer&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user1128734&#34;&gt;Interaction Design Association&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
 &lt;p&gt;Dan Saffer gave a fantastic NYC IXDA presentation, &lt;a href=&#34;http://www.vimeo.com/2761844&#34;&gt;Tap Is the New Click&lt;/a&gt;, discussing the rise of touch interfaces, their place and adoption in society, and the role of the interaction designer in designing these direct manipulation interfaces. Every IA and IXD needs to watch this. A summary of the talk below:&lt;/p&gt;
@@ -601,10 +601,10 @@ wt4ae21f5d2685c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is interesting.
     
     <item>
       <title>IxDA Interaction 09 | Vancouver</title>
-      <link>http://localhost:1313/blog/ixda-interaction-09-vancouver/</link>
+      <link>http://konigi.com/blog/ixda-interaction-09-vancouver/</link>
       <pubDate>Sun, 11 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ixda-interaction-09-vancouver/</guid>
+      <guid>http://konigi.com/blog/ixda-interaction-09-vancouver/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://interaction09.ixda.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1441&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4969e0f28634b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;IxDA&amp;rsquo;s second annual conference, &lt;a href=&#34;http://interaction09.ixda.org/&#34;&gt;Interaction &amp;lsquo;09|vancouver&lt;/a&gt; is coming up from Feb 5-8.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Interaction 09|vancouver will be held from February 5-8, 2009 in stunning Vancouver, British Columbia, Canada, in conjunction with Simon Fraser University&amp;rsquo;s School of Interactive Arts and Technology and the Faculty of Business Administration. Join several hundred Interaction Designers from around the world as we address the design of interactive systems of all types: applications (web and desktop), mobile, consumer electronics, digitally enhanced environments, and more. Start your year off with stimulating talk, fun parties, and smart discussions about our growing field.&lt;/p&gt;
@@ -616,10 +616,10 @@ wt4969e0f28634b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;IxDA&amp;rsquo;s sec
     
     <item>
       <title>UX London</title>
-      <link>http://localhost:1313/blog/ux-london/</link>
+      <link>http://konigi.com/blog/ux-london/</link>
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-london/</guid>
+      <guid>http://konigi.com/blog/ux-london/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxlondon.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1429&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt495c24651c110.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://uxlondon.com/&#34;&gt;UX London&lt;/a&gt; is a three-day event for user experience designers that combines a day of inspirational conference with four half days of practical, in-depth, hands-on workshops, all presented by some of the biggest names in the industry. Speakers include Don Norman, Leisa Reichelt, Dan Saffer, Luke Wroblewski, Jared Spool, Jeff Veen, Eric Reiss, and Peter Merholz. If I were in Europe I&amp;rsquo;d definitely want to be there.&lt;/p&gt;&lt;/p&gt;
 

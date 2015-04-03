@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tv on Konigi</title>
-    <link>http://localhost:1313/tags/tv/</link>
+    <link>http://konigi.com/tags/tv/</link>
     <description>Recent content in Tv on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MTV&#39;s brand new look</title>
-      <link>http://localhost:1313/blog/mtvs-brand-new-look/</link>
+      <link>http://konigi.com/blog/mtvs-brand-new-look/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mtvs-brand-new-look/</guid>
+      <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;343&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=5395628&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=ffffff&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=5395628&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=ffffff&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;343&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/5395628&#34;&gt;MTV International / Mad Drummer&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/universal&#34;&gt;Universal Everything&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>MSNBC.com Microsoft Surface Videos</title>
-      <link>http://localhost:1313/blog/msnbccom-microsoft-surface-videos/</link>
+      <link>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</link>
       <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/msnbccom-microsoft-surface-videos/</guid>
+      <guid>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</guid>
       <description>&lt;p&gt;&lt;p&gt;I&amp;rsquo;ve caught Chuck Todd using a desktop touch interface a few times on MSNBC to click through poll charts. While John King has been using a &lt;a href=&#34;http://www.nytimes.com/2008/04/22/arts/television/22king.html?_r=1&amp;amp;ref=arts&amp;amp;oref=slogin&#34;&gt;Perceptive Pixel-designed touch wall&lt;/a&gt;, Todd has been using &lt;a href=&#34;http://blogs.msdn.com/surface/archive/2008/09/08/Live-from-MSNBC_2C00_-it_2700_s-Microsoft-Surface.aspx&#34;&gt;a Microsoft Surface interface&lt;/a&gt; on a desktop. The device and manipulation of data on the screen looks very natural on this show, especially for the kind of information he&amp;rsquo;s speaking to. I think whenever there&amp;rsquo;s a lot of visual information to add to a story, this kind of an interface has potential to be very helpful and I look forward to seeing what they do at MSNBC and on other shows.  &lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/lhJ0M0u33mw&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/lhJ0M0u33mw&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Hillcrest Labs Remote Control</title>
-      <link>http://localhost:1313/blog/hillcrest-labs-remote-control/</link>
+      <link>http://konigi.com/blog/hillcrest-labs-remote-control/</link>
       <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/hillcrest-labs-remote-control/</guid>
+      <guid>http://konigi.com/blog/hillcrest-labs-remote-control/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Hillcrest Labs&lt;/a&gt; provides a vision of the pointing and navigating future with their demonstration of Freespace motion-controlled TV remote.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/2bw7gPQdTWw&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/2bw7gPQdTWw&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>The New Xbox Experience</title>
-      <link>http://localhost:1313/blog/new-xbox-experience/</link>
+      <link>http://konigi.com/blog/new-xbox-experience/</link>
       <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/new-xbox-experience/</guid>
+      <guid>http://konigi.com/blog/new-xbox-experience/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/xbox-experience.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Kotaku reports on the &lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;New Xbox Experience&lt;/a&gt;, which does away with the Blade interface, and replaces with a remote-control type UI with cover-flow-like browsability. We&amp;rsquo;ll have to see what the reception will be for this. Xbox are integrating Netflix soon, and may be hoping to simplify the experience for a wider audience. I found the Blade UI to be pretty interesting the few times I got to use it.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&#34;&gt;http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture&lt;/a&gt;&lt;/p&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>Roku Netflix Player</title>
-      <link>http://localhost:1313/blog/roku-netflix-player/</link>
+      <link>http://konigi.com/blog/roku-netflix-player/</link>
       <pubDate>Tue, 20 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/roku-netflix-player/</guid>
+      <guid>http://konigi.com/blog/roku-netflix-player/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.roku.com/netflixplayer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1264&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4832e7e599724_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Yet &lt;a href=&#34;http://www.roku.com/netflixplayer/&#34;&gt;another set top box makes a move to bring the 10 foot Internet TV and movie experience to your living room&lt;/a&gt;. This time Roku, maker of the Soundbridge audio player, has teamed up with Netflix to deliver their video on demand service to a set top box designed for Netflix service only. The $100 box allows you to navigate your queue, view show/movie information, and stream videos that were previously only available for Internet streaming to Windows users previously. It&amp;rsquo;s not apparent if you can browse videos outside of your queue. &lt;/p&gt;
 &lt;p&gt;For Netflix users, the service is included free of charge if your plan allows Internet streaming. The streaming catalog still only hovers around 10,000 movies compared to the 100,000 available DVDs.  This is mostly older titles, but that&amp;rsquo;s still not a bad number and you can expect the catalog to grow. I can confirm that I see about 10% of my queue with Play Now options presently. Sadly, the box doesn&amp;rsquo;t deliver HD, so expect VCR quality video.&lt;/p&gt;
@@ -87,10 +87,10 @@ wt4832e7e599724_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Yet &lt;a href=&#3
     
     <item>
       <title>Apple filing depicts Apple TV with iChat widget interface</title>
-      <link>http://localhost:1313/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</link>
+      <link>http://konigi.com/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</link>
       <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</guid>
+      <guid>http://konigi.com/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2273/2250762446_b4e768e930_o.png&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.appleinsider.com/articles/08/02/07/apple_filing_depicts_apple_tv_with_ichat_widget_interface.html&#34;&gt;AppleInsider discovers&lt;/a&gt; an August 2006 patent filing by Apple for features having to do with broadcast video sent over Apple TV. The patent discusses interesting ideas for widgets that overlay the screen to allow such display of information as data related to what is on, and interactions such as purchasing tickets to performances, and doing video chat.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2250762446/&#34; title=&#34;AppleInsider | Apple filing depicts Apple TV with iChat widget interface by jibbajabba, on Flickr&#34;&gt;View photo on Flickr&lt;/a&gt;&lt;/p&gt;

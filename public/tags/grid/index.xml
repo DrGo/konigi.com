@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grid on Konigi</title>
-    <link>http://localhost:1313/tags/grid/</link>
+    <link>http://konigi.com/tags/grid/</link>
     <description>Recent content in Grid on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/grid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/grid/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Graph Paper</title>
-      <link>http://localhost:1313/tools/graph-paper/</link>
+      <link>http://konigi.com/tools/graph-paper/</link>
       <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/graph-paper/</guid>
+      <guid>http://konigi.com/tools/graph-paper/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
 &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
 &lt;h3&gt;About&lt;/h3&gt;

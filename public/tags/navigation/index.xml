@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Navigation on Konigi</title>
-    <link>http://localhost:1313/tags/navigation/</link>
+    <link>http://konigi.com/tags/navigation/</link>
     <description>Recent content in Navigation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Feb 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/navigation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/navigation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Navigation Patterns for Responsive Design</title>
-      <link>http://localhost:1313/blog/navigation-patterns-responsive-design/</link>
+      <link>http://konigi.com/blog/navigation-patterns-responsive-design/</link>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/navigation-patterns-responsive-design/</guid>
+      <guid>http://konigi.com/blog/navigation-patterns-responsive-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2600&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt5119504631343_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like Brad Frost&amp;rsquo;s examples for handling both &lt;a href=&#34;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&#34;&gt;complex navigation&lt;/a&gt; and &lt;a href=&#34;http://bradfrostweb.com/blog/web/responsive-nav-patterns/&#34;&gt;simple navigation&lt;/a&gt; needs on responsive designs.&lt;/p&gt;&lt;/p&gt;
 
@@ -26,10 +26,10 @@ wt5119504631343_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like Brad Fr
     
     <item>
       <title>Elastic Lists</title>
-      <link>http://localhost:1313/tools/submissions/elastic-lists/</link>
+      <link>http://konigi.com/tools/submissions/elastic-lists/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/elastic-lists/</guid>
+      <guid>http://konigi.com/tools/submissions/elastic-lists/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://moritz.stefaner.eu/projects/elastic-lists/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2772&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://moritz.stefaner.eu/projects/elastic-lists/&#34;&gt;Elastic Lists&lt;/a&gt; is an open source project from Moritz Stefaner that allows you to create a faceted browsing interface for navigating large, multi-dimensional info spaces with just a few clicks, never letting you run into situations with zero results. Elastic Lists is an Apache licensed, AS3 project for use in Flash CS4 or Flex.&lt;/p&gt;&lt;/p&gt;
 
@@ -40,10 +40,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>BUBBLEWOOD Navigation</title>
-      <link>http://localhost:1313/interface/bubblewood-navigation/</link>
+      <link>http://konigi.com/interface/bubblewood-navigation/</link>
       <pubDate>Tue, 27 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/bubblewood-navigation/</guid>
+      <guid>http://konigi.com/interface/bubblewood-navigation/</guid>
       <description>&lt;p&gt;Interesting bubble/cloud of links make up the front page of this retail site. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bubblewood-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bubblewood-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/gshQgarSfQA.m4v&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;447&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.bubblewood.com/index_fr.htm&#34;&gt;http://www.bubblewood.com/index_fr.htm&lt;/a&gt;&lt;/p&gt;
@@ -52,10 +52,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Virgin.com Header</title>
-      <link>http://localhost:1313/interface/virgincom-header/</link>
+      <link>http://konigi.com/interface/virgincom-header/</link>
       <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/virgincom-header/</guid>
+      <guid>http://konigi.com/interface/virgincom-header/</guid>
       <description>&lt;p&gt;The Virgin.com redesign sports a header that provides a boatload of functionality using mega fly out menus: locale selection, micro-site navigation, registration, login, and newsletter signup. I like that they make these options readily available wherever you are on the site. The longer drop downs like the registration form, for example, seem a little long for users on smaller screens, e.g. netbooks. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The global navigation bar provides mega drop downs with sub-nodes and links to their subsidiary companies that provide products and services under each category.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/virgin-header-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The global navigation bar provides mega drop downs with sub-nodes and links to their subsidiary c...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/virgin-header-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The login form is a simple drop down, with a link to register on a separate page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/virgin-header-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The login form is a simple drop down, with a link to register on a separate page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/virgin-header-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. The Sign Up drop down provides the full registration form in a big drop down.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/virgin-header-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. The Sign Up drop down provides the full registration form in a big drop down.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/virgin-header-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Clicking Worldwide provides options to view the site for your geographic region. This option is also provided in the Flash hero below the navigation.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/virgin-header-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Clicking Worldwide provides options to view the site for your geographic region. This option is a...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/virgin-header-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. The Virgin Companies link provides navigation to micro-sites, and remains consistent as you navigate from site to site.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/virgin-header-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. The Virgin Companies link provides navigation to micro-sites, and remains consistent as you navig...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/virgin-header-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.virgin.com/&#34;&gt;http://www.virgin.com/&lt;/a&gt;&lt;/p&gt;
@@ -64,10 +64,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Nike Microsite Navigation</title>
-      <link>http://localhost:1313/interface/nike-microsite-navigation/</link>
+      <link>http://konigi.com/interface/nike-microsite-navigation/</link>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/nike-microsite-navigation/</guid>
+      <guid>http://konigi.com/interface/nike-microsite-navigation/</guid>
       <description>&lt;p&gt;Nike.com&#39;s main site provides entry to a host of micro-sites for each sport or product family, but a consistent navigation model is provided across all microsites. A primary navigation widget is provided in the Nike Swoosh button, which reveals a list of a few of the most popular microsite destinations. A &#34;More&#34; link epxands the list to show all of the microsites.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Users click the Nike Swoosh logo to navigate across the Nike space to other microsites. A drop down reveals the most popular destinations.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nike-microsite-nav-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Users click the Nike Swoosh logo to navigate across the Nike space to other microsites. A drop do...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nike-microsite-nav-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. A More link in the drop down reveals the entire list of microsites.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nike-microsite-nav-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. A More link in the drop down reveals the entire list of microsites.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nike-microsite-nav-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.nike.com/nikeos/p/nike/en_US/?&#34;&gt;http://www.nike.com/nikeos/p/nike/en_US/?&lt;/a&gt;&lt;/p&gt;
@@ -76,10 +76,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>EA Microsite Navigation</title>
-      <link>http://localhost:1313/interface/ea-microsite-navigation/</link>
+      <link>http://konigi.com/interface/ea-microsite-navigation/</link>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/ea-microsite-navigation/</guid>
+      <guid>http://konigi.com/interface/ea-microsite-navigation/</guid>
       <description>&lt;p&gt;Game maker EA provides access to their network of microsites from EA.com and offers cross-site navigation via a toolbar that is positioned at the bottom or top of each site. I like the design of the navigation on the main site and the Sports sites. But the navigation is inconsistent in position, visual design, and behavior from site to site. The Pogo site doesn&#39;t have a micro-site navigator at all, so ironically, you have to &#34;pogo&#34; up to the main EA site via the logo in the footer to cross-navigate. This may not be an issue, however, if EA doesn&#39;t want or need users to cross-navigate, or more importantly if Pogo users don&#39;t want to navigate to other EA sites. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Micro-site navigation accessed via the EA logo in the footer.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ea-microsite-nav-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Micro-site navigation accessed via the EA logo in the footer.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ea-microsite-nav-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Micro-site navigateion acessed via a drop-down menu in the header.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ea-microsite-nav-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Micro-site navigateion acessed via a drop-down menu in the header.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ea-microsite-nav-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Another micro-site navigator design in the header.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/ea-microsite-nav-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Another micro-site navigator design in the header.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/ea-microsite-nav-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.ea.com/&#34;&gt;http://www.ea.com/&lt;/a&gt;&lt;/p&gt;
@@ -88,10 +88,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Designing for Faceted Search</title>
-      <link>http://localhost:1313/blog/designing-faceted-search/</link>
+      <link>http://konigi.com/blog/designing-faceted-search/</link>
       <pubDate>Tue, 28 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-faceted-search/</guid>
+      <guid>http://konigi.com/blog/designing-faceted-search/</guid>
       <description>&lt;p&gt;Stephanie Lemieux discusses issues to consider when designing faceted navigation interfaces for search in the latest UIE newsletter.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Faceted search is a very popular and powerful solution when done well; it allows users to deconstruct a large set of results into bite-size pieces and navigate based on what’s important to them. But faceted search by itself is not necessarily going to make your users lives easier.  You need to understand your users’ mental models (how they seek information), test your assumptions about how they will interpret your terms and categories and spend time refining your approach.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.uie.com/articles/faceted_search&#34;&gt;Read More...&lt;/a&gt;&lt;/p&gt;
@@ -103,10 +103,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Profoto Breadcrumbs</title>
-      <link>http://localhost:1313/interface/profoto-breadcrumbs/</link>
+      <link>http://konigi.com/interface/profoto-breadcrumbs/</link>
       <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/profoto-breadcrumbs/</guid>
+      <guid>http://konigi.com/interface/profoto-breadcrumbs/</guid>
       <description>&lt;p&gt;Profoto&#39;s take on the breadcrumb combines expanded menus for each branch to provide a drill-down method for navigating siblings, aunts, great-aunts, etc. It basically exposes the hierarchy of siblings at each level, and it&#39;s really most useful when you&#39;ve navigated deep into a hierarchy. &lt;/p&gt;
 &lt;p&gt;It can get a little weird when you use these, because you have to remember that you&#39;re viewing siblings in the branch you&#39;re exposing. If you look at the last screenshot for the &#34;Products&#34; siblings, you see that Products is listed there along with the other top-level categories and miscellaneous stuff. But in the second screenshot under the &#34;Profoto&#34; product, I see what I think are children of Profoto, rather than it&#39;s siblings. Possibly because Profoto is the only product? I don&#39;t know.&lt;/p&gt;
 &lt;p&gt;I like the implementation of this hybrid breadcrumb/navigation menu, but I think I got lost because of the information architecture. Things need to be exceedingly simple for me to make sense of a site&#39;s content and what threw me off was my own IA perspective. If you&#39;re going to feature IA as part of a hierarchical navigation control, the IA should really be well organized to reflect hierarchy. Otherwise, forgo hierarchy and find a better way to point users through contextual links in the body, or perhaps treat the final node differently and break it out of the breadcrumb. Or maybe I&#39;m just confusing myself because of my purist ideas about these kinds of things.&lt;/p&gt;
@@ -117,10 +117,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>iTunes Pagination</title>
-      <link>http://localhost:1313/interface/itunes-pagination/</link>
+      <link>http://konigi.com/interface/itunes-pagination/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/itunes-pagination/</guid>
+      <guid>http://konigi.com/interface/itunes-pagination/</guid>
       <description>&lt;p&gt;The iTunes Store has 3 different pagination controls it uses in different places. The most common method for paging through a series of items is to show a carousel on the main pages, with prev/next arrow icons to shuffle through sets of 3-4. On special featured modules with larger poster image thumbnails they use coverflow with their hybrid scrollbar which has arrows that increment one item at a time, or allow you to scroll to move through larger increments. Lastly, they have a simple back/more link control that they use on some of the generated views. I noticed this is in the Upgrade to iTunes Plus area.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Carousel showing prev/next arrows and position indicator circles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Carousel showing prev/next arrows and position indicator circles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Coverflow with hybrid prev/next scrollbar. Typical carousel shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Generic Back/More links with text showing [current range] of [total number].&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Generic Back/More links with text showing [current range] of [total number].&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/itunes-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -129,10 +129,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>EffectiveUI Accordion Stacks</title>
-      <link>http://localhost:1313/interface/effectiveui-accordion-stacks/</link>
+      <link>http://konigi.com/interface/effectiveui-accordion-stacks/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/effectiveui-accordion-stacks/</guid>
+      <guid>http://konigi.com/interface/effectiveui-accordion-stacks/</guid>
       <description>&lt;p&gt;Effective UI has an interesting Flash UI for presenting menus on their home page using a stacked accordion. Upon landing on the home page, a series of stacked boxes are displayed with both a large descriptive heading of that section and shows the first mini-slide in that deck/stack to help you see what that section is about. Mousing over the first slide in the stack expands the stack to show the headings for the other nodes of content within it, and the user may now hover over the other items to view their descriptions. Clicking a card displays its content in an floated layer.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The front page showing series of stacks. The headings for each stack are shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The front page showing series of stacks. The headings for each stack are shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Mousing over a stack to expose all of the headings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Mousing over a stack to expose all of the headings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking on a card to display its content.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking on a card to display its content.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.effectiveui.com/&#34;&gt;http://www.effectiveui.com/&lt;/a&gt;&lt;/p&gt;
@@ -141,10 +141,10 @@ wt5230824d00b24_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>10 Multi Level Navigation Menu Techniques</title>
-      <link>http://localhost:1313/blog/10-multi-level-navigation-menu-techniques/</link>
+      <link>http://konigi.com/blog/10-multi-level-navigation-menu-techniques/</link>
       <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/10-multi-level-navigation-menu-techniques/</guid>
+      <guid>http://konigi.com/blog/10-multi-level-navigation-menu-techniques/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://devsnippets.com/reviews/10-brilliant-multi-level-navigation-menu-techniques.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1463&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49788973ea887.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;devSnippets collects &lt;a href=&#34;http://devsnippets.com/reviews/10-brilliant-multi-level-navigation-menu-techniques.html&#34;&gt;10 examples&lt;/a&gt; of multi-level navigation menus using Javascript libraries and CSS, and adds a little annotation about the methods and how they effects are accomplished. &lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://twitter.com/nourayehia/status/1138505891&#34;&gt;@nourayehia&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -155,10 +155,10 @@ wt49788973ea887.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;devSnippets collects
     
     <item>
       <title>Wowhead Breadcrumbs</title>
-      <link>http://localhost:1313/interface/wowhead-breadcrumbs/</link>
+      <link>http://konigi.com/interface/wowhead-breadcrumbs/</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/wowhead-breadcrumbs/</guid>
+      <guid>http://konigi.com/interface/wowhead-breadcrumbs/</guid>
       <description>&lt;p&gt;Wowhead is a database of World of Warcraft information. The database provides a hierarchical subject taxonomy to describe items, and presents that hierarchy in the breadcrumbs for the item. When the user hovers ofer a  branch in the breadcrumb trail, a drop down menu is displayed to show the node siblings and drill down to children. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Single entry view (database record).&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Single entry view (database record).&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over the current entry&#39;s parent category (Daggers) to view siblings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over the current entry&#39;s parent category (Daggers) to view siblings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Hovering over the grandparent category (Weapons) to view its siblings (other grandparent categories).&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Hovering over the grandparent category (Weapons) to view its siblings (other grandparent categori...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.wowhead.com/&#34;&gt;http://www.wowhead.com/&lt;/a&gt;&lt;/p&gt;
@@ -167,10 +167,10 @@ wt49788973ea887.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;devSnippets collects
     
     <item>
       <title>120 Horizontal Menus</title>
-      <link>http://localhost:1313/blog/120-horizontal-menus/</link>
+      <link>http://konigi.com/blog/120-horizontal-menus/</link>
       <pubDate>Sun, 11 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/120-horizontal-menus/</guid>
+      <guid>http://konigi.com/blog/120-horizontal-menus/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1442&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496a08ffbdaa3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS Tea collects &lt;a href=&#34;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&#34;&gt;screenshots of 120 global navigation bars&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -180,10 +180,10 @@ wt496a08ffbdaa3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS Tea collects &lt
     
     <item>
       <title>Daylife Drop Down Menus</title>
-      <link>http://localhost:1313/interface/daylife-drop-down-menus/</link>
+      <link>http://konigi.com/interface/daylife-drop-down-menus/</link>
       <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/daylife-drop-down-menus/</guid>
+      <guid>http://konigi.com/interface/daylife-drop-down-menus/</guid>
       <description>&lt;p&gt;Daylife&#39;s drop down menu in global navigation that provides a wide ribbon to show both navigation to secondary levels and to show teaser content, e.g. the Latest News menu shows top level news categories as well as recent articles in each category. &lt;/p&gt;
 &lt;p&gt;News sites like Daylife and NewsVine have been coming up with interesting ways of changing user&#39;s expectations of what can exist in global navigation. In some cases, the labels and categories for what appear in global navigation suggest a shifting information architecture that is based on what&#39;s interesting now or what people have been reading. &lt;/p&gt;
 &lt;p&gt;The notion of either letting editorial selectivity or bottom-up data analysis determine navigation is what&#39;s interesting to me here when combined with a ribbon menu. It extends the idea of what can be done with a top tags navigation bar, to show more context within each category, which may be more useful with large sets of categories or freetags than displaying every top level in a hierarhical list. I imagine it would even be useful for promoting information or advertising. Ack! I&#39;m sure someone already does it.&lt;/p&gt;
@@ -194,10 +194,10 @@ wt496a08ffbdaa3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS Tea collects &lt
     
     <item>
       <title>Yahoo! Breadcrumb Tab</title>
-      <link>http://localhost:1313/interface/yahoo-breadcrumb-tab/</link>
+      <link>http://konigi.com/interface/yahoo-breadcrumb-tab/</link>
       <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/yahoo-breadcrumb-tab/</guid>
+      <guid>http://konigi.com/interface/yahoo-breadcrumb-tab/</guid>
       <description>&lt;p&gt;Yahoo&#39;s hybrid tab/breadcrumb navigation is one of my favorite approaches to global and local navigation. This navigation interface answers a few nagging questions that an interface designer might ask. &#34;How do I present the user with an interface that provides focus on the area they&#39;ve navigated to, while providing a path back or to other main areas of interest?&#34;&lt;/p&gt;
 &lt;p&gt;What&#39;s interesting here is that they provide a row of primary navigation tabs at the top level, and replace that with a hybrid tab/breadcrumb once the user makes the decision to drill down. The first problem you encounter with that behavior is that you lose the links back to primary sections of content. To deal with that problem, they provide a drop down menu for the first link in the breadcrumb to show siblings at the top level. Below, they show links for local navigation (children) for the current section in focus.&lt;/p&gt;
 &lt;p&gt;This seems like a unique approach, and I&#39;ve already been influenced enough by this to design a breadcrumb UI that goes even further by providing sibling navigation at lower levels. On my first encounter with this UI earlier this year, however, I didn&#39;t know quite what to make of it because I came in at a lower level rather than at the top. It took me a few minutes to understand the navigation model because of that. I would be interested in hearing opinions of this. For my approach, based on this model, I&#39;m using the breadcrumb in a less prominent location while continuing to use traditional navigation, to slowly introduce this model within a CMS skin.&lt;/p&gt;

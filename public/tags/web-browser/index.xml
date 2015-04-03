@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Browser on Konigi</title>
-    <link>http://localhost:1313/tags/web-browser/</link>
+    <link>http://konigi.com/tags/web-browser/</link>
     <description>Recent content in Web Browser on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-browser/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/web-browser/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Life Below 600px</title>
-      <link>http://localhost:1313/blog/life-below-600px/</link>
+      <link>http://konigi.com/blog/life-below-600px/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/life-below-600px/</guid>
+      <guid>http://konigi.com/blog/life-below-600px/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.iampaddy.com/lifebelow600/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2346&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bb5f8925942a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Paddy Donnelly &lt;a href=&#34;http://www.iampaddy.com/lifebelow600/&#34;&gt;flips the bird at the fold&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -34,10 +34,10 @@ wt4bb5f8925942a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Paddy Donnelly
     
     <item>
       <title>About the close tab behaviour in Google Chrome</title>
-      <link>http://localhost:1313/blog/about-close-tab-behaviour-google-chrome/</link>
+      <link>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</link>
       <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/about-close-tab-behaviour-google-chrome/</guid>
+      <guid>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.theinvisibl.com/news/2009/12/08/a-piece-with-a-lot-of-screenshots-about-the-close-tab-behaviour-in-google-chrome/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2222&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b21a864aeca1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Basil Safwat does a very thorough comparison of the the tabs in Mac Safari and Chrome, pointing out the subtleties in the close button positioning and behavior. While Mac close icons are on the left by convention, Chrome positions them to the right of the tab and keeps them visible, while Safari positions them to the left and only displays the close icon on hover. I initially had to relearn the close button position because Firefox also places them on the right.  Both handle tab resizing in a way that allows you to close multiple tabs while keeping the cursor in one position while clicking the close icon repeatedly.&lt;/p&gt;&lt;/p&gt;
 
@@ -49,10 +49,10 @@ wt4b21a864aeca1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Basil Safwat d
     
     <item>
       <title>MOBIFY: Mobile Site Service</title>
-      <link>http://localhost:1313/blog/mobify-mobile-site-service/</link>
+      <link>http://konigi.com/blog/mobify-mobile-site-service/</link>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mobify-mobile-site-service/</guid>
+      <guid>http://konigi.com/blog/mobify-mobile-site-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://mobify.me/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1860&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a8aa8ef98434.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://mobify.me/&#34;&gt;MOBIFY&lt;/a&gt; is a service that lets you create a mobile version of your site for free.  You start by entering your site url, and selecting regions of your page design to be used in the mobile template, using their online template editor. For many sites, one template may be sufficient to serve all of your page types. After selecting regions, you may change their order in preview mode, as well as add custom HTML and modify CSS. Custom domains are supported, and with an upgrade, you may remove the Mobify branding and receive web analytics. You can use it with a plugin for your CMS, or by simply inserting Javascript into your site, which redirects to the mobile version.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve tried several mobile services in the past. This one is perhaps the easiest I&amp;rsquo;ve had the experience of setting up. The initial setup time was maybe 15 minutes, plus the time to wait for the CNAME to update on my webhost. You can try Konigi mobile at &lt;a href=&#34;http://m.konigi.com/&#34;&gt;m.konigi.com&lt;/a&gt;, or view konigi.com on a mobile device.&lt;/p&gt;&lt;/p&gt;
@@ -63,10 +63,10 @@ wt4a8aa8ef98434.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>@font-face: The Potential of Web Typography</title>
-      <link>http://localhost:1313/blog/font-face-potential-web-typography/</link>
+      <link>http://konigi.com/blog/font-face-potential-web-typography/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/font-face-potential-web-typography/</guid>
+      <guid>http://konigi.com/blog/font-face-potential-web-typography/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/font-face-potential.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;How can @font-face be used with currently implemented CSS selectors to create engaging, nuanced and more mature typography? Ian Lynam &amp;amp; Craig Mod &lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;discuss the potential of using @font-face&lt;/a&gt; now that Firefox 3.5 is out. &lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://craigmod.com/journal/font-face/&#34;&gt;http://craigmod.com/journal/font-face/&lt;/a&gt;&lt;/p&gt;
@@ -75,10 +75,10 @@ wt4a8aa8ef98434.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Mozilla Labs Design Challenge: Reinventing Tabs in the Browser</title>
-      <link>http://localhost:1313/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</link>
+      <link>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</link>
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
+      <guid>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://design-challenge.mozilla.com/summer09/showcase.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1776&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a48e03fa4372_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mozilla Labs together with IxDA and Johnny Holland presented the &lt;a href=&#34;http://design-challenge.mozilla.com/summer09/showcase.php&#34;&gt;Summer 09 Design Challenge&lt;/a&gt; as part of their Concept Series. The challenge theme is &amp;ldquo;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&amp;rdquo; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!&lt;/p&gt;&lt;/p&gt;
 
@@ -88,10 +88,10 @@ wt4a48e03fa4372_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mozilla Labs toget
     
     <item>
       <title>Litmus Browser Testing Software</title>
-      <link>http://localhost:1313/blog/litmus-browser-testing-software/</link>
+      <link>http://konigi.com/blog/litmus-browser-testing-software/</link>
       <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/litmus-browser-testing-software/</guid>
+      <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/litmus-mac-app.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;Litmus&lt;/a&gt; is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.&lt;/p&gt;
 &lt;p&gt;They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above. This looks like it will be a great service for small teams or individuals. Doing my test with 2 browsers brought back screenshots within a minute or 2.&lt;/p&gt;
 &lt;p&gt;They offer flexible plans, e.g. a 1 day pass, and subscription plans that are downgraded retain screenshots of previous tests. If your pressed for time, or don&amp;rsquo;t want to fire up that VM, this looks like the service to beat.&lt;/p&gt;&lt;/p&gt;
@@ -102,10 +102,10 @@ wt4a48e03fa4372_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mozilla Labs toget
     
     <item>
       <title>The Browser Wars</title>
-      <link>http://localhost:1313/blog/browser-wars/</link>
+      <link>http://konigi.com/blog/browser-wars/</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/browser-wars/</guid>
+      <guid>http://konigi.com/blog/browser-wars/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.pixellabs.com/images/browserwars.png&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1446&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496b34f02e34e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixellabs.com/images/browserwars.png&#34;&gt;Cool infographic&lt;/a&gt; from Pixel Labs depicting the Browser wars, based on &lt;a href=&#34;http://www.w3shools.com/browsers/browser_stats.asp&#34;&gt;W3 Schools Browser Stats&lt;/a&gt;. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.&lt;/p&gt;&lt;/p&gt;
 
@@ -115,10 +115,10 @@ wt496b34f02e34e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Methodologie Browser Size Test</title>
-      <link>http://localhost:1313/blog/methodologie-browser-size-test/</link>
+      <link>http://konigi.com/blog/methodologie-browser-size-test/</link>
       <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/methodologie-browser-size-test/</guid>
+      <guid>http://konigi.com/blog/methodologie-browser-size-test/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.methodologie.com/sizer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1407&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt492951fe08da9_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.methodologie.com/sizer/&#34;&gt;Mmmmm, grids&lt;/a&gt;. Methodologie uses stats from The Counter to display the screen resolutions supported by users&amp;rsquo; computers in their &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2008&lt;/sub&gt; numbers.&lt;/p&gt;&lt;/p&gt;
 
@@ -128,10 +128,10 @@ wt492951fe08da9_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>ScreenToaster Free Online Screen Recorder</title>
-      <link>http://localhost:1313/blog/screentoaster-free-online-screen-recorder/</link>
+      <link>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</link>
       <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/screentoaster-free-online-screen-recorder/</guid>
+      <guid>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.screentoaster.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1400&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt491c7ceb73eb3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.screentoaster.com/&#34;&gt;ScreenToaster&lt;/a&gt; is a pretty incredible web application that lets you record your web browser screen without having to download desktop software. Currently, to record a screen, you open up ScreenToaster in a browser tab, navigate to the page you want to capture, click a keyword combination, and the applet starts recording. Press another key combination to stop. The service saves the session and almost immediately gives you a flash video with your recording. &lt;/p&gt;&lt;/p&gt;
 
@@ -141,10 +141,10 @@ wt491c7ceb73eb3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Radial Menu Tests in Firefox</title>
-      <link>http://localhost:1313/blog/radial-menu-tests-firefox/</link>
+      <link>http://konigi.com/blog/radial-menu-tests-firefox/</link>
       <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/radial-menu-tests-firefox/</guid>
+      <guid>http://konigi.com/blog/radial-menu-tests-firefox/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1396&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4914c8b4b2c39.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Testing of proof of concept &lt;a href=&#34;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&#34;&gt;prototypes of radial menus&lt;/a&gt;. The idea is to get users to try to select the same menu item repeatedly as the radial menu changes from state to state and capture participants feedback on usability of the interface.&lt;/p&gt;&lt;/p&gt;
 
@@ -154,10 +154,10 @@ wt4914c8b4b2c39.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Testing of proof of 
     
     <item>
       <title>Ubiquity</title>
-      <link>http://localhost:1313/blog/ubiquity/</link>
+      <link>http://konigi.com/blog/ubiquity/</link>
       <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ubiquity/</guid>
+      <guid>http://konigi.com/blog/ubiquity/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;400&#34; height=&#34;298&#34;&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;   &lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=1561578&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;   &lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=1561578&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;400&#34; height=&#34;298&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/1561578?pg=embed&amp;amp;sec=1561578&#34;&gt;Ubiquity for Firefox&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user532161?pg=embed&amp;amp;sec=1561578&#34;&gt;Aza Raskin&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/?pg=embed&amp;amp;sec=1561578&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
 &lt;p&gt;I&amp;rsquo;ve been really impressed by Aza Raskin&amp;rsquo;s &lt;a href=&#34;http://labs.mozilla.com/2008/08/introducing-ubiquity/&#34;&gt;Ubiquity&lt;/a&gt; add on for Firefox, which I&amp;rsquo;ve been playing with a lot lately. It completely makes up for the less than exciting experience I had with Enso, which never came close to a Quicksilver experience on Windows. Ubiquity is pretty much the Quicksilver experience brought to your web browser. A smart tool that is summoned by a keyboard shortcut, and provides shortcuts to frequently used tools, and contextually relevant paths to using selected content in the page. Raskin talks more about the app &lt;a href=&#34;http://www.azarask.in/blog/post/ubiquity-in-depth/&#34;&gt;on his site&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -168,10 +168,10 @@ wt4914c8b4b2c39.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Testing of proof of 
     
     <item>
       <title>Firefox 3.1 Alpha Video Demo</title>
-      <link>http://localhost:1313/blog/firefox-3-1-alpha-video-demo/</link>
+      <link>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</link>
       <pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/firefox-3-1-alpha-video-demo/</guid>
+      <guid>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/Har-PRP4X9U&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/Har-PRP4X9U&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://arstechnica.com/news.ars/post/20080905-first-look-firefox-3-1-alpha-2-officially-released.html&#34;&gt;Ars Technica&lt;/a&gt; reports on the 3.1 Alpha of Firefox, which includes support for the HTML 5 Video element which provides some functionality to developers that is not possible with Flash. Video can be interspersed with other web content, playback can be manipulated with JavaScript, and video elements can be directly accessed through the document object model.&lt;/p&gt;
@@ -183,10 +183,10 @@ wt4914c8b4b2c39.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Testing of proof of 
     
     <item>
       <title>Google Chrome Comic Book</title>
-      <link>http://localhost:1313/blog/google-chrome-comic-book/</link>
+      <link>http://konigi.com/blog/google-chrome-comic-book/</link>
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/google-chrome-comic-book/</guid>
+      <guid>http://konigi.com/blog/google-chrome-comic-book/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.google.com/googlebooks/chrome/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1358&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48bd5321e7b93.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Google explains it&amp;rsquo;s new open source, Webkit-based &lt;a href=&#34;http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html&#34;&gt;Chrome Web Browser&lt;/a&gt; with a 28 page comic book inked by Scott McCloud. The Chrome browser beta becomes available to Windows users on September 2, 2008. Mac and Linux versions are also planned.&lt;/p&gt;&lt;/p&gt;
 
@@ -196,10 +196,10 @@ wt48bd5321e7b93.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Google explains it&a
     
     <item>
       <title>Adaptive Path Aurora Concept Video, Part 1</title>
-      <link>http://localhost:1313/blog/adaptive-path-aurora-concept-video-part-1/</link>
+      <link>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</link>
       <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/adaptive-path-aurora-concept-video-part-1/</guid>
+      <guid>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Adaptive Path, as part of Mozilla Lab&#39;s concept video series, provides some suggestions for the possible future of the web experience with &lt;a href=&#34;http://www.adaptivepath.com/aurora/&#34;&gt;Aurora&lt;/a&gt;. This forward looking concept focuses on 4 high priority elements: context awareness, natural interaction, continuity, and multi-user applications.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;400&#34; height=&#34;225&#34;&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;   &lt;param name=&#34;movie&#34; value=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1450211&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;   &lt;embed src=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1450211&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;400&#34; height=&#34;225&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/1450211?pg=embed&amp;amp;sec=1450211&#34;&gt;Aurora (Part 1)&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/user524591?pg=embed&amp;amp;sec=1450211&#34;&gt;Adaptive Path&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/?pg=embed&amp;amp;sec=1450211&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
@@ -232,10 +232,10 @@ wt48bd5321e7b93.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Google explains it&a
     
     <item>
       <title>Firefox Mobile Concept Video</title>
-      <link>http://localhost:1313/blog/firefox-mobile-concept-video/</link>
+      <link>http://konigi.com/blog/firefox-mobile-concept-video/</link>
       <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/firefox-mobile-concept-video/</guid>
+      <guid>http://konigi.com/blog/firefox-mobile-concept-video/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;600&#34;&gt;    &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;   &lt;param name=&#34;movie&#34; value=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1152218&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt; &lt;embed src=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1152218&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;368&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/1152218?pg=embed&amp;amp;sec=1152218&#34;&gt;Firefox Mobile Concept Video&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/user532161?pg=embed&amp;amp;sec=1152218&#34;&gt;Aza Raskin&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/?pg=embed&amp;amp;sec=1152218&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
 &lt;p&gt;Aza Raskin demonstrates a touch interface concept for a Firefox Mobile browser. The mocked up prototype includes features including spatial browsing of browser tabs, and touch gestures for summoning application menus.&lt;/p&gt;&lt;/p&gt;

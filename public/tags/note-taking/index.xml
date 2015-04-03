@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note Taking on Konigi</title>
-    <link>http://localhost:1313/tags/note-taking/</link>
+    <link>http://konigi.com/tags/note-taking/</link>
     <description>Recent content in Note Taking on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/note-taking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/note-taking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pear Note: Note taking utility for Mac</title>
-      <link>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</link>
+      <link>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2736&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note&lt;/a&gt; from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.&lt;/p&gt;&lt;/p&gt;
 
@@ -31,10 +31,10 @@ wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Cohdoo Highlight: Voice recording iPhone app</title>
-      <link>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
+      <link>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
+      <guid>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2677&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.&lt;/p&gt;&lt;/p&gt;
 

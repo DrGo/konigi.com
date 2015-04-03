@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Announcement on Konigi</title>
-    <link>http://localhost:1313/tags/announcement/</link>
+    <link>http://konigi.com/tags/announcement/</link>
     <description>Recent content in Announcement on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Michael to Join Balsamiq</title>
-      <link>http://localhost:1313/blog/michael-join-balsamiq/</link>
+      <link>http://konigi.com/blog/michael-join-balsamiq/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/michael-join-balsamiq/</guid>
+      <guid>http://konigi.com/blog/michael-join-balsamiq/</guid>
       <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;This is going to be big.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;I&#39;ve been keeping a secret for a few months, that I&#39;m finally able to share with my friends and colleagues who follow Konigi. Today I&#39;ll be bringing my love of interface design to the small team at Balsamiq. I will be joining Peldi, Val, Marco, Luis, Mariah, and Malcolm, my new family at the company that introduced software and web designers to the fun and easy way to create quick, sketch-style wireframes with Balsamiq Mockups.&lt;/p&gt;
@@ -33,20 +33,20 @@
     
     <item>
       <title>Konigi Site is Back and Server Moved</title>
-      <link>http://localhost:1313/blog/konigi-site-back-and-server-moved/</link>
+      <link>http://konigi.com/blog/konigi-site-back-and-server-moved/</link>
       <pubDate>Tue, 09 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/konigi-site-back-and-server-moved/</guid>
+      <guid>http://konigi.com/blog/konigi-site-back-and-server-moved/</guid>
       <description>&lt;p&gt;Sorry for the downtime. Konigi went down for most of the day yesterday because a spike in traffic and number of database requests caused the databases to be taken offline. With our web host&#39;s help, we&#39;ve moved Konigi to a virtual private server, and now we&#39;re able to run our own database rather than share database resources and limit the number of requests we can make. These are all good problems, and the growing pains are to be expected I suppose. Again, sorry for the interrupted service. I think i day of downtime to move the server is pretty good, so I&#39;m just happy we&#39;re back in business.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thank You for 2009</title>
-      <link>http://localhost:1313/blog/thank-you-2009/</link>
+      <link>http://konigi.com/blog/thank-you-2009/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/thank-you-2009/</guid>
+      <guid>http://konigi.com/blog/thank-you-2009/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;dek&#34;&gt;I wanted to take a moment before I start the New Year&#39;s reveling with my family to thank all of you for the past year.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;It&#39;s been a great second year discussing and learning with all of you via Konigi. I&#39;ve connected with so many awesome UX designers by posting my thoughts and experiments on the site, meeting up in the NYC area at social gatherings and conferences, and in the exchange of little tweets here and there.&lt;/p&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>Konigi DIY Wireframe Magnets</title>
-      <link>http://localhost:1313/blog/konigi-diy-wireframe-magnets/</link>
+      <link>http://konigi.com/blog/konigi-diy-wireframe-magnets/</link>
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/konigi-diy-wireframe-magnets/</guid>
+      <guid>http://konigi.com/blog/konigi-diy-wireframe-magnets/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;../tools/wireframe-magnets-diy-kit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1775&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;../tools/wireframe-magnets-diy-kit.html&#34;&gt;The Konigi DIY Wireframe Magnet Kit&lt;/a&gt; is based on the wireframe stencils and includes 3 sheets of elements that might be useful in whiteboard prototyping. Simply download and print the PDFs onto magnet sheets. They were designed and tested for use with Avery 3270 Printable Magnet Sheets for Inkjet Printers. Lamination is also recommended so they&amp;rsquo;re usable with dry-erase markers. Enjoy!&lt;/p&gt;&lt;/p&gt;
 
@@ -74,10 +74,10 @@ wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;..
     
     <item>
       <title>Wireframe Icons Updated (v. 1.2)</title>
-      <link>http://localhost:1313/blog/wireframe-icons-updated-v-12/</link>
+      <link>http://konigi.com/blog/wireframe-icons-updated-v-12/</link>
       <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wireframe-icons-updated-v-12/</guid>
+      <guid>http://konigi.com/blog/wireframe-icons-updated-v-12/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://shop.konigi.com/product/wireframe-icons?q=store/product/wireframe-icons&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/wireframe-icons-1-2.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://shop.konigi.com/product/wireframe-icons?q=store/product/wireframe-icons&#34;&gt;wireframe icons&lt;/a&gt; have been updated to add a bunch of new icons and crop the PNGs to 16 x 16 px. Still recession priced at $10, with lifetime free upgrades. If you own this set, go to your &lt;a href=&#34;../user.html&#34;&gt;account page&lt;/a&gt; and click the &amp;ldquo;Files&amp;rdquo; link.&lt;/p&gt;
 &lt;p&gt;New icons: home, currency symbols, light bulb, hour glass, bell, rubber stamp, text tool, drawing tool, layout, calculator, medal, ribbon, puzzle piece/plugin, key, asterisk/new, wand/wizard, music, exit, pagination arrows,  mobile phone, iPhone, happy face, and sad face.&lt;/p&gt;
 &lt;p&gt;For those new to this icon set, the icons are meant for creating wireframes, grayscale user interface design schematics. The downloadable file gives you an OmniGraffle stencil and a folder of PNGs.&lt;/p&gt;
@@ -89,10 +89,10 @@ wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;..
     
     <item>
       <title>Konigi Wants to Grow</title>
-      <link>http://localhost:1313/blog/konigi-wants-grow/</link>
+      <link>http://konigi.com/blog/konigi-wants-grow/</link>
       <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/konigi-wants-grow/</guid>
+      <guid>http://konigi.com/blog/konigi-wants-grow/</guid>
       <description>&lt;p&gt;I&#39;m going to be tearing things up a little while Konigi gets a clue about what it is. I started playing with this blog in Nov 07 as a more organized way of doing my &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/sets/72157600094498222/&#34;&gt;visual design&lt;/a&gt; and &lt;a href=&#34;http://www.flickr.com/groups/designpatterns/&#34;&gt;user interface design&lt;/a&gt; sets on Flickr, and think it&#39;s still going well. But over time I&#39;ve found myself drawn to re-blogging and writing the occasional essay, reminding me of my first try at blogging when I did iaslash. And then the old sketchbooks full of ideas that came out of all those great conversations with IAI peeps in Monterrey and my iaslash readers kept returning, and I found myself wanting to find time to work on some micro-projects to build IA/IXD tools.&lt;/p&gt;
 &lt;p&gt;It&#39;s been a little over a year since I started announced Konigi, and it feels like time to take this site a bit more seriously and use it as a platform for other kinds of the learning, sharing, and collection of resources that I&#39;ve wanted to do for some time. Konigi wants to be better and do more with its life. So I&#39;m going to start with &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/3344620893/&#34;&gt;a few little design tweaks&lt;/a&gt; and evolve the site organically as time becomes available to help this baby along. &lt;/p&gt;
 &lt;p&gt;So what&#39;s coming? I have a series of instructional essays that I&#39;ve outlined and have started writing. I have a wonderful new community project planned that that will be possible through Peldi Guilizzoni, the gracious and talented creator of &lt;a href=&#34;http://www.balsamiq.com/products&#34;&gt;Balsamiq&lt;/a&gt;. And I&#39;m going to play at opening up the site a little more until stuff gets broken. The Modus Operandi will be to just do stuff rather than doing so much thinking and talking, to do it wrong, to fail, to have people mock me, and be left standing at the end. As always, I plan to give away some stuff, charge a little for other stuff, and push a few smallish projects forward with the help of friends to fill gaps where we need educational/learning resources.&lt;/p&gt;
@@ -104,10 +104,10 @@ wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;..
     
     <item>
       <title>You may now login with email instead of username</title>
-      <link>http://localhost:1313/blog/you-may-now-login-email-instead-username/</link>
+      <link>http://konigi.com/blog/you-may-now-login-email-instead-username/</link>
       <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/you-may-now-login-email-instead-username/</guid>
+      <guid>http://konigi.com/blog/you-may-now-login-email-instead-username/</guid>
       <description>&lt;p&gt;Thanks to @lorenbaxter&#39;s suggestion, I&#39;ve enabled logging in with email rather than username if you prefer. Luckily Drupal&#39;s &lt;a href=&#34;http://drupal.org/project/logintoboggan&#34;&gt;logintoboggan&lt;/a&gt; module allows admins to offer this option, as well as offering registration and signup without the roundtrip to email. Sweet. Thanks for making my life easier, Drupal.&lt;/p&gt;
 &lt;p&gt;This should help ease the experience of finding your file downloads as well if you bought stencils or icons form the store. It also brings me around to re-implementing  some of the features I put in in Feb-March last year and then took out, e.g. vote to promote on design and interface submissions. I have a minor redesign planned that hopes to bring that back, but will bring it back for signed in users.&lt;/p&gt;
     
@@ -116,10 +116,10 @@ wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;..
     
     <item>
       <title>Free Notebook for Konigi Friends at SXSW Wireframe Talk</title>
-      <link>http://localhost:1313/blog/free-notebook-konigi-friends-sxsw-wireframe-talk/</link>
+      <link>http://konigi.com/blog/free-notebook-konigi-friends-sxsw-wireframe-talk/</link>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/free-notebook-konigi-friends-sxsw-wireframe-talk/</guid>
+      <guid>http://konigi.com/blog/free-notebook-konigi-friends-sxsw-wireframe-talk/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;chrome://speeddial/content/speeddial.xul&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/konigi-notebooks-sxsw.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;So I&amp;rsquo;ve made some 8.5 in. by 5.25 in. graph paper notebooks because I wanted something a little more functional than what I was using for sketching. They&amp;rsquo;re basically a mini version of the wireframe grid I use, with markers for 1/3s and 1/4s, but without the gutters. I&amp;rsquo;ve been working with a prototype of this for a few months now and have a bunch of these ready to put up for sale, but haven&amp;rsquo;t been rushing to do it, mostly because I made them for myself and selling stuff like notebooks isn&amp;rsquo;t profitable until you get into selling large quantities, and unfortunately I haven&amp;rsquo;t the time to market the pads and books.&lt;/p&gt;
 &lt;p&gt;So I had a great idea for now. I am going to sell these eventually, when other higher priorities get out of the way, but for now, I&amp;rsquo;m going to start off by giving the first 30 or so away, starting with a little gift for my Konigi readers who happen to be able to make it to SXSW to hear the &lt;a href=&#34;http://panelpicker.sxsw.com/ideas/view/2186&#34;&gt;wireframe panel&lt;/a&gt; that Nick Finck, Donna Maurer and I are doing. After the talk, if you&amp;rsquo;re one of the first 30 to come up to me and give me the secret word, which I&amp;rsquo;ll announce on Twitter a few days before the talk, you&amp;rsquo;ll get one of the books. My little thank you for being a reader and making it out to the talk.&lt;/p&gt;
 &lt;p&gt;Stay tuned.&lt;/p&gt;&lt;/p&gt;
@@ -130,10 +130,10 @@ wt4a48c47e68167_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;..
     
     <item>
       <title>OmniGraffle UX Template Updated (Version 2.1)</title>
-      <link>http://localhost:1313/blog/omnigraffle-ux-template-updated-version-21/</link>
+      <link>http://konigi.com/blog/omnigraffle-ux-template-updated-version-21/</link>
       <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/omnigraffle-ux-template-updated-version-21/</guid>
+      <guid>http://konigi.com/blog/omnigraffle-ux-template-updated-version-21/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;../tools/omnigraffle-ux-template.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1457&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496fa2c8296bf.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The OmniGraffle UX Template for interface and interaction designers has been updated to version 2.1. Included in this release are major alignment, grid, and layout changes. Added guides for 24 column grid with vertical and horizontal gutters on wireframes. Added appropriate guides to all templates that necessitated alignment guides. Added small wireframe and iPhone templates. Download it &lt;a href=&#34;../tools/omnigraffle-ux-template.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -143,10 +143,10 @@ wt496fa2c8296bf.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The OmniGraffle UX T
     
     <item>
       <title>Konigi on Twitter and Facebook</title>
-      <link>http://localhost:1313/blog/konigi-twitter-and-facebook/</link>
+      <link>http://konigi.com/blog/konigi-twitter-and-facebook/</link>
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/konigi-twitter-and-facebook/</guid>
+      <guid>http://konigi.com/blog/konigi-twitter-and-facebook/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://twitter.com/konigi&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1428&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsquo;s time to start spilling out some of the meta-discussion in my head&amp;ndash;the monologue I guess&amp;ndash;about what I&amp;rsquo;m doing here on Konigi. So I started to post announcements and thoughts about what I&amp;rsquo;m working on with a &lt;a href=&#34;http://twitter.com/konigi&#34;&gt;Konigi Twitter account&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Basically, I feel like I want to separate Konigi-specific postings from my regular Twitter stream so I can update interested readers via that account, as well as post more work in progress commentary, observations, and announcements related strictly to Konigi. So if Twitter suits you more than RSS or Email, or if you&amp;rsquo;re interested in my back-channel banter, you can get updates there.&lt;/p&gt;
@@ -158,10 +158,10 @@ wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsqu
     
     <item>
       <title>Happy Holidays from Konigi</title>
-      <link>http://localhost:1313/blog/happy-holidays-konigi/</link>
+      <link>http://konigi.com/blog/happy-holidays-konigi/</link>
       <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/happy-holidays-konigi/</guid>
+      <guid>http://konigi.com/blog/happy-holidays-konigi/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/happy-holidays-from-konigi.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I just wanted to take a moment to thank everyone who took some time out of their busy days to read Konigi this year, to provide their feedback and commentary, to download my tools, to buy notepads, and to help me keep a dialogue going with you, my new and old design and development friends. This has been a very rewarding first year playing with this blog, and I feel light years away from those years spent doing iaslash.&lt;/p&gt;
 &lt;p&gt;I wish you all a safe and happy holiday season. I&amp;rsquo;ll be slowing down quite a bit in the next few weeks to spend time with my family, but will return in the next few months with some improvements and surprises on this site. &lt;/p&gt;
 &lt;p&gt;-Michael&lt;/p&gt;&lt;/p&gt;
@@ -170,10 +170,10 @@ wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsqu
     
     <item>
       <title>New Notepads Should Be Available Next Week</title>
-      <link>http://localhost:1313/blog/new-notepads-should-be-available-next-week/</link>
+      <link>http://konigi.com/blog/new-notepads-should-be-available-next-week/</link>
       <pubDate>Fri, 24 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/new-notepads-should-be-available-next-week/</guid>
+      <guid>http://konigi.com/blog/new-notepads-should-be-available-next-week/</guid>
       <description>&lt;p&gt;Konigi Notepad inventory will be arriving next week. We&#39;ll have the wireframe paper, storyboard paper, and a few new designs for designers who don&#39;t need all the fuss of the big title boxes--minimalists like me! Stay tuned.&lt;/p&gt;
     
 </description>
@@ -181,10 +181,10 @@ wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsqu
     
     <item>
       <title>Konigi Graph Paper Notepad Preview</title>
-      <link>http://localhost:1313/blog/konigi-graph-paper-notepad-preview/</link>
+      <link>http://konigi.com/blog/konigi-graph-paper-notepad-preview/</link>
       <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/konigi-graph-paper-notepad-preview/</guid>
+      <guid>http://konigi.com/blog/konigi-graph-paper-notepad-preview/</guid>
       <description>&lt;p&gt;I&#39;m happy to announce that Konigi will soon be offering several products for creatives. I&#39;ve posted some photos I took quickly of the first set below. Better photos will come when the shopping cart is set up.&lt;/p&gt;
 &lt;p&gt;The first round of gear will include wireframe and storyboard notepads. Each of these pads include 50 sheets at 8 1/2 x 11 inches on white 70# paper, glued on the left side. The ink is a non-photo blue (cyan) so that the grid lines and any sketch lines made in non-photo blue pencil can be knocked out when scanned and processed in graphics software. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Wireframe Notepads&lt;/strong&gt;&lt;/p&gt;
@@ -202,10 +202,10 @@ wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsqu
     
     <item>
       <title>Better Faceted Browsing on Konigi</title>
-      <link>http://localhost:1313/blog/better-faceted-browsing-konigi/</link>
+      <link>http://konigi.com/blog/better-faceted-browsing-konigi/</link>
       <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/better-faceted-browsing-konigi/</guid>
+      <guid>http://konigi.com/blog/better-faceted-browsing-konigi/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;companies.html&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/konigi-notes-by-company.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;About 10 years ago I participated in the daily indexing of news articles as part of my job designing a digital library. During graduate study for the MLS my concentration was actually on information retrieval and classification, so I was interested in doing the job and understanding the content in order to know how to make it useful to users. Customers would get this information via the web site, by email, and in newsletters. Every day I had a bunch of news articles from a load of database feeds queued up for me to skim and tag. A first pass of auto-indexing and clustering was done and we&amp;rsquo;d have to check the applied tags and add new tags for subject, company, product, etc. We had a person whose primary job it was to maintain these terms, with the cooperation of subject matter experts in the business, in separate controlled vocabularies. &lt;/p&gt;
 &lt;p&gt;That faceted approach to indexing and description has really informed a lot of what I&amp;rsquo;ve done as a blogger in the years that I&amp;rsquo;ve maintained sites at iaslash, urlgreyhot, and now here. You see the result of the faceted approach to tagging in the metadata for every entry, and in the navigation for things like Design Tags and Design Colors. But I&amp;rsquo;ve hidden some of that tagging until I had some time to add views for navigating via those facets. I&amp;rsquo;ve been operating this blog with the mantra, &amp;ldquo;&amp;hellip; better to get it up fast and fix it later.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;But now I&amp;rsquo;ve added a few more facets to the navigation. If you notice the subnav in the Interface, Design, and Notebooks sections, you will see that there are now options to browse by Companies in all of them, and additionally by Person in Notebook. So now you can view &lt;a href=&#34;../interface/companies/Nike.html&#34;&gt;only Nike Interfaces&lt;/a&gt; or alternatively &lt;a href=&#34;../design/companies/Nike.html&#34;&gt;only Nike Designs&lt;/a&gt;, for instance. Also, in the entry metadata, the term Nike will appear in the pill shaped tag, and you can click that link to see all Nike tagged items across all sections of the site. &lt;/p&gt;
@@ -220,10 +220,10 @@ wt495b9a0894cc6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It seems it&amp;rsqu
     
     <item>
       <title>Back From a Break</title>
-      <link>http://localhost:1313/blog/back-break/</link>
+      <link>http://konigi.com/blog/back-break/</link>
       <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/back-break/</guid>
+      <guid>http://konigi.com/blog/back-break/</guid>
       <description>&lt;p&gt;So, I pretty much took the week off from blogging because I was having a little bit of a creative block this week after finishing off a project and starting a new one. I also had a little bit of a let down after seeking out an estimate to create custom notebooks with my &lt;a href=&#34;../tools/graph-paper.html&#34;&gt;graph paper&lt;/a&gt;. Of course, I wanted to do a really high quality book, with a scored cover like the Rhodia, but the quote came in so high that I got really discouraged. So I stepped away from the blog to focus on other things.&lt;/p&gt;
 &lt;p&gt;I spent this week doing some competitive research on the new project, and doing other creative things, like helping my son do some animation in Flash, playing with Ableton Live, cycling of course, and watching Le Tour. But now I&#39;m back and ready to start posting again and starting a new podcast recording. I gathered a bunch of sites I want to share with you and you should start seeing them next week.&lt;/p&gt;
 &lt;p&gt;As for the notepads, I have some ideas for making that happen, and I&#39;m going to start developing some new parts of this site related to that. Stay tuned.&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diy on Konigi</title>
-    <link>http://localhost:1313/tags/diy/</link>
+    <link>http://konigi.com/tags/diy/</link>
     <description>Recent content in Diy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sketchbooks: DIY Instructions</title>
-      <link>http://localhost:1313/tools/sketchbooks-diy/</link>
+      <link>http://konigi.com/tools/sketchbooks-diy/</link>
       <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/sketchbooks-diy/</guid>
+      <guid>http://konigi.com/tools/sketchbooks-diy/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -213,10 +213,10 @@
     
     <item>
       <title>Wireframe Magnets (DIY Kit)</title>
-      <link>http://localhost:1313/tools/wireframe-magnets-diy-kit/</link>
+      <link>http://konigi.com/tools/wireframe-magnets-diy-kit/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/wireframe-magnets-diy-kit/</guid>
+      <guid>http://konigi.com/tools/wireframe-magnets-diy-kit/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
     &lt;h3&gt;About&lt;/h3&gt;
@@ -281,10 +281,10 @@ Initial Version. Includes sheets with: form elements, tabs and button bars, wind
     
     <item>
       <title>Graph Paper</title>
-      <link>http://localhost:1313/tools/graph-paper/</link>
+      <link>http://konigi.com/tools/graph-paper/</link>
       <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/graph-paper/</guid>
+      <guid>http://konigi.com/tools/graph-paper/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
 &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
 &lt;h3&gt;About&lt;/h3&gt;

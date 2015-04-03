@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moo Tools on Konigi</title>
-    <link>http://localhost:1313/tags/moo-tools/</link>
+    <link>http://konigi.com/tags/moo-tools/</link>
     <description>Recent content in Moo Tools on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Dec 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/moo-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/moo-tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Highcharts: Interactive JavaScript charts</title>
-      <link>http://localhost:1313/tools/submissions/highcharts-interactive-javascript-charts/</link>
+      <link>http://konigi.com/tools/submissions/highcharts-interactive-javascript-charts/</link>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/highcharts-interactive-javascript-charts/</guid>
+      <guid>http://konigi.com/tools/submissions/highcharts-interactive-javascript-charts/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://highcharts.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2800&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231019dab8bc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://highcharts.com/&#34;&gt;Highcharts&lt;/a&gt; is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5231019dab8bc_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Growl-Like Alerts in Web Pages</title>
-      <link>http://localhost:1313/blog/growl-alerts-web-pages/</link>
+      <link>http://konigi.com/blog/growl-alerts-web-pages/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/growl-alerts-web-pages/</guid>
+      <guid>http://konigi.com/blog/growl-alerts-web-pages/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://stanlemon.net/projects/jgrowl.html&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/web-growl.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. &lt;a href=&#34;http://growl.info/&#34;&gt;Growl&lt;/a&gt; is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.&lt;/p&gt;
 &lt;p&gt;These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.g. show when new articles posted as iminlikewithyou does, or show changes in page state when someone is editing a wiki page perhaps. &lt;/p&gt;
 &lt;ul&gt;

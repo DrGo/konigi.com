@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software As A Service Saas on Konigi</title>
-    <link>http://localhost:1313/tags/software-as-a-service-saas/</link>
+    <link>http://konigi.com/tags/software-as-a-service-saas/</link>
     <description>Recent content in Software As A Service Saas on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/software-as-a-service-saas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/software-as-a-service-saas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>280 Slides - Create &amp; Share Presentations Online</title>
-      <link>http://localhost:1313/blog/280-slides-create-share-presentations-online/</link>
+      <link>http://konigi.com/blog/280-slides-create-share-presentations-online/</link>
       <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/280-slides-create-share-presentations-online/</guid>
+      <guid>http://konigi.com/blog/280-slides-create-share-presentations-online/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://280slides.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1316&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt485f99ae85289_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://280slides.com/&#34;&gt;280 Slides&lt;/a&gt; is a service that lets you create presentations online in a Keynote-like interface, and then share them, download them to PowerPoint, and present them online.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt485f99ae85289_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>TextFlow</title>
-      <link>http://localhost:1313/blog/textflow/</link>
+      <link>http://konigi.com/blog/textflow/</link>
       <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/textflow/</guid>
+      <guid>http://konigi.com/blog/textflow/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2527203491/&#34; title=&#34;TextFlow by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2355/2527203491_f3311cf739_o.png&#34; class=&#34;notebook-image&#34; alt=&#34;TextFlow&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.textflow.com/&#34;&gt;TextFlow&lt;/a&gt; is a new parallel document editing application and service that allows multiple users to work on a document simultaneously. The service should appeal to people who use the Track Changes feature of Microsoft Word. TextFlow lets users edit documents, and instantly see the changes suggested. One person can review the changes and apply them. &lt;/p&gt;
 &lt;p&gt;The difference between this service and something like Google Docs or working in a wiki, is that the changes are indicated visually, rather than having to go through the diff displays in revision history. It&#39;s simple and should be intuitive for users who use Track Changes in Word. &lt;/p&gt;
@@ -40,10 +40,10 @@ wt485f99ae85289_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>readbag personal bookmarking</title>
-      <link>http://localhost:1313/blog/readbag-personal-bookmarking/</link>
+      <link>http://konigi.com/blog/readbag-personal-bookmarking/</link>
       <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/readbag-personal-bookmarking/</guid>
+      <guid>http://konigi.com/blog/readbag-personal-bookmarking/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://readbag.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1221&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4810f6b67b63b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://readbag.com/&#34;&gt;readbag&lt;/a&gt; is one of those incredibly simple and well-implemented services that puts a subtle but useful twist on a product in an already crowded space. The readbag bookmarking service (it&amp;rsquo;s actually a Google App Engine application) provides the functionality to do one thing very well&amp;ndash;bookmark pages that you want to read for later.&lt;/p&gt;
 &lt;p&gt;Now you might argue that you can use any social bookmarking service to do this, or something like Evernote. But what readbag does well is eliminates all the noise of social bookmarking, and gives you a nice mobile interface (generic mobile ui or IUI for iPhones) so that you can retrieve those articles you don&amp;rsquo;t have time to read now. So when you&amp;rsquo;re on a train maybe, or waiting in line somewhere, you can read them on your phone. The little twist is that it acts a bit like a to do list. Once you&amp;rsquo;ve followed a link from the readbag interface to one of those saved articles, it gets removed from the list, assuming that you&amp;rsquo;ve now you read it. You can unarchive links if you haven&amp;rsquo;t read them yet.&lt;/p&gt;
@@ -56,10 +56,10 @@ wt4810f6b67b63b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>FontStruct: User Generated Fonts</title>
-      <link>http://localhost:1313/blog/fontstruct-user-generated-fonts/</link>
+      <link>http://konigi.com/blog/fontstruct-user-generated-fonts/</link>
       <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/fontstruct-user-generated-fonts/</guid>
+      <guid>http://konigi.com/blog/fontstruct-user-generated-fonts/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://fontstruct.fontshop.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1192&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt47fcf26986eac.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Font retailer, FontShop are launching &lt;a href=&#34;http://fontstruct.fontshop.com/&#34;&gt;FontStruct&lt;/a&gt; a free font-building tool that lets users create fonts via an online font editor using geometrical shapes, which are arranged in a grid pattern, like tiles or bricks. TrueType fonts are generated for use on Mac or PC. Users can keep fonts to themselves or share them with the community. All fonts are free to download. &lt;/p&gt;&lt;/p&gt;
 
@@ -69,10 +69,10 @@ wt47fcf26986eac.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Font retailer, FontS
     
     <item>
       <title>MoFuse: Hosted Mobile Website Service</title>
-      <link>http://localhost:1313/blog/mofuse-hosted-mobile-website-service/</link>
+      <link>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</link>
       <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mofuse-hosted-mobile-website-service/</guid>
+      <guid>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.mofuse.com/&#34;&gt;MoFuse&lt;/a&gt; is a service that allows site owners to provide a .mobi experience for their existing sites. The service allows you simply plug an RSS feed url into your account settings for a new site, and delivers a mobile formatted version of that feed. They also provide the ability to publish as an iPhone app, using the &lt;a href=&#34;http://code.google.com/p/iui/&#34;&gt;IUI interface&lt;/a&gt;, which you can experience on Google and FaceBook mobile sites. The service also allows you to create static pages, and customize the colors of the UI.&lt;/p&gt;
 &lt;p&gt;The demo below shows the Konigi feed implemented as a mofuse site. I haven&#39;t gotten around to doing feeds that provide screenshots, so you&#39;ll see only text for content.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2299115912/&#34; title=&#34;konigi Mobile - iPhone Preview on MoFuse by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3133/2299115912_426cb1d467_o.png&#34; width=&#34;407&#34; height=&#34;736&#34; alt=&#34;konigi Mobile - iPhone Preview on MoFuse&#34; /&gt;&lt;/a&gt;&lt;/p&gt;

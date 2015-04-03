@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flex on Konigi</title>
-    <link>http://localhost:1313/tags/flex/</link>
+    <link>http://konigi.com/tags/flex/</link>
     <description>Recent content in Flex on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 May 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/flex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/flex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GestureWorks Open Source Multitouch Gesture Library</title>
-      <link>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</link>
+      <link>http://konigi.com/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</guid>
+      <guid>http://konigi.com/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2708&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd989949f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;GestureWorks is a multitouch authoring environment for Flash and Flex that ships with &lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;a library of over 20 unique gestures&lt;/a&gt;. This gesture library is built upon an open source gesture framework, allowing developers to customize and extend the “gesture object” to create support for new gestures. The library is available for GestureWorks, and posters in PNG, PDF and AI format are also provided.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt522fd989949f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;GestureWorks 
     
     <item>
       <title>6 Tips for a Great Flex UX</title>
-      <link>http://localhost:1313/blog/6-tips-great-flex-ux/</link>
+      <link>http://konigi.com/blog/6-tips-great-flex-ux/</link>
       <pubDate>Fri, 06 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/6-tips-great-flex-ux/</guid>
+      <guid>http://konigi.com/blog/6-tips-great-flex-ux/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://designingwebinterfaces.com/great-flex-ux&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1518&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49b12cd8247b6_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Theresa Neil is writing a 6 part series of articles on &lt;a href=&#34;http://designingwebinterfaces.com/great-flex-ux&#34;&gt;designing great Adobe Flex/Air user experiences&lt;/a&gt;. The first 3 parts are up now.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;After designing several large enterprise applications for diverse clients and industries, I’ve noticed some barriers to crafting a great experience in Flex. I think these barriers arise from the relative newness of the technology (and RIAs in general), the initial focus on development over design, and the confidence that Flex can provide a great UX out of the box. But it takes a bit more to make a Flex app really shine. Fortunately, the Flex community is chock-full of talented and motivated developers who contribute amazing resources.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;

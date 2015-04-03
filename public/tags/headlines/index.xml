@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Headlines on Konigi</title>
-    <link>http://localhost:1313/tags/headlines/</link>
+    <link>http://konigi.com/tags/headlines/</link>
     <description>Recent content in Headlines on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Apr 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/headlines/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/headlines/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Typography for Headlines</title>
-      <link>http://localhost:1313/blog/typography-headlines/</link>
+      <link>http://konigi.com/blog/typography-headlines/</link>
       <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typography-headlines/</guid>
+      <guid>http://konigi.com/blog/typography-headlines/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smileycat.com/miaow/archives/typography-for-headlines.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1224&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4815caa48c0d1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Watson of Smiley Cat Web Design provides an excellent &lt;a href=&#34;http://www.smileycat.com/miaow/archives/typography-for-headlines.php&#34;&gt;showcase of headline typographic design&lt;/a&gt; from across the web.&lt;/p&gt;&lt;/p&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Widgets on Konigi</title>
-    <link>http://localhost:1313/tags/widgets/</link>
+    <link>http://konigi.com/tags/widgets/</link>
     <description>Recent content in Widgets on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Nov 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/widgets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/widgets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sprint Now Widgets</title>
-      <link>http://localhost:1313/blog/sprint-now-widgets/</link>
+      <link>http://konigi.com/blog/sprint-now-widgets/</link>
       <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sprint-now-widgets/</guid>
+      <guid>http://konigi.com/blog/sprint-now-widgets/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/sprint-widgetopia.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;Sprint&amp;rsquo;s widgetopia&lt;/a&gt; is a clever Flash site advertising their mobile broadband card.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;http://now.sprint.com/widget/&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Last.fm Top Content Charts Module</title>
-      <link>http://localhost:1313/interface/last-fm-top-content-charts-module/</link>
+      <link>http://konigi.com/interface/last-fm-top-content-charts-module/</link>
       <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/last-fm-top-content-charts-module/</guid>
+      <guid>http://konigi.com/interface/last-fm-top-content-charts-module/</guid>
       <description>&lt;p&gt;Last.fm&#39;s top artists and top songs content module appears on user profiles. The module shows a list of top content, with options in tabs to change time slice. The content module also provides options to modify settings and embed the content on an external blog or social network site.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Default tab, showing last 7 days of top artists with Last.fm&#39;s signature bar chart for number of plays.  &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Default tab, showing last 7 days of top artists with Last.fm&#39;s signature bar chart for numbe...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Last 6 months tab.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Last 6 months tab.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking the gear icon in the upper right shows drop down menu to modify settings or embed content widget.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking the gear icon in the upper right shows drop down menu to modify settings or embed conten...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Modifying chart settings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Modifying chart settings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Embedding.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Embedding.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. Embed settings page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/lastfm-top-content-module-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. Embed settings page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/lastfm-top-content-module-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.last.fm/dashboard/&#34;&gt;http://www.last.fm/dashboard/&lt;/a&gt;&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>Apple Dashcode</title>
-      <link>http://localhost:1313/blog/apple-dashcode/</link>
+      <link>http://konigi.com/blog/apple-dashcode/</link>
       <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/apple-dashcode/</guid>
+      <guid>http://konigi.com/blog/apple-dashcode/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2440900509/&#34; title=&#34;Apple Dashcode by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3077/2440900509_20a61efb02_b.jpg&#34; alt=&#34;Apple Dashcode&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://developer.apple.com/tools/dashcode/&#34;&gt;Apple&#39;s Dashcode widget builder&lt;/a&gt; provides a nice library interface for viewing the parts you can include in your widget, and a code library to view snippets.&lt;/p&gt;
     

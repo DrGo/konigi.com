@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Svg on Konigi</title>
-    <link>http://localhost:1313/tags/svg/</link>
+    <link>http://konigi.com/tags/svg/</link>
     <description>Recent content in Svg on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Nov 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/svg/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ai to Canvas Plug-In</title>
-      <link>http://localhost:1313/tools/submissions/ai-canvas-plug/</link>
+      <link>http://konigi.com/tools/submissions/ai-canvas-plug/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ai-canvas-plug/</guid>
+      <guid>http://konigi.com/tools/submissions/ai-canvas-plug/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2806&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;Ai-&amp;gt;Canvas plug-in&lt;/a&gt; enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>When can I use... HTML5, CSS3, etc.</title>
-      <link>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</link>
+      <link>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</link>
       <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
+      <guid>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://caniuse.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2718&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use provides &lt;a href=&#34;http://caniuse.com/&#34;&gt;compatibility tables&lt;/a&gt; for features in HTML5, CSS3, SVG and other upcoming web technologies.&lt;/p&gt;&lt;/p&gt;
 

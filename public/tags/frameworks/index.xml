@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frameworks on Konigi</title>
-    <link>http://localhost:1313/tags/frameworks/</link>
+    <link>http://konigi.com/tags/frameworks/</link>
     <description>Recent content in Frameworks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/frameworks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/frameworks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Semantic UI Library</title>
-      <link>http://localhost:1313/tools/submissions/semantic-ui-library/</link>
+      <link>http://konigi.com/tools/submissions/semantic-ui-library/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/semantic-ui-library/</guid>
+      <guid>http://konigi.com/tools/submissions/semantic-ui-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2848&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;Semantic UI&lt;/a&gt; is a framework for building HTML sites that aims at creating a system based on semantic naming and sensible defaults.&lt;/p&gt;&lt;/p&gt;
 
@@ -27,10 +27,10 @@ wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>PhoneGap | Cross platform mobile framework</title>
-      <link>http://localhost:1313/tools/submissions/phonegap-cross-platform-mobile-framework/</link>
+      <link>http://konigi.com/tools/submissions/phonegap-cross-platform-mobile-framework/</link>
       <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/phonegap-cross-platform-mobile-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/phonegap-cross-platform-mobile-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://phonegap.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2836&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5232bf1e1b35e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://phonegap.com/&#34;&gt;PhoneGap&lt;/a&gt; is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.&lt;/p&gt;&lt;/p&gt;
 
@@ -41,10 +41,10 @@ wt5232bf1e1b35e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>jQTouch</title>
-      <link>http://localhost:1313/tools/submissions/jqtouch/</link>
+      <link>http://konigi.com/tools/submissions/jqtouch/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jqtouch/</guid>
+      <guid>http://konigi.com/tools/submissions/jqtouch/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.jqtouch.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2804&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52311bf85d63b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.jqtouch.com/&#34;&gt;jQtouch&lt;/a&gt; is a jQuery plugin for mobile web development on the iPhone, iPod Touch, and other forward-thinking devices. It provides themed UI components, and behaviors using native Webkit animation.&lt;/p&gt;&lt;/p&gt;
 
@@ -55,10 +55,10 @@ wt52311bf85d63b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>UKI: Simple UI Kit for complex web apps</title>
-      <link>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
+      <link>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
+      <guid>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2675&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;Uki&lt;/a&gt; is a fast and simple JavaScript user interface toolkit for desktop-like web applications. It comes with a rich view-component library ranging from Slider to List and SplitPane.&lt;/p&gt;&lt;/p&gt;
 
@@ -69,10 +69,10 @@ wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>StaticMatic: Static HTML building framework</title>
-      <link>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</link>
+      <link>http://konigi.com/tools/submissions/staticmatic-static-html-building-framework/</link>
       <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/staticmatic-static-html-building-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2740&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230077c0e9ba_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;StaticMatic&lt;/a&gt; is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.&lt;/p&gt;&lt;/p&gt;
 
@@ -85,10 +85,10 @@ wt5230077c0e9ba_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Comparison of JavaScript frameworks</title>
-      <link>http://localhost:1313/blog/comparison-javascript-frameworks/</link>
+      <link>http://konigi.com/blog/comparison-javascript-frameworks/</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/comparison-javascript-frameworks/</guid>
+      <guid>http://konigi.com/blog/comparison-javascript-frameworks/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1445&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496b33ece51e9.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Wikipedia has an excellent &lt;a href=&#34;http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks&#34;&gt;table of JavaScript frameworks&lt;/a&gt; that compares the features of Dojo, Echo3, Ext, Google Web Toolkit, jQuery, midori, MochiKit, MooTools, Prototype &amp;amp; script.aculo.us, Pyjamas, qooxdoo, Rialto, Rico, YUI, and SweetDEV RIA.&lt;/p&gt;&lt;/p&gt;
 

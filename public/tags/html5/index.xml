@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html5 on Konigi</title>
-    <link>http://localhost:1313/tags/html5/</link>
+    <link>http://konigi.com/tags/html5/</link>
     <description>Recent content in Html5 on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Google Web Designer</title>
-      <link>http://localhost:1313/tools/submissions/google-web-designer/</link>
+      <link>http://konigi.com/tools/submissions/google-web-designer/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/google-web-designer/</guid>
+      <guid>http://konigi.com/tools/submissions/google-web-designer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://www.google.com/webdesigner/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2854&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5249bdd981163_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com/webdesigner/&#34;&gt;Google Web Designer&lt;/a&gt; is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&amp;rsquo;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.&lt;/p&gt;&lt;/p&gt;
 
@@ -29,10 +29,10 @@ wt5249bdd981163_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>VideoSWS: HTML5 Video Player Comparison</title>
-      <link>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</link>
+      <link>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</link>
       <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</guid>
+      <guid>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2852&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&amp;quot;See What Sucks&amp;quot;&lt;/a&gt; table of HTML5 Video players, for comparing features of the video players like library dependencies, flash fallback, playlist and audio support. Starred products indicate the &amp;quot;Suck less than others&amp;quot; rating.&lt;/p&gt;&lt;/p&gt;
 
@@ -43,10 +43,10 @@ wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &
     
     <item>
       <title>Drawscript: Generate vector code from Illustrator</title>
-      <link>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
+      <link>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
       <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
+      <guid>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2746&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;Drawscript&lt;/a&gt; is an extension for Adobe Illustrator that generates graphics code from vector shapes in realtime. Generates OBJ-C, C++, JavaScript for HTML5 Canvas, Processing, Actionscript 3, JSON, and Raw bezier points.&lt;/p&gt;&lt;/p&gt;
 
@@ -57,10 +57,10 @@ wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Ai to Canvas Plug-In</title>
-      <link>http://localhost:1313/tools/submissions/ai-canvas-plug/</link>
+      <link>http://konigi.com/tools/submissions/ai-canvas-plug/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ai-canvas-plug/</guid>
+      <guid>http://konigi.com/tools/submissions/ai-canvas-plug/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2806&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;Ai-&amp;gt;Canvas plug-in&lt;/a&gt; enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.&lt;/p&gt;&lt;/p&gt;
 
@@ -71,10 +71,10 @@ wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
-      <link>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2462&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on Paul Irish and Divya Manian&amp;rsquo;s &lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt; after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this &lt;a href=&#34;http://wordpress.org/support/topic/jquery-from-google-cdn-fall-back-to-wp-local&#34;&gt;technique for WordPress&lt;/a&gt;. &lt;a href=&#34;http://make-things.com/&#34;&gt;Ben Kutil&lt;/a&gt; also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.&lt;/p&gt;&lt;/p&gt;
 
@@ -88,10 +88,10 @@ wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on 
     
     <item>
       <title>WTF is HTML5 (Infographic)</title>
-      <link>http://localhost:1313/blog/wtf-html5-infographic/</link>
+      <link>http://konigi.com/blog/wtf-html5-infographic/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wtf-html5-infographic/</guid>
+      <guid>http://konigi.com/blog/wtf-html5-infographic/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://media.focus.com/images/uploaded/fyi/wtf-html5-infographic/HTML5__.jpg&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2400&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c1a2deb24768_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I found this &lt;a href=&#34;http://media.focus.com/images/uploaded/fyi/wtf-html5-infographic/HTML5__.jpg&#34;&gt;graph explaining HTML 5 features&lt;/a&gt; via &lt;a href=&#34;http://twitter.com/obxdesignworks/statuses/16390022027&#34;&gt;@obxdesignworks&lt;/a&gt;. Succinctly describes the major features enabled by HTML 5 that you need to be aware of: Canvas and video elements, offline storage and geolocation. The graph below shows a snapshot of current support and intent to support in web browsers. Shows that IE is well behind the field in terms of readiness as we speak, but IE 9 intends to support.&lt;/p&gt;&lt;/p&gt;
 
@@ -101,10 +101,10 @@ wt4c1a2deb24768_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I found this &
     
     <item>
       <title>Sencha Touch HTML5 Mobile App Framework</title>
-      <link>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
+      <link>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2764&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;Sencha Touch&lt;/a&gt; looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: &lt;a href=&#34;http://geocongress.us/&#34;&gt;GeoCongress&lt;/a&gt; (makes use of geolocation), &lt;a href=&#34;http://touchsolitaire.mobi/&#34;&gt;Solitaire&lt;/a&gt; (drag and drop and flip animations), &lt;a href=&#34;http://kivamobile.org/&#34;&gt;Kiva&lt;/a&gt; (provides iPad popover controls).&lt;/p&gt;&lt;/p&gt;
 
@@ -119,10 +119,10 @@ wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>When can I use... HTML5, CSS3, etc.</title>
-      <link>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</link>
+      <link>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</link>
       <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
+      <guid>http://konigi.com/tools/submissions/when-can-i-use-html5-css3-etc/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://caniuse.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2718&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use provides &lt;a href=&#34;http://caniuse.com/&#34;&gt;compatibility tables&lt;/a&gt; for features in HTML5, CSS3, SVG and other upcoming web technologies.&lt;/p&gt;&lt;/p&gt;
 
@@ -133,10 +133,10 @@ wt522febd02072f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Can I Use pro
     
     <item>
       <title>SublimeVideo HTML 5 Video Player</title>
-      <link>http://localhost:1313/tools/submissions/sublimevideo-html-5-video-player/</link>
+      <link>http://konigi.com/tools/submissions/sublimevideo-html-5-video-player/</link>
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sublimevideo-html-5-video-player/</guid>
+      <guid>http://konigi.com/tools/submissions/sublimevideo-html-5-video-player/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jilion.com/sublime/video&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2828&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523213d7443c2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jilion.com/sublime/video&#34;&gt;SublimeVideo&lt;/a&gt; is an HTML5 video player with full screen play and scrubbing controls. Because it&amp;rsquo;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.&lt;/p&gt;&lt;/p&gt;
 
@@ -149,10 +149,10 @@ wt523213d7443c2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Text Rotation with CSS</title>
-      <link>http://localhost:1313/blog/text-rotation-css/</link>
+      <link>http://konigi.com/blog/text-rotation-css/</link>
       <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/text-rotation-css/</guid>
+      <guid>http://konigi.com/blog/text-rotation-css/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://snook.ca/archives/html_and_css/css-text-rotation&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1852&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a7c1f11b5212.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jonathan Snook shows a CSS technique for text rotation, which is supported in Webkit browsers, Firefox 3.5+, and IE 5.5+. Should be useful for ideas the little rotated year displays in the demo, but for me this would also be incredibly useful in dense angled headings for tables.&lt;/p&gt;&lt;/p&gt;
 
@@ -162,10 +162,10 @@ wt4a7c1f11b5212.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jonathan Snook shows
     
     <item>
       <title>Modernizr: Use CSS3 and HTML5 Now</title>
-      <link>http://localhost:1313/blog/modernizr-use-css3-and-html5-now/</link>
+      <link>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</link>
       <pubDate>Thu, 02 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/modernizr-use-css3-and-html5-now/</guid>
+      <guid>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.modernizr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1789&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a4cb0376fcb5.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.modernizr.com/&#34;&gt;Modernizr&lt;/a&gt; is a JavaScript library that essentially allows you to use conditionals (if-statements) in your CSS for the availability of CSS3 and HTML5, while still maintaining a fine level of control over older browsers that may not yet support these new technologies.&lt;/p&gt;&lt;/p&gt;
 

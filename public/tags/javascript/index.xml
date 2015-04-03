@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Konigi</title>
-    <link>http://localhost:1313/tags/javascript/</link>
+    <link>http://konigi.com/tags/javascript/</link>
     <description>Recent content in Javascript on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AniJS: Declarative handling library for CSS animations</title>
-      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <link>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <guid>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
 &lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
@@ -28,10 +28,10 @@ Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.
     
     <item>
       <title>uilang</title>
-      <link>http://localhost:1313/tools/submissions/uilang/</link>
+      <link>http://konigi.com/tools/submissions/uilang/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uilang/</guid>
+      <guid>http://konigi.com/tools/submissions/uilang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;uilang&lt;/a&gt; is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt;&lt;/pre&gt;&lt;p&gt;
 You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things. &lt;a href=&#34;http://uilang.com/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
@@ -45,10 +45,10 @@ You still have to write your CSS to handle things like effects, but that&#39;s a
     
     <item>
       <title>Making Infield Form Labels Suck Less</title>
-      <link>http://localhost:1313/blog/making-infield-form-labels-suck-less/</link>
+      <link>http://konigi.com/blog/making-infield-form-labels-suck-less/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-infield-form-labels-suck-less/</guid>
+      <guid>http://konigi.com/blog/making-infield-form-labels-suck-less/</guid>
       <description>&lt;p&gt;Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. &lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/infield-plugin.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less&#34;&gt;Part 1&lt;/a&gt; talks about the problems using infield labels. &lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less-2&#34;&gt;Part 2&lt;/a&gt; shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a &lt;a href=&#34;http://jsfiddle.net/ten1seven/hYM8G/3/light/&#34;&gt;jsFiddle snippet&lt;/a&gt; to play with the code. You can &lt;a href=&#34;https://github.com/ten1seven/infieldLabel&#34;&gt;download the jquery plugin from Git&lt;/a&gt;.&lt;/p&gt;
@@ -60,10 +60,10 @@ You still have to write your CSS to handle things like effects, but that&#39;s a
     
     <item>
       <title>Drawscript: Generate vector code from Illustrator</title>
-      <link>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
+      <link>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
       <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
+      <guid>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2746&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;Drawscript&lt;/a&gt; is an extension for Adobe Illustrator that generates graphics code from vector shapes in realtime. Generates OBJ-C, C++, JavaScript for HTML5 Canvas, Processing, Actionscript 3, JSON, and Raw bezier points.&lt;/p&gt;&lt;/p&gt;
 
@@ -74,10 +74,10 @@ wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>jKit: jQuery based UI Toolkit</title>
-      <link>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</link>
+      <link>http://konigi.com/tools/submissions/jkit-jquery-based-ui-toolkit/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</guid>
+      <guid>http://konigi.com/tools/submissions/jkit-jquery-based-ui-toolkit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2667&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fa3108a630_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;jKit&lt;/a&gt; is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.&lt;/p&gt;&lt;/p&gt;
 
@@ -88,10 +88,10 @@ wt522fa3108a630_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Bootstrap, from Twitter</title>
-      <link>http://localhost:1313/tools/submissions/bootstrap-twitter/</link>
+      <link>http://konigi.com/tools/submissions/bootstrap-twitter/</link>
       <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/bootstrap-twitter/</guid>
+      <guid>http://konigi.com/tools/submissions/bootstrap-twitter/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2722&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Bootstrap&lt;/a&gt; is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.&lt;/p&gt;&lt;/p&gt;
 
@@ -102,10 +102,10 @@ wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>MiniAjax: Rich UI Showcase</title>
-      <link>http://localhost:1313/blog/miniajax-rich-ui-showcase/</link>
+      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
       <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/miniajax-rich-ui-showcase/</guid>
+      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://miniajax.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2512&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4e1b018a5178a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://miniajax.com/&#34;&gt;MiniAjax&lt;/a&gt; is a nice showcase of javascript libraries for rich interaction behaviors.&lt;/p&gt;&lt;/p&gt;
 
@@ -115,10 +115,10 @@ wt4e1b018a5178a_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
-      <link>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2462&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on Paul Irish and Divya Manian&amp;rsquo;s &lt;a href=&#34;http://html5boilerplate.com/&#34;&gt;HTML5 Boilerplate&lt;/a&gt; after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this &lt;a href=&#34;http://wordpress.org/support/topic/jquery-from-google-cdn-fall-back-to-wp-local&#34;&gt;technique for WordPress&lt;/a&gt;. &lt;a href=&#34;http://make-things.com/&#34;&gt;Ben Kutil&lt;/a&gt; also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.&lt;/p&gt;&lt;/p&gt;
 
@@ -132,10 +132,10 @@ wt4d0b8cded76b0_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I stumbled on 
     
     <item>
       <title>DataTables (table plug-in for jQuery)</title>
-      <link>http://localhost:1313/tools/submissions/datatables-table-plug-jquery/</link>
+      <link>http://konigi.com/tools/submissions/datatables-table-plug-jquery/</link>
       <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/datatables-table-plug-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/datatables-table-plug-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.datatables.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2743&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523020c70101c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;DataTables is a plug-in for the jQuery Javascript library. It is flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table. Key features:&lt;/p&gt;&lt;/p&gt;
 
@@ -162,10 +162,10 @@ wt523020c70101c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;DataTables is
     
     <item>
       <title>Quick Grid Overlay with CSS and JQuery</title>
-      <link>http://localhost:1313/tools/submissions/quick-grid-overlay-css-and-jquery/</link>
+      <link>http://konigi.com/tools/submissions/quick-grid-overlay-css-and-jquery/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/quick-grid-overlay-css-and-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/quick-grid-overlay-css-and-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://devgrow.com/griddy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2751&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52304326a7297_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://devgrow.com/griddy/&#34;&gt;Griddy&lt;/a&gt; is a simple JQuery plugin that overlays a customizable grid over any element.&lt;/p&gt;&lt;/p&gt;
 
@@ -176,10 +176,10 @@ wt52304326a7297_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Brosho - Design CSS in the browser</title>
-      <link>http://localhost:1313/tools/submissions/brosho-design-css-browser/</link>
+      <link>http://konigi.com/tools/submissions/brosho-design-css-browser/</link>
       <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/brosho-design-css-browser/</guid>
+      <guid>http://konigi.com/tools/submissions/brosho-design-css-browser/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://usejquery.com/posts/8/brosho-design-in-the-browser-jquery-plugin&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2762&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230699c7b8b7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.&lt;/p&gt;&lt;/p&gt;
 
@@ -194,10 +194,10 @@ wt5230699c7b8b7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This plugin a
     
     <item>
       <title>jQuery Masonry</title>
-      <link>http://localhost:1313/tools/submissions/jquery-masonry/</link>
+      <link>http://konigi.com/tools/submissions/jquery-masonry/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jquery-masonry/</guid>
+      <guid>http://konigi.com/tools/submissions/jquery-masonry/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2703&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;Masonry&lt;/a&gt; is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.&lt;/p&gt;&lt;/p&gt;
 
@@ -208,10 +208,10 @@ wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>jQTouch</title>
-      <link>http://localhost:1313/tools/submissions/jqtouch/</link>
+      <link>http://konigi.com/tools/submissions/jqtouch/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jqtouch/</guid>
+      <guid>http://konigi.com/tools/submissions/jqtouch/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.jqtouch.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2804&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52311bf85d63b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.jqtouch.com/&#34;&gt;jQtouch&lt;/a&gt; is a jQuery plugin for mobile web development on the iPhone, iPod Touch, and other forward-thinking devices. It provides themed UI components, and behaviors using native Webkit animation.&lt;/p&gt;&lt;/p&gt;
 
@@ -222,10 +222,10 @@ wt52311bf85d63b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>UKI: Simple UI Kit for complex web apps</title>
-      <link>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
+      <link>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
+      <guid>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2675&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;Uki&lt;/a&gt; is a fast and simple JavaScript user interface toolkit for desktop-like web applications. It comes with a rich view-component library ranging from Slider to List and SplitPane.&lt;/p&gt;&lt;/p&gt;
 
@@ -236,10 +236,10 @@ wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Easy front-end framework</title>
-      <link>http://localhost:1313/tools/submissions/easy-front-end-framework/</link>
+      <link>http://konigi.com/tools/submissions/easy-front-end-framework/</link>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/easy-front-end-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/easy-front-end-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://easyframework.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2770&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52307ac506f3c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://easyframework.com/&#34;&gt;Easy Framework&lt;/a&gt; is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.&lt;/p&gt;&lt;/p&gt;
 

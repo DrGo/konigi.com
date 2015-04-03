@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Touch Screens on Konigi</title>
-    <link>http://localhost:1313/tags/touch-screens/</link>
+    <link>http://konigi.com/tags/touch-screens/</link>
     <description>Recent content in Touch Screens on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/touch-screens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/touch-screens/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Precomposed Touch Gestures</title>
-      <link>http://localhost:1313/tools/submissions/precomposed-touch-gestures/</link>
+      <link>http://konigi.com/tools/submissions/precomposed-touch-gestures/</link>
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/precomposed-touch-gestures/</guid>
+      <guid>http://konigi.com/tools/submissions/precomposed-touch-gestures/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://areuswade.com/precomposed-touch-gestures/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2873&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52f3df1b3ff23_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Aureus Wade&amp;rsquo;s &lt;a href=&#34;http://areuswade.com/precomposed-touch-gestures/&#34;&gt;Precomposed Touch Gestures&lt;/a&gt; are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt52f3df1b3ff23_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Aureus Wade&a
     
     <item>
       <title>Touch Notation</title>
-      <link>http://localhost:1313/tools/submissions/touch-notation/</link>
+      <link>http://konigi.com/tools/submissions/touch-notation/</link>
       <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/touch-notation/</guid>
+      <guid>http://konigi.com/tools/submissions/touch-notation/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://mattgemmell.com/2010/07/14/touch-notation&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2771&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230824d00b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://mattgemmell.com/2010/07/14/touch-notation&#34;&gt;Touch Notation&lt;/a&gt; is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&amp;rsquo;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.&lt;/p&gt;&lt;/p&gt;
 
@@ -41,10 +41,10 @@ wt5230824d00b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Sencha Touch HTML5 Mobile App Framework</title>
-      <link>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
+      <link>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/sencha-touch-html5-mobile-app-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2764&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sencha.com/products/touch/index.php&#34;&gt;Sencha Touch&lt;/a&gt; looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: &lt;a href=&#34;http://geocongress.us/&#34;&gt;GeoCongress&lt;/a&gt; (makes use of geolocation), &lt;a href=&#34;http://touchsolitaire.mobi/&#34;&gt;Solitaire&lt;/a&gt; (drag and drop and flip animations), &lt;a href=&#34;http://kivamobile.org/&#34;&gt;Kiva&lt;/a&gt; (provides iPad popover controls).&lt;/p&gt;&lt;/p&gt;
 
@@ -59,10 +59,10 @@ wt52306f5a171ae_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Touch Gesture Reference Guide</title>
-      <link>http://localhost:1313/tools/submissions/touch-gesture-reference-guide/</link>
+      <link>http://konigi.com/tools/submissions/touch-gesture-reference-guide/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/touch-gesture-reference-guide/</guid>
+      <guid>http://konigi.com/tools/submissions/touch-gesture-reference-guide/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.lukew.com/ff/entry.asp?1071&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2773&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230923405c8b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Luke Wroblewski&amp;rsquo;s &lt;a href=&#34;http://www.lukew.com/ff/entry.asp?1071&#34;&gt;Touch Gesture Reference Guide&lt;/a&gt; is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures. Downloadable in PDF, EPS, and OmniGraffle formats.&lt;/p&gt;&lt;/p&gt;
 
@@ -73,10 +73,10 @@ wt5230923405c8b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Luke Wroblews
     
     <item>
       <title>GestureWorks Open Source Multitouch Gesture Library</title>
-      <link>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</link>
+      <link>http://konigi.com/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</link>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</guid>
+      <guid>http://konigi.com/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2708&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd989949f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;GestureWorks is a multitouch authoring environment for Flash and Flex that ships with &lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;a library of over 20 unique gestures&lt;/a&gt;. This gesture library is built upon an open source gesture framework, allowing developers to customize and extend the “gesture object” to create support for new gestures. The library is available for GestureWorks, and posters in PNG, PDF and AI format are also provided.&lt;/p&gt;&lt;/p&gt;
 
@@ -87,10 +87,10 @@ wt522fd989949f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;GestureWorks 
     
     <item>
       <title>Kicker Studio: Touchscreen Stencils</title>
-      <link>http://localhost:1313/tools/submissions/kicker-studio-touchscreen-stencils/</link>
+      <link>http://konigi.com/tools/submissions/kicker-studio-touchscreen-stencils/</link>
       <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/kicker-studio-touchscreen-stencils/</guid>
+      <guid>http://konigi.com/tools/submissions/kicker-studio-touchscreen-stencils/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2709&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;Gesture stencils&lt;/a&gt; based on drawings Rachel Glaves did for the book, &amp;quot;Designing Gestural Interfaces,&amp;quot; suitable for using in documentation. The drawings are of hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread. Available in OmniGraffle, Illustrator, Photoshop, Fireworks and SVG formats.&lt;/p&gt;&lt;/p&gt;
 
@@ -101,10 +101,10 @@ wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Gesturecons: Multi-Touch Icons</title>
-      <link>http://localhost:1313/tools/submissions/gesturecons-multi-touch-icons/</link>
+      <link>http://konigi.com/tools/submissions/gesturecons-multi-touch-icons/</link>
       <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/gesturecons-multi-touch-icons/</guid>
+      <guid>http://konigi.com/tools/submissions/gesturecons-multi-touch-icons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://gesturecons.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2784&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230ce2e20f33_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://gesturecons.com/&#34;&gt;Gesture icons&lt;/a&gt; created for wireframing touch interfaces. High resolution multi-touch vector icons, scalable and alterable (.pdf, .ai, .eps file types.) Free for personal use, and commercial licenses are available.&lt;/p&gt;&lt;/p&gt;
 
@@ -115,10 +115,10 @@ wt5230ce2e20f33_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Touchscreen Stencils</title>
-      <link>http://localhost:1313/tools/submissions/touchscreen-stencils/</link>
+      <link>http://konigi.com/tools/submissions/touchscreen-stencils/</link>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/touchscreen-stencils/</guid>
+      <guid>http://konigi.com/tools/submissions/touchscreen-stencils/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2709&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of Kicker Studio provides &lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;free touch screen gesture stencils&lt;/a&gt; for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, &lt;em&gt;Designing Gestural Interfaces&lt;/em&gt;, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.&lt;/p&gt;&lt;/p&gt;
 
@@ -129,10 +129,10 @@ wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of
     
     <item>
       <title>iPhone GUI PSD</title>
-      <link>http://localhost:1313/tools/submissions/iphone-gui-psd/</link>
+      <link>http://konigi.com/tools/submissions/iphone-gui-psd/</link>
       <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/iphone-gui-psd/</guid>
+      <guid>http://konigi.com/tools/submissions/iphone-gui-psd/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.teehanlax.com/blog/?p=447&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2662&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fa02ea5e6b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.teehanlax.com/blog/?p=447&#34;&gt;iPhone GUI PSD&lt;/a&gt; by teehan+lax is an editable layered Photoshop file with graphic elements including the iPhone, buttons and controls, form inputs, and application chrome. &lt;/p&gt;
 &lt;p&gt;Thanks to &lt;a href=&#34;http://designnotes.info/&#34;&gt;Designnotes&lt;/a&gt; for the tip.&lt;/p&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nopromo on Konigi</title>
-    <link>http://localhost:1313/categories/nopromo/</link>
+    <link>http://konigi.com/categories/nopromo/</link>
     <description>Recent content in Nopromo on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Apr 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/nopromo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/categories/nopromo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Conferences and Events</title>
-      <link>http://localhost:1313/wiki/conferences-and-events/</link>
+      <link>http://konigi.com/wiki/conferences-and-events/</link>
       <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/conferences-and-events/</guid>
+      <guid>http://konigi.com/wiki/conferences-and-events/</guid>
       <description>&lt;p&gt;&lt;ul id=&#34;filter&#34; class=&#34;inline mt0 strong&#34;&gt;
 &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#&#34;&gt;UX&lt;/a&gt;&lt;/li&gt;

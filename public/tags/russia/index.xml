@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Russia on Konigi</title>
-    <link>http://localhost:1313/tags/russia/</link>
+    <link>http://konigi.com/tags/russia/</link>
     <description>Recent content in Russia on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/russia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/russia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Showcase of Web Design in Russia</title>
-      <link>http://localhost:1313/blog/showcase-web-design-russia/</link>
+      <link>http://konigi.com/blog/showcase-web-design-russia/</link>
       <pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/showcase-web-design-russia/</guid>
+      <guid>http://konigi.com/blog/showcase-web-design-russia/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1915&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ad9a3e8509e1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;As part of Smashing Mag&amp;rsquo;s Global Web Design series, they&amp;rsquo;ve created a &lt;a href=&#34;http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/&#34;&gt;showcase of Russian Web Design&lt;/a&gt; with Designcollector&amp;rsquo;s Arseny Vesnin providing the commentary.&lt;/p&gt;&lt;/p&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple Tv on Konigi</title>
-    <link>http://localhost:1313/tags/apple-tv/</link>
+    <link>http://konigi.com/tags/apple-tv/</link>
     <description>Recent content in Apple Tv on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Feb 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/apple-tv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/apple-tv/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Apple TV 2.0 Review</title>
-      <link>http://localhost:1313/blog/apple-tv-2-0-review/</link>
+      <link>http://konigi.com/blog/apple-tv-2-0-review/</link>
       <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/apple-tv-2-0-review/</guid>
+      <guid>http://konigi.com/blog/apple-tv-2-0-review/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2086/2264703573_4e633e4413_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Apple TV owners got a software update pushed to their boxes this week, and Gizmodo &lt;a href=&#34;http://gizmodo.com/355843/apple-tv-20-review&#34;&gt;has a review of the software&lt;/a&gt; complete with screenshots and a description of the rental and purchase services now offered. &lt;/p&gt;
 &lt;p&gt;I was a bit disappointed by the update at first, but like my 6 year old son said on the second day, &#34;I&#39;m getting used to it.&#34; Gone is the simple, single panel with left/right hierarchical navigation. That has been replaced by a 2 panel columnar navigation--left side for parent and right for it&#39;s children. Once you select the child in the right panel, that screen is taken over by a full screen interface, e.g. Movies &gt; My Movies &gt; Full screen movie list. Once you adjust to that change, the interface is quite intuitive actually, but I would have preferred the option to use the older UI if I prefer. &lt;/p&gt;

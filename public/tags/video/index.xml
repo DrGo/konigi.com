@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Konigi</title>
-    <link>http://localhost:1313/tags/video/</link>
+    <link>http://konigi.com/tags/video/</link>
     <description>Recent content in Video on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VideoSWS: HTML5 Video Player Comparison</title>
-      <link>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</link>
+      <link>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</link>
       <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/videosws-html5-video-player-comparison/</guid>
+      <guid>http://konigi.com/tools/submissions/videosws-html5-video-player-comparison/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2852&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &lt;a href=&#34;http://praegnanz.de/html5video/&#34;&gt;&amp;quot;See What Sucks&amp;quot;&lt;/a&gt; table of HTML5 Video players, for comparing features of the video players like library dependencies, flash fallback, playlist and audio support. Starred products indicate the &amp;quot;Suck less than others&amp;quot; rating.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &
     
     <item>
       <title>Design inspired by nature</title>
-      <link>http://localhost:1313/blog/design-inspired-nature/</link>
+      <link>http://konigi.com/blog/design-inspired-nature/</link>
       <pubDate>Fri, 17 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-inspired-nature/</guid>
+      <guid>http://konigi.com/blog/design-inspired-nature/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;http://fast.wistia.net/embed/iframe/m0s4n6hmbr?playerColor=bb6b29&amp;amp;version=v1&amp;amp;volumeControl=true&#34; allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; class=&#34;wistia_embed&#34; name=&#34;wistia_embed&#34;&gt;&lt;/iframe&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;https://twitter.com/leonbarnard&#34;&gt;@leonbarnard&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
     
@@ -37,10 +37,10 @@ wt5239e3202b3be_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like this &
     
     <item>
       <title>Call Recorder for Skype</title>
-      <link>http://localhost:1313/tools/submissions/call-recorder-skype/</link>
+      <link>http://konigi.com/tools/submissions/call-recorder-skype/</link>
       <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/call-recorder-skype/</guid>
+      <guid>http://konigi.com/tools/submissions/call-recorder-skype/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2742&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsquo;s &lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;Call Recorder for Mac&lt;/a&gt; captures audio and video to save Skype calls as QuickTime movies. Useful for user interviews or screensharing sessions.&lt;/p&gt;&lt;/p&gt;
 
@@ -53,10 +53,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Aaron Koblin: Artfully visualizing our humanity</title>
-      <link>http://localhost:1313/blog/aaron-koblin-artfully-visualizing-our-humanity/</link>
+      <link>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</link>
       <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
+      <guid>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2635/5765079290_93a160eff7_z.jpg&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;From &lt;a href=&#34;http://www.ted.com/talks/aaron_koblin.html&#34;&gt;Aaron Koblin&amp;rsquo;s TED presentation&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Artist Aaron Koblin takes vast amounts of data &amp;ndash; and at times vast numbers of people &amp;ndash; and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &amp;ldquo;Wilderness Downtown&amp;rdquo; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.&amp;rdquo;&lt;/p&gt;
@@ -70,10 +70,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Charlie Rose interview with Jeff Bezos</title>
-      <link>http://localhost:1313/blog/charlie-rose-interview-jeff-bezos/</link>
+      <link>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</link>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/charlie-rose-interview-jeff-bezos/</guid>
+      <guid>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.charlierose.com/view/interview/11138&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2428&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c6b099204990_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;a href=&#34;http://www.charlierose.com/view/interview/11138&#34;&gt;fantastic interview of Jeff Bezos&lt;/a&gt; on Charlie Rose where Bezos talks about why Kindle shouldn&amp;rsquo;t be the iPad and why Amazon&amp;rsquo;s new mission is &amp;quot;Earth&amp;rsquo;s most customer-centric company.&amp;quot;&lt;/p&gt;&lt;/p&gt;
 
@@ -83,10 +83,10 @@ wt4c6b099204990_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;
     
     <item>
       <title>OmniGraffle for iPad Video</title>
-      <link>http://localhost:1313/blog/omnigraffle-ipad-video/</link>
+      <link>http://konigi.com/blog/omnigraffle-ipad-video/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/omnigraffle-ipad-video/</guid>
+      <guid>http://konigi.com/blog/omnigraffle-ipad-video/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.omnigroup.com/products/omnigraffle-ipad/videos/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2349&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bb606189020b_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The OmniGroup now has video up of the &lt;a href=&#34;http://www.omnigroup.com/products/omnigraffle-ipad/videos/&#34;&gt;OmniGraffle for iPad&lt;/a&gt; showing what looks to be an awesome product. I can&amp;rsquo;t wait to get my hands on it.&lt;/p&gt;&lt;/p&gt;
 
@@ -96,10 +96,10 @@ wt4bb606189020b_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The OmniGroup 
     
     <item>
       <title>SublimeVideo HTML 5 Video Player</title>
-      <link>http://localhost:1313/tools/submissions/sublimevideo-html-5-video-player/</link>
+      <link>http://konigi.com/tools/submissions/sublimevideo-html-5-video-player/</link>
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sublimevideo-html-5-video-player/</guid>
+      <guid>http://konigi.com/tools/submissions/sublimevideo-html-5-video-player/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jilion.com/sublime/video&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2828&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523213d7443c2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jilion.com/sublime/video&#34;&gt;SublimeVideo&lt;/a&gt; is an HTML5 video player with full screen play and scrubbing controls. Because it&amp;rsquo;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.&lt;/p&gt;&lt;/p&gt;
 
@@ -112,10 +112,10 @@ wt523213d7443c2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>25 User Experience Videos That Are Worth Your Time</title>
-      <link>http://localhost:1313/blog/25-user-experience-videos-are-worth-your-time/</link>
+      <link>http://konigi.com/blog/25-user-experience-videos-are-worth-your-time/</link>
       <pubDate>Tue, 05 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/25-user-experience-videos-are-worth-your-time/</guid>
+      <guid>http://konigi.com/blog/25-user-experience-videos-are-worth-your-time/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2010/01/05/25-user-experience-videos-that-are-worth-your-time/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2259&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b43a441a4c92_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine have curated a list of &lt;a href=&#34;http://www.smashingmagazine.com/2010/01/05/25-user-experience-videos-that-are-worth-your-time/&#34;&gt;25 videos UX videos and presentations worth watching&lt;/a&gt;. It will take you more than 16 hours to watch all of these videos.&lt;/p&gt;&lt;/p&gt;
 
@@ -125,10 +125,10 @@ wt4b43a441a4c92_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magaz
     
     <item>
       <title>Michael Bierut: 5 Secrets from 86 Notebooks</title>
-      <link>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</link>
+      <link>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</link>
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</guid>
+      <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object type=&#34;application/x-shockwave-flash&#34; width=&#34;572&#34; height=&#34;429&#34; data=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34;&gt;  &lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;scale&#34; value=&#34;showAll&#34; /&gt;  &lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34; /&gt; &lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.&lt;/p&gt;
@@ -141,10 +141,10 @@ wt4b43a441a4c92_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magaz
     
     <item>
       <title>Barry Schwartz on the Paradox of Choice</title>
-      <link>http://localhost:1313/blog/barry-schwartz-paradox-choice/</link>
+      <link>http://konigi.com/blog/barry-schwartz-paradox-choice/</link>
       <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/barry-schwartz-paradox-choice/</guid>
+      <guid>http://konigi.com/blog/barry-schwartz-paradox-choice/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;334&#34; height=&#34;326&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;param name=&#34;bgColor&#34; value=&#34;#ffffff&#34;&gt;&lt;/param&gt; &lt;param name=&#34;flashvars&#34; value=&#34;vu=http://video.ted.com/talks/embed/BarrySchwartz_2005G-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BarrySchwartz-2005G.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=93&#34; /&gt;&lt;embed src=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34; pluginspace=&#34;http://www.macromedia.com/go/getflashplayer&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; bgColor=&#34;#ffffff&#34; width=&#34;334&#34; height=&#34;326&#34; allowFullScreen=&#34;true&#34; flashvars=&#34;vu=http://video.ted.com/talks/embed/BarrySchwartz_2005G-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BarrySchwartz-2005G.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=93&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p class=&#34;dek&#34;&gt;Psychologist Barry Schwartz takes aim at a central tenet of western societies on TED: freedom of choice. In Schwartz&amp;rsquo;s estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.&lt;/p&gt;
@@ -163,10 +163,10 @@ wt4b43a441a4c92_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magaz
     
     <item>
       <title>Screenr Screencasting Service</title>
-      <link>http://localhost:1313/tools/submissions/screenr-screencasting-service/</link>
+      <link>http://konigi.com/tools/submissions/screenr-screencasting-service/</link>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/screenr-screencasting-service/</guid>
+      <guid>http://konigi.com/tools/submissions/screenr-screencasting-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2694&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fc4474a4aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;Screenr&lt;/a&gt; is a web-based screen capture tool that lets you record screen video and audio from your Mac or PC and posts a link to the video, hosted on Screenr.com, to your Twitter stream.&lt;/p&gt;&lt;/p&gt;
 
@@ -177,10 +177,10 @@ wt522fc4474a4aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Camtasia for Mac</title>
-      <link>http://localhost:1313/tools/submissions/camtasia-mac/</link>
+      <link>http://konigi.com/tools/submissions/camtasia-mac/</link>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/camtasia-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/camtasia-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2684&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, makers of Morae and Snagit, have released a &lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;Mac version of Camtasia&lt;/a&gt;, the screencast video recording software. The software allows you to capture the screen, audio and iSight input, and provides simple drag and drop editing including a lot of built-in transitions and effects. You can then easily export the HTML and SWF for embedding in a web page. &lt;/p&gt;
 &lt;p&gt;Looks like an easy to use alternative that might take the work out of producing screencasts. The video suggests that TechSmith have really thought about the primary demo and training use cases.&lt;/p&gt;&lt;/p&gt;
@@ -192,10 +192,10 @@ wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, ma
     
     <item>
       <title>Wireframing over the shoulder</title>
-      <link>http://localhost:1313/blog/wireframing-over-shoulder/</link>
+      <link>http://konigi.com/blog/wireframing-over-shoulder/</link>
       <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wireframing-over-shoulder/</guid>
+      <guid>http://konigi.com/blog/wireframing-over-shoulder/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object classid=&#34;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&#34; width=&#34;437&#34; height=&#34;370&#34; id=&#34;viddler&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.viddler.com/player/3ff47344/&#34; /&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;embed src=&#34;http://www.viddler.com/player/3ff47344/&#34; width=&#34;437&#34; height=&#34;370&#34; type=&#34;application/x-shockwave-flash&#34; allowScriptAccess=&#34;always&#34; allowFullScreen=&#34;true&#34; name=&#34;viddler&#34; &gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is a video on From The Couch podcast showing David Perel sketching wireframes for the Obox Theme. The first half shows David sketching, and during the second half he talks through the interface.&lt;/p&gt;
@@ -207,10 +207,10 @@ wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, ma
     
     <item>
       <title>So you&#39;re thinking about becoming a designer?</title>
-      <link>http://localhost:1313/blog/so-youre-thinking-about-becoming-designer/</link>
+      <link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link>
       <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/so-youre-thinking-about-becoming-designer/</guid>
+      <guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid>
       <description>&lt;p&gt;Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;So you’re thinking about becoming a designer? If I could tell you only one thing about going into the field, my advice would be ___________ .&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. &lt;/p&gt;
@@ -249,10 +249,10 @@ Being empathetic helps designers create things that move people.&lt;br /&gt;
     
     <item>
       <title>MTV Networks: Which video ads work best?</title>
-      <link>http://localhost:1313/blog/mtv-networks-which-video-ads-work-best/</link>
+      <link>http://konigi.com/blog/mtv-networks-which-video-ads-work-best/</link>
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mtv-networks-which-video-ads-work-best/</guid>
+      <guid>http://konigi.com/blog/mtv-networks-which-video-ads-work-best/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://news.cnet.com/8301-1023_3-10287132-93.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20&#34;&gt;CNet reports&lt;/a&gt; on an MTV Networks survey on the effectiveness of their video advertising formats. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&#34;Project Inform,&#34; the MTV survey, found that a five-second-long &#34;pre-roll&#34; ad in advance of the clip, combined with ten seconds of a semi-transparent ad unit that takes up the lower third of the video (and starts about ten seconds in), makes up &#34;both the most effective and the most audience-friendly ad product for short-form online video,&#34; according to a release.&lt;br /&gt;
 MTVN calls this the &#34;lower one-third product suite.&#34; It was tested against two other ad packages, the &#34;sideloader,&#34; which combines the five-second pre-roll with an ad that rolls out of the side of the video window; and a traditional 30-second pre-roll before the ad.&lt;/p&gt;

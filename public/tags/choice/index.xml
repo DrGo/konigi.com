@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Choice on Konigi</title>
-    <link>http://localhost:1313/tags/choice/</link>
+    <link>http://konigi.com/tags/choice/</link>
     <description>Recent content in Choice on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/choice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/choice/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Barry Schwartz on the Paradox of Choice</title>
-      <link>http://localhost:1313/blog/barry-schwartz-paradox-choice/</link>
+      <link>http://konigi.com/blog/barry-schwartz-paradox-choice/</link>
       <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/barry-schwartz-paradox-choice/</guid>
+      <guid>http://konigi.com/blog/barry-schwartz-paradox-choice/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;334&#34; height=&#34;326&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;param name=&#34;bgColor&#34; value=&#34;#ffffff&#34;&gt;&lt;/param&gt; &lt;param name=&#34;flashvars&#34; value=&#34;vu=http://video.ted.com/talks/embed/BarrySchwartz_2005G-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BarrySchwartz-2005G.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=93&#34; /&gt;&lt;embed src=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34; pluginspace=&#34;http://www.macromedia.com/go/getflashplayer&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; bgColor=&#34;#ffffff&#34; width=&#34;334&#34; height=&#34;326&#34; allowFullScreen=&#34;true&#34; flashvars=&#34;vu=http://video.ted.com/talks/embed/BarrySchwartz_2005G-embed_high.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/BarrySchwartz-2005G.embed_thumbnail.jpg&amp;vw=320&amp;vh=240&amp;ap=0&amp;ti=93&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p class=&#34;dek&#34;&gt;Psychologist Barry Schwartz takes aim at a central tenet of western societies on TED: freedom of choice. In Schwartz&amp;rsquo;s estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.&lt;/p&gt;

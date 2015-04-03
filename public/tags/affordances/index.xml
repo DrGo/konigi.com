@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Affordances on Konigi</title>
-    <link>http://localhost:1313/tags/affordances/</link>
+    <link>http://konigi.com/tags/affordances/</link>
     <description>Recent content in Affordances on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/affordances/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/affordances/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iPhone is all Fun and Games</title>
-      <link>http://localhost:1313/blog/iphone-all-fun-and-games/</link>
+      <link>http://konigi.com/blog/iphone-all-fun-and-games/</link>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/iphone-all-fun-and-games/</guid>
+      <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1863&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a8b1adb1092d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher wrote the excellent article &amp;ldquo;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;The iPhone is Not Easy to Use: A New Direction for User Experience&lt;/a&gt;&amp;rdquo; on Johnny Holland to talk about why the iPhone is &lt;strong&gt;not&lt;/strong&gt; easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;As a user experience designer, I thought my job was to make things not suck. Until recently. As technology has evolved, human behavior has evolved along with it. Since behavior is the basis of user experience design, my job has evolved as well. Now, my job is to make things people love. At the 2009 IA Summit, Karl Fast articulated the value proposition of user experience design with sparkling clarity. “Engineers make things,” he said, “we make people love them.” And then he held up an iPhone as an example.&lt;/p&gt;

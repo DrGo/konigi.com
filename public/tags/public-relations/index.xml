@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Relations on Konigi</title>
-    <link>http://localhost:1313/tags/public-relations/</link>
+    <link>http://konigi.com/tags/public-relations/</link>
     <description>Recent content in Public Relations on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Nov 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/public-relations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/public-relations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Facebook Loses Users&#39; Email Notification Settings</title>
-      <link>http://localhost:1313/blog/facebook-loses-users-email-notification-settings/</link>
+      <link>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</link>
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/facebook-loses-users-email-notification-settings/</guid>
+      <guid>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/facebook-email-settings.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I got this in my email from Facebook. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Unfortunately, the settings that control which email notifications get sent to you were lost. We&amp;rsquo;re sorry for the inconvenience.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Wow. Really? I agree with &lt;a href=&#34;http://broadcast.oreilly.com/2008/11/dear-facebook-you-lost-my-what.html&#34;&gt;what M. David Peterson&lt;/a&gt; had to say about the issue. Sounds like they&amp;rsquo;ve got some inexperienced engineers running the show. &lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animation on Konigi</title>
-    <link>http://localhost:1313/tags/animation/</link>
+    <link>http://konigi.com/tags/animation/</link>
     <description>Recent content in Animation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tumblr Fave Animation</title>
-      <link>http://localhost:1313/interface/tumblr-fave-animation/</link>
+      <link>http://konigi.com/interface/tumblr-fave-animation/</link>
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/tumblr-fave-animation/</guid>
+      <guid>http://konigi.com/interface/tumblr-fave-animation/</guid>
       <description>&lt;p&gt;This is a small animation of the  heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/8bxvrHabfLA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>AniJS: Declarative handling library for CSS animations</title>
-      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <link>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
       <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <guid>http://konigi.com/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
 &lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
 &lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
@@ -41,10 +41,10 @@ Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.
     
     <item>
       <title>UI Animations</title>
-      <link>http://localhost:1313/blog/ui-animations/</link>
+      <link>http://konigi.com/blog/ui-animations/</link>
       <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ui-animations/</guid>
+      <guid>http://konigi.com/blog/ui-animations/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://ui-animations.tumblr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2870&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt52e6e5d0206f1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;a href=&#34;http://ui-animations.tumblr.com/&#34;&gt;collection of videos of UI animations&lt;/a&gt; (mostly Apple) curated by &lt;a href=&#34;https://twitter.com/gardaud&#34;&gt;@gardaud&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -54,10 +54,10 @@ wt52e6e5d0206f1_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a &lt;
     
     <item>
       <title>Google Web Designer</title>
-      <link>http://localhost:1313/tools/submissions/google-web-designer/</link>
+      <link>http://konigi.com/tools/submissions/google-web-designer/</link>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/google-web-designer/</guid>
+      <guid>http://konigi.com/tools/submissions/google-web-designer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://www.google.com/webdesigner/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2854&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5249bdd981163_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com/webdesigner/&#34;&gt;Google Web Designer&lt;/a&gt; is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&amp;rsquo;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.&lt;/p&gt;&lt;/p&gt;
 
@@ -72,10 +72,10 @@ wt5249bdd981163_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>SIX UX: Transition and animation gallery</title>
-      <link>http://localhost:1313/blog/six-ux-transition-and-animation-gallery/</link>
+      <link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link>
       <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/six-ux-transition-and-animation-gallery/</guid>
+      <guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sixux.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2637&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt51bbb49a4f492_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://sixux.com/&#34;&gt;SIX UX&lt;/a&gt; is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. &lt;a href=&#34;http://sixux.com/&#34;&gt;Check it.&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 
@@ -85,10 +85,10 @@ wt51bbb49a4f492_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>Meaningful Transitions: A collection of transition patterns</title>
-      <link>http://localhost:1313/blog/meaningful-transitions-collection-transition-patterns/</link>
+      <link>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</link>
       <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/meaningful-transitions-collection-transition-patterns/</guid>
+      <guid>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.ui-transitions.com/#home&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2540&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ea6d7abcd45e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.ui-transitions.com/&#34;&gt;Meaningful Transitions&lt;/a&gt; is the thesis project of Johannes Tonollo, an interface design student at the FH Potsdam, Germany. Johannes wrote his Thesis on &amp;quot;Transitions in the User Interface,&amp;quot; in which he analyzed how motion in the user interface can be a helpful extension to static elements to enhance the user experience.&lt;/p&gt;&lt;/p&gt;
 
@@ -102,10 +102,10 @@ wt4ea6d7abcd45e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>Jane Austin &amp; Chris Neale on Sketch Prototypes</title>
-      <link>http://localhost:1313/blog/jane-austin-chris-neale-sketch-prototypes/</link>
+      <link>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jane-austin-chris-neale-sketch-prototypes/</guid>
+      <guid>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;335&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=6415203&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=6415203&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;335&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;The paper prototype is generally used as a design tool and even usability testing tool, but the folks at IG Index have figured out a creative way to use sketches and paper prototypes as a communication tool in place of wireframes for demonstrating interaction to development teams. Martin Belam posted video from UX London 09 of Jane Austin, Chris Neale and Frances Eida discussing this simple method of taking wireframe/storyboard sketches or paper prototypes, and creating stop-motion animation to demonstrate interface. Wonderful stuff. &lt;a href=&#34;http://www.currybet.net/cbet_blog/2009/09/uxlondon_redux_jane_austin_chris_neale.php&#34;&gt;More at Currybet&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -116,10 +116,10 @@ wt4ea6d7abcd45e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>Motionographer</title>
-      <link>http://localhost:1313/blog/motionographer/</link>
+      <link>http://konigi.com/blog/motionographer/</link>
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/motionographer/</guid>
+      <guid>http://konigi.com/blog/motionographer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://motionographer.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1415&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4931991aba001_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://motionographer.com/&#34;&gt;Motionographer&lt;/a&gt; is a source of inspiration for filmmakers, animators and designers.&lt;/p&gt;&lt;/p&gt;
 
@@ -129,10 +129,10 @@ wt4931991aba001_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>Using the Storyboard Paper for Stop Motion Animation</title>
-      <link>http://localhost:1313/blog/using-storyboard-paper-stop-motion-animation/</link>
+      <link>http://konigi.com/blog/using-storyboard-paper-stop-motion-animation/</link>
       <pubDate>Thu, 25 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/using-storyboard-paper-stop-motion-animation/</guid>
+      <guid>http://konigi.com/blog/using-storyboard-paper-stop-motion-animation/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-image&#34;&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2881764197/&#34; title=&#34;Using the Konigi Storyboard Graph Paper to plan stop motion animation by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3266/2881764197_7229420b4e_o.jpg&#34; alt=&#34;Using the Konigi Storyboard Graph Paper to plan stop motion animation&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;My son got his hands on the storyboard paper and started sketching a stop motion animation sequence in the cells. He just started his second session in a stop motion class. This is one of the things I used our printed graph paper for, but because that was printed in black/gray on our laser printer, I had a hard time knocking out the grid lines mixed in with his drawings. Now, since this is on the cyan grid, I can scan 6 cells on each page, cut/crop each box visually, then knock out the blues. Can&amp;rsquo;t wait to try this out myself for something.&lt;/p&gt;
 &lt;p&gt;You can find the &lt;a href=&#34;../tools/graph-paper.html&#34;&gt;free printable storyboard&lt;/a&gt; graph papers in the tools section. Notepads are &lt;a href=&#34;http://shop.konigi.com/product/storyboard-notepad?q=store/product/storyboard-notepad&#34;&gt;on sale here&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -141,10 +141,10 @@ wt4931991aba001_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;ht
     
     <item>
       <title>CGART: Video and Motion Graphics Showcase</title>
-      <link>http://localhost:1313/blog/cgart-video-and-motion-graphics-showcase/</link>
+      <link>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</link>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/cgart-video-and-motion-graphics-showcase/</guid>
+      <guid>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://cgart.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1302&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt484d67fa28ccd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://cgart.com/&#34;&gt;CGART&lt;/a&gt; is an excellent new showcase that curates motion work covering the following areas: Motion Design, Animation, CG Animation, Cinematography, Special Effects, Interesting Advertising, Music Videos, Making of Videos, Movie Trailers, Motion Experiments.&lt;/p&gt;&lt;/p&gt;
 
@@ -154,10 +154,10 @@ wt484d67fa28ccd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Get Out And Play</title>
-      <link>http://localhost:1313/blog/get-out-and-play/</link>
+      <link>http://konigi.com/blog/get-out-and-play/</link>
       <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/get-out-and-play/</guid>
+      <guid>http://konigi.com/blog/get-out-and-play/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3080/2489521621_a7c07f9a43_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The Nokia ngage &lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;Get Out and Play&lt;/a&gt; site features some fun stop motion animation, a sick Breakout game using people, and the game Snake played out as an animation of 1,000 people. This is brilliant. Don&#39;t miss it.&lt;/p&gt;
     

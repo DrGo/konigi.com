@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screen Capture on Konigi</title>
-    <link>http://localhost:1313/tags/screen-capture/</link>
+    <link>http://konigi.com/tags/screen-capture/</link>
     <description>Recent content in Screen Capture on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/screen-capture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/screen-capture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alfred/Hazel Workflow for Screen Capture</title>
-      <link>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</link>
+      <link>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</guid>
+      <guid>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</guid>
       <description>&lt;p&gt;If you take a lot of screenshots on a Mac like me, you probably have a good workflow for doing it using something like &lt;a href=&#34;http://realmacsoftware.com/ember&#34;&gt;LittleSnapper/Ember&lt;/a&gt;, &lt;a href=&#34;https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en&#34;&gt;Awesome Screenshot&lt;/a&gt; or &lt;a href=&#34;http://evernote.com/skitch/&#34;&gt;Skitch&lt;/a&gt;. The biggest problem I&#39;ve had is that after I take a screenshot, I often want to do something with it. I can do this by just getting &lt;a href=&#34;http://getcloudapp.com/&#34;&gt;Cloud&lt;/a&gt; to watch and upload files passively, but I&#39;ve always wanted to save to my own server after just issuing one command to capture the page. &lt;/p&gt;
 &lt;p&gt;I love Alfred. Launchers like Quicksilver and Alfred are what I think of as the best minimal UI apps that I use on the Mac. I finally got around to searching for a way to capture a full scrolling screen from it and do something with the output. &lt;/p&gt;
 &lt;p&gt;I found an &lt;a href=&#34;http://www.alfredforum.com/topic/2062-scrennshot-of-web-pages/&#34;&gt;excellent Alfred workflow&lt;/a&gt; by user moom on the Alfred Forum that uses a shell script to run &lt;a href=&#34;http://www.paulhammond.org/webkit2png/&#34;&gt;Webkit2Png&lt;/a&gt; in the background. It&#39;s awesome. I just copy the URL of the page I&#39;m on, summon Alfred with a few keystrokes, and then it gets captured, optimized, and uploaded to my server in the background. I made a video of the workflow showing &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;, &lt;a href=&#34;http://www.noodlesoft.com/hazel.php&#34;&gt;Hazel&lt;/a&gt;, &lt;a href=&#34;http://imageoptim.com/&#34;&gt;ImageOptim&lt;/a&gt;, and &lt;a href=&#34;http://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt; working together with lots of spit and chewing gum in case anyone else has this need. &lt;/p&gt;
@@ -33,10 +33,10 @@ xargs -I {} mv {} ${HOME}/Sites/media.konigi.com/snaps/2013/&lt;/code&gt;&lt;/p&
     
     <item>
       <title>Bounce: Screenshot annotation service</title>
-      <link>http://localhost:1313/tools/submissions/bounce-screenshot-annotation-service/</link>
+      <link>http://konigi.com/tools/submissions/bounce-screenshot-annotation-service/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/bounce-screenshot-annotation-service/</guid>
+      <guid>http://konigi.com/tools/submissions/bounce-screenshot-annotation-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.bounceapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2758&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230577a698ad_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.bounceapp.com/&#34;&gt;Bounce&lt;/a&gt; is a new screen capture service from Zurb that lets you invite other collaborators to annotate screenshots.&lt;/p&gt;&lt;/p&gt;
 
@@ -49,10 +49,10 @@ wt5230577a698ad_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Screenr Screencasting Service</title>
-      <link>http://localhost:1313/tools/submissions/screenr-screencasting-service/</link>
+      <link>http://konigi.com/tools/submissions/screenr-screencasting-service/</link>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/screenr-screencasting-service/</guid>
+      <guid>http://konigi.com/tools/submissions/screenr-screencasting-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2694&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fc4474a4aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;Screenr&lt;/a&gt; is a web-based screen capture tool that lets you record screen video and audio from your Mac or PC and posts a link to the video, hosted on Screenr.com, to your Twitter stream.&lt;/p&gt;&lt;/p&gt;
 
@@ -63,10 +63,10 @@ wt522fc4474a4aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Camtasia for Mac</title>
-      <link>http://localhost:1313/tools/submissions/camtasia-mac/</link>
+      <link>http://konigi.com/tools/submissions/camtasia-mac/</link>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/camtasia-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/camtasia-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2684&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, makers of Morae and Snagit, have released a &lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;Mac version of Camtasia&lt;/a&gt;, the screencast video recording software. The software allows you to capture the screen, audio and iSight input, and provides simple drag and drop editing including a lot of built-in transitions and effects. You can then easily export the HTML and SWF for embedding in a web page. &lt;/p&gt;
 &lt;p&gt;Looks like an easy to use alternative that might take the work out of producing screencasts. The video suggests that TechSmith have really thought about the primary demo and training use cases.&lt;/p&gt;&lt;/p&gt;
@@ -78,10 +78,10 @@ wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, ma
     
     <item>
       <title>Clixpy.com Click Path Tracking</title>
-      <link>http://localhost:1313/tools/submissions/clixpycom-click-path-tracking/</link>
+      <link>http://konigi.com/tools/submissions/clixpycom-click-path-tracking/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/clixpycom-click-path-tracking/</guid>
+      <guid>http://konigi.com/tools/submissions/clixpycom-click-path-tracking/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://clixpy.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2768&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52307896a41d5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Clixpy is a service that tracks everything your site’s users do, from mouse movement, clicks, and scrolling, to form inputs. The user sessions are as video for you to analyze. Installation requires pasting a few lines of JavaScript into your pages. Check out their excellent &lt;a href=&#34;http://clixpy.com/demo&#34;&gt;demo&lt;/a&gt; to see how it works.&lt;/p&gt;&lt;/p&gt;
 
@@ -92,10 +92,10 @@ wt52307896a41d5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Clixpy is a s
     
     <item>
       <title>userfly: Instant web-based usability testing service</title>
-      <link>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</link>
+      <link>http://konigi.com/tools/submissions/userfly-instant-web-based-usability-testing-service/</link>
       <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</guid>
+      <guid>http://konigi.com/tools/submissions/userfly-instant-web-based-usability-testing-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/2451370&#34;&gt;userfly.com&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user930239&#34;&gt;Chris Estreich&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://userfly.com/&#34;&gt;Userfly&lt;/a&gt; is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&amp;rsquo;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. &lt;/p&gt;
@@ -108,10 +108,10 @@ wt52307896a41d5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Clixpy is a s
     
     <item>
       <title>Layers App Creates Layered PSDs from Screen Captures</title>
-      <link>http://localhost:1313/tools/submissions/layers-app-creates-layered-psds-screen-captures/</link>
+      <link>http://konigi.com/tools/submissions/layers-app-creates-layered-psds-screen-captures/</link>
       <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/layers-app-creates-layered-psds-screen-captures/</guid>
+      <guid>http://konigi.com/tools/submissions/layers-app-creates-layered-psds-screen-captures/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://layersapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2748&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52303e0e9aa33_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Just when you thought there couldn&amp;rsquo;t be a way to improve the screencapture app space, &lt;a href=&#34;http://layersapp.com/&#34;&gt;Layers&lt;/a&gt; hits the net. Layers for the Mac, captures your displays as a Photoshop layered image. Press the capture hotkey or customize your capture in the inspector and you&amp;rsquo;ll obtain a full fledged PSD file with one layer per window, including menu and desktop icons, dock and menubar. Sweetness.&lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://twitter.com/davidkaneda/status/1137150372&#34;&gt;@davidkaneda&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -123,10 +123,10 @@ wt52303e0e9aa33_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Just when you
     
     <item>
       <title>6 Screenshot Utilities You Should Know About</title>
-      <link>http://localhost:1313/blog/6-screenshot-utilities-you-should-know-about/</link>
+      <link>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</link>
       <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/6-screenshot-utilities-you-should-know-about/</guid>
+      <guid>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</guid>
       <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2452008412/&#34; title=&#34;Screenshot Utilities You Should Know About by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2136/2452008412_20087047d9_b.jpg&#34; class=&#34;notebook-image&#34; alt=&#34;Screenshot Utilities You Should Know About&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I use different screen capture utilities depending on the type of screen I&amp;rsquo;m trying to grab. Some are great for a quick and dirty capture of a page I want to send someone. Others are good for annotating an interface I want to post to a web page. And still others are best for archival screen capture or for interfaces with video. Below are the 6 screenshot utilities that Mac users should know about. Don&amp;rsquo;t skip over the first one, because there&amp;rsquo;s a tip in there you might not be aware of.&lt;/p&gt;
 &lt;ol&gt;

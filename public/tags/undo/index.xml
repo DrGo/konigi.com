@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undo on Konigi</title>
-    <link>http://localhost:1313/tags/undo/</link>
+    <link>http://konigi.com/tags/undo/</link>
     <description>Recent content in Undo on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/undo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/undo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Netflix Undo</title>
-      <link>http://localhost:1313/interface/netflix-undo/</link>
+      <link>http://konigi.com/interface/netflix-undo/</link>
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/netflix-undo/</guid>
+      <guid>http://konigi.com/interface/netflix-undo/</guid>
       <description>&lt;p&gt;Netflix offers an undo function in their Queue that allows users to undo a remove action. Users click an X icon to remove a movie from their queue, and the row is grayed out, showing an undo text link replacing the remove icon. The row persists until the user moves to a different page, so several removed rows may be visible if the user does repeated removes in one session. Upon return visits to the queue, the removed movies will be gone.&lt;/p&gt;
 &lt;p&gt;Prior to adding this function, clicking the remove control would simply remove the list from your queue, so if the user made a mistake, they would have to navigate back to the removed movie to add it back. The undo allows users to recover from mis-clicks or if they change their mind about watching that movie they just axed. &lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Section of a movie Queue.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Section of a movie Queue.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over a movie row.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over a movie row.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. If the user clicks the X icon, the movie is removed, but the user may undo their action.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. If the user clicks the X icon, the movie is removed, but the user may undo their action.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -24,10 +24,10 @@
     
     <item>
       <title>Untitled Document Syndrome</title>
-      <link>http://localhost:1313/blog/untitled-document-syndrome/</link>
+      <link>http://konigi.com/blog/untitled-document-syndrome/</link>
       <pubDate>Mon, 23 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/untitled-document-syndrome/</guid>
+      <guid>http://konigi.com/blog/untitled-document-syndrome/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://daringfireball.net/2009/02/untitled_document_syndrome&#34;&gt;John Gruber laments&lt;/a&gt; the illogical, yet human, tendency to avoid saving new documents, which occasionally leads users to the loss of data when an &#34;Untitled Document&#34; is left in limbo and a crash leaves them scrambling to figure out what happened to it. The point is that users often can&#39;t be bothered with things like figuring out where to put this thing on a file system because we&#39;re too busy with the task at hand, e.g. writing the thing that we might not have a name or place for yet.&lt;/p&gt;
 &lt;p&gt;Good software would save users from their non-saving, human selves. Software needs to offer a way to protect us from our laziness (and I say that as someone who is very lazy about certain things) by providing systematic methods for frictionless data protection and recovery. We&#39;re talking about the realm of usability principles that Jef Raskin wrote about, e.g. providing undos rather than dialogs for destructive actions. &lt;/p&gt;
 &lt;p&gt;Gruber also talks about the &#34;i&#34; apps&#39; implicit handling of things like file system paths in iTunes and iPhoto, which take care of file organization for you, so you can just focus on things that makes sense to you, like albums and playlists, and let the system just do the file management for you in a logical manner. Gruber also writes of the autosave intelligence in apps like Stickies and BBEdit, which auto-save in the background unbeknownst to the user, and upon return from an abandoned session, data is back where she left it, in whatever state they left it in. &lt;/p&gt;

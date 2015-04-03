@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Government on Konigi</title>
-    <link>http://localhost:1313/tags/government/</link>
+    <link>http://konigi.com/tags/government/</link>
     <description>Recent content in Government on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/government/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/government/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Federal IT Dashboard</title>
-      <link>http://localhost:1313/blog/federal-it-dashboard/</link>
+      <link>http://konigi.com/blog/federal-it-dashboard/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/federal-it-dashboard/</guid>
+      <guid>http://konigi.com/blog/federal-it-dashboard/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://it.usaspending.gov/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1787&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a4bc77b3e89d_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a new dashboard that tracks the U.S. Government&amp;rsquo;s reported spending on technology.&lt;/p&gt;&lt;/p&gt;
 

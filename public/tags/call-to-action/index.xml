@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Call To Action on Konigi</title>
-    <link>http://localhost:1313/tags/call-to-action/</link>
+    <link>http://konigi.com/tags/call-to-action/</link>
     <description>Recent content in Call To Action on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/call-to-action/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/call-to-action/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mention Call To Action</title>
-      <link>http://localhost:1313/interface/mention-call-action/</link>
+      <link>http://konigi.com/interface/mention-call-action/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/mention-call-action/</guid>
+      <guid>http://konigi.com/interface/mention-call-action/</guid>
       <description>&lt;p&gt;Mention.com&#39;s Success Stories section  uses this great phrase to introduce the Proof in the drip pan at the bottom of the page.&lt;/p&gt;
 
 &lt;p&gt;&amp;quot;They also started with a free trial.&amp;quot; Short and persuasive copy that makes an otherwise common CTA more compelling.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>You should follow me on Twitter: Dustin Curtis experiments with call to action</title>
-      <link>http://localhost:1313/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</link>
+      <link>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</link>
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</guid>
+      <guid>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://dustincurtis.com/you_should_follow_me_on_twitter.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1827&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a5f3892ded25.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dustin Curtis did an interesting &lt;a href=&#34;http://dustincurtis.com/you_should_follow_me_on_twitter.html&#34;&gt;experiment with a short call to action&lt;/a&gt; at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &amp;ldquo;here&amp;rdquo; had a pretty significant impact. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &amp;ldquo;You&amp;rdquo; identifies the reader directly, &amp;ldquo;should&amp;rdquo; implies an obligation, and &amp;ldquo;follow me on twitter&amp;rdquo; is a direct command. Moving the link to a literal callout &amp;ldquo;here&amp;rdquo; provides a clear location for clicking. I tried other permutations that dulled the command, used the word &amp;ldquo;please&amp;rdquo; in place of &amp;ldquo;should&amp;rdquo; and made the whole sentence a link. None of them performed as well as the final sentence.&lt;/p&gt;
@@ -42,10 +42,10 @@ wt4a5f3892ded25.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dustin Curtis did an
     
     <item>
       <title>UI Testing Results for LessAccounting.com Call To Action</title>
-      <link>http://localhost:1313/blog/ui-testing-results-lessaccountingcom-call-action/</link>
+      <link>http://konigi.com/blog/ui-testing-results-lessaccountingcom-call-action/</link>
       <pubDate>Tue, 16 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ui-testing-results-lessaccountingcom-call-action/</guid>
+      <guid>http://konigi.com/blog/ui-testing-results-lessaccountingcom-call-action/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://b.lesseverything.com/2009/5/22/ui-testing-results-for-lessaccounting-com&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1752&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a37a0e2d4360.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Less Everything did a couple of A-B tests on the call to action buttons on the home page of their Less Accounting product. Their &lt;a href=&#34;http://b.lesseverything.com/2009/5/22/ui-testing-results-for-lessaccounting-com&#34;&gt;first test&lt;/a&gt; modified the design of 2 buttons (see tour, try), using 1 button instead for the &amp;ldquo;Try Less Accounting&amp;rdquo; link and a text link for &amp;ldquo;See Tour&amp;rdquo;. They noticed a small increase in conversion when they went to the single button, and then did a &lt;a href=&#34;http://b.lesseverything.com/&#34;&gt;second test&lt;/a&gt;, reversing the position of the button and link. &lt;/p&gt;
 &lt;p&gt;Minor tweaks like these create small increases in coversions, but if the number of users is large, this could mean a significant difference in revenue. It&amp;rsquo;s cool that they&amp;rsquo;re so transparent about the design tweaks they&amp;rsquo;re experimenting with.&lt;/p&gt;&lt;/p&gt;
@@ -56,10 +56,10 @@ wt4a37a0e2d4360.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Less Everything did 
     
     <item>
       <title>Call To Action Buttons</title>
-      <link>http://localhost:1313/blog/call-action-buttons/</link>
+      <link>http://konigi.com/blog/call-action-buttons/</link>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/call-action-buttons/</guid>
+      <guid>http://konigi.com/blog/call-action-buttons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-buttons/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1581&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49f8307fda7e2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Lee Munroe has collected a &lt;a href=&#34;http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-buttons/&#34;&gt;slew of examples&lt;/a&gt; of Signup and Download call to action buttons that exemplify good CTA button design. He has 4 criteria for designing a good call to action button, involving the appropriate use of color, language, size, and white space around the button.&lt;/p&gt;&lt;/p&gt;
 
@@ -69,10 +69,10 @@ wt49f8307fda7e2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Lee Munroe has colle
     
     <item>
       <title>10 Techniques for an Effective Call to Action</title>
-      <link>http://localhost:1313/blog/10-techniques-effective-call-action/</link>
+      <link>http://konigi.com/blog/10-techniques-effective-call-action/</link>
       <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/10-techniques-effective-call-action/</guid>
+      <guid>http://konigi.com/blog/10-techniques-effective-call-action/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://boagworld.com/design/10_techniques_for_an_effective/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/effective-call-to-action.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Boagworld looks at 10 ways to design an effective call to action.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Having an effective call to action is an essential part of any website. A call to action is not just limited to ecommerce sites. Every website should have an objective it wants users to complete whether it is filling in a contact form, signup for a newsletter or volunteering their time.&lt;/p&gt;
 &lt;p&gt;A call to action provides&amp;hellip;&lt;/p&gt;
@@ -88,10 +88,10 @@ Direction to your users
     
     <item>
       <title>Pano Logic Expanding Call to Action</title>
-      <link>http://localhost:1313/interface/pano-logic-expanding-call-action/</link>
+      <link>http://konigi.com/interface/pano-logic-expanding-call-action/</link>
       <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/pano-logic-expanding-call-action/</guid>
+      <guid>http://konigi.com/interface/pano-logic-expanding-call-action/</guid>
       <description>&lt;p&gt;Pano Logic sells a simple network PC. Their product site features a large graphic of the product, and 3 simple informational modules at the bottom to find out more about the product, read reviews and press, and watch a demo webinar. The modules expand when the user hovers over each box. There isn&#39;t much information added, except for a call to action that tells the user a little more about what they&#39;ll see if they click the link. &lt;/p&gt;
 &lt;p&gt;Very simple expand/collapse transition that can be used to highlight a call to action and display more below the surface.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Calls to action below the marquee, showing plus icons to expand.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panologic-expanding-box-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Calls to action below the marquee, showing plus icons to expand.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panologic-expanding-box-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. First box expanded, now shows minus icon, and call to action text with arrow.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panologic-expanding-box-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. First box expanded, now shows minus icon, and call to action text with arrow.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panologic-expanding-box-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Second box expanded.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panologic-expanding-box-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Second box expanded.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panologic-expanding-box-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        

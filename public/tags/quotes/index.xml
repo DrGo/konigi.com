@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quotes on Konigi</title>
-    <link>http://localhost:1313/tags/quotes/</link>
+    <link>http://konigi.com/tags/quotes/</link>
     <description>Recent content in Quotes on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Dec 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quotes</title>
-      <link>http://localhost:1313/wiki/quotes/</link>
+      <link>http://konigi.com/wiki/quotes/</link>
       <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/quotes/</guid>
+      <guid>http://konigi.com/wiki/quotes/</guid>
       <description>&lt;div class=&#34;book-body&#34;&gt;
 &lt;p&gt;These are some of the quotes I&#39;ve collected from artists and designers that have some relevance to doing business in web and software product design.&lt;/p&gt;
 
@@ -258,10 +258,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Wisdom from a dog</title>
-      <link>http://localhost:1313/blog/wisdom-dog/</link>
+      <link>http://konigi.com/blog/wisdom-dog/</link>
       <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wisdom-dog/</guid>
+      <guid>http://konigi.com/blog/wisdom-dog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://society6.com/MAKE141/Wisdom-from-a-dog&#34;&gt;&lt;img src=&#34;http://media.konigi.com/snaps/jakewisdom.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a good bit of advice for kids and adults alike from Jake the Dog. Adventure Time is my son&#39;s favorite show, and one of mine as well. I made the print for his birthday, and will put it on of our walls. I like having the reminder every time I feel discouraged when starting something new. &lt;/p&gt;
 &lt;p&gt;You can see the extended version &lt;a href=&#34;http://youtu.be/vrBWJLC22mE&#34;&gt;on YouTube&lt;/a&gt; and &lt;a href=&#34;http://society6.com/MAKE141/Wisdom-from-a-dog&#34;&gt;purchase a print at Society6&lt;/a&gt;.&lt;/p&gt;
@@ -271,10 +271,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>The tragedy of the design commons</title>
-      <link>http://localhost:1313/blog/tragedy-design-commons/</link>
+      <link>http://konigi.com/blog/tragedy-design-commons/</link>
       <pubDate>Mon, 27 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tragedy-design-commons/</guid>
+      <guid>http://konigi.com/blog/tragedy-design-commons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;dek&#34;&gt;&lt;p&gt;Designers prune. &lt;/p&gt;
 &lt;p&gt;Left to its own devices, the mob will augment, accessorize, spam, degrade and noisify whatever they have access to, until it loses beauty and function and becomes something else. &lt;/p&gt;
 &lt;p&gt;It seems democratic and non-elitist to set it and forget it and let the users take over. But the tools we use (Wikipedia) and the brands we covet (Nike or Ducati) resolutely refuse to become democracies.&lt;/p&gt;&lt;/div&gt;
@@ -285,10 +285,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Jack White on Constraints</title>
-      <link>http://localhost:1313/blog/jack-white-constraints/</link>
+      <link>http://konigi.com/blog/jack-white-constraints/</link>
       <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/jack-white-constraints/</guid>
+      <guid>http://konigi.com/blog/jack-white-constraints/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&lt;span class=&#34;t14&#34;&gt;Telling yourself, “Oh, you have all the time in the world, you have all the money in the world, you have all the colors in the palette you want, anything you want,” I mean, that just kills creativity.&lt;/span&gt;&lt;br /&gt;&amp;#8212;Jack White&lt;/p&gt;
 &lt;p&gt;I was going through the parts I had highlighted in my Kindle version of Austin Kleon&#39;s book, &lt;em&gt;&lt;a href=&#34;http://www.austinkleon.com/steal/&#34;&gt;Steal Like An Artist,&lt;/a&gt;&lt;/em&gt; and I keep thinking of how much I like this quote from musician Jack White, talking about using constraints to stay creative. I think about how much constraints and removal of the unnecessary makes a difference in helping flow in the tools I use as well. &lt;/p&gt;
 &lt;p&gt;The quote was actually taken from an interview of White that you can watch in the documentary &lt;em&gt;Under Great White Northern Lights&lt;/em&gt;. There&#39;s an extended except in the Makin&#39; Ads blog &lt;a href=&#34;http://makinads.blogspot.com/2010/04/jack-white-on-creativity.html&#34;&gt;here&lt;/a&gt;, or &lt;a href=&#34;http://youtu.be/fDl-if5Du70?t=1m26s&#34;&gt;watch a video clip on YouTube here&lt;/a&gt;. &lt;/p&gt;
@@ -298,10 +298,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Your app is a collection of tiny details</title>
-      <link>http://localhost:1313/blog/your-app-collection-tiny-details/</link>
+      <link>http://konigi.com/blog/your-app-collection-tiny-details/</link>
       <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/your-app-collection-tiny-details/</guid>
+      <guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&lt;span class=&#34;t14&#34;&gt;&#34;Getting the details right is the difference between something that delights, and something customers tolerate.&#34;&lt;/span&gt;&lt;br /&gt;
 &amp;#8212;Jeff Atwood&lt;/p&gt;
 &lt;p&gt;I didn&#39;t read &lt;a href=&#34;http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html&#34;&gt;Jeff Atwood&#39;s article about cat feeders&lt;/a&gt; right away, because it really is 90% about a cat product. It&#39;s also a terrific demonstration of what he&#39;s saying above. The first version of the product, a cat feeder, served a core need well enough for him to &lt;a href=&#34;http://en.wikipedia.org/wiki/Satisficing&#34;&gt;satisfice&lt;/a&gt; with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it. &lt;/p&gt;
@@ -321,10 +321,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Bruce Springsteen on Creativity</title>
-      <link>http://localhost:1313/blog/bruce-springsteen-creativity/</link>
+      <link>http://konigi.com/blog/bruce-springsteen-creativity/</link>
       <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bruce-springsteen-creativity/</guid>
+      <guid>http://konigi.com/blog/bruce-springsteen-creativity/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;dek&#34;&gt;I&#39;d like to talk about the one thing that&#39;s been consistent over the years—the genesis and power of creativity. ... It’s all about how you’re putting what you do together. The elements you’re using don’t matter. Purity of human expression and experience is not confined to guitars, to tubes, to turntables, to microchips. There’s no right way, no pure way of doing it—there’s just doing it.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;From Bruce Springsteen&#39;s inspiring &lt;a href=&#34;http://www.npr.org/2012/03/16/148778665/bruce-springsteens-sxsw-2012-keynote-speech&#34;&gt;2012 SXSW Keynote Speech&lt;/a&gt;.&lt;/p&gt;
@@ -335,10 +335,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Teddy on haters</title>
-      <link>http://localhost:1313/blog/teddy-on-haters/</link>
+      <link>http://konigi.com/blog/teddy-on-haters/</link>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/teddy-on-haters/</guid>
+      <guid>http://konigi.com/blog/teddy-on-haters/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot center&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/teddyhaters.gif&#34; class=&#34;center&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;&lt;span class=&#34;dek&#34;&gt;It&amp;rsquo;s the doers who do. &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve never read Theodore Roosevelt&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/Citizenship_in_a_Republic&#34;&gt;Citizenship in a Republic/Man in the Arena&lt;/a&gt;&amp;rdquo; speech before hearing it in this &lt;a href=&#34;http://blip.tv/business-of-software/business-of-software-2011-what-happened-the-short-version-5960533&#34;&gt;BoS2011&lt;/a&gt; recap video. &lt;/p&gt;
@@ -349,10 +349,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Design is the fundamental soul of a human-made creation</title>
-      <link>http://localhost:1313/blog/design-fundamental-soul-human-made-creation/</link>
+      <link>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-fundamental-soul-human-made-creation/</guid>
+      <guid>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/apple1.jpg&#34; alt=&#34;Apple I&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://adam-pritzker.com/post/11099896089/in-most-peoples-vocabularies-design-means&#34;&gt;Adam Pritzker&lt;/a&gt; deftly combined this image of an &lt;a href=&#34;http://en.wikipedia.org/wiki/Apple_I&#34;&gt;Apple I&lt;/a&gt; and this &lt;a href=&#34;http://money.cnn.com/magazines/fortune/fortune_archive/2000/01/24/272277/&#34;&gt;Steve Jobs quote on design&lt;/a&gt; from an interview in 2000 that appeared in Fortune.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.” - Steve Jobs&lt;/p&gt;&lt;/blockquote&gt;
@@ -364,10 +364,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Seth Godin on the Importance of Domain Knowledge</title>
-      <link>http://localhost:1313/blog/seth-godin-importance-domain-knowledge/</link>
+      <link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link>
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/seth-godin-importance-domain-knowledge/</guid>
+      <guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid>
       <description>&lt;p&gt;Seth Godin&#39;s blog often talks about where successful ideas come from, and in this post talks about &lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2011/08/bypassing-the-leap.html&#34;&gt;bypassing the need to make huge leaps in innovation&lt;/a&gt; by synthesizing what we know and have learned from history, using &lt;a href=&#34;http://www.appleinsider.com/articles/10/01/09/palm_ceo_former_apple_exec_says_hes_never_used_an_iphone.html&#34;&gt;Palm as the cautionary tale&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;blockquote&gt;It&#39;s not enough to be aware of the domain you&#39;re working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people. Once you can break the components down, you can put them back together into something brand new.&lt;/blockquote&gt;&lt;/p&gt;
@@ -382,10 +382,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Steve Jobs on Saying No</title>
-      <link>http://localhost:1313/blog/steve-jobs-saying-no/</link>
+      <link>http://konigi.com/blog/steve-jobs-saying-no/</link>
       <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/steve-jobs-saying-no/</guid>
+      <guid>http://konigi.com/blog/steve-jobs-saying-no/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;“People think focus means saying yes to the thing you’ve got to focus on.  But that’s not what it means at all.  It means saying no to the hundred other good ideas that there are. You have to pick carefully.  I’m actually as proud of the things we haven’t done as the things I have done.  Innovation is saying ‘no’ to 1,000 things.”&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Steve Jobs on product development, from &#34;&lt;a href=&#34;http://blogs.forbes.com/carminegallo/2011/05/16/steve-jobs-get-rid-of-the-crappy-stuff/&#34;&gt;Steve Jobs: Get Rid of the Crappy Stuff&lt;/a&gt;&#34; in Forbes.&lt;/p&gt;
 &lt;p&gt;Gallo exaggerates a little, but I like the point he tries to argue later in the article about focus and reduction. It takes courage to reduce and say no, and that is a big differentiator when it comes to Apple hardware and software. &lt;/p&gt;
@@ -401,10 +401,10 @@ Ignore unsolicited advice&lt;br /&gt;
     
     <item>
       <title>Why Invest in Sketching?</title>
-      <link>http://localhost:1313/blog/why-invest-sketching/</link>
+      <link>http://konigi.com/blog/why-invest-sketching/</link>
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/why-invest-sketching/</guid>
+      <guid>http://konigi.com/blog/why-invest-sketching/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Jumping in and immediately starting to build the product, even if it does get completed and ship, is almost guaranteed to produce a mediocre product in which there is little innovation or market differentiation. When you have only one kick at the can, the behaviour of the entire team and process is as predictable as it will be pedestrian.&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Bill Buxton in &lt;em&gt;Sketching the User Experience&lt;/em&gt;&lt;br /&gt;
 Buxton writes in this passage on the impact of iterative sketching on risk, exploration and innovation.&lt;/p&gt;
@@ -414,10 +414,10 @@ Buxton writes in this passage on the impact of iterative sketching on risk, expl
     
     <item>
       <title>The more you know, the less you need.</title>
-      <link>http://localhost:1313/blog/more-you-know-less-you-need/</link>
+      <link>http://konigi.com/blog/more-you-know-less-you-need/</link>
       <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/more-you-know-less-you-need/</guid>
+      <guid>http://konigi.com/blog/more-you-know-less-you-need/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau&#39;s advice: &#39;I say beware of all enterprises that require new clothes...&#39;&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Yvon Chouinard in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838&#34;&gt;Let My People Go Surfing&lt;/a&gt;&lt;/em&gt;.&lt;br /&gt;
 Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He was writing about product design in the quote above. &lt;/p&gt;
@@ -427,10 +427,10 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He 
     
     <item>
       <title>Ed Parker on Competition</title>
-      <link>http://localhost:1313/blog/ed-parker-competition/</link>
+      <link>http://konigi.com/blog/ed-parker-competition/</link>
       <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ed-parker-competition/</guid>
+      <guid>http://konigi.com/blog/ed-parker-competition/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;It is always better to improve and strengthen your own line or knowledge than to try and cut your opponent&#39;s line.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Ed Parker, Martial Arts Instructor and Author&lt;/p&gt;
     
@@ -439,10 +439,10 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He 
     
     <item>
       <title>Debussy on White Space</title>
-      <link>http://localhost:1313/blog/debussy-white-space/</link>
+      <link>http://konigi.com/blog/debussy-white-space/</link>
       <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/debussy-white-space/</guid>
+      <guid>http://konigi.com/blog/debussy-white-space/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;Music is the space between the notes.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey&lt;/p&gt;
     
@@ -451,10 +451,10 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He 
     
     <item>
       <title>Sensible Defaults</title>
-      <link>http://localhost:1313/blog/sensible-defaults/</link>
+      <link>http://konigi.com/blog/sensible-defaults/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sensible-defaults/</guid>
+      <guid>http://konigi.com/blog/sensible-defaults/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Patrick Rhone&lt;/p&gt;
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Research on Konigi</title>
-    <link>http://localhost:1313/tags/user-research/</link>
+    <link>http://konigi.com/tags/user-research/</link>
     <description>Recent content in User Research on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/user-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/user-research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How GitHub Uses &amp;amp;quot;Deprivation Testing&amp;amp;quot; To Hone Product Design</title>
-      <link>http://localhost:1313/blog/how-github-uses-deprivation-testing-hone-product-design/</link>
+      <link>http://konigi.com/blog/how-github-uses-deprivation-testing-hone-product-design/</link>
       <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-github-uses-deprivation-testing-hone-product-design/</guid>
+      <guid>http://konigi.com/blog/how-github-uses-deprivation-testing-hone-product-design/</guid>
       <description>&lt;p&gt;Fastco interviewed Chrissie Brodigan, design and UX researcher at GitHub to talk about &lt;a href=&#34;http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design&#34;&gt;how they&#39;re using deprivation to study people&#39;s reaction to removing elements from a product&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The gist of the technique is to work with a set of participants who develop a pattern of use around a feature or design characteristic and journal their experience. After some time, at a point when they&#39;ve had time to be accustomed to that thing, they take away or alter it, and observe through the journal what the users&#39; reactions are to its removal.&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>PowWow</title>
-      <link>http://localhost:1313/tools/submissions/powwow/</link>
+      <link>http://konigi.com/tools/submissions/powwow/</link>
       <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/powwow/</guid>
+      <guid>http://konigi.com/tools/submissions/powwow/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2661&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522f95bc25025_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;PowWow&lt;/a&gt; is a free simple service for scheduling user research using your Google Calendar. The fine folks at &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp (aka Viget)&lt;/a&gt; created this as a side project for handling scheduling of user interviews and testing, but could be used for any kind of event.&lt;/p&gt;&lt;/p&gt;
 
@@ -45,10 +45,10 @@ wt522f95bc25025_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Call Recorder for Skype</title>
-      <link>http://localhost:1313/tools/submissions/call-recorder-skype/</link>
+      <link>http://konigi.com/tools/submissions/call-recorder-skype/</link>
       <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/call-recorder-skype/</guid>
+      <guid>http://konigi.com/tools/submissions/call-recorder-skype/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2742&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsquo;s &lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;Call Recorder for Mac&lt;/a&gt; captures audio and video to save Skype calls as QuickTime movies. Useful for user interviews or screensharing sessions.&lt;/p&gt;&lt;/p&gt;
 
@@ -61,10 +61,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Noticeability Evaluation</title>
-      <link>http://localhost:1313/wiki/noticeability-evaluation/</link>
+      <link>http://konigi.com/wiki/noticeability-evaluation/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/wiki/noticeability-evaluation/</guid>
+      <guid>http://konigi.com/wiki/noticeability-evaluation/</guid>
       <description>&lt;p&gt;&lt;h2 id=&#34;toc0&#34;&gt;Definition&lt;/h2&gt;
 &lt;p&gt;A research technique for learning whether people notice key elements in your design.&lt;/p&gt;&lt;/p&gt;
 
@@ -99,10 +99,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>IPEVO Ziggi Review</title>
-      <link>http://localhost:1313/tools/submissions/ipevo-ziggi-review/</link>
+      <link>http://konigi.com/tools/submissions/ipevo-ziggi-review/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ipevo-ziggi-review/</guid>
+      <guid>http://konigi.com/tools/submissions/ipevo-ziggi-review/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/ipevoziggi1.jpg&#34; alt=&#34;Camera attached to computer&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;Have you ever done the dance of holding a sketch up to your computer&amp;rsquo;s webcam or taken pictures of them with your iPhone to email to yourself or to colleagues? I&amp;rsquo;ve done that sort of thing for all of the years that I&amp;rsquo;ve worked remotely on design and development teams, because scanners get tired real fast. &lt;/p&gt;
 &lt;p&gt;Frustrated with this process, I had largely given up, until a few months ago when I was looking for tools to share work on paper between students and teachers. I stumbled upon the $89 &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO_Ziggi_USB_Document_Camera&#34;&gt;IPEVO Ziggi USB Document Camera&lt;/a&gt; and have been evaluating it for a few months now as a tool for design collaboration. &lt;/p&gt;
@@ -127,10 +127,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
-      <link>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <link>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <guid>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/37421265&#34; width=&#34;572&#34; height=&#34;322&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mrtappy.com/&#34;&gt;Mr Tappy&lt;/a&gt; is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.&lt;/p&gt;
 &lt;p&gt;Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.&lt;/p&gt;
@@ -143,10 +143,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Reframer: Qualitative data analysis system</title>
-      <link>http://localhost:1313/tools/submissions/reframer-qualitative-data-analysis-system/</link>
+      <link>http://konigi.com/tools/submissions/reframer-qualitative-data-analysis-system/</link>
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/reframer-qualitative-data-analysis-system/</guid>
+      <guid>http://konigi.com/tools/submissions/reframer-qualitative-data-analysis-system/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/31922657?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; width=&#34;610&#34; height=&#34;343&#34; frameborder=&#34;0&#34; webkitAllowFullScreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://getreframer.com/&#34;&gt;Reframer&lt;/a&gt; is a collaborative web app for collecting and analyzing qualitative data. You start by capturing data into the app&amp;#8212;things like customer feedback, free text responses in surveys, emails, interviews, and usability test data. The system then uses the aggregated information and provides a view reframed with quantitative values based on a significance rating that team members apply. These values can also be used to prioritize issues to assess feasibility. The metadata additionally allows you to identify trends and themes, and show relationships in data based on correlated tags. &lt;/p&gt;
 &lt;p&gt;Looks like a fantastic way to get all of that data out of spreadsheets and into a living tool for both quick capture and simpler analysis. They offer tiered plans from free to $249. Paid plans come with 30 days free. &lt;a href=&#34;http://getreframer.com/&#34;&gt;More info here&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -158,10 +158,10 @@ wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsq
     
     <item>
       <title>Pear Note: Note taking utility for Mac</title>
-      <link>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</link>
+      <link>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2736&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note&lt;/a&gt; from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.&lt;/p&gt;&lt;/p&gt;
 
@@ -178,10 +178,10 @@ wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Cohdoo Highlight: Voice recording iPhone app</title>
-      <link>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
+      <link>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
+      <guid>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2677&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.&lt;/p&gt;&lt;/p&gt;
 
@@ -196,10 +196,10 @@ wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the c
     
     <item>
       <title>AddUse User research service</title>
-      <link>http://localhost:1313/tools/submissions/adduse-user-research-service/</link>
+      <link>http://konigi.com/tools/submissions/adduse-user-research-service/</link>
       <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/adduse-user-research-service/</guid>
+      <guid>http://konigi.com/tools/submissions/adduse-user-research-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2683&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;AddUse&lt;/a&gt; is a commercial user research service that allow you to run and analyze web surveys and allows usability test facilitators to manually capture and analyze the results of test sessions.&lt;/p&gt;&lt;/p&gt;
 
@@ -210,10 +210,10 @@ wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Interaction10: How to Design an Experience for Experience Designers</title>
-      <link>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</link>
+      <link>http://konigi.com/blog/interaction10-how-design-experience-experience-designers/</link>
       <pubDate>Fri, 26 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</guid>
+      <guid>http://konigi.com/blog/interaction10-how-design-experience-experience-designers/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2339&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bad3ae7b2390_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jennifer Bove writes for Fast Company about how she and Bill DeRouchey designed the conference experience in &amp;quot;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;Interaction10: How to Design an Experience for Experience Designers&lt;/a&gt;.&amp;quot; It&amp;rsquo; a great behind the scenes look at how they observed the event the year prior, and thought about every aspect of the attendee experience and designed the IXD10 event to create a service that caters to what&amp;rsquo;s important to the conference-goer at every point. I&amp;rsquo;m sad I missed it. Sounds different from most conferences I&amp;rsquo;ve been to, for sure.&lt;/p&gt;&lt;/p&gt;
 
@@ -223,10 +223,10 @@ wt4bad3ae7b2390_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jennifer Bove 
     
     <item>
       <title>Just add an egg: Usability, User Experience and Dramaturgy</title>
-      <link>http://localhost:1313/blog/just-add-egg-usability-user-experience-and-dramaturgy/</link>
+      <link>http://konigi.com/blog/just-add-egg-usability-user-experience-and-dramaturgy/</link>
       <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/just-add-egg-usability-user-experience-and-dramaturgy/</guid>
+      <guid>http://konigi.com/blog/just-add-egg-usability-user-experience-and-dramaturgy/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.90percentofeverything.com/2009/10/20/just-add-an-egg-usability-user-experience-and-dramaturgy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1916&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4addf12b507b3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull quotes a passage from Susan Marks&amp;rsquo; &lt;em&gt;Finding Betty Crocker&lt;/em&gt; to tell the story of how the cake mix maker used a clever bit of imagination about the process of using their product to give customers the feeling of playing a desirable role&amp;ndash;that of home-maker and cook. They did this by simply requiring that real eggs be used in making cakes, rather than incorporating powered egg, and marketed this as a benefit. &lt;/p&gt;
 &lt;p&gt;Brignull sums up the use of psychology in the creation of this story and sense of role as a clever manipulation of the user experience.&lt;/p&gt;
@@ -239,10 +239,10 @@ wt4addf12b507b3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull quote
     
     <item>
       <title>Should Design Be Held Back by a Tyranny of Data</title>
-      <link>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</link>
+      <link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link>
       <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</guid>
+      <guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1599&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a08334b160c4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The NYTimes &lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html?_r=2&amp;amp;adxnnl=1&amp;amp;adxnnlx=1242040513-Kke1lvsicTbH8SYjNFYe3w\&#34;&gt;interviewed Doug Bowman&lt;/a&gt; to talk about his departure from Google, which Bowman wrote about &lt;a href=&#34;http://stopdesign.com/archive/2009/03/20/goodbye-google.html&#34;&gt;on his blog&lt;/a&gt; in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:&lt;/p&gt;
 &lt;p&gt;Bowman on Google:&lt;/p&gt;
@@ -260,10 +260,10 @@ wt4a08334b160c4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The NYTimes &lt;a hr
     
     <item>
       <title>User Research for Personas and Other Audience Models</title>
-      <link>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</link>
+      <link>http://konigi.com/blog/user-research-personas-and-other-audience-models/</link>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</guid>
+      <guid>http://konigi.com/blog/user-research-personas-and-other-audience-models/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1593&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a03272610c42.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In UX Matters, Steve Baty describes the &lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;user research methodologies&lt;/a&gt; we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.&lt;/p&gt;&lt;/p&gt;
 
@@ -273,10 +273,10 @@ wt4a03272610c42.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In UX Matters, Steve
     
     <item>
       <title>STC Usability Toolkit</title>
-      <link>http://localhost:1313/tools/submissions/stc-usability-toolkit/</link>
+      <link>http://konigi.com/tools/submissions/stc-usability-toolkit/</link>
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/stc-usability-toolkit/</guid>
+      <guid>http://konigi.com/tools/submissions/stc-usability-toolkit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2830&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;Usability Toolkit&lt;/a&gt; is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. &lt;/p&gt;&lt;/p&gt;
 

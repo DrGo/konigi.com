@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applications on Konigi</title>
-    <link>http://localhost:1313/tags/applications/</link>
+    <link>http://konigi.com/tags/applications/</link>
     <description>Recent content in Applications on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/applications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Appopedia, Business App Reviews</title>
-      <link>http://localhost:1313/blog/appopedia-business-app-reviews/</link>
+      <link>http://konigi.com/blog/appopedia-business-app-reviews/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/appopedia-business-app-reviews/</guid>
+      <guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.theappgap.com/reviews&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1416&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases the &lt;a href=&#34;http://www.theappgap.com/reviews&#34;&gt;Appopedia&lt;/a&gt;, a directory and review site for &amp;ldquo;2.0 apps&amp;rdquo; for work.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt49340f29af622.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The AppGap releases 
     
     <item>
       <title>Year&#39;s 10 Best Application UIs</title>
-      <link>http://localhost:1313/blog/years-10-best-application-uis/</link>
+      <link>http://konigi.com/blog/years-10-best-application-uis/</link>
       <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/years-10-best-application-uis/</guid>
+      <guid>http://konigi.com/blog/years-10-best-application-uis/</guid>
       <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;Jakob Nielsen reveals the winners of a competition to identify the &lt;a href=&#34;http://www.useit.com/alertbox/application-design.html&#34;&gt;10 best-designed application user interfaces&lt;/a&gt; for 2008.&lt;/p&gt;
 &lt;p&gt;The winners:&lt;/p&gt;
 &lt;ul&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color on Konigi</title>
-    <link>http://localhost:1313/tags/color/</link>
+    <link>http://konigi.com/tags/color/</link>
     <description>Recent content in Color on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 May 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/color/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Color Scheme Designer 3</title>
-      <link>http://localhost:1313/tools/submissions/color-scheme-designer-3/</link>
+      <link>http://konigi.com/tools/submissions/color-scheme-designer-3/</link>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/color-scheme-designer-3/</guid>
+      <guid>http://konigi.com/tools/submissions/color-scheme-designer-3/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://colorschemedesigner.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2678&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fae33d4b7d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Petr Stanicek&amp;rsquo;s &lt;a href=&#34;http://colorschemedesigner.com/&#34;&gt;Color Scheme Designer&lt;/a&gt; is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt522fae33d4b7d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Petr Stanicek
     
     <item>
       <title>CSS Prism: CSS color inspector</title>
-      <link>http://localhost:1313/tools/submissions/css-prism-css-color-inspector/</link>
+      <link>http://konigi.com/tools/submissions/css-prism-css-color-inspector/</link>
       <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/css-prism-css-color-inspector/</guid>
+      <guid>http://konigi.com/tools/submissions/css-prism-css-color-inspector/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cssprism.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2670&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fa6d9d52aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://cssprism.com/&#34;&gt;CSS Prism&lt;/a&gt; is a tool created by Ryan Berg to inspect the colors used in a CSS file.&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt522fa6d9d52aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Pictaculous Color Palette Generator</title>
-      <link>http://localhost:1313/tools/submissions/pictaculous-color-palette-generator/</link>
+      <link>http://konigi.com/tools/submissions/pictaculous-color-palette-generator/</link>
       <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pictaculous-color-palette-generator/</guid>
+      <guid>http://konigi.com/tools/submissions/pictaculous-color-palette-generator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://pictaculous.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2686&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb3e4cfcdd_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Pictaculous is a color service provided by MailChimp that takes an image you upload, samples the colors, and then provides a palette from the color samples, color palette suggestions from Kuler and Colour Lovers, and a downloadable Adobe color swatch. Works on the iPhone as well by emailing photos to the service.&lt;/p&gt;&lt;/p&gt;
 
@@ -53,10 +53,10 @@ wt522fb3e4cfcdd_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Pictaculous i
     
     <item>
       <title>Check My Colours: Analyse the color contrast of your web pages</title>
-      <link>http://localhost:1313/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</link>
+      <link>http://konigi.com/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</guid>
+      <guid>http://konigi.com/tools/submissions/check-my-colours-analyse-color-contrast-your-web-pages/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.checkmycolours.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2728&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ff35169d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CheckMyColours is a tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits. All the tests are based on the algorithms suggested by the World Wide Web Consortium (W3C).&lt;/p&gt;
 &lt;p&gt;(Via &lt;a href=&#34;http://swiss-miss.com/&#34;&gt;SwissMiss&lt;/a&gt;)&lt;/p&gt;&lt;/p&gt;
@@ -68,10 +68,10 @@ wt522ff35169d5d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CheckMyColour
     
     <item>
       <title>Colors and the UI</title>
-      <link>http://localhost:1313/blog/colors-and-ui/</link>
+      <link>http://konigi.com/blog/colors-and-ui/</link>
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/colors-and-ui/</guid>
+      <guid>http://konigi.com/blog/colors-and-ui/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.infoq.com/articles/Colors-UI&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1411&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komischke highlights some &lt;a href=&#34;http://www.infoq.com/articles/Colors-UI&#34;&gt;aspects of colors&lt;/a&gt; and color perception together with recommendations for UI design.&lt;/p&gt;&lt;/p&gt;
 
@@ -81,10 +81,10 @@ wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komi
     
     <item>
       <title>A Guide to Choosing Colors for Your Brand</title>
-      <link>http://localhost:1313/blog/guide-choosing-colors-your-brand/</link>
+      <link>http://konigi.com/blog/guide-choosing-colors-your-brand/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/guide-choosing-colors-your-brand/</guid>
+      <guid>http://konigi.com/blog/guide-choosing-colors-your-brand/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/up-color-brand.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usability Post combines the &lt;a href=&#34;http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/&#34;&gt;color values from Cymbolism with popular brands&lt;/a&gt; to demonstrate the association of color with meaning.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/&#34;&gt;http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/&lt;/a&gt;&lt;/p&gt;
@@ -93,10 +93,10 @@ wt492d6c2a2aee7.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On InfoQ Tobias Komi
     
     <item>
       <title>Cymbolism, Words &amp; Colors</title>
-      <link>http://localhost:1313/blog/cymbolism-words-colors/</link>
+      <link>http://konigi.com/blog/cymbolism-words-colors/</link>
       <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/cymbolism-words-colors/</guid>
+      <guid>http://konigi.com/blog/cymbolism-words-colors/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.cymbolism.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1346&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt489b69fa1d87b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;&lt;a href=&#34;http://www.cymbolism.com/&#34;&gt;Cymbolism&lt;/a&gt; is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
 
@@ -106,10 +106,10 @@ wt489b69fa1d87b_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;ldquo;&lt;a h
     
     <item>
       <title>Crowdsourced Color Explorer</title>
-      <link>http://localhost:1313/blog/crowdsourced-color-explorer/</link>
+      <link>http://konigi.com/blog/crowdsourced-color-explorer/</link>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/crowdsourced-color-explorer/</guid>
+      <guid>http://konigi.com/blog/crowdsourced-color-explorer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://assets.doloreslabs.com/jobs/colors/explorer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1300&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48493d28676b4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I have to admit, that &lt;a href=&#34;http://assets.doloreslabs.com/jobs/colors/explorer/&#34;&gt;this crowdsourced color explorer&lt;/a&gt; is one of the coolest ideas I&amp;rsquo;ve seen in, oh, the last few weeks. &lt;/p&gt;
 &lt;p&gt;On the Dolores blog, Brendan &lt;a href=&#34;http://blog.doloreslabs.com/2008/03/where-does-blue-end-and-red-begin/&#34;&gt;explains&lt;/a&gt; how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the &lt;a href=&#34;http://www.icsi.berkeley.edu/wcs/&#34;&gt;World Color Survey&lt;/a&gt;. &lt;/p&gt;
@@ -121,10 +121,10 @@ wt48493d28676b4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I have to admit, tha
     
     <item>
       <title>Color Deficit Simulators</title>
-      <link>http://localhost:1313/tools/submissions/color-deficit-simulators/</link>
+      <link>http://konigi.com/tools/submissions/color-deficit-simulators/</link>
       <pubDate>Sun, 18 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/color-deficit-simulators/</guid>
+      <guid>http://konigi.com/tools/submissions/color-deficit-simulators/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://michelf.com/projects/sim-daltonism/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2363/2504760137_46933438f5_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;There are several applications and web services that help you determine if the colors used in your designs will be accessible to users that cannot view all colors. My personal favorite is the Sim Daltonism app for the Mac (pictured above). &lt;/p&gt;
 &lt;ul&gt;
@@ -141,10 +141,10 @@ wt48493d28676b4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I have to admit, tha
     
     <item>
       <title>wear palettes</title>
-      <link>http://localhost:1313/blog/wear-palettes/</link>
+      <link>http://konigi.com/blog/wear-palettes/</link>
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wear-palettes/</guid>
+      <guid>http://konigi.com/blog/wear-palettes/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wearpalettes.blogspot.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1243&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48283fa2c9b31.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://wearpalettes.blogspot.com/&#34;&gt;wear palettes&lt;/a&gt; is a color blog that creates color palettes from photos posted to the Sartorialist, a fashion photography blog that posts pictures of clothing, mainly seen on the streets of NYC.&lt;/p&gt;&lt;/p&gt;
 
@@ -154,10 +154,10 @@ wt48283fa2c9b31.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Mac OS Hex Color Picker</title>
-      <link>http://localhost:1313/tools/submissions/mac-os-hex-color-picker/</link>
+      <link>http://konigi.com/tools/submissions/mac-os-hex-color-picker/</link>
       <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mac-os-hex-color-picker/</guid>
+      <guid>http://konigi.com/tools/submissions/mac-os-hex-color-picker/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://wafflesoftware.net/hexpicker/&#34; title=&#34;Hex Color Picker by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3047/2421400845_3ae345125a_o.png&#34; width=&#34;640&#34; height=&#34;279&#34; alt=&#34;Hex Color Picker&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The free &lt;a href=&#34;http://wafflesoftware.net/hexpicker/&#34;&gt;Hex Color Picker&lt;/a&gt; from Waffle Software lets you get and edit hexadecimal HTML color codes in the standard Mac color panel. Requires Mac OS X Tiger.&lt;/p&gt;
   
@@ -169,10 +169,10 @@ wt48283fa2c9b31.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Mondrianum, A Kuler Color Plugin for the Mac</title>
-      <link>http://localhost:1313/tools/submissions/mondrianum-kuler-color-plugin-mac/</link>
+      <link>http://konigi.com/tools/submissions/mondrianum-kuler-color-plugin-mac/</link>
       <pubDate>Mon, 07 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mondrianum-kuler-color-plugin-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/mondrianum-kuler-color-plugin-mac/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2395992300/&#34; title=&#34;Lithoglyph » Mondrianum by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3020/2395992300_f52544078a_o.png&#34; width=&#34;271&#34; height=&#34;627&#34; alt=&#34;Lithoglyph » Mondrianum&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lithoglyph’s &lt;a href=&#34;http://www.lithoglyph.com/mondrianum&#34;&gt;Mondrianum&lt;/a&gt; is a plug-in that enables Mac applications use color palettes created by the kuler community. Mondrianum acts like a built-in, system-wide color picker, available in any application that supports this feature, including iWork, iLife, OmniGraffle Photoshop, Illustrator, Coda.&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Thanks to &lt;a href=&#34;http://doctype.cx/&#34;&gt;Andrew&lt;/a&gt; for the tip!&lt;/small&gt;&lt;/p&gt;

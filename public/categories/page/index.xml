@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page on Konigi</title>
-    <link>http://localhost:1313/categories/page/</link>
+    <link>http://konigi.com/categories/page/</link>
     <description>Recent content in Page on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/categories/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Studio Breaks</title>
-      <link>http://localhost:1313/studio-breaks/</link>
+      <link>http://konigi.com/studio-breaks/</link>
       <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/studio-breaks/</guid>
+      <guid>http://konigi.com/studio-breaks/</guid>
       <description>&lt;ul id=&#34;filter&#34; class=&#34;inline mt0&#34;&gt;
   &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Featured&lt;/a&gt;&lt;/li&gt;
@@ -132,10 +132,10 @@
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://konigi.com/contact/</link>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://konigi.com/contact/</guid>
       <description>&lt;p class=&#34;intro tcenter&#34;&gt;Want to get in touch? Our unicorn couriers are ready to deliver your message.&lt;br /&gt;
 &lt;a href=&#34;mailto:hi@konigi.com&#34;&gt;Contact me by email&lt;/a&gt; or send a message via Twitter to &lt;a href=&#34;https://twitter.com/#!/konigi&#34;&gt;@konigi&lt;/a&gt;.&lt;/p&gt;
 
@@ -151,10 +151,10 @@
     
     <item>
       <title>404 Error</title>
-      <link>http://localhost:1313/error/</link>
+      <link>http://konigi.com/error/</link>
       <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/error/</guid>
+      <guid>http://konigi.com/error/</guid>
       <description>&lt;p&gt;&lt;article class=&#34;entry page 404 error&#34;&gt;
   &lt;div class=&#34;center marbot2 padbot2 clearfix&#34;&gt;
   &lt;map name=&#34;GraffleExport&#34;&gt;
@@ -195,10 +195,10 @@
     
     <item>
       <title>About This Site</title>
-      <link>http://localhost:1313/about-site/</link>
+      <link>http://konigi.com/about-site/</link>
       <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about-site/</guid>
+      <guid>http://konigi.com/about-site/</guid>
       <description>&lt;div class=&#34;column span-18&#34;&gt;
 &lt;p class=&#34;dek&#34;&gt;Konigi is about shared knowledge and influence.&lt;/p&gt;
 &lt;p&gt;The idea of researching how others have designed the look and feel of web sites and crafted their user interfaces is a practice many of us are engaged in continually. We may monitor innovative designers and the sites of influence that have paved the way for the practices we engage in as user experience and visual designers. In a way, it allows us to remain competitive to know what others are up to, but that awareness alone can be a double-edged sword.&lt;/p&gt;
@@ -248,10 +248,10 @@
     
     <item>
       <title>Respect</title>
-      <link>http://localhost:1313/respect/</link>
+      <link>http://konigi.com/respect/</link>
       <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/respect/</guid>
+      <guid>http://konigi.com/respect/</guid>
       <description>&lt;p&gt;My roots are in IXD, IA, and visual art. These are some of the people I read and follow who inspire me.&lt;/p&gt;
 
 &lt;div class=&#34;row&#34;&gt;

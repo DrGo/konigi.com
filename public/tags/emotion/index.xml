@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emotion on Konigi</title>
-    <link>http://localhost:1313/tags/emotion/</link>
+    <link>http://konigi.com/tags/emotion/</link>
     <description>Recent content in Emotion on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Playfulness, Usability, &amp; Context: The Three Pillars of a Delightful User Experience</title>
-      <link>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</link>
+      <link>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
+      <guid>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1896&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around. The delight that playfulness contributes to an experience depends on the context surrounding that experience. &lt;/p&gt;
@@ -30,10 +30,10 @@ wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an 
     
     <item>
       <title>Kicker Studio&#39;s Jennifer Bove on how to design enjoyment</title>
-      <link>http://localhost:1313/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</link>
+      <link>http://konigi.com/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</link>
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</guid>
+      <guid>http://konigi.com/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</guid>
       <description>&lt;p&gt;Jennifer Bove, principal at Kicker Studio, writes about the &lt;a href=&#34;http://creativity-online.com/?action=blog:article&amp;amp;newsId=136614&amp;amp;sectionName=on_design&#34;&gt;ways interaction designers can make design more about people&lt;/a&gt; and less about technology--designing behaviors that are defined from the point of view of humans, and designed to elicit emotion, make products and services more enjoyable and easier to use. Bove writes about the subtle things that can reference human connection, whether it is the language presented in system messages, the logic behind system behaviors that reflects human thought and desire, or subtle cues and movement that feels organic &lt;/p&gt;
 &lt;p&gt;This is an excellent read that picks up the thread in Don Norman&#39;s &lt;em&gt;Emotional Design&lt;/em&gt;, and Dave Malouf&#39;s recent writing about &lt;a href=&#34;move-beyond-function-towards-connection.html&#34;&gt;moving beyond function towards enjoyment&lt;/a&gt;.&lt;/p&gt;
     
@@ -44,10 +44,10 @@ wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an 
     
     <item>
       <title>Move beyond function towards connection</title>
-      <link>http://localhost:1313/blog/move-beyond-function-towards-connection/</link>
+      <link>http://konigi.com/blog/move-beyond-function-towards-connection/</link>
       <pubDate>Wed, 22 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/move-beyond-function-towards-connection/</guid>
+      <guid>http://konigi.com/blog/move-beyond-function-towards-connection/</guid>
       <description>&lt;p&gt;David Malouf believes that &#34;most successful products create a sense of connectedness between the consumer and the designer and that this connection occurs when designers balance the pull towards the rational, functional, &amp;amp; expedient with the natural &amp;amp; emotional.&#34;&lt;/p&gt;
 &lt;p&gt;In his &lt;a href=&#34;http://johnnyholland.org/magazine/2009/04/function-to-connection/&#34;&gt;article on Johnny Holland&lt;/a&gt;, David looks more deeply at what it means for an end-user to be connected to a product. He first looks at how art creates connection with humanity. It is the type of soulful connection that we experience in master works of art that either reach universal touch points, or resonate with us at a level that transcends pure aesthetic appreciation. David considers what it might mean to connect the user experience with the user on that kind of level. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;[S]oul comes through a feeling of connectedness. The ... flick of the iPhone is more than just a great metaphor: it is a calling card. It is that random sign that is completely analog in its interpretation. No machine could have ever conceived that. Apple through almost all of their products have become expert at adding these “human” touches in their designs.&lt;/p&gt;

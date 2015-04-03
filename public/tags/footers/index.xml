@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Footers on Konigi</title>
-    <link>http://localhost:1313/tags/footers/</link>
+    <link>http://konigi.com/tags/footers/</link>
     <description>Recent content in Footers on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/footers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/footers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WebMynd Header and Footer</title>
-      <link>http://localhost:1313/interface/webmynd-header-and-footer/</link>
+      <link>http://konigi.com/interface/webmynd-header-and-footer/</link>
       <pubDate>Tue, 27 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/webmynd-header-and-footer/</guid>
+      <guid>http://konigi.com/interface/webmynd-header-and-footer/</guid>
       <description>&lt;p&gt;The Webmynd site features some clever scrolling behaviors, slowly spinning the &#34;easier, beautiful...&#34; text and fading out the header and footer as you reach the edges of the page.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/webmynd-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/webmynd-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/gshQgarQOgA.m4v&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;441&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://webmynd.com/html/&#34;&gt;http://webmynd.com/html/&lt;/a&gt;&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Modern Sitemap and Footer</title>
-      <link>http://localhost:1313/blog/modern-sitemap-and-footer/</link>
+      <link>http://konigi.com/blog/modern-sitemap-and-footer/</link>
       <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/modern-sitemap-and-footer/</guid>
+      <guid>http://konigi.com/blog/modern-sitemap-and-footer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.webdesignerwall.com/trends/modern-sitemap-and-footer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1546&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49c7d01da248f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Web Designer Wall collects screenshots from 20 sites with footer sitemaps.&lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://twitter.com/dreamtime/statuses/1376862566&#34;&gt;@dreamtime&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;

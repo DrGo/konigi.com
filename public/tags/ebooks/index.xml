@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebooks on Konigi</title>
-    <link>http://localhost:1313/tags/ebooks/</link>
+    <link>http://konigi.com/tags/ebooks/</link>
     <description>Recent content in Ebooks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Dec 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/ebooks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Issuu Pagination</title>
-      <link>http://localhost:1313/interface/issuu-pagination/</link>
+      <link>http://konigi.com/interface/issuu-pagination/</link>
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/issuu-pagination/</guid>
+      <guid>http://konigi.com/interface/issuu-pagination/</guid>
       <description>&lt;p&gt;Issuu is an online self-publishing service that allows users to create e-magazines and books that are displayed in their slick Flash reader. The service also provides social features around the content. &lt;/p&gt;
 &lt;p&gt;One of the nicest things about the reader is the usable pagination. The reader features the typical next/previous and jump to page features you&#39;d find in an ebook or PDF reader. They also provide some features that are similar to the browsing experience with Preview, the Dock, and QuickLook in the Mac, utilizing miniature thumbnails of pages to scroll through pages.&lt;/p&gt;
 &lt;p&gt;This is perhaps the best ebook-type reader I&#39;ve seen on the web. I don&#39;t know if they every utilized that behavior where a hovered page would show a turned down corner to indicate that you could &#34;pull&#34; the page corner to turn it. I remember seeing that behavior here and there on some flash sites that had multi-page magazines. This pagination is much easier and flexible than most, and every possible browsing and reading use case seems to have been thought of that I can imagine.&lt;/p&gt;

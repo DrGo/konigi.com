@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theory on Konigi</title>
-    <link>http://localhost:1313/tags/theory/</link>
+    <link>http://konigi.com/tags/theory/</link>
     <description>Recent content in Theory on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/theory/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing from the Inside Out</title>
-      <link>http://localhost:1313/blog/designing-inside-out/</link>
+      <link>http://konigi.com/blog/designing-inside-out/</link>
       <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-inside-out/</guid>
+      <guid>http://konigi.com/blog/designing-inside-out/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://interactions.acm.org/content/?p=1101&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1293&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4845c68eaefef.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Laura Richardson writes in &lt;a href=&#34;http://interactions.acm.org/content/?p=1101&#34;&gt;interactions magazine, May/June 2008&lt;/a&gt; (subscription required for full text) about a philosophy of industrial design whose goal is to &amp;ldquo;get to the heart of the matter&amp;#8212;meaningful interactions at the core of great product design.&amp;rdquo; In a sense, I can boil this down to needs. People have needs, explicit and unexpressed, that have to be described in relation to your product. The successful products are those where the flow between need and fulfillment are fluid and natural.&lt;/p&gt;
 &lt;p&gt;This design philosophy is based on the idea that the experience with the product necessarily connects the user&amp;rsquo;s desire or impetus for use with the manifestation and interaction with the product. Designing towards these goals is not simply a matter of form following function, but, more importantly, relating to desire and emotion. &amp;ldquo;Form &amp;hellip; is designed to interact, reflect, and engage with the interior as well as the external audience.&amp;rdquo; &lt;/p&gt;

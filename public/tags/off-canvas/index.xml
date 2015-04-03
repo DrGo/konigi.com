@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Off Canvas on Konigi</title>
-    <link>http://localhost:1313/tags/off-canvas/</link>
+    <link>http://konigi.com/tags/off-canvas/</link>
     <description>Recent content in Off Canvas on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/off-canvas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/off-canvas/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cotton Bureau Off-Canvas Checkout</title>
-      <link>http://localhost:1313/interface/cotton-bureau-canvas-checkout/</link>
+      <link>http://konigi.com/interface/cotton-bureau-canvas-checkout/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/cotton-bureau-canvas-checkout/</guid>
+      <guid>http://konigi.com/interface/cotton-bureau-canvas-checkout/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://cottonbureau.com/&#34;&gt;Cotton Bureau&lt;/a&gt; uses the off-canvas pattern to slide steps of the checkout flow into the screen from the right, as the product page and previous steps slide off screen to the left.&lt;/p&gt;
 
 &lt;p&gt;I like how this implies the forward movement through the checkout process a bit better than the cart workflows that use vertically arranged collapsing panels.&lt;/p&gt;

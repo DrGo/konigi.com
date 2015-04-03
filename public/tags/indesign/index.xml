@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indesign on Konigi</title>
-    <link>http://localhost:1313/tags/indesign/</link>
+    <link>http://konigi.com/tags/indesign/</link>
     <description>Recent content in Indesign on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/indesign/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/indesign/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>EightShapes Unify: Wireframes Preview</title>
-      <link>http://localhost:1313/blog/eightshapes-unify-wireframes-preview/</link>
+      <link>http://konigi.com/blog/eightshapes-unify-wireframes-preview/</link>
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/eightshapes-unify-wireframes-preview/</guid>
+      <guid>http://konigi.com/blog/eightshapes-unify-wireframes-preview/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://unify.eightshapes.com/wireframes/wireframes-preview/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1620&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a268bbcd879d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;EightShapes demonstrates the Adobe InDesign system for wireframing within their Unify Framework.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt4a268bbcd879d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;EightShapes demonstr
     
     <item>
       <title>Adobe Launches CS4 Suite of Applications</title>
-      <link>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</link>
+      <link>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</link>
       <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</guid>
+      <guid>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/news.ars/post/20080923-adobe-launches-cs4-suite-of-applications.html&#34;&gt;Ars rounds up the new features&lt;/a&gt; in the forthcoming release of the Adobe CS4 suite to be released sometime next month. I think I&#39;ll have to upgrade for the multipage docs in Illustrator alone.&lt;/p&gt;
 &lt;p&gt;Photoshop CS4&lt;/p&gt;
 &lt;p&gt;    * GPU-based drawing of documents onscreen&lt;br /&gt;

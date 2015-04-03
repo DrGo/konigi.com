@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Persuassion on Konigi</title>
-    <link>http://localhost:1313/tags/persuassion/</link>
+    <link>http://konigi.com/tags/persuassion/</link>
     <description>Recent content in Persuassion on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/persuassion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/persuassion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mention Call To Action</title>
-      <link>http://localhost:1313/interface/mention-call-action/</link>
+      <link>http://konigi.com/interface/mention-call-action/</link>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/mention-call-action/</guid>
+      <guid>http://konigi.com/interface/mention-call-action/</guid>
       <description>&lt;p&gt;Mention.com&#39;s Success Stories section  uses this great phrase to introduce the Proof in the drip pan at the bottom of the page.&lt;/p&gt;
 
 &lt;p&gt;&amp;quot;They also started with a free trial.&amp;quot; Short and persuasive copy that makes an otherwise common CTA more compelling.&lt;/p&gt;

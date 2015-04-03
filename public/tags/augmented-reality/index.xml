@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Augmented Reality on Konigi</title>
-    <link>http://localhost:1313/tags/augmented-reality/</link>
+    <link>http://konigi.com/tags/augmented-reality/</link>
     <description>Recent content in Augmented Reality on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Dec 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Word Lens: Translation using Augmented Reality</title>
-      <link>http://localhost:1313/blog/word-lens-translation-using-augmented-reality/</link>
+      <link>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/word-lens-translation-using-augmented-reality/</guid>
+      <guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;367&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/h2OfQdYrHRs?fs=1&amp;amp;hl=en_US&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/h2OfQdYrHRs?fs=1&amp;amp;hl=en_US&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;367&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is one of the most practical uses of augmented reality I&amp;rsquo;ve seen. &lt;a href=&#34;http://questvisual.com/&#34;&gt;Word Lens&lt;/a&gt; translates text you capture from an iPhone&amp;rsquo;s camera to another language. I think it&amp;rsquo;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. &lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>CEO Yelp is amazed by results of Monocle</title>
-      <link>http://localhost:1313/blog/ceo-yelp-amazed-results-monocle/</link>
+      <link>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ceo-yelp-amazed-results-monocle/</guid>
+      <guid>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</guid>
       <description>&lt;p&gt;Yelp CEO &lt;a href=&#34;http://www.augmentedrealityblog.eu/2010/04/02/ceo-yelp-is-amazed-by-results-of-monocle/&#34;&gt;Jeremy Stoppelman talks&lt;/a&gt; about the company’s launch of Monocle, which started as an easter egg coded by an intern. &lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object type=&#34;application/x-shockwave-flash&#34; data=&#34;http://image.com.com/gamespot/images/cne_flash/production/media_player/proteus/one/proteus2.swf&#34; width=&#34;432&#34; height=&#34;362&#34;&gt;&lt;param name=&#34;FlashVars&#34; value=&#34;playerMode=embedded&amp;allowFullScreen=1&amp;flavor=EmbeddedPlayerVersion&amp;showOptions=0&amp;skin=http://image.com.com/gamespot/images/cne_flash/production/media_player/proteus/one/skins/proteus-zdnet.png&amp;autoPlay=false&amp;movieAspect=4.3&amp;embeddingAllowed=true&amp;clockColor=0x3b3b3b&amp;paramsURI=http%3A%2F%2Fnews.zdnet.com%2F2461-19178_22-409413.xml%3Fwidth%3D432%26height%3D362%26ptype%3D6475%26mode%3Dembedded%26autoplay%3Dfalse%26mode%3Dembedded%26conttypid%3D25%26nc%3D1270167427495&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://image.com.com/gamespot/images/cne_flash/production/media_player/proteus/one/proteus2.swf&#34; /&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34; /&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;&gt;&lt;/object&gt;&lt;/div&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>Bing Maps</title>
-      <link>http://localhost:1313/blog/bing-maps/</link>
+      <link>http://konigi.com/blog/bing-maps/</link>
       <pubDate>Wed, 17 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bing-maps/</guid>
+      <guid>http://konigi.com/blog/bing-maps/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;560&#34; height=&#34;340&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/tQzimblL3g8&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/tQzimblL3g8&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;560&#34; height=&#34;340&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.&lt;/p&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Layar: Mobile Augmented Reality browser</title>
-      <link>http://localhost:1313/interface/layar-mobile-augmented-reality-browser/</link>
+      <link>http://konigi.com/interface/layar-mobile-augmented-reality-browser/</link>
       <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/layar-mobile-augmented-reality-browser/</guid>
+      <guid>http://konigi.com/interface/layar-mobile-augmented-reality-browser/</guid>
       <description>&lt;p&gt;Layar is an augmented reality application for Android phones which uses location information and the phones camera to show what is around the user by displaying real time digital information on top of reality. The video shows the browser being used to scan buildings and overlay real estate information to find out which houses are for sale.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;object width=&#34;560&#34; height=&#34;340&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/b64_16K2e08&amp;amp;hl=en&amp;amp;fs=1&amp;amp;&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/b64_16K2e08&amp;amp;hl=en&amp;amp;fs=1&amp;amp;&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;560&#34; height=&#34;340&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://layar.eu/&#34;&gt;http://layar.eu/&lt;/a&gt;&lt;/p&gt;

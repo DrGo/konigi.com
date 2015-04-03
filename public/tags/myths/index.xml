@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Myths on Konigi</title>
-    <link>http://localhost:1313/tags/myths/</link>
+    <link>http://konigi.com/tags/myths/</link>
     <description>Recent content in Myths on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/myths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/myths/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Keith Lang&#39;s Top 10 UX Myths</title>
-      <link>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</link>
+      <link>http://konigi.com/blog/keith-langs-top-10-ux-myths/</link>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</guid>
+      <guid>http://konigi.com/blog/keith-langs-top-10-ux-myths/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1877&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a95c2b02ba2f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin &lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;about UX Myths&lt;/a&gt;. It&amp;rsquo;s full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.&lt;/p&gt;
 &lt;p&gt;The top 10 UX myth list:&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Clubs on Konigi</title>
-    <link>http://localhost:1313/tags/book-clubs/</link>
+    <link>http://konigi.com/tags/book-clubs/</link>
     <description>Recent content in Book Clubs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/book-clubs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/book-clubs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>UX Book Club</title>
-      <link>http://localhost:1313/blog/ux-book-club/</link>
+      <link>http://konigi.com/blog/ux-book-club/</link>
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-book-club/</guid>
+      <guid>http://konigi.com/blog/ux-book-club/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxbookclub.org/doku.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1417&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt493414b745591.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;A &lt;a href=&#34;http://uxbookclub.org/doku.php&#34;&gt;UX (User Experience) Book Club&lt;/a&gt; is a get-together in which people interested in the area of user experience come to discuss a book relevant to the discipline. &lt;/p&gt;&lt;/p&gt;
 

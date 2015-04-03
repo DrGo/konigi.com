@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet Explorer on Konigi</title>
-    <link>http://localhost:1313/tags/internet-explorer/</link>
+    <link>http://konigi.com/tags/internet-explorer/</link>
     <description>Recent content in Internet Explorer on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Internet Explorer Collection: Installs multiple IE versions on 1 PC</title>
-      <link>http://localhost:1313/tools/submissions/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</link>
+      <link>http://konigi.com/tools/submissions/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</link>
       <pubDate>Fri, 10 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</guid>
+      <guid>http://konigi.com/tools/submissions/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://utilu.com/IECollection/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2725&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ff1b193dcd_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://utilu.com/IECollection/&#34;&gt;Internet Explorer Collection&lt;/a&gt; is an installer that allows you to install multiple versions of IE on 1 Windows instance. It includes the IE 1.0, 1.5, 2.01, 3.0, 4.01, 5.01, 5.5, 6.0, 7.0, and 8.0.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt522ff1b193dcd_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>IETester: Testing Multiple IE Versions</title>
-      <link>http://localhost:1313/tools/submissions/ietester-testing-multiple-ie-versions/</link>
+      <link>http://konigi.com/tools/submissions/ietester-testing-multiple-ie-versions/</link>
       <pubDate>Thu, 24 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ietester-testing-multiple-ie-versions/</guid>
+      <guid>http://konigi.com/tools/submissions/ietester-testing-multiple-ie-versions/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.my-debugbar.com/wiki/IETester/HomePage&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2747&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52303364a582e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.my-debugbar.com/wiki/IETester/HomePage&#34;&gt;IETester&lt;/a&gt; is a free WebBrowser that allows you to have the rendering and javascript engines of IE8 beta 1, IE7 IE 6 and IE5.5 on Vista and XP, as well as the installed IE in the same process. &lt;/p&gt;
 &lt;p&gt;Thanks to &lt;a href=&#34;http://2tbsp.com/&#34;&gt;Chad&lt;/a&gt; for the tip.&lt;/p&gt;&lt;/p&gt;
@@ -40,10 +40,10 @@ wt52303364a582e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Install multiple versions of IE on your PC</title>
-      <link>http://localhost:1313/tools/submissions/install-multiple-versions-ie-your-pc/</link>
+      <link>http://konigi.com/tools/submissions/install-multiple-versions-ie-your-pc/</link>
       <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/install-multiple-versions-ie-your-pc/</guid>
+      <guid>http://konigi.com/tools/submissions/install-multiple-versions-ie-your-pc/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://tredosoft.com/Multiple_IE&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2700&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fcafc291c3_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://tredosoft.com/Multiple_IE&#34;&gt;Multiple IE Installer&lt;/a&gt; is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&amp;rsquo;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install. I&amp;rsquo;ve had it working on my last 3 Macs running Windows on both Parallels and VMWare without any problems. &lt;/p&gt;&lt;/p&gt;
 

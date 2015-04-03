@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Static Sites on Konigi</title>
-    <link>http://localhost:1313/tags/static-sites/</link>
+    <link>http://konigi.com/tags/static-sites/</link>
     <description>Recent content in Static Sites on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/static-sites/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/static-sites/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Static Site Generator Directories</title>
-      <link>http://localhost:1313/tools/submissions/static-site-generator-directories/</link>
+      <link>http://konigi.com/tools/submissions/static-site-generator-directories/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/static-site-generator-directories/</guid>
+      <guid>http://konigi.com/tools/submissions/static-site-generator-directories/</guid>
       <description>&lt;p&gt;These are the 2 main directories listing generators that you can use to build a static site. Each offers a sortable lists to browse by user rating or language.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.staticgen.com/&#34;&gt;StaticGen&lt;/a&gt; - Lists the top Open Source static site generators only. Filter by language. Sort by rating, issues, forks, titles.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Hello Hugo: Konigi is now a Static Site</title>
-      <link>http://localhost:1313/blog/hello-hugo/</link>
+      <link>http://konigi.com/blog/hello-hugo/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-hugo/</guid>
+      <guid>http://konigi.com/blog/hello-hugo/</guid>
       <description>
 
 &lt;p&gt;After many years of being a Drupal user, from version 2 when I started iaslash.org to version 6 on this site, I&amp;rsquo;ve made the move from PHP/MySQL blog to full on static site. Here&amp;rsquo;s why and how I did it.&lt;/p&gt;
@@ -41,7 +41,7 @@
 
 &lt;p&gt;I started our first experiment by moving a site to Hammer, then shortly after moved it to become a grunt generated site. Those sites are happily chugging along, maintained by a team that generates the pages with grunt. Our main site at &lt;a href=&#34;http://balsamiq.com&#34;&gt;balsamiq.com&lt;/a&gt; is one of them.&lt;/p&gt;
 
-&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://localhost:1313/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
+&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://konigi.com/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a generator written in the &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; programming language. I chose Hugo over a few of the other great options out there like Jekkyl and Octopress because of its speed, support for taxonomies, and markdown support. I&amp;rsquo;m no programmer, so my implementation of Hugo is very simple and I put together my theme using only the examples in the docs, and a couple of questions to the discussion forum.&lt;/p&gt;
 
@@ -72,7 +72,9 @@
 
 &lt;p&gt;The last step is a command that uses &lt;a href=&#34;http://s3tools.org/s3cmd&#34;&gt;s3cmd&lt;/a&gt; to sync only the changed pages to the generated public directory, removing deletions. See the options in the docs for doing this. There are many blog posts with different suggestions for how to deploy, but I found all I needed &lt;a href=&#34;http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/&#34;&gt;in this one on Programblings&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get everything on Git and hooked up to a middleman that will automate the deploy part of the process. So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get my content, which is on Git, hooked up to a middleman that will automate the deploy part of the process. If you&amp;rsquo;re interested in seeing how I created this site, you can look at my theme templates. The entire site is publicly &lt;a href=&#34;https://github.com/jibbajabba/konigi.com/tree/master/themes/konigi&#34;&gt;viewable on Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
 </description>
     </item>
     

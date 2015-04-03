@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product Development on Konigi</title>
-    <link>http://localhost:1313/tags/product-development/</link>
+    <link>http://konigi.com/tags/product-development/</link>
     <description>Recent content in Product Development on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/product-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/product-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Des Traynor: Product Strategy is About Saying No</title>
-      <link>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</link>
+      <link>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</link>
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</guid>
+      <guid>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</guid>
       <description>&lt;p&gt;&lt;p&gt;The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&amp;rsquo;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic. &lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/81544164?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@
     
     <item>
       <title>99u Conference Notes: Quirky Studio Visit with Ben Kaufman</title>
-      <link>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
+      <link>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
+      <guid>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
       <description>&lt;p&gt;A group of &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u attendees&lt;/a&gt; had a visit with Ben Kaufman, the CEO/founder of product development company &lt;a href=&#34;https://www.quirky.com/&#34;&gt;Quirky&lt;/a&gt;, who gave us a look into how his company uses crowd-sourcing to deliver products. Here are some of my notes from that visit. More 99u notes to follow.&lt;/p&gt;
 
 &lt;p&gt;Kaufman got his start as an inventor in high school when he made a lanyard to hold an iPod shuffle. The company he started to ship this product later morphed into Mophie, the maker of the JuiceBox battery case. He later sold that company to start Quirky. His wanted to take all of the pain and learning he went through designing, developing and shipping a product to the masses, so that anyone with a great idea could become an inventor and let someone else handle the rest.&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Your app is a collection of tiny details</title>
-      <link>http://localhost:1313/blog/your-app-collection-tiny-details/</link>
+      <link>http://konigi.com/blog/your-app-collection-tiny-details/</link>
       <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/your-app-collection-tiny-details/</guid>
+      <guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&lt;span class=&#34;t14&#34;&gt;&#34;Getting the details right is the difference between something that delights, and something customers tolerate.&#34;&lt;/span&gt;&lt;br /&gt;
 &amp;#8212;Jeff Atwood&lt;/p&gt;
 &lt;p&gt;I didn&#39;t read &lt;a href=&#34;http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html&#34;&gt;Jeff Atwood&#39;s article about cat feeders&lt;/a&gt; right away, because it really is 90% about a cat product. It&#39;s also a terrific demonstration of what he&#39;s saying above. The first version of the product, a cat feeder, served a core need well enough for him to &lt;a href=&#34;http://en.wikipedia.org/wiki/Satisficing&#34;&gt;satisfice&lt;/a&gt; with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it. &lt;/p&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>Letting Go</title>
-      <link>http://localhost:1313/blog/letting-go/</link>
+      <link>http://konigi.com/blog/letting-go/</link>
       <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/letting-go/</guid>
+      <guid>http://konigi.com/blog/letting-go/</guid>
       <description>&lt;p&gt;Two great slides from Yiibu&#39;s presentation, &lt;a href=&#34;http://www.slideshare.net/yiibu/letting-go-9109114&#34; rel=&#34;nofollow&#34;&gt;Letting Go&lt;/a&gt;, a talk about design in an time of increasing disruption.&lt;/p&gt;
 &lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm7.static.flickr.com/6170/6188891324_71eb68e152_z.jpg&#34; /&gt;&lt;/div&gt;
 &lt;blockquote&gt;&lt;p&gt;&#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;&lt;br /&gt;
@@ -102,10 +102,10 @@
     
     <item>
       <title>Articulating Your Preferred Use Case</title>
-      <link>http://localhost:1313/blog/articulating-your-preferred-use-case/</link>
+      <link>http://konigi.com/blog/articulating-your-preferred-use-case/</link>
       <pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/articulating-your-preferred-use-case/</guid>
+      <guid>http://konigi.com/blog/articulating-your-preferred-use-case/</guid>
       <description>&lt;p&gt;I like how Seth Godin states everything so clearly. Usually it&#39;s a pithy piece of advice about how to do the right thing, do right by your product, and thereby do right for the market by serving the right users with the product they want, and forgetting about trying to serve everyone else.&lt;/p&gt;
 
 &lt;p&gt;Here&#39;s one thought about really knowing your use case and putting it out front for the market to see, and letting it guide your conversation.&lt;/p&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>Being Without Chasing: The Grateful Dead vs. The Top 40</title>
-      <link>http://localhost:1313/blog/being-without-chasing-grateful-dead-vs-top-40/</link>
+      <link>http://konigi.com/blog/being-without-chasing-grateful-dead-vs-top-40/</link>
       <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/being-without-chasing-grateful-dead-vs-top-40/</guid>
+      <guid>http://konigi.com/blog/being-without-chasing-grateful-dead-vs-top-40/</guid>
       <description>&lt;p&gt;Seth Godin&#39;s blog entry, &amp;quot;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2011/06/the-grateful-dead-and-the-top-40.html&#34;&gt;The Grateful Dead and the Top 40&lt;/a&gt;,&amp;quot; looks at a band that only ever had 1 &amp;quot;hit record,&amp;quot; but who were very succesful at what they did. They may have not hit the Top 40 more than once, but one thing is true, they knew themselves as artists, and were true to that.&lt;/p&gt;
 
 &lt;p&gt;In terms of chart success, Elton John is probably the polar opposite of The Grateful Dead. He&#39;s #2 on the list of most hits on the Billboard Top 40. The Grateful Dead and Elton John are very different artists and have sold records to very different audiences. Elton John has a bigger share of the mainstream and the Billboard charts. I would doubt that either of those attributes were ever a goal of the Grateful Dead, yet they commanded a loyal following who connected with them, and got their music to millions of fans through record sales, touring, and the bootlegs.&lt;/p&gt;
@@ -148,10 +148,10 @@
     
     <item>
       <title>Steve Jobs on Saying No</title>
-      <link>http://localhost:1313/blog/steve-jobs-saying-no/</link>
+      <link>http://konigi.com/blog/steve-jobs-saying-no/</link>
       <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/steve-jobs-saying-no/</guid>
+      <guid>http://konigi.com/blog/steve-jobs-saying-no/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;“People think focus means saying yes to the thing you’ve got to focus on.  But that’s not what it means at all.  It means saying no to the hundred other good ideas that there are. You have to pick carefully.  I’m actually as proud of the things we haven’t done as the things I have done.  Innovation is saying ‘no’ to 1,000 things.”&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Steve Jobs on product development, from &#34;&lt;a href=&#34;http://blogs.forbes.com/carminegallo/2011/05/16/steve-jobs-get-rid-of-the-crappy-stuff/&#34;&gt;Steve Jobs: Get Rid of the Crappy Stuff&lt;/a&gt;&#34; in Forbes.&lt;/p&gt;
 &lt;p&gt;Gallo exaggerates a little, but I like the point he tries to argue later in the article about focus and reduction. It takes courage to reduce and say no, and that is a big differentiator when it comes to Apple hardware and software. &lt;/p&gt;
@@ -167,10 +167,10 @@
     
     <item>
       <title>The more you know, the less you need.</title>
-      <link>http://localhost:1313/blog/more-you-know-less-you-need/</link>
+      <link>http://konigi.com/blog/more-you-know-less-you-need/</link>
       <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/more-you-know-less-you-need/</guid>
+      <guid>http://konigi.com/blog/more-you-know-less-you-need/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau&#39;s advice: &#39;I say beware of all enterprises that require new clothes...&#39;&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Yvon Chouinard in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838&#34;&gt;Let My People Go Surfing&lt;/a&gt;&lt;/em&gt;.&lt;br /&gt;
 Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He was writing about product design in the quote above. &lt;/p&gt;
@@ -180,10 +180,10 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He 
     
     <item>
       <title>Caterina Fake on why working hard is overrated</title>
-      <link>http://localhost:1313/blog/caterina-fake-why-working-hard-overrated/</link>
+      <link>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</link>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/caterina-fake-why-working-hard-overrated/</guid>
+      <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.caterina.net/archive/001196.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1902&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ac372308eb1f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Caterina Fake, founder of Flickr and Hunch, &lt;a href=&#34;http://www.caterina.net/archive/001196.html&#34;&gt;talks about why working hard isn&amp;rsquo;t as important as working on the right things&lt;/a&gt;. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be. Being able to read what people want. Putting yourself in the right place where information is flowing freely and interesting new juxtapositions can be seen. But you can save yourself a lot of time by working on the right thing. Working hard, even, if that&amp;rsquo;s what you like to do.&lt;/p&gt;&lt;/blockquote&gt;
@@ -197,10 +197,10 @@ wt4ac372308eb1f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Caterina Fake, found
     
     <item>
       <title>Working through Screens Book</title>
-      <link>http://localhost:1313/blog/working-through-screens-book/</link>
+      <link>http://konigi.com/blog/working-through-screens-book/</link>
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/working-through-screens-book/</guid>
+      <guid>http://konigi.com/blog/working-through-screens-book/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flashbulbinteraction.com/WTS_opening.html&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/flashbulb-working-screens.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Flashbulb Interactions&amp;rsquo;s &lt;a href=&#34;http://www.flashbulbinteraction.com/WTS_opening.html&#34;&gt;&lt;i&gt;Working through Screens&lt;/a&gt;&lt;/a&gt; is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools. With hundreds of envisioning questions and fictional examples from clinical research, financial trading, and architecture, this volume can help definers and designers to explore innovative new directions for their products.&lt;/p&gt;
 &lt;p&gt;&amp;hellip;&lt;/p&gt;

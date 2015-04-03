@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illustrator on Konigi</title>
-    <link>http://localhost:1313/tags/illustrator/</link>
+    <link>http://konigi.com/tags/illustrator/</link>
     <description>Recent content in Illustrator on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Mar 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/illustrator/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/illustrator/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Drawscript: Generate vector code from Illustrator</title>
-      <link>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
+      <link>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</link>
       <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
+      <guid>http://konigi.com/tools/submissions/drawscript-generate-vector-code-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2746&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawscri.pt/&#34;&gt;Drawscript&lt;/a&gt; is an extension for Adobe Illustrator that generates graphics code from vector shapes in realtime. Generates OBJ-C, C++, JavaScript for HTML5 Canvas, Processing, Actionscript 3, JSON, and Raw bezier points.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5230286f9149d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Ai to Canvas Plug-In</title>
-      <link>http://localhost:1313/tools/submissions/ai-canvas-plug/</link>
+      <link>http://konigi.com/tools/submissions/ai-canvas-plug/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/ai-canvas-plug/</guid>
+      <guid>http://konigi.com/tools/submissions/ai-canvas-plug/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2806&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;Ai-&amp;gt;Canvas plug-in&lt;/a&gt; enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Making grids in Illustrator</title>
-      <link>http://localhost:1313/blog/making-grids-illustrator/</link>
+      <link>http://konigi.com/blog/making-grids-illustrator/</link>
       <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-grids-illustrator/</guid>
+      <guid>http://konigi.com/blog/making-grids-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://font.is/?p=1226&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1754&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a href=&#34;http://font.is/?p=1226&#34;&gt;an excellent tutorial&lt;/a&gt; for setting up grids in Adobe Illustrator using the Split Into Grid tool.&lt;/p&gt;&lt;/p&gt;
 
@@ -52,10 +52,10 @@ wt4a38e8f2e41dc_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;font.is has &lt;a 
     
     <item>
       <title>Touchscreen Stencils</title>
-      <link>http://localhost:1313/tools/submissions/touchscreen-stencils/</link>
+      <link>http://konigi.com/tools/submissions/touchscreen-stencils/</link>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/touchscreen-stencils/</guid>
+      <guid>http://konigi.com/tools/submissions/touchscreen-stencils/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2709&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of Kicker Studio provides &lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;free touch screen gesture stencils&lt;/a&gt; for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, &lt;em&gt;Designing Gestural Interfaces&lt;/em&gt;, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.&lt;/p&gt;&lt;/p&gt;
 
@@ -66,10 +66,10 @@ wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of
     
     <item>
       <title>Building a Website Wireframe in Illustrator</title>
-      <link>http://localhost:1313/blog/building-website-wireframe-illustrator/</link>
+      <link>http://konigi.com/blog/building-website-wireframe-illustrator/</link>
       <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/building-website-wireframe-illustrator/</guid>
+      <guid>http://konigi.com/blog/building-website-wireframe-illustrator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://aiburn.com/article/building_a_website_wireframe_in_illustrator&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1467&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt497db8527183c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sean Hodge at AiBURN provides some great tips for &lt;a href=&#34;http://aiburn.com/article/building_a_website_wireframe_in_illustrator&#34;&gt;laying out wireframes in Adobe Illustrator&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -79,10 +79,10 @@ wt497db8527183c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sean Hodge at AiBURN
     
     <item>
       <title>Adobe Launches CS4 Suite of Applications</title>
-      <link>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</link>
+      <link>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</link>
       <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</guid>
+      <guid>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/news.ars/post/20080923-adobe-launches-cs4-suite-of-applications.html&#34;&gt;Ars rounds up the new features&lt;/a&gt; in the forthcoming release of the Adobe CS4 suite to be released sometime next month. I think I&#39;ll have to upgrade for the multipage docs in Illustrator alone.&lt;/p&gt;
 &lt;p&gt;Photoshop CS4&lt;/p&gt;
 &lt;p&gt;    * GPU-based drawing of documents onscreen&lt;br /&gt;
@@ -108,10 +108,10 @@ wt497db8527183c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sean Hodge at AiBURN
     
     <item>
       <title>Templates for Creating Blueprint-Compatible Comps</title>
-      <link>http://localhost:1313/blog/templates-creating-blueprint-compatible-comps/</link>
+      <link>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</link>
       <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/templates-creating-blueprint-compatible-comps/</guid>
+      <guid>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://urlgreyhot.com/files/illustrator/blueprint-comp-ai.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;br /&gt;
 I&#39;ve created Adobe Photoshop and Illustrator templates for creating comps that work with Olav Bjorkoy&#39;s &lt;a href=&#34;http://code.google.com/p/blueprintcss/&#34;&gt;Blueprint CSS Framework&lt;/a&gt;. The templates are simply documents with guides based on the 24 units provided by Blueprint. The background image of the grid is also provided with a layer to show unit numbers if you like, and the Illustrator document shows a fake comp to demonstrate positioning on the grid.&lt;/p&gt;
 &lt;p&gt;You may download the templates here:&lt;/p&gt;

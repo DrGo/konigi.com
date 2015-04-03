@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balsamiq on Konigi</title>
-    <link>http://localhost:1313/tags/balsamiq/</link>
+    <link>http://konigi.com/tags/balsamiq/</link>
     <description>Recent content in Balsamiq on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/balsamiq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/balsamiq/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Balsamiq UX Template</title>
-      <link>http://localhost:1313/tools/balsamiq-ux-template/</link>
+      <link>http://konigi.com/tools/balsamiq-ux-template/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/balsamiq-ux-template/</guid>
+      <guid>http://konigi.com/tools/balsamiq-ux-template/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
 &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
 &lt;h3&gt;Made for UX designers&lt;/h3&gt;

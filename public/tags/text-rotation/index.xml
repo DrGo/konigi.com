@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text Rotation on Konigi</title>
-    <link>http://localhost:1313/tags/text-rotation/</link>
+    <link>http://konigi.com/tags/text-rotation/</link>
     <description>Recent content in Text Rotation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Aug 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/text-rotation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/text-rotation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Text Rotation with CSS</title>
-      <link>http://localhost:1313/blog/text-rotation-css/</link>
+      <link>http://konigi.com/blog/text-rotation-css/</link>
       <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/text-rotation-css/</guid>
+      <guid>http://konigi.com/blog/text-rotation-css/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://snook.ca/archives/html_and_css/css-text-rotation&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1852&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a7c1f11b5212.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jonathan Snook shows a CSS technique for text rotation, which is supported in Webkit browsers, Firefox 3.5+, and IE 5.5+. Should be useful for ideas the little rotated year displays in the demo, but for me this would also be incredibly useful in dense angled headings for tables.&lt;/p&gt;&lt;/p&gt;
 

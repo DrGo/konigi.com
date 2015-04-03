@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Design on Konigi</title>
-    <link>http://localhost:1313/tags/information-design/</link>
+    <link>http://konigi.com/tags/information-design/</link>
     <description>Recent content in Information Design on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/information-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/information-design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>visualizing.org</title>
-      <link>http://localhost:1313/blog/visualizingorg/</link>
+      <link>http://konigi.com/blog/visualizingorg/</link>
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/visualizingorg/</guid>
+      <guid>http://konigi.com/blog/visualizingorg/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.visualizing.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2443&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4cab6879a13b1_large_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:&lt;/p&gt;&lt;/p&gt;
 
@@ -28,10 +28,10 @@ wt4cab6879a13b1_large_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Visualizing.
     
     <item>
       <title>Tableau Public: Visualization Service</title>
-      <link>http://localhost:1313/tools/submissions/tableau-public-visualization-service/</link>
+      <link>http://konigi.com/tools/submissions/tableau-public-visualization-service/</link>
       <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/tableau-public-visualization-service/</guid>
+      <guid>http://konigi.com/tools/submissions/tableau-public-visualization-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.tableausoftware.com/public/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2811&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52314b3a3b13f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.tableausoftware.com/public/&#34;&gt;Tableau Public&lt;/a&gt; is a free service that lets anyone publish interactive data to the web. Once on the web, anyone can interact with the data, download it, or create their own visualizations of it. No programming skills are required. Windows is required for the desktop application.&lt;/p&gt;&lt;/p&gt;
 
@@ -44,10 +44,10 @@ wt52314b3a3b13f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>InfoGraphic Designs: Overview, Examples and Best Practices</title>
-      <link>http://localhost:1313/blog/infographic-designs-overview-examples-and-best-practices/</link>
+      <link>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</link>
       <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/infographic-designs-overview-examples-and-best-practices/</guid>
+      <guid>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1745&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a366ba20a6c6_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. &lt;a href=&#34;http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/&#34;&gt;View them all at Infoshift&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
@@ -57,10 +57,10 @@ wt4a366ba20a6c6_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Anders Ross provid
     
     <item>
       <title>The Browser Wars</title>
-      <link>http://localhost:1313/blog/browser-wars/</link>
+      <link>http://konigi.com/blog/browser-wars/</link>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/browser-wars/</guid>
+      <guid>http://konigi.com/blog/browser-wars/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.pixellabs.com/images/browserwars.png&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1446&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt496b34f02e34e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixellabs.com/images/browserwars.png&#34;&gt;Cool infographic&lt;/a&gt; from Pixel Labs depicting the Browser wars, based on &lt;a href=&#34;http://www.w3shools.com/browsers/browser_stats.asp&#34;&gt;W3 Schools Browser Stats&lt;/a&gt;. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.&lt;/p&gt;&lt;/p&gt;
 
@@ -70,10 +70,10 @@ wt496b34f02e34e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>NY Times Visualization Lab</title>
-      <link>http://localhost:1313/blog/ny-times-visualization-lab/</link>
+      <link>http://konigi.com/blog/ny-times-visualization-lab/</link>
       <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ny-times-visualization-lab/</guid>
+      <guid>http://konigi.com/blog/ny-times-visualization-lab/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/nyt-manyeyes-vizlab.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The New York Times teams up with IBM&amp;rsquo;s Many Eyes project to provide word visualizations of data in the &lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;Vizlab&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;http://vizlab.nytimes.com/&lt;/a&gt;&lt;/p&gt;
@@ -82,10 +82,10 @@ wt496b34f02e34e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>A Periodic Table of Visualization Methods</title>
-      <link>http://localhost:1313/blog/periodic-table-visualization-methods/</link>
+      <link>http://konigi.com/blog/periodic-table-visualization-methods/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/periodic-table-visualization-methods/</guid>
+      <guid>http://konigi.com/blog/periodic-table-visualization-methods/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.visual-literacy.org/periodic_table/periodic_table.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1374&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48e2452845a2d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a neat table listing and categorizing visualization methods from the folks at &lt;a href=&#34;http://www.visual-literacy.org/periodic_table/periodic_table.html&#34;&gt;Visual Literacy&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 
@@ -95,10 +95,10 @@ wt48e2452845a2d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a neat table
     
     <item>
       <title>Everymoment Now News Visualization</title>
-      <link>http://localhost:1313/interface/everymoment-now-news-visualization/</link>
+      <link>http://konigi.com/interface/everymoment-now-news-visualization/</link>
       <pubDate>Tue, 16 Sep 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/everymoment-now-news-visualization/</guid>
+      <guid>http://konigi.com/interface/everymoment-now-news-visualization/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://everymomentnow.com/&#34;&gt;everymomentnow&lt;/a&gt; is a beautiful news visualization site designed and developed by Craig Mod. The idea is to provide a sense of volume and correlation between keywords within a given subject area. The current incarnation focuses on Obama/McCain in the news. &lt;/p&gt;
 &lt;p&gt;The clean, minimalist interface allows the user to visualize spikes in news article occurrences for each keyword a the highest level. You choose a single focal point using a keyword (e.g. Obama or McCain) or a date restriction, and the site displays the news articles indexed for that entry point. A much richer interface is also displayed for exploring the set of news articles by other keywords associated with the current keyword/date focus. So you could look at Obama + 9/16/08, or Wall Street + 9/16/08. Presently the interface doesn&#39;t allow for a combination of multiple keywords, e.g. Obama + Wall Street + 9/16/08.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Main page for Obama/McCain news articles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Main page for Obama/McCain news articles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Detail page for &amp;quot;Obama + 9/16/08.&amp;quot; More link at bottom of articles displays more articles in page via AJAX.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Detail page for &amp;quot;Obama + 9/16/08.&amp;quot; More link at bottom of articles displays more articl...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Date Control shows range of dates to filter the current set.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Date Control shows range of dates to filter the current set.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Volume control in upper right: titles only, titles and truncated teaser, titles and long teaser.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Volume control in upper right: titles only, titles and truncated teaser, titles and long teaser.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Keyword selection. Allows user to change the keyword criteria for current day.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Keyword selection. Allows user to change the keyword criteria for current day.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. The &amp;quot;Quick Context&amp;quot; bar at the top allows the user to select one of the candidates or running mates as the focus.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. The &amp;quot;Quick Context&amp;quot; bar at the top allows the user to select one of the candidates or r...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
@@ -108,10 +108,10 @@ wt48e2452845a2d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a neat table
     
     <item>
       <title>Information Design Patterns</title>
-      <link>http://localhost:1313/blog/information-design-patterns/</link>
+      <link>http://konigi.com/blog/information-design-patterns/</link>
       <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/information-design-patterns/</guid>
+      <guid>http://konigi.com/blog/information-design-patterns/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://niceone.org/infodesign/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1239&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4821afabbaa37.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Behrens&amp;rsquo; &lt;a href=&#34;http://www.niceone.org/infodesignpatterns/index.php5#/home.php5&#34;&gt;information design pattern repository&lt;/a&gt; collects solutions for &amp;ldquo;&amp;hellip;the display, behavior, and user interaction of complex infographics. The collection is available in the form of a 200-page book that additionally includes a profound historical record of information design as well as an introduction inthe research field of design patterns.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
 
@@ -121,10 +121,10 @@ wt4821afabbaa37.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Behrens&am
     
     <item>
       <title>iPhone versus tPhone</title>
-      <link>http://localhost:1313/blog/iphone-versus-tphone/</link>
+      <link>http://konigi.com/blog/iphone-versus-tphone/</link>
       <pubDate>Wed, 30 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/iphone-versus-tphone/</guid>
+      <guid>http://konigi.com/blog/iphone-versus-tphone/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2095/2231211262_4c7b34792c.jpg&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Edward Tufte posted &lt;a href=&#34;http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00036T&amp;amp;topic_id=1&#34;&gt;an essay and video with commentary about the iPhone&lt;/a&gt;. Tufte is complimentary, for the most part, about the interface being predominantly free of administrative debris, but makes suggestions for how the iPhone can make better use of its screen resolution. As expected, his argument calls for more data density when possible.&lt;/p&gt;
 &lt;p&gt;He notes that the iPhone has elegantly removed administrative clutter in many places, using the information as the interface. In reference to the iPhone&#39;s design of the weather widget, he says the following.&lt;/p&gt;

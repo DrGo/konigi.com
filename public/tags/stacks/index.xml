@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stacks on Konigi</title>
-    <link>http://localhost:1313/tags/stacks/</link>
+    <link>http://konigi.com/tags/stacks/</link>
     <description>Recent content in Stacks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>EffectiveUI Accordion Stacks</title>
-      <link>http://localhost:1313/interface/effectiveui-accordion-stacks/</link>
+      <link>http://konigi.com/interface/effectiveui-accordion-stacks/</link>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/effectiveui-accordion-stacks/</guid>
+      <guid>http://konigi.com/interface/effectiveui-accordion-stacks/</guid>
       <description>&lt;p&gt;Effective UI has an interesting Flash UI for presenting menus on their home page using a stacked accordion. Upon landing on the home page, a series of stacked boxes are displayed with both a large descriptive heading of that section and shows the first mini-slide in that deck/stack to help you see what that section is about. Mousing over the first slide in the stack expands the stack to show the headings for the other nodes of content within it, and the user may now hover over the other items to view their descriptions. Clicking a card displays its content in an floated layer.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The front page showing series of stacks. The headings for each stack are shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The front page showing series of stacks. The headings for each stack are shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Mousing over a stack to expose all of the headings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Mousing over a stack to expose all of the headings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking on a card to display its content.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking on a card to display its content.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://www.effectiveui.com/&#34;&gt;http://www.effectiveui.com/&lt;/a&gt;&lt;/p&gt;

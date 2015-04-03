@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on Konigi</title>
-    <link>http://localhost:1313/tags/agile/</link>
+    <link>http://konigi.com/tags/agile/</link>
     <description>Recent content in Agile on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Is Interaction Design a dead-end job?</title>
-      <link>http://localhost:1313/blog/interaction-design-dead-end-job/</link>
+      <link>http://konigi.com/blog/interaction-design-dead-end-job/</link>
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/interaction-design-dead-end-job/</guid>
+      <guid>http://konigi.com/blog/interaction-design-dead-end-job/</guid>
       <description>&lt;p&gt;In the Cooper Journal, Tim McCoy responds to Bill Moggridge&#39;s comment after a screening of Objectified. He paraphrases Moggridge as saying interaction design has become pervasive, that anyone and everyone can be an interaction designer, and so the role of professional interaction designer is (or is becoming) unnecessary.&lt;/p&gt;
 &lt;p&gt;McCoy asks if &lt;a href=&#34;http://www.cooper.com/journal/2009/04/is_ixd_a_dead_end_job.html&#34;&gt;interaction design is really dead&lt;/a&gt;. He goes on to point out a few factors that have allowed developers to build better interfaces without interaction designers. The main point I took away is that the need for the expertise and craft of interaction design is not dead, but the perception that the need for the role seems to be diminished given tools and awareness. &lt;/p&gt;
 &lt;p&gt;Awareness and tools alone, however, don&#39;t breed expertise. Clearly if it did, there&#39;d be a lot less awfully designed stuff out there. Or to take a craft like video editing as an example, we&#39;d see an awful lot more people doing much slicker looking stuff on YouTube. &lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on Konigi</title>
-    <link>http://localhost:1313/tags/google/</link>
+    <link>http://konigi.com/tags/google/</link>
     <description>Recent content in Google on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jul 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Creating a Google&#43; Menubar Application</title>
-      <link>http://localhost:1313/blog/creating-google-menubar-application/</link>
+      <link>http://konigi.com/blog/creating-google-menubar-application/</link>
       <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/creating-google-menubar-application/</guid>
+      <guid>http://konigi.com/blog/creating-google-menubar-application/</guid>
       <description>&lt;p&gt;I don&#39;t spend my whole day in Gmail or other Google sites, but I like the idea of checking in on Google+ occasionally. Until G+ comes up with a standalone client, I&#39;m installing it as a menubar application on my Mac using Fluid, &lt;a href=&#34;http://blogs.balsamiq.com/ux/2011/02/17/creating-a-mac-menubar-app-for-pivotal-tracker/&#34;&gt;a trick I use for Pivotal as well&lt;/a&gt;, inspired by the article on how to do the same with &lt;a href=&#34;http://productblog.37signals.com/products/2011/02/tip-get-the-basecamp-mobile-interface-in-your-menu-bar-with-fluid-.html&#34;&gt;Basecamp&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Might be a temporary solution, but the result looks like this on my Mac.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://farm7.static.flickr.com/6029/5904990381_9494328c0b_z.jpg&#34; style=&#34;max-width: 610px;&#34; /&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Konigi</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>http://konigi.com/tags/music/</link>
     <description>Recent content in Music on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nulo</title>
-      <link>http://localhost:1313/music/nulo/</link>
+      <link>http://konigi.com/music/nulo/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/nulo/</guid>
+      <guid>http://konigi.com/music/nulo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve hinted at starting to play with music for a little while now. I&amp;rsquo;ve gotten past the point of just being overwhelmed and uncertain about whether I can learn to create music, and am now immersed in learning. Here&amp;rsquo;s the story, and why you may start to see me blog about music now.&lt;/p&gt;
 
 &lt;p&gt;In 2013 I committed to teaching a mixing (DJing) workshop to a group of colleagues, having rediscovered mixing with digital music. I mixed house and electronic music as a teenager (because Filipino) and college student, and then bedroom DJ through the years until I settled into an IA/IXD career, had kids, etc. I returned to bedroom DJ status when I acquired Traktor, and that&amp;rsquo;s rekindled the love I have for electronic music.&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Songs</title>
-      <link>http://localhost:1313/music/songs/</link>
+      <link>http://konigi.com/music/songs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/songs/</guid>
+      <guid>http://konigi.com/music/songs/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s nothing like the exquisite pain of starting something new.&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94505333&amp;amp;color=499bd7&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Beatport Pro Music Store</title>
-      <link>http://localhost:1313/interface/beatport-pro-music-store/</link>
+      <link>http://konigi.com/interface/beatport-pro-music-store/</link>
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/beatport-pro-music-store/</guid>
+      <guid>http://konigi.com/interface/beatport-pro-music-store/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pro.beatport.com/&#34;&gt;Beatport&#39;s Pro app&lt;/a&gt; for the Mac offers a shopping experience that&#39;s tailored for the way DJs shop for music. The app lets users analyze their music (tracks, sounds, and playlists) to prepare sets and add music to their playlists. Here are some of the elements of the version 2 interface related to shopping in the app.&lt;/p&gt;
 
 &lt;p&gt;Beatport comes close to the experience of shopping in a record store, breaking down music into genres and sub-genres. Beyond that, they provide filters to offer some of the experience you would expect in a boutique shop of having someone select tracks by mood and type of venue/set. Hand picked charts round out the experience of having the in-the-know shop owner as curator to recommend tracks.&lt;/p&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Studio Breaks: Sunny Day Session</title>
-      <link>http://localhost:1313/blog/studio-breaks-sunny-day-session/</link>
+      <link>http://konigi.com/blog/studio-breaks-sunny-day-session/</link>
       <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/studio-breaks-sunny-day-session/</guid>
+      <guid>http://konigi.com/blog/studio-breaks-sunny-day-session/</guid>
       <description>&lt;p&gt;&lt;p&gt;This is a new thing I&amp;rsquo;m doing. During work breaks I&amp;rsquo;m mixing and recording. I&amp;rsquo;m rediscovering mixing music and realizing how much I&amp;rsquo;ve missed it, so I&amp;rsquo;m making it part of my life again as a bedroom/studio DJ. &lt;/p&gt;
 &lt;p&gt;This is my first baby step in. Be gentle. Headphones on? Let&amp;rsquo;s go.&lt;/p&gt;
 &lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;http://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fjibbajabba%2Fsunny-day-session%2F&amp;amp;embed_uuid=a2ce4d36-62e8-4018-acf5-e2db6cc8c033&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;
@@ -77,10 +77,10 @@
     
     <item>
       <title>Bruce Springsteen on Creativity</title>
-      <link>http://localhost:1313/blog/bruce-springsteen-creativity/</link>
+      <link>http://konigi.com/blog/bruce-springsteen-creativity/</link>
       <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bruce-springsteen-creativity/</guid>
+      <guid>http://konigi.com/blog/bruce-springsteen-creativity/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;dek&#34;&gt;I&#39;d like to talk about the one thing that&#39;s been consistent over the years—the genesis and power of creativity. ... It’s all about how you’re putting what you do together. The elements you’re using don’t matter. Purity of human expression and experience is not confined to guitars, to tubes, to turntables, to microchips. There’s no right way, no pure way of doing it—there’s just doing it.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;From Bruce Springsteen&#39;s inspiring &lt;a href=&#34;http://www.npr.org/2012/03/16/148778665/bruce-springsteens-sxsw-2012-keynote-speech&#34;&gt;2012 SXSW Keynote Speech&lt;/a&gt;.&lt;/p&gt;
@@ -91,10 +91,10 @@
     
     <item>
       <title>Debussy on White Space</title>
-      <link>http://localhost:1313/blog/debussy-white-space/</link>
+      <link>http://konigi.com/blog/debussy-white-space/</link>
       <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/debussy-white-space/</guid>
+      <guid>http://konigi.com/blog/debussy-white-space/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;Music is the space between the notes.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey&lt;/p&gt;
     
@@ -103,10 +103,10 @@
     
     <item>
       <title>Adtunes.com</title>
-      <link>http://localhost:1313/blog/adtunes-com/</link>
+      <link>http://konigi.com/blog/adtunes-com/</link>
       <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/adtunes-com/</guid>
+      <guid>http://konigi.com/blog/adtunes-com/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://adtunes.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1250&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt482d87276090a.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://adtunes.com/&#34;&gt;Adtunes&lt;/a&gt; is a portal for finding music from TV commercials, film trailers, TV show and film soundtracks, and video games. I&amp;rsquo;ve used the forums on this site several times to track down the creators of music in TV commercials.&lt;/p&gt;&lt;/p&gt;
 

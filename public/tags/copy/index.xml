@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copy on Konigi</title>
-    <link>http://localhost:1313/tags/copy/</link>
+    <link>http://konigi.com/tags/copy/</link>
     <description>Recent content in Copy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/copy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Typinator: Automatic text software</title>
-      <link>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</link>
+      <link>http://konigi.com/tools/submissions/typinator-automatic-text-software/</link>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</guid>
+      <guid>http://konigi.com/tools/submissions/typinator-automatic-text-software/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2826&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using &lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;Typinator&lt;/a&gt;, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.&lt;/p&gt;&lt;/p&gt;
 

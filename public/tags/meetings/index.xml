@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetings on Konigi</title>
-    <link>http://localhost:1313/tags/meetings/</link>
+    <link>http://konigi.com/tags/meetings/</link>
     <description>Recent content in Meetings on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pear Note: Note taking utility for Mac</title>
-      <link>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</link>
+      <link>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</guid>
+      <guid>http://konigi.com/tools/submissions/pear-note-note-taking-utility-mac/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2736&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note&lt;/a&gt; from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.&lt;/p&gt;&lt;/p&gt;
 
@@ -31,10 +31,10 @@ wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Cohdoo Highlight: Voice recording iPhone app</title>
-      <link>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
+      <link>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
+      <guid>http://konigi.com/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2677&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.&lt;/p&gt;&lt;/p&gt;
 
@@ -49,10 +49,10 @@ wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the c
     
     <item>
       <title>Team Whiteboarding with Twiddla</title>
-      <link>http://localhost:1313/blog/team-whiteboarding-twiddla/</link>
+      <link>http://konigi.com/blog/team-whiteboarding-twiddla/</link>
       <pubDate>Wed, 08 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/team-whiteboarding-twiddla/</guid>
+      <guid>http://konigi.com/blog/team-whiteboarding-twiddla/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.twiddla.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/twiddla-1.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.twiddla.com/&#34;&gt;Twiddla&lt;/a&gt; is an easy to use collaborative whiteboard service, but it&amp;rsquo;s really got the potential to be much more. The whiteboard lets you mark up websites and graphics, and even use a drag-drop library of interface elements for working on interface concepts collaboratively. You communicate with others in the meeting with the chat window, and you can also use built in audio-conferencing capabilities. Very impressive, and free. Would make sense for there to be options for private meetings as well as embedding the whiteboard into your CMS or intranet.&lt;/p&gt;
 &lt;p&gt;I just gave it a try and the images they&amp;rsquo;ve provided are very restrictive. They&amp;rsquo;re basically just graphics you drag in, but they can&amp;rsquo;t be scaled outside of their original dimensions properly since they&amp;rsquo;re bitmaps. It&amp;rsquo;s also not a true prototyping environment like Balsamiq or iPlotz, since there are no properties for the elements. The best you can do is draw or even upload your own bitmap elements. It&amp;rsquo;s truly only a whiteboard. That said, the drawing capabilities are decent.  &lt;/p&gt;
 &lt;p&gt;To give it a try, click the Twiddla button: &lt;a href=&#34;http://www.twiddla.com/New.aspx?title=&#34; title=&#34;Twiddle this page!&#34; onclick=&#34;this.href+=document.title;&#34;&gt;&lt;img src=&#34;http://img.twiddla.com/images/buttons/twiddle_this_100x20.png&#34; border=&#34;0&#34; alt=&#34;Twiddle this page!&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;

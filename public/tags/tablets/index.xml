@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tablets on Konigi</title>
-    <link>http://localhost:1313/tags/tablets/</link>
+    <link>http://konigi.com/tags/tablets/</link>
     <description>Recent content in Tablets on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tablets/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/tablets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
-      <link>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <link>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <guid>http://konigi.com/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/37421265&#34; width=&#34;572&#34; height=&#34;322&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.mrtappy.com/&#34;&gt;Mr Tappy&lt;/a&gt; is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.&lt;/p&gt;
 &lt;p&gt;Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.&lt;/p&gt;

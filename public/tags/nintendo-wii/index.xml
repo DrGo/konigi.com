@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nintendo Wii on Konigi</title>
-    <link>http://localhost:1313/tags/nintendo-wii/</link>
+    <link>http://konigi.com/tags/nintendo-wii/</link>
     <description>Recent content in Nintendo Wii on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Aug 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nintendo-wii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/nintendo-wii/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Low-Cost Multi-point Interactive Whiteboards Using the Wiimote</title>
-      <link>http://localhost:1313/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</link>
+      <link>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</link>
       <pubDate>Tue, 19 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</guid>
+      <guid>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Researcher provides another Wii Remote hack, this time to help business users create interactive whiteboards on the cheap.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/5s5EvhHy7eQ&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/5s5EvhHy7eQ&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
-      <link>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <link>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
       <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <guid>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://next.yahoo.net/download/newsglobe/&#34;&gt;Yahoo! launched the News Globe&lt;/a&gt;, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page. It&#39;s a jarring experience.&lt;/p&gt;
 &lt;p&gt;This attempt at providing a way to visualize top published news activity is cute, but it&#39;s nowhere near as useful as the interface provided by the Wii. Check out the interaction with the Wii News Channel below:&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Engineer Unlocks Wii&#39;s Hidden Potential</title>
-      <link>http://localhost:1313/blog/engineer-unlocks-wiis-hidden-potential/</link>
+      <link>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</link>
       <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/engineer-unlocks-wiis-hidden-potential/</guid>
+      <guid>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</guid>
       <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.news.com/8301-13580_3-9858728-39.html&#34;&gt;CNET reports&lt;/a&gt; on Johnny Chung Lee&amp;rsquo;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them. He then proceeds to show us two things demonstrated in the videos below. Brilliant stuff.&lt;/p&gt;
 &lt;p&gt;How the remote can be used to visualize virtual reality displays by pointing the remote at a user with IR leds placed on their head.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;

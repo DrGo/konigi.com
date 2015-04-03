@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Layout on Konigi</title>
-    <link>http://localhost:1313/tags/layout/</link>
+    <link>http://konigi.com/tags/layout/</link>
     <description>Recent content in Layout on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/layout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/layout/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Responsive.is: Display and present responsive web designs</title>
-      <link>http://localhost:1313/tools/submissions/responsiveis-display-and-present-responsive-web-designs/</link>
+      <link>http://konigi.com/tools/submissions/responsiveis-display-and-present-responsive-web-designs/</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/responsiveis-display-and-present-responsive-web-designs/</guid>
+      <guid>http://konigi.com/tools/submissions/responsiveis-display-and-present-responsive-web-designs/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://responsive.is/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2688&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fb9445b9db_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://responsive.is/&#34;&gt;Responsive.is&lt;/a&gt; is a clever tool. Enter a URL or append one to &lt;a href=&#34;http://responsive.is/&#34; title=&#34;http://responsive.is&#34;&gt;&lt;a href=&#34;http://responsive.is/&#34;&gt;http://responsive.is&lt;/a&gt;&lt;/a&gt; to view how the layout presents itself on the Desktop, and in tablets and mobile phones.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt522fb9445b9db_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Drawter: DrawAble Markup Language</title>
-      <link>http://localhost:1313/blog/drawter-drawable-markup-language/</link>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/drawter-drawable-markup-language/</guid>
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2261&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://drawter.com/&#34;&gt;Drawter&lt;/a&gt; has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the &lt;a href=&#34;http://drawter.com/screencast/&#34;&gt;screencast&lt;/a&gt;, however, that I really got to see how beautifully it generates markup and css.&lt;/p&gt;&lt;/p&gt;
 
@@ -44,10 +44,10 @@ wt4b44d7a9c3ee4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>jQuery Masonry</title>
-      <link>http://localhost:1313/tools/submissions/jquery-masonry/</link>
+      <link>http://konigi.com/tools/submissions/jquery-masonry/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jquery-masonry/</guid>
+      <guid>http://konigi.com/tools/submissions/jquery-masonry/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2703&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;Masonry&lt;/a&gt; is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.&lt;/p&gt;&lt;/p&gt;
 
@@ -58,10 +58,10 @@ wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Typograph</title>
-      <link>http://localhost:1313/blog/typograph/</link>
+      <link>http://konigi.com/blog/typograph/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/typograph/</guid>
+      <guid>http://konigi.com/blog/typograph/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://lamb.cc/typograph/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2252&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b3cb98295a13_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Iain Lamb&amp;rsquo;s &lt;a href=&#34;http://lamb.cc/typograph/&#34;&gt;Typograph&lt;/a&gt; is cool tool that allows you to explore the relationship between scale and rhythm by modifying the properties of typographic elements in a page of sample text.&lt;/p&gt;&lt;/p&gt;
 
@@ -73,10 +73,10 @@ wt4b3cb98295a13_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Iain Lamb&amp;
     
     <item>
       <title>jQSlickWrap: Text Wrapping Plugin for jQuery</title>
-      <link>http://localhost:1313/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</link>
+      <link>http://konigi.com/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</link>
       <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jwf.us/projects/jQSlickWrap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2782&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230c31ece1e7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jwf.us/projects/jQSlickWrap/&#34;&gt;jQSlickWrap&lt;/a&gt; is a plugin for jQuery that allows you to wrap text around the actual contents of an irregularly-shaped image rather than it&amp;rsquo;s bounding box using CSS floats.&lt;/p&gt;&lt;/p&gt;
 
@@ -87,10 +87,10 @@ wt5230c31ece1e7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Why browser zoom shouldn&#39;t kill flexible layouts</title>
-      <link>http://localhost:1313/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</link>
+      <link>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</link>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
+      <guid>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1764&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a3b8efa6d85f_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zoe Mickley Gillenwater posted &lt;a href=&#34;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&#34;&gt; an interesting article&lt;/a&gt; which makes the argument that browser zoom doesn&amp;rsquo;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&amp;rsquo;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &amp;ldquo;Zoom text only&amp;rdquo; options, e.g. in Firefox and Safari 4.&lt;/p&gt;
 &lt;p&gt;Gillenwater makes the argument that in either use of browser zoom&amp;#8212;normal zoom or text only zoom&amp;#8212;flexible layouts not only give users control, but they also tend not to break and show horiztonal scrollbars. I move between both worlds. On this site, I use fixed widths with flexible em-based type that works well with Zoom Text Only. It&amp;rsquo;s a decision I make knowing that it affects the smaller population that want to use a narrow viewport. But on the enterprise web software I&amp;rsquo;ve done front end development on, I use flexible layouts because of the audience and use. In those cases, designing for smaller laptop and netbooks, as well as mobile devices is a necessity.&lt;/p&gt;
@@ -102,10 +102,10 @@ wt4a3b8efa6d85f_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zoe Mickley Gillen
     
     <item>
       <title>Fixed vs. Fluid vs. Elastic Layout</title>
-      <link>http://localhost:1313/blog/fixed-vs-fluid-vs-elastic-layout/</link>
+      <link>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</link>
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
+      <guid>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1621&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a268cf34724e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine &lt;a href=&#34;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&#34;&gt;compares fixed, fluid, and elastic layout strategies&lt;/a&gt; and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&amp;rsquo;s right for your project. &lt;/p&gt;&lt;/p&gt;
 
@@ -115,10 +115,10 @@ wt4a268cf34724e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine 
     
     <item>
       <title>Distinguishing decorative from meaningful elements in UI design</title>
-      <link>http://localhost:1313/blog/distinguishing-decorative-meaningful-elements-ui-design/</link>
+      <link>http://konigi.com/blog/distinguishing-decorative-meaningful-elements-ui-design/</link>
       <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/distinguishing-decorative-meaningful-elements-ui-design/</guid>
+      <guid>http://konigi.com/blog/distinguishing-decorative-meaningful-elements-ui-design/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.37signals.com/svn/posts/1524-distinguishing-decorative-from-meaningful-elements-in-ui-design&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/37s-github.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Ryan Singer posted a &lt;a href=&#34;http://www.37signals.com/svn/posts/1524-distinguishing-decorative-from-meaningful-elements-in-ui-design&#34;&gt;article on 37 Signals&lt;/a&gt;, deconstructing the design of the global navigation header on Github. In his example he points out the problem with the &amp;ldquo;Repositories: All | Search&amp;rdquo; links in the account box in the upper right of the screen, which suggests that those links are scoped to the user shown in the box. &lt;/p&gt;
 &lt;p&gt;This a great example of how visual grouping and proximity could be more effectively utilized to help users make sense of the available controls. Seems a bit strange to me that the Repositories link is in that area at all. Singer suggests moving the avatar to the right. I might even go further by moving the repository and search links to a different area or better defining the separation of those functions with the user information might be effective in this case. Removing the bounding box certainly helps to alleviate the perception of scoping created by the group, but a better visual structure could be represented here.&lt;/p&gt;&lt;/p&gt;
 
@@ -128,10 +128,10 @@ wt4a268cf34724e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine 
     
     <item>
       <title>Making Modular Layout Systems</title>
-      <link>http://localhost:1313/blog/making-modular-layout-systems/</link>
+      <link>http://konigi.com/blog/making-modular-layout-systems/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/making-modular-layout-systems/</guid>
+      <guid>http://konigi.com/blog/making-modular-layout-systems/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://24ways.org/2008/making-modular-layout-systems&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/jsm-modular-layout.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Santa Maria&amp;rsquo;s &lt;a href=&#34;http://24ways.org/2008/making-modular-layout-systems&#34;&gt;24 Ways entry&lt;/a&gt; provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. &lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://24ways.org/2008/making-modular-layout-systems&#34;&gt;http://24ways.org/2008/making-modular-layout-systems&lt;/a&gt;&lt;/p&gt;
@@ -140,10 +140,10 @@ wt4a268cf34724e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine 
     
     <item>
       <title>web.without.words</title>
-      <link>http://localhost:1313/blog/webwithoutwords/</link>
+      <link>http://konigi.com/blog/webwithoutwords/</link>
       <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/webwithoutwords/</guid>
+      <guid>http://konigi.com/blog/webwithoutwords/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://webwithoutwords.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1380&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt48f36c6669700.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Every week &lt;a href=&#34;http://webwithoutwords.com/&#34;&gt;web.without.words&lt;/a&gt; takes a popular and known website and reconstructs it by removing all words and images, replacing them with blocks (a common &amp;ldquo;concepting&amp;rdquo; phase of any design process).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://theletter.co.uk/&#34;&gt;Via The Letter&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -154,10 +154,10 @@ wt48f36c6669700.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Every week &lt;a hre
     
     <item>
       <title>Placement on a Page: The Missing Ad Metric</title>
-      <link>http://localhost:1313/blog/placement-page-missing-ad-metric/</link>
+      <link>http://konigi.com/blog/placement-page-missing-ad-metric/</link>
       <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/placement-page-missing-ad-metric/</guid>
+      <guid>http://konigi.com/blog/placement-page-missing-ad-metric/</guid>
       <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.paidcontent.org/entry/419-placement-on-a-page-the-missing-ad-metric/&#34;&gt;Paidcontent reports&lt;/a&gt; on a study conducted by MarketingSherpa on advertising bechmarks, which showed the effect of online ad placement in relation to the fold.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;According to the report, most individuals don‘t see most ads served to them—especially ads served below the fold. Despite this result, media delivery reports rarely include information on whether, or what percentage of, a media buy was served above or below the fold. On the chart below, the bottom of the blue area represents the percent of total viewers who see an ad; the top represents the percent of total viewers who scroll to a point where the ad is visible on their screen. Clearly, just being above the fold makes a huge difference.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
 
@@ -167,10 +167,10 @@ wt48f36c6669700.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Every week &lt;a hre
     
     <item>
       <title>Killing Bad Layout Conventions</title>
-      <link>http://localhost:1313/blog/killing-bad-layout-conventions/</link>
+      <link>http://konigi.com/blog/killing-bad-layout-conventions/</link>
       <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/killing-bad-layout-conventions/</guid>
+      <guid>http://konigi.com/blog/killing-bad-layout-conventions/</guid>
       <description>&lt;p&gt;Andy Rutledge &lt;a href=&#34;http://www.andyrutledge.com/bad-layout-conventions.php&#34;&gt;exposes the flaws of an established design conventions&lt;/a&gt;&amp;#8212;the 3 column layout. The layout is typically identified by a wide center column with 2 flanking narrow sidebar, and it can be found on some of the largest and most popular sites, including Amazon.com and Apple.com. Rutledge points out the limitations and inefficiencies of this layout:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Symmetry is usually detrimental to content hierarchy&lt;/li&gt;

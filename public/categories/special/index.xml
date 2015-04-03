@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Special on Konigi</title>
-    <link>http://localhost:1313/categories/special/</link>
+    <link>http://konigi.com/categories/special/</link>
     <description>Recent content in Special on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/special/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/categories/special/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Studio Breaks</title>
-      <link>http://localhost:1313/studio-breaks/</link>
+      <link>http://konigi.com/studio-breaks/</link>
       <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/studio-breaks/</guid>
+      <guid>http://konigi.com/studio-breaks/</guid>
       <description>&lt;ul id=&#34;filter&#34; class=&#34;inline mt0&#34;&gt;
   &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Featured&lt;/a&gt;&lt;/li&gt;

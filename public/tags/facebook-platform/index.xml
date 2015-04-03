@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facebook Platform on Konigi</title>
-    <link>http://localhost:1313/tags/facebook-platform/</link>
+    <link>http://konigi.com/tags/facebook-platform/</link>
     <description>Recent content in Facebook Platform on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Jun 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/facebook-platform/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/facebook-platform/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Facebook Streamlining Application Authorization</title>
-      <link>http://localhost:1313/blog/facebook-streamlining-application-authorization/</link>
+      <link>http://konigi.com/blog/facebook-streamlining-application-authorization/</link>
       <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/facebook-streamlining-application-authorization/</guid>
+      <guid>http://konigi.com/blog/facebook-streamlining-application-authorization/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://developers.facebook.com/news.php?blog=1&amp;amp;story=116&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/facebook-app-login.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Facebook &lt;a href=&#34;http://developers.facebook.com/news.php?blog=1&amp;amp;story=116&#34;&gt;have announced&lt;/a&gt; to developers that they are going to remove the installation requirement screen and allow users to try an application before installing it. What this means is that users won&amp;rsquo;t see the intimidating list of checkboxes to try an application out, and will get to install the application afterwards. This was meant as a preventative measure against spammy methods used by some applications. &lt;/p&gt;
 &lt;p&gt;The developer announcement described the migration to the new requirements.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;When a user goes to an application for the first time and is prompted to log in, she will see a simpler screen, like in the screen shot here. Once a user authorizes your application, you can utilize all the API methods that access information about the user, publish stories to News Feed and Mini-Feed, and send the user notifications.&lt;/p&gt;&lt;/blockquote&gt;

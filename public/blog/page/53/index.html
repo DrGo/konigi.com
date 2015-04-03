@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <link href="/css/konigi.min.css" type="text/css" rel="stylesheet" media="all">
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link rel="canonical" href="http://localhost:1313/blog/">
+  <link rel="canonical" href="http://konigi.com/blog/">
   <link href="http://konigi.com/index.xml" rel="alternate" type="application/rss+xml" title="Konigi">
 </head>
 <body class="">
@@ -44,7 +44,46 @@
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/raphael-javascript-library-vector-graphics/">Raphael JavaScript Library for Vector Graphics</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/mac-tip-mounting-server-automatically/">Mac Tip: Mounting a Server Automatically</a></h2>
+    <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/mounting-mac-server.jpg" class="notebook-image" /></div><p>One of the things I&rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&rsquo;s one of the projects I&rsquo;m working on a preview release of to make the web-based interface a bit more friendly.  </p>
+<p>The thing with Webdav is that I can mount the shared folders in my Mac Finder and drag and drop tons of documents in there without going to the web site. But I don&rsquo;t want to have to manually connect to the shared folder. Luckily it&rsquo;s easy to have the Mac OS automatically connect to servers when you log in. Someone tweeted today wondering how you do that, so I posted a screenshot showing how I&rsquo;ve set up my Mac. You can do the same thing with whatever share point or server you use.</p>
+<p>Here&rsquo;s the steps:</p>
+<ol>
+<li>Make sure you&rsquo;re in the Finder. Connect to the server using menu Go &gt; Connect to Server, or keyboard shortcut Command-K.</li>
+<li>With the volume mounted, open System Preferences &gt; Accounts, and select your user account. Click the Login Items tab (you may need to click the lock icon in the lower left to edit login items).</li>
+<li>Now just drag the mounted volume from the Finder in to your System Preferences &gt; Login Items list.</li>
+</ol>
+<p>That&rsquo;s it. Now your Mac should automatically try to connect to your server volume whenever you log in, and it will show up in your Finder.</p></p>
+</section>
+    <section class="metadata single bottom">
+      <div class="pub-date">Published on Friday, Jan 2, 2009 in <a href="/blog" class="capitalize">blog</a></div>
+      <ul class="tags">
+      
+        <li>
+          <a href="/tags/document-management">document management</a>
+        </li>
+      
+        <li>
+          <a href="/tags/macintosh">Macintosh</a>
+        </li>
+      
+        <li>
+          <a href="/tags/tips">tips</a>
+        </li>
+      
+        <li>
+          <a href="/tags/tutorials">tutorials</a>
+        </li>
+      
+      </ul>
+    </section>
+  </article>
+</div>
+
+
+  <div class="list-node">
+  <article>
+    <h2 class="post-title"><a href="http://konigi.com/blog/raphael-javascript-library-vector-graphics/">Raphael JavaScript Library for Vector Graphics</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><a href="http://raphaeljs.com/"><img src="http://media.konigi.com/notebook/raphaeljs.jpg" class="notebook-image" /></a></div><p>Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.</p>
 <blockquote><p>Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.</p>
 <p>Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later. Raphaël’s goal is to provide an adapter that will make drawing cross-browser and easy.</p></blockquote>
@@ -80,7 +119,7 @@
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/typefacejs-rendering-text-javascript-canvas-and-vml/">typeface.js: Rendering text with Javascript, canvas, and VML</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/">typeface.js: Rendering text with Javascript, canvas, and VML</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><a href="http://typeface.neocracy.org/"><img id='bluga-thumbnail-1430' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
 wt495cc52f28966.jpg'/></a></div><p>I just came across <a href="http://typeface.neocracy.org/">typeface.js</a>, a type face replacement method like <a href="http://wiki.novemberborn.net/sifr/">SIFR</a> and <a href="http://facelift.mawhorter.net/">FLIR</a>, that lets you embed custom fonts in your pages using CSS. On the backend, javscript is used with <canvas> or VML to draw the glyphs for your fonts. </p>
 <p>Compared with SIFR, this suffers from some issues. Biggest one perhaps is that you can&rsquo;t select text since it&rsquo;s rendered as an image. Not so with SIFR. I wouldn&rsquo;t go using this method for body text, but if you&rsquo;re already considering doing image replacement for elements like headings, this would be a library to watch. There&rsquo;s bound to be accessibility improvements in the future using methods that put invisible text over the image, or something like that.</p></p>
@@ -111,7 +150,7 @@ wt495cc52f28966.jpg'/></a></div><p>I just came across <a href="http://typeface.n
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/konigi-twitter-and-facebook/">Konigi on Twitter and Facebook</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/konigi-twitter-and-facebook/">Konigi on Twitter and Facebook</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><a href="http://twitter.com/konigi"><img id='bluga-thumbnail-1428' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
 wt495b9a0894cc6.jpg'/></a></div><p>It seems it&rsquo;s time to start spilling out some of the meta-discussion in my head&ndash;the monologue I guess&ndash;about what I&rsquo;m doing here on Konigi. So I started to post announcements and thoughts about what I&rsquo;m working on with a <a href="http://twitter.com/konigi">Konigi Twitter account</a>.</p>
 <p>Basically, I feel like I want to separate Konigi-specific postings from my regular Twitter stream so I can update interested readers via that account, as well as post more work in progress commentary, observations, and announcements related strictly to Konigi. So if Twitter suits you more than RSS or Email, or if you&rsquo;re interested in my back-channel banter, you can get updates there.</p>
@@ -135,7 +174,7 @@ wt495b9a0894cc6.jpg'/></a></div><p>It seems it&rsquo;s time to start spilling ou
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/ux-london/">UX London</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/ux-london/">UX London</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><a href="http://uxlondon.com/"><img id='bluga-thumbnail-1429' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
 wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> is a three-day event for user experience designers that combines a day of inspirational conference with four half days of practical, in-depth, hands-on workshops, all presented by some of the biggest names in the industry. Speakers include Don Norman, Leisa Reichelt, Dan Saffer, Luke Wroblewski, Jared Spool, Jeff Veen, Eric Reiss, and Peter Merholz. If I were in Europe I&rsquo;d definitely want to be there.</p></p>
 
@@ -157,7 +196,7 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/doing-sketch-iterations/">Doing Sketch Iterations</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/doing-sketch-iterations/">Doing Sketch Iterations</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/sketch-iterations.jpg" class="notebook-image" /></div><p>These are just more illustrations of the process I&rsquo;ve been using for design iterations. When I have the Konigi notebook available, I&rsquo;ll be doing some screencasts to describe this process in detail, and why I felt the need to make these graph paper notebooks and pads.</p>
 <p>What you see above:</p>
 <p>1) Annotated UI Spec (Wireframes) after design review.</p>
@@ -189,7 +228,7 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/input-masks-forms/">Input Masks in Forms</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/input-masks-forms/">Input Masks in Forms</a></h2>
     <section class="article-body"><p><p><a href="http://www.lukew.com/ff/entry.asp?756">Luke Wroblewski pointed</a> to Josh Bush&rsquo;s <a href="http://digitalbush.com/projects/masked-input-plugin/">Masked Input Plugin</a> for JQuery. Luke writes that the plugin &ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&rdquo;</p>
 <p>The video Luke posted to YouTube, and the demo on Bush&rsquo;s site, show how the input mask works. Great example of an elegantly conceived method for error prevention in forms.</p>
 <div class="video">
@@ -233,7 +272,7 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/why-fail-safe-when-you-can-poka-yoke/">Why Fail Safe When You Can Poka-yoke?</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/why-fail-safe-when-you-can-poka-yoke/">Why Fail Safe When You Can Poka-yoke?</a></h2>
     <section class="article-body"><p><p>Poka-Yoke is a Japanese word for &ldquo;fail-safing&rdquo; that I just came across and suspect might be entering my UI vocabulary soon. The entry from Wikipedia:</p>
 <blockquote><p><strong>Poka-yoke</strong> (IPA: [poka joke]) is a Japanese term that means &ldquo;fail-safing&rdquo;, &ldquo;Foolproof&rdquo; or &ldquo;mistake-proofing&rdquo; — avoiding (yokeru) inadvertent errors (poka)) is a behavior-shaping constraint, or a method of preventing errors by putting limits on how an operation can be performed in order to force the correct completion of the operation. The concept was formalised, and the term adopted, by Shigeo Shingo as part of the Toyota Production System. Originally described as Baka-yoke, but as this means &ldquo;fool-proofing&rdquo; (or &ldquo;idiot proofing&rdquo;) the name was changed to the milder Poka-yoke.</p>
 <p>An example includes 3.5&rdquo; floppy disk. The top-right corner is shaped in a certain way so that the disk cannot be inserted upside-down. In the manufacturing world an example might be that the jig for holding pieces for processing only allows pieces to be held in one orientation, or has switches on the jig to detect whether a hole has been previously cut or not, or it might count the number of spot welds created to ensure that, say, four have been executed by the operator.</p></blockquote></p>
@@ -268,7 +307,7 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/cafe-worksketch-kit/">Cafe Work/Sketch Kit</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/cafe-worksketch-kit/">Cafe Work/Sketch Kit</a></h2>
     <section class="article-body"><p><div class="notebook-image"><a href="http://www.flickr.com/photos/jibbajabba/3138042543/" title="Cafe Work/Sketch Kit by jibbajabba, on Flickr"><img src="http://farm4.static.flickr.com/3129/3138042543_c6ea8f8b58.jpg" alt="Cafe Work/Sketch Kit" /></a></div>
 <p>I gave my wife my MacBook to upgrade her from her iBook and got myself a netbook for those times when I&rsquo;m out and need to wait for my son, and for watching Netflix/Hulu/Slingbox in the house. But I&rsquo;m also finding that the netbook, a <a href="http://shop.lenovo.com/us/notebooks/ideapad/s-series">Lenovo Ideapad S10</a>, is really pretty damned sweet for when I want to head out somewhere and do sketches in a cafe. I use it to post to our Traction server while I&rsquo;m sketching. I just have to remember to put it aside so I can concentrate on getting the sketches done.</p>
 <p>The S10 is small, but it sports a 10 inch screen. The only downside I&rsquo;ve experienced so far is that the right shift key is positioned one key to the right, out of the normal positioning. They did this to make room for the directional arrows. I&rsquo;m a touch typist, so I was afraid this would be a deal breaker. It&rsquo;s been about 4 days since I got it, and I&rsquo;m quite used to the positioning now. </p>
@@ -310,7 +349,7 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 
   <div class="list-node">
   <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/happy-holidays-konigi/">Happy Holidays from Konigi</a></h2>
+    <h2 class="post-title"><a href="http://konigi.com/blog/happy-holidays-konigi/">Happy Holidays from Konigi</a></h2>
     <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/happy-holidays-from-konigi.jpg" class="notebook-image" /></div><p>I just wanted to take a moment to thank everyone who took some time out of their busy days to read Konigi this year, to provide their feedback and commentary, to download my tools, to buy notepads, and to help me keep a dialogue going with you, my new and old design and development friends. This has been a very rewarding first year playing with this blog, and I feel light years away from those years spent doing iaslash.</p>
 <p>I wish you all a safe and happy holiday season. I&rsquo;ll be slowing down quite a bit in the next few weeks to spend time with my family, but will return in the next few months with some improvements and surprises on this site. </p>
 <p>-Michael</p></p>
@@ -321,32 +360,6 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
       
         <li>
           <a href="/tags/announcement">announcement</a>
-        </li>
-      
-      </ul>
-    </section>
-  </article>
-</div>
-
-
-  <div class="list-node">
-  <article>
-    <h2 class="post-title"><a href="http://localhost:1313/blog/christmas-time-easter-egg-flickr/">A Christmas Time Easter Egg on Flickr</a></h2>
-    <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.flickr.com/photos/jibbajabba/3118649132/"><img src="http://media.konigi.com/notebook/flickr-xmas-easter-egg.jpg" class="notebook-image" /></a></div><p>That&rsquo;s BJ Fogg in my wireframe screenshot on <a href="http://flickr.com/">Flickr</a>, sporting a Santa hat and beard. </p>
-<p>This was spotted via <a href="http://lifehacker.com/">Lifehacker</a>. Add a note with the text &ldquo;ho ho ho hat&rdquo; to get the hat, and &ldquo;ho ho ho beard&rdquo; for the beard. I &#9829; Flickr.</p></p>
-
-<p><a href="http://www.flickr.com/photos/jibbajabba/3118649132/">http://www.flickr.com/photos/jibbajabba/3118649132/</a></p>
-</section>
-    <section class="metadata single bottom">
-      <div class="pub-date">Published on Thursday, Dec 18, 2008 in <a href="/blog" class="capitalize">blog</a></div>
-      <ul class="tags">
-      
-        <li>
-          <a href="/tags/easter-eggs">easter eggs</a>
-        </li>
-      
-        <li>
-          <a href="/tags/funny">funny</a>
         </li>
       
       </ul>
@@ -660,9 +673,6 @@ wt495c24651c110.jpg'/></a></div><p><a href="http://uxlondon.com/">UX London</a> 
 <script src="/js/jquery.fancybox.js"></script>
 <script src="/js/konigi.min.js"></script>
 
-<script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
+</body>
 </html>
 

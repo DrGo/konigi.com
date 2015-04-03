@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Browser Extensions on Konigi</title>
-    <link>http://localhost:1313/tags/web-browser-extensions/</link>
+    <link>http://konigi.com/tags/web-browser-extensions/</link>
     <description>Recent content in Web Browser Extensions on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 May 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/web-browser-extensions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/web-browser-extensions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GridFox - The Grid Layout Firefox Extension</title>
-      <link>http://localhost:1313/tools/submissions/gridfox-grid-layout-firefox-extension/</link>
+      <link>http://konigi.com/tools/submissions/gridfox-grid-layout-firefox-extension/</link>
       <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/gridfox-grid-layout-firefox-extension/</guid>
+      <guid>http://konigi.com/tools/submissions/gridfox-grid-layout-firefox-extension/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.puidokas.com/portfolio/gridfox/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2798&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230f8c4041f5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.puidokas.com/portfolio/gridfox/&#34;&gt;GridFox&lt;/a&gt; is a Firefox extension that overlays a grid on any website. If you can open it in Firefox, you can put a grid on top of it. It’s easy to customize, allowing you to create the exact grid you designed your layout around.&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://digitalweb.tumblr.com/&#34;&gt;DigitalWeb&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;

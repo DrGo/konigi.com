@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Process on Konigi</title>
-    <link>http://localhost:1313/tags/process/</link>
+    <link>http://konigi.com/tags/process/</link>
     <description>Recent content in Process on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Nov 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What do you call...</title>
-      <link>http://localhost:1313/blog/what-do-you-call/</link>
+      <link>http://konigi.com/blog/what-do-you-call/</link>
       <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what-do-you-call/</guid>
+      <guid>http://konigi.com/blog/what-do-you-call/</guid>
       <description>&lt;p&gt;After repeatedly using a pattern of term + description to describe something, I wondered if other people in my Twitter-sphere used the same or similar language to describe a common artifact. &lt;/p&gt;
 &lt;p&gt;My question started:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;I was wondering if people used different terms to describe either drawings made in software or on paper that describe a screen view at a high level of abstraction that uses only lines and labels.&lt;/p&gt;&lt;/blockquote&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Why Invest in Sketching?</title>
-      <link>http://localhost:1313/blog/why-invest-sketching/</link>
+      <link>http://konigi.com/blog/why-invest-sketching/</link>
       <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/why-invest-sketching/</guid>
+      <guid>http://konigi.com/blog/why-invest-sketching/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Jumping in and immediately starting to build the product, even if it does get completed and ship, is almost guaranteed to produce a mediocre product in which there is little innovation or market differentiation. When you have only one kick at the can, the behaviour of the entire team and process is as predictable as it will be pedestrian.&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Bill Buxton in &lt;em&gt;Sketching the User Experience&lt;/em&gt;&lt;br /&gt;
 Buxton writes in this passage on the impact of iterative sketching on risk, exploration and innovation.&lt;/p&gt;
@@ -42,10 +42,10 @@ Buxton writes in this passage on the impact of iterative sketching on risk, expl
     
     <item>
       <title>Have a nice day</title>
-      <link>http://localhost:1313/blog/have-nice-day/</link>
+      <link>http://konigi.com/blog/have-nice-day/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/have-nice-day/</guid>
+      <guid>http://konigi.com/blog/have-nice-day/</guid>
       <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.&lt;/p&gt;
@@ -70,10 +70,10 @@ Buxton writes in this passage on the impact of iterative sketching on risk, expl
     
     <item>
       <title>Sarah Sampsel on Designing The Washington Post for iPad</title>
-      <link>http://localhost:1313/blog/sarah-sampsel-designing-washington-post-ipad/</link>
+      <link>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</link>
       <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sarah-sampsel-designing-washington-post-ipad/</guid>
+      <guid>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2455&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4cdc1064e10d5_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sarah Sampsel wrote about designing the Washington Post iPad app, in 2 entries describing a little bit about the process. The &lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/08/designing-the-washington-post-app-for-ipad/&#34;&gt;first entry&lt;/a&gt; describes the types of interaction, visual design, and brand issues she had to consider when designing for the device. &lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&#34;&gt;The second shows a few wireframes&lt;/a&gt; of the evolution of the home screen design.&lt;/p&gt;&lt;/p&gt;
 
@@ -85,10 +85,10 @@ wt4cdc1064e10d5_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sarah Sampsel 
     
     <item>
       <title>POTD: J.K. Rowlings Plot Spreadsheet for Harry Potter and the Order of the Phoenix</title>
-      <link>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</link>
+      <link>http://konigi.com/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</link>
       <pubDate>Fri, 22 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</guid>
+      <guid>http://konigi.com/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1187/5104558387_88ff2b5cd7_o.png&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt;Love &lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;this post on /Film&lt;/a&gt; showing a few artifacts from J.K. Rowling&amp;rsquo;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&amp;rsquo;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Rowling outlines each chapter in detail including which month of the school year it takes place in, the title and the plot. All of that seems standard. But it’s the next few columns where things get really good.&lt;/p&gt;
@@ -102,10 +102,10 @@ wt4cdc1064e10d5_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sarah Sampsel 
     
     <item>
       <title>Overhauling Balsamiq.com</title>
-      <link>http://localhost:1313/blog/overhauling-balsamiqcom/</link>
+      <link>http://konigi.com/blog/overhauling-balsamiqcom/</link>
       <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/overhauling-balsamiqcom/</guid>
+      <guid>http://konigi.com/blog/overhauling-balsamiqcom/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2446&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4cb905716017f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;We launched an overhauled Balsamiq.com this week and I &lt;a href=&#34;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&#34;&gt;wrote about the effort&lt;/a&gt;. In addition to doing interface design on the product (myBalsamiq mostly up to now) I also get to be the &amp;quot;webmaster.&amp;quot; :) What that means in our small startup is doing the user research, interface design, visual design, and front end development. If you know me, you know that I dig getting to do more than one thing, so that&amp;rsquo;s a win.&lt;/p&gt;&lt;/p&gt;
 
@@ -117,10 +117,10 @@ wt4cb905716017f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;We launched an
     
     <item>
       <title>Shades of Grey: Wireframes as Thinking Device</title>
-      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <link>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
 &lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;
@@ -134,10 +134,10 @@ wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans wri
     
     <item>
       <title>Designing OmniGraphSketcher for the iPad </title>
-      <link>http://localhost:1313/blog/designing-omnigraphsketcher-ipad/</link>
+      <link>http://konigi.com/blog/designing-omnigraphsketcher-ipad/</link>
       <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-omnigraphsketcher-ipad/</guid>
+      <guid>http://konigi.com/blog/designing-omnigraphsketcher-ipad/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2319&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group posted some photos and a little story about their progress working on &lt;a href=&#34;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&#34;&gt;prototypes for the OmniGraphSketcher for the iPad&lt;/a&gt;. The app is a simple graph drawing and data plotting tool that they&amp;rsquo;re creating an iPad version of. Apparently no one at Omni Group is sleeping much while their iPad apps are being developed, but they are doing some interesting things with hardware prototypes, including mocking up the hardware with 3d printers.&lt;/p&gt;&lt;/p&gt;
 
@@ -147,10 +147,10 @@ wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group
     
     <item>
       <title>Michael Bierut: 5 Secrets from 86 Notebooks</title>
-      <link>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</link>
+      <link>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</link>
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</guid>
+      <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object type=&#34;application/x-shockwave-flash&#34; width=&#34;572&#34; height=&#34;429&#34; data=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34;&gt;  &lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;scale&#34; value=&#34;showAll&#34; /&gt;  &lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34; /&gt; &lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.&lt;/p&gt;
@@ -163,10 +163,10 @@ wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group
     
     <item>
       <title>The 10% Myth and How to Put Your Creative Process on Autopilot</title>
-      <link>http://localhost:1313/blog/10-myth-and-how-put-your-creative-process-autopilot/</link>
+      <link>http://konigi.com/blog/10-myth-and-how-put-your-creative-process-autopilot/</link>
       <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/10-myth-and-how-put-your-creative-process-autopilot/</guid>
+      <guid>http://konigi.com/blog/10-myth-and-how-put-your-creative-process-autopilot/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;What if we could eliminate noise and give our brains space to do harder work or process different things?&lt;/p&gt;
 &lt;h3&gt;The Costanza Principle&lt;/h3&gt;
 &lt;p&gt;There&#39;s a particularly funny episode of Seinfeld titled &#34;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Abstinence&#34;&gt;The Abstinence&lt;/a&gt;,&#34; where George abstains from sex because his girlfriend has Mono, and strange things begin to happen to the serial underachiever. He appears to utilize more of his brain and becomes mentally sharp. He remembers where he left things years ago. He starts to read and understands math. He becomes more intelligent. Of course he ruined it all in a weak moment with a comely waitress.&lt;/p&gt;
@@ -190,10 +190,10 @@ wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group
     
     <item>
       <title>Wireframing over the shoulder</title>
-      <link>http://localhost:1313/blog/wireframing-over-shoulder/</link>
+      <link>http://konigi.com/blog/wireframing-over-shoulder/</link>
       <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/wireframing-over-shoulder/</guid>
+      <guid>http://konigi.com/blog/wireframing-over-shoulder/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object classid=&#34;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&#34; width=&#34;437&#34; height=&#34;370&#34; id=&#34;viddler&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.viddler.com/player/3ff47344/&#34; /&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;embed src=&#34;http://www.viddler.com/player/3ff47344/&#34; width=&#34;437&#34; height=&#34;370&#34; type=&#34;application/x-shockwave-flash&#34; allowScriptAccess=&#34;always&#34; allowFullScreen=&#34;true&#34; name=&#34;viddler&#34; &gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is a video on From The Couch podcast showing David Perel sketching wireframes for the Obox Theme. The first half shows David sketching, and during the second half he talks through the interface.&lt;/p&gt;
@@ -205,10 +205,10 @@ wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group
     
     <item>
       <title>That design is money! Pentagram redesigns an ATM UI</title>
-      <link>http://localhost:1313/blog/design-money-pentagram-redesigns-atm-ui/</link>
+      <link>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</link>
       <pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/design-money-pentagram-redesigns-atm-ui/</guid>
+      <guid>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://physicalinterface.com/view/that-design-is-money&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1843&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a6db524a8304_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Holger Struppek has written an article describing the design and prototyping process for the &lt;a href=&#34;http://physicalinterface.com/view/that-design-is-money&#34;&gt;redesign of the Wells Fargo ATM&lt;/a&gt; user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.&lt;/p&gt;
 &lt;p&gt;The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design. There&amp;rsquo;s some discussion of research considerations (environment, check scanning concerns), and excellent description of the design choices for button design, layout, and behavior, including the smart shortcut feature, which acts as a history-based shortcuts area for frequently-used features, and a deep look at the check deposit flow. I also appreciated the description of the physical factors of ATM screens and environments that affected contrast and positioning of controls.&lt;/p&gt;&lt;/p&gt;
@@ -219,10 +219,10 @@ wt4a6db524a8304_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Holger Struppek ha
     
     <item>
       <title>A Dialogue on Design With Intent</title>
-      <link>http://localhost:1313/blog/dialogue-design-intent/</link>
+      <link>http://konigi.com/blog/dialogue-design-intent/</link>
       <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dialogue-design-intent/</guid>
+      <guid>http://konigi.com/blog/dialogue-design-intent/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://designmind.frogdesign.com/articles/power/design-with-intent.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1771&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a3fa566cf438_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&amp;rsquo;s desire to influence. The first is Robert Fabricant&amp;rsquo;s article on &lt;a href=&#34;http://designmind.frogdesign.com/articles/power/design-with-intent.html&#34;&gt;&amp;ldquo;Design with Intent: how designers can influence behavior&amp;rdquo;&lt;/a&gt;, and the follow up is Dan Lockton&amp;rsquo;s &lt;a href=&#34;http://architectures.danlockton.co.uk/2009/06/14/frog-design-on-design-with-intent/&#34;&gt;&amp;ldquo;frog design on Design with Intent&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;User centered design focuses primarily on user needs and  research and decision making must support these needs. Because of this, the argument being made by Frog Design&amp;rsquo;s Robert Fabricant is that UCD puts designers a step removed from playing an active role in influencing behavior in ways reflective of their own values and judgement, and the desire to engage more directly has led designers to push outside of the boundaries of the purist&amp;rsquo;s definition of UCD practice. &lt;/p&gt;
@@ -237,10 +237,10 @@ wt4a3fa566cf438_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I enjoyed reading 
     
     <item>
       <title>Highrise Contacts Design Exploration</title>
-      <link>http://localhost:1313/blog/highrise-contacts-design-exploration/</link>
+      <link>http://konigi.com/blog/highrise-contacts-design-exploration/</link>
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/highrise-contacts-design-exploration/</guid>
+      <guid>http://konigi.com/blog/highrise-contacts-design-exploration/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1604&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a12bbb79d99b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars describes the &lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;explorations and iterations&lt;/a&gt; over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. &lt;/p&gt;&lt;/p&gt;
 
@@ -250,10 +250,10 @@ wt4a12bbb79d99b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars descri
     
     <item>
       <title>User Research for Personas and Other Audience Models</title>
-      <link>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</link>
+      <link>http://konigi.com/blog/user-research-personas-and-other-audience-models/</link>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</guid>
+      <guid>http://konigi.com/blog/user-research-personas-and-other-audience-models/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1593&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4a03272610c42.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In UX Matters, Steve Baty describes the &lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;user research methodologies&lt;/a&gt; we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.&lt;/p&gt;&lt;/p&gt;
 

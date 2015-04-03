@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Color Blindness on Konigi</title>
-    <link>http://localhost:1313/tags/color-blindness/</link>
+    <link>http://konigi.com/tags/color-blindness/</link>
     <description>Recent content in Color Blindness on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/color-blindness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/color-blindness/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contrast-A: Find Accessible Color Combinations</title>
-      <link>http://localhost:1313/tools/submissions/contrast-find-accessible-color-combinations/</link>
+      <link>http://konigi.com/tools/submissions/contrast-find-accessible-color-combinations/</link>
       <pubDate>Fri, 03 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/contrast-find-accessible-color-combinations/</guid>
+      <guid>http://konigi.com/tools/submissions/contrast-find-accessible-color-combinations/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.dasplankton.de/ContrastA/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2750&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230417827442_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.dasplankton.de/ContrastA/&#34;&gt;Contrast-A&lt;/a&gt; allows you to experiment with color combinations, examine them using accessibility guidelines and, create custom color palettes. The app checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5230417827442_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>We are Colorblind Relaunches</title>
-      <link>http://localhost:1313/blog/we-are-colorblind-relaunches/</link>
+      <link>http://konigi.com/blog/we-are-colorblind-relaunches/</link>
       <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/we-are-colorblind-relaunches/</guid>
+      <guid>http://konigi.com/blog/we-are-colorblind-relaunches/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wearecolorblind.com/examples&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2560&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4f55447a7d9ca_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Tom van Beveren re-launches We are Colorblind. The site is restarting from scratch with new &lt;a href=&#34;http://wearecolorblind.com/articles&#34;&gt;articles&lt;/a&gt; and &lt;a href=&#34;http://wearecolorblind.com/examples&#34;&gt;examples&lt;/a&gt; of good and bad uses of color in terms of how those design decisions affect people with colorblindness. When you mouse over the examples, the screenshots allow you to compare the example with normal vison and simulated colorblindness. He also presents excellent examples for how these interfaces can be improved to become more accessible.&lt;/p&gt;&lt;/p&gt;
 
@@ -38,10 +38,10 @@ wt4f55447a7d9ca_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Tom van Bevere
     
     <item>
       <title>Color Scheme Designer 3</title>
-      <link>http://localhost:1313/tools/submissions/color-scheme-designer-3/</link>
+      <link>http://konigi.com/tools/submissions/color-scheme-designer-3/</link>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/color-scheme-designer-3/</guid>
+      <guid>http://konigi.com/tools/submissions/color-scheme-designer-3/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://colorschemedesigner.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2678&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fae33d4b7d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Petr Stanicek&amp;rsquo;s &lt;a href=&#34;http://colorschemedesigner.com/&#34;&gt;Color Scheme Designer&lt;/a&gt; is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.&lt;/p&gt;&lt;/p&gt;
 
@@ -52,10 +52,10 @@ wt522fae33d4b7d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Petr Stanicek
     
     <item>
       <title>Chrometric: Color Blindness Simulator</title>
-      <link>http://localhost:1313/tools/submissions/chrometric-color-blindness-simulator/</link>
+      <link>http://konigi.com/tools/submissions/chrometric-color-blindness-simulator/</link>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/chrometric-color-blindness-simulator/</guid>
+      <guid>http://konigi.com/tools/submissions/chrometric-color-blindness-simulator/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://enably.com/chrometric/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2665&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fa1e4974bf_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://enably.com/chrometric/&#34;&gt;Chrometric&lt;/a&gt; is an excellent color application that simulates eight types of color blindness, blur (&amp;quot;forgotten glasses&amp;quot;), and reduced contrast (a.k.a my laptop screen on a sunny day). It is essentially a web browser, and allows you to check webpage address you enter into it. It&amp;rsquo;s an Adobe AIR, so it works on Mac/Linux/Win.&lt;/p&gt;&lt;/p&gt;
 
@@ -66,10 +66,10 @@ wt522fa1e4974bf_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>We are Colorblind</title>
-      <link>http://localhost:1313/blog/we-are-colorblind/</link>
+      <link>http://konigi.com/blog/we-are-colorblind/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/we-are-colorblind/</guid>
+      <guid>http://konigi.com/blog/we-are-colorblind/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wearecolorblind.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1894&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ab786bb0894e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://wearecolorblind.com/&#34;&gt;Wearecolorblind.com&lt;/a&gt; is a website about colorblindness created by Tom van Beveren. Van Beveren discusses good and bad examples of interfaces, charts and diagrams with respect to how they are viewed by color-blind users. He also provides patterns and suggestions for improving their accessibility. &lt;/p&gt;
 &lt;p&gt;Would be excellent to pass some of the examples through some of the &lt;a href=&#34;../tools/submissions/color-deficit-simulators.html&#34;&gt;simulators&lt;/a&gt; I recommend.&lt;/p&gt;&lt;/p&gt;
@@ -80,10 +80,10 @@ wt4ab786bb0894e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Be Kind to the Color Blind</title>
-      <link>http://localhost:1313/blog/be-kind-color-blind/</link>
+      <link>http://konigi.com/blog/be-kind-color-blind/</link>
       <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/be-kind-color-blind/</guid>
+      <guid>http://konigi.com/blog/be-kind-color-blind/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/particletree-colorblind.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Chris Campbell or Particle Tree provides an excellent &lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;set of guidelines&lt;/a&gt; and examples for designing with users with color deficiencies in mind.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://particletree.com/features/interfaces-and-color-blindness/&#34;&gt;http://particletree.com/features/interfaces-and-color-blindness/&lt;/a&gt;&lt;/p&gt;
@@ -92,10 +92,10 @@ wt4ab786bb0894e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Color Deficit Simulators</title>
-      <link>http://localhost:1313/tools/submissions/color-deficit-simulators/</link>
+      <link>http://konigi.com/tools/submissions/color-deficit-simulators/</link>
       <pubDate>Sun, 18 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/color-deficit-simulators/</guid>
+      <guid>http://konigi.com/tools/submissions/color-deficit-simulators/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://michelf.com/projects/sim-daltonism/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2363/2504760137_46933438f5_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;There are several applications and web services that help you determine if the colors used in your designs will be accessible to users that cannot view all colors. My personal favorite is the Sim Daltonism app for the Mac (pictured above). &lt;/p&gt;
 &lt;ul&gt;

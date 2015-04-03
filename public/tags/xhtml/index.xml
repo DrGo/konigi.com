@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xhtml on Konigi</title>
-    <link>http://localhost:1313/tags/xhtml/</link>
+    <link>http://konigi.com/tags/xhtml/</link>
     <description>Recent content in Xhtml on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jul 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/xhtml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/xhtml/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DataTables (table plug-in for jQuery)</title>
-      <link>http://localhost:1313/tools/submissions/datatables-table-plug-jquery/</link>
+      <link>http://konigi.com/tools/submissions/datatables-table-plug-jquery/</link>
       <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/datatables-table-plug-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/datatables-table-plug-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.datatables.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2743&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt523020c70101c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;DataTables is a plug-in for the jQuery Javascript library. It is flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table. Key features:&lt;/p&gt;&lt;/p&gt;
 
@@ -41,10 +41,10 @@ wt523020c70101c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;DataTables is
     
     <item>
       <title>jQuery Masonry</title>
-      <link>http://localhost:1313/tools/submissions/jquery-masonry/</link>
+      <link>http://konigi.com/tools/submissions/jquery-masonry/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jquery-masonry/</guid>
+      <guid>http://konigi.com/tools/submissions/jquery-masonry/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2703&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://desandro.com/resources/jquery-masonry&#34;&gt;Masonry&lt;/a&gt; is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.&lt;/p&gt;&lt;/p&gt;
 
@@ -55,10 +55,10 @@ wt522fce77ea34c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>UKI: Simple UI Kit for complex web apps</title>
-      <link>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
+      <link>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
+      <guid>http://konigi.com/tools/submissions/uki-simple-ui-kit-complex-web-apps/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2675&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://ukijs.org/&#34;&gt;Uki&lt;/a&gt; is a fast and simple JavaScript user interface toolkit for desktop-like web applications. It comes with a rich view-component library ranging from Slider to List and SplitPane.&lt;/p&gt;&lt;/p&gt;
 
@@ -69,10 +69,10 @@ wt522faa46a8d88_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Easy front-end framework</title>
-      <link>http://localhost:1313/tools/submissions/easy-front-end-framework/</link>
+      <link>http://konigi.com/tools/submissions/easy-front-end-framework/</link>
       <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/easy-front-end-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/easy-front-end-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://easyframework.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2770&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52307ac506f3c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://easyframework.com/&#34;&gt;Easy Framework&lt;/a&gt; is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.&lt;/p&gt;&lt;/p&gt;
 
@@ -83,10 +83,10 @@ wt52307ac506f3c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
-      <link>http://localhost:1313/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
+      <link>http://konigi.com/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
       <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
+      <guid>http://konigi.com/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt; is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. &lt;/p&gt;
 &lt;p&gt;The demo video below shows Zen Coding in action.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
@@ -101,10 +101,10 @@ wt52307ac506f3c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>StaticMatic: Static HTML building framework</title>
-      <link>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</link>
+      <link>http://konigi.com/tools/submissions/staticmatic-static-html-building-framework/</link>
       <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</guid>
+      <guid>http://konigi.com/tools/submissions/staticmatic-static-html-building-framework/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2740&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230077c0e9ba_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;StaticMatic&lt;/a&gt; is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.&lt;/p&gt;&lt;/p&gt;
 
@@ -117,10 +117,10 @@ wt5230077c0e9ba_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>jQSlickWrap: Text Wrapping Plugin for jQuery</title>
-      <link>http://localhost:1313/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</link>
+      <link>http://konigi.com/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</link>
       <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</guid>
+      <guid>http://konigi.com/tools/submissions/jqslickwrap-text-wrapping-plugin-jquery/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jwf.us/projects/jQSlickWrap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2782&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230c31ece1e7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jwf.us/projects/jQSlickWrap/&#34;&gt;jQSlickWrap&lt;/a&gt; is a plugin for jQuery that allows you to wrap text around the actual contents of an irregularly-shaped image rather than it&amp;rsquo;s bounding box using CSS floats.&lt;/p&gt;&lt;/p&gt;
 
@@ -131,10 +131,10 @@ wt5230c31ece1e7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>When can I use... (Browser Technology Compatibility Table)</title>
-      <link>http://localhost:1313/tools/submissions/when-can-i-use-browser-technology-compatibility-table/</link>
+      <link>http://konigi.com/tools/submissions/when-can-i-use-browser-technology-compatibility-table/</link>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/when-can-i-use-browser-technology-compatibility-table/</guid>
+      <guid>http://konigi.com/tools/submissions/when-can-i-use-browser-technology-compatibility-table/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://a.deveria.com/caniuse/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2803&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52311a5dcc9f8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://a.deveria.com/caniuse/&#34;&gt;When can I use&lt;/a&gt; is a browser compatibility table for features in HTML5, CSS3, SVG and other upcoming web technologies. Select the technologies/standards you want to implement and the browsers you want to test. Color coded tables show which browser versions will support what you&amp;rsquo;ve selected.&lt;/p&gt;&lt;/p&gt;
 
@@ -145,10 +145,10 @@ wt52311a5dcc9f8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>SlickMap CSS: HTML Sitemapping Tool</title>
-      <link>http://localhost:1313/tools/submissions/slickmap-css-html-sitemapping-tool/</link>
+      <link>http://konigi.com/tools/submissions/slickmap-css-html-sitemapping-tool/</link>
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/slickmap-css-html-sitemapping-tool/</guid>
+      <guid>http://konigi.com/tools/submissions/slickmap-css-html-sitemapping-tool/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://astuteo.com/slickmap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2731&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ffa4bf0257_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Matt Everson of Astuteo has created &lt;a href=&#34;http://astuteo.com/slickmap/&#34;&gt;SlickMap CSS&lt;/a&gt;, a simple stylesheet for displaying finished sitemaps directly from HTML unordered list navigation. It’s suitable for most web sites – accommodating up to three levels of page navigation and additional utility links – and can easily be customized to meet your own individual needs, branding, or style preferences.&lt;/p&gt;
 &lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://astuteo.com/slickmap/&#34;&gt;David Kaneda&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
@@ -160,10 +160,10 @@ wt522ffa4bf0257_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Matt Everson 
     
     <item>
       <title>PolyPage HTML Prototyping Javascript Library</title>
-      <link>http://localhost:1313/tools/submissions/polypage-html-prototyping-javascript-library/</link>
+      <link>http://konigi.com/tools/submissions/polypage-html-prototyping-javascript-library/</link>
       <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/polypage-html-prototyping-javascript-library/</guid>
+      <guid>http://konigi.com/tools/submissions/polypage-html-prototyping-javascript-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://code.new-bamboo.co.uk/polypage/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2726&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522ff1d54584c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://code.new-bamboo.co.uk/polypage/&#34;&gt;Polypage&lt;/a&gt; is a JQuery-based HTML prototyping javascript library that was designed to ease the process of showing multiple page states in html mock-ups. By adding simply adding class names to a document you can imply state and conditional view logic. Brilliant.&lt;/p&gt;&lt;/p&gt;
 
@@ -174,10 +174,10 @@ wt522ff1d54584c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Textism Word HTML Cleaner</title>
-      <link>http://localhost:1313/tools/submissions/textism-word-html-cleaner/</link>
+      <link>http://konigi.com/tools/submissions/textism-word-html-cleaner/</link>
       <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/textism-word-html-cleaner/</guid>
+      <guid>http://konigi.com/tools/submissions/textism-word-html-cleaner/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://textism.com/wordcleaner/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2840&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52333bb6ba7fd_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In my old days working on a corporate portal, I occasionally had to take someone&amp;rsquo;s HTML, which was generated by Microsoft Word, and drop it into an entry on a CMS. But before I could just cut and paste, I had to run a series of regular expression replacements in vi or Allaire HomeSite to strip out any of the god awful HTML that Word generated. To pay homage to the past, fate recently dropped a Word HTML file in my lap. I was surprised to see how much cleaner the HTML was, but it was still pretty awful and full of excessive markup cruft.&lt;/p&gt;
 &lt;p&gt;Doing a search today for Word HTML cleanup turns up &lt;a href=&#34;http://textism.com/wordcleaner/&#34;&gt;Textism&amp;rsquo;s excellent Word Cleaner&lt;/a&gt; service, which allows you to upload a Word HTML file, and then spits out cleaned HTML ready for you to use in your blog or CMS. It worked out perfectly for me. I only wish this were around 10 years ago!&lt;/p&gt;&lt;/p&gt;

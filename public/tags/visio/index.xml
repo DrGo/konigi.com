@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visio on Konigi</title>
-    <link>http://localhost:1313/tags/visio/</link>
+    <link>http://konigi.com/tags/visio/</link>
     <description>Recent content in Visio on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/visio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/visio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>zef[a]media UX Templates</title>
-      <link>http://localhost:1313/tools/submissions/zefamedia-ux-templates/</link>
+      <link>http://konigi.com/tools/submissions/zefamedia-ux-templates/</link>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/zefamedia-ux-templates/</guid>
+      <guid>http://konigi.com/tools/submissions/zefamedia-ux-templates/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.zefamedia.com/websites/free-ux-templates/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2787&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230d0c5a3b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt5230d0c5a3b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;zef[a]media&a
     
     <item>
       <title>Touchscreen Stencils</title>
-      <link>http://localhost:1313/tools/submissions/touchscreen-stencils/</link>
+      <link>http://konigi.com/tools/submissions/touchscreen-stencils/</link>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/touchscreen-stencils/</guid>
+      <guid>http://konigi.com/tools/submissions/touchscreen-stencils/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2709&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of Kicker Studio provides &lt;a href=&#34;http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/&#34;&gt;free touch screen gesture stencils&lt;/a&gt; for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, &lt;em&gt;Designing Gestural Interfaces&lt;/em&gt;, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.&lt;/p&gt;&lt;/p&gt;
 
@@ -39,10 +39,10 @@ wt522fd9c86a764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Dan Saffer of
     
     <item>
       <title>Sketchy Wireframes for Visio</title>
-      <link>http://localhost:1313/blog/sketchy-wireframes-visio/</link>
+      <link>http://konigi.com/blog/sketchy-wireframes-visio/</link>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sketchy-wireframes-visio/</guid>
+      <guid>http://konigi.com/blog/sketchy-wireframes-visio/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://wireframes.linowski.ca/?p=445&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1516&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49abea9050324.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;m guessing many Visio users out there already know about it, but in case you don&amp;rsquo;t, Wireframes Magazine points to Niklas Wolkert&amp;rsquo;s &lt;a href=&#34;http://www.guuui.com/issues/02_07.php&#34;&gt;Sketchy UI Shapes&lt;/a&gt;  (found on Henrik Olsen&amp;rsquo;s GUUUI) and the updated &lt;a href=&#34;http://www.abbett.org/2008/05/27/updated-sketch-gui-shapes-for-visio/&#34;&gt;Updated Sketch shapes&lt;/a&gt; by Jonathan Abbett. &lt;/p&gt;&lt;/p&gt;
 

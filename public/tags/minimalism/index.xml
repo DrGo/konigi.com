@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimalism on Konigi</title>
-    <link>http://localhost:1313/tags/minimalism/</link>
+    <link>http://konigi.com/tags/minimalism/</link>
     <description>Recent content in Minimalism on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 May 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/minimalism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/minimalism/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The more you know, the less you need.</title>
-      <link>http://localhost:1313/blog/more-you-know-less-you-need/</link>
+      <link>http://konigi.com/blog/more-you-know-less-you-need/</link>
       <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/more-you-know-less-you-need/</guid>
+      <guid>http://konigi.com/blog/more-you-know-less-you-need/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau&#39;s advice: &#39;I say beware of all enterprises that require new clothes...&#39;&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Yvon Chouinard in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838&#34;&gt;Let My People Go Surfing&lt;/a&gt;&lt;/em&gt;.&lt;br /&gt;
 Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He was writing about product design in the quote above. &lt;/p&gt;
@@ -24,10 +24,10 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He 
     
     <item>
       <title>Sensible Defaults</title>
-      <link>http://localhost:1313/blog/sensible-defaults/</link>
+      <link>http://konigi.com/blog/sensible-defaults/</link>
       <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sensible-defaults/</guid>
+      <guid>http://konigi.com/blog/sensible-defaults/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Patrick Rhone&lt;/p&gt;
     

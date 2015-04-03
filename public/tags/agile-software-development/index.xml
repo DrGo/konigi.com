@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile Software Development on Konigi</title>
-    <link>http://localhost:1313/tags/agile-software-development/</link>
+    <link>http://konigi.com/tags/agile-software-development/</link>
     <description>Recent content in Agile Software Development on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pivot Mac for PivotalTracker</title>
-      <link>http://localhost:1313/tools/submissions/pivot-mac-pivotaltracker/</link>
+      <link>http://konigi.com/tools/submissions/pivot-mac-pivotaltracker/</link>
       <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/pivot-mac-pivotaltracker/</guid>
+      <guid>http://konigi.com/tools/submissions/pivot-mac-pivotaltracker/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://pivot.fousa.be/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2857&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5254440d2af1e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I was looking for a way to add stories to Pivotal Tracker without having to load their UI in the web browser. I wanted something as fast as using Alfred, and found Jelle Vandebeeck&amp;rsquo;s &lt;a href=&#34;http://pivot.fousa.be/&#34;&gt;Pivot App&lt;/a&gt; for the Mac.&lt;/p&gt;&lt;/p&gt;
 

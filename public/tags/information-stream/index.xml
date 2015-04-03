@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information Stream on Konigi</title>
-    <link>http://localhost:1313/tags/information-stream/</link>
+    <link>http://konigi.com/tags/information-stream/</link>
     <description>Recent content in Information Stream on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/information-stream/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/information-stream/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Larva Labs Intelligent Home Screen</title>
-      <link>http://localhost:1313/blog/larva-labs-intelligent-home-screen/</link>
+      <link>http://konigi.com/blog/larva-labs-intelligent-home-screen/</link>
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/larva-labs-intelligent-home-screen/</guid>
+      <guid>http://konigi.com/blog/larva-labs-intelligent-home-screen/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://larvalabs.com/product_pages/intelligent_home_screen.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1895&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ab7c101ecefa.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Larva Labs&amp;rsquo; Intelligent Home Screen is a home screen replacement for Google Android devices that provides an information stream or feed. &lt;/p&gt;
 &lt;p&gt;It divides the stream into 2 panels: private information on top (messages, calendar events) and public information on bottom (stock quotes, news). It provides color-coded category markers, and a draggable menubar that allows the user to selectively change the volume of information between top and bottom lists, and when pushed to a single end, provides focus on that category. A multi-click toggle on the right icon of the menu bar allows you to filter by shuffling through categories. &lt;/p&gt;

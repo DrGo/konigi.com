@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Earth on Konigi</title>
-    <link>http://localhost:1313/tags/earth/</link>
+    <link>http://konigi.com/tags/earth/</link>
     <description>Recent content in Earth on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/earth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/earth/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TwittEarth: Another globe interface</title>
-      <link>http://localhost:1313/blog/twittearth-another-globe-interface/</link>
+      <link>http://konigi.com/blog/twittearth-another-globe-interface/</link>
       <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/twittearth-another-globe-interface/</guid>
+      <guid>http://konigi.com/blog/twittearth-another-globe-interface/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2470529835/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3037/2470529835_46a70624ab_o.png&#34; class=&#34;notebook-image&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.twittearth.com/&#34;&gt;TwittEarth&lt;/a&gt; is another spinning earth globe interface for displaying geolocalized information that&#39;s similar to the &lt;a href=&#34;yahoo-newsglobe-vs-wii-news-channel.html&#34;&gt;Yahoo Newsglobe and wii news channel&lt;/a&gt; interfaces. &lt;/p&gt;
 &lt;p&gt;I don&#39;t care much for viewing the public twitter feed, so it&#39;s not very interesting to me. I&#39;m still trying to imagine the context that makes these interfaces practical for everyday use. The place where it makes most sense to me is in the 10 foot experience, as with the wii news channel. I think applications like this need find more ways of taking that PC information to the big screen for casual information browsing or information delivery in the background, like screensavers for TV.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
-      <link>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <link>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
       <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <guid>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://next.yahoo.net/download/newsglobe/&#34;&gt;Yahoo! launched the News Globe&lt;/a&gt;, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page. It&#39;s a jarring experience.&lt;/p&gt;
 &lt;p&gt;This attempt at providing a way to visualize top published news activity is cute, but it&#39;s nowhere near as useful as the interface provided by the Wii. Check out the interaction with the Wii News Channel below:&lt;/p&gt;

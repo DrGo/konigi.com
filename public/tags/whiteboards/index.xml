@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whiteboards on Konigi</title>
-    <link>http://localhost:1313/tags/whiteboards/</link>
+    <link>http://konigi.com/tags/whiteboards/</link>
     <description>Recent content in Whiteboards on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jul 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/whiteboards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/whiteboards/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Experimenting with the IPEVO Interactive Whiteboard</title>
-      <link>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</link>
+      <link>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</link>
       <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</guid>
+      <guid>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</guid>
       <description>&lt;p&gt;I got an &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&#34;&gt;IPEVO Interactive Whiteboard System&lt;/a&gt; ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here&#39;s a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/101344544&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it&#39;s pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you&#39;re so inclined. I used a regular painted wall, but I&#39;m going to give it a try on a real whiteboard. &lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Team Whiteboarding with Twiddla</title>
-      <link>http://localhost:1313/blog/team-whiteboarding-twiddla/</link>
+      <link>http://konigi.com/blog/team-whiteboarding-twiddla/</link>
       <pubDate>Wed, 08 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/team-whiteboarding-twiddla/</guid>
+      <guid>http://konigi.com/blog/team-whiteboarding-twiddla/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.twiddla.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/twiddla-1.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.twiddla.com/&#34;&gt;Twiddla&lt;/a&gt; is an easy to use collaborative whiteboard service, but it&amp;rsquo;s really got the potential to be much more. The whiteboard lets you mark up websites and graphics, and even use a drag-drop library of interface elements for working on interface concepts collaboratively. You communicate with others in the meeting with the chat window, and you can also use built in audio-conferencing capabilities. Very impressive, and free. Would make sense for there to be options for private meetings as well as embedding the whiteboard into your CMS or intranet.&lt;/p&gt;
 &lt;p&gt;I just gave it a try and the images they&amp;rsquo;ve provided are very restrictive. They&amp;rsquo;re basically just graphics you drag in, but they can&amp;rsquo;t be scaled outside of their original dimensions properly since they&amp;rsquo;re bitmaps. It&amp;rsquo;s also not a true prototyping environment like Balsamiq or iPlotz, since there are no properties for the elements. The best you can do is draw or even upload your own bitmap elements. It&amp;rsquo;s truly only a whiteboard. That said, the drawing capabilities are decent.  &lt;/p&gt;
 &lt;p&gt;To give it a try, click the Twiddla button: &lt;a href=&#34;http://www.twiddla.com/New.aspx?title=&#34; title=&#34;Twiddle this page!&#34; onclick=&#34;this.href+=document.title;&#34;&gt;&lt;img src=&#34;http://img.twiddla.com/images/buttons/twiddle_this_100x20.png&#34; border=&#34;0&#34; alt=&#34;Twiddle this page!&#34; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Low-Cost Multi-point Interactive Whiteboards Using the Wiimote</title>
-      <link>http://localhost:1313/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</link>
+      <link>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</link>
       <pubDate>Tue, 19 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</guid>
+      <guid>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;Researcher provides another Wii Remote hack, this time to help business users create interactive whiteboards on the cheap.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/5s5EvhHy7eQ&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/5s5EvhHy7eQ&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;

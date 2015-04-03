@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unmoderated Usability Testing on Konigi</title>
-    <link>http://localhost:1313/tags/unmoderated-usability-testing/</link>
+    <link>http://konigi.com/tags/unmoderated-usability-testing/</link>
     <description>Recent content in Unmoderated Usability Testing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/unmoderated-usability-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/unmoderated-usability-testing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>YouEye: User testing with webcam eye tracking</title>
-      <link>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</link>
+      <link>http://konigi.com/tools/submissions/youeye-user-testing-webcam-eye-tracking/</link>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</guid>
+      <guid>http://konigi.com/tools/submissions/youeye-user-testing-webcam-eye-tracking/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://youeye.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2704&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fd0c0b6b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;lt;a href=&amp;quot;&lt;a href=&#34;http://www.youeye.com/&#34;&gt;http://www.youeye.com/&lt;/a&gt;&amp;lsquo;&amp;gt;YouEye&lt;/a&gt; looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.&lt;/p&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@ wt522fd0c0b6b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;lt;a hre
     
     <item>
       <title>Clue: A 5 Second Test Service</title>
-      <link>http://localhost:1313/tools/submissions/clue-5-second-test-service/</link>
+      <link>http://konigi.com/tools/submissions/clue-5-second-test-service/</link>
       <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/clue-5-second-test-service/</guid>
+      <guid>http://konigi.com/tools/submissions/clue-5-second-test-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2819&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsquo;s &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue&lt;/a&gt; is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.&lt;/p&gt;&lt;/p&gt;
 
@@ -45,10 +45,10 @@ wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsqu
     
     <item>
       <title>OpenHallway: Unmoderated Remote Usability Testing with Screen Recording</title>
-      <link>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
+      <link>http://konigi.com/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
+      <guid>http://konigi.com/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
       <description>&lt;p&gt;Inspired by the 5 second test, a lot web-based services have cropped up to support remote usability testing. In the past few years, I&#39;ve been experimenting with some of these to conduct super small, unmoderated remote usability testing sessions. I&#39;ve used Morae extensively in the past, but for most of my needs, that&#39;s like using a sledgehammer on a pushpin.&lt;/p&gt;
 &lt;p&gt;I&#39;d been successful using &lt;a href=&#34;http://fivesecondtest.com/&#34;&gt;fivesecondtest&lt;/a&gt; and &lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt;, who decided to sponsor me after I participated in the beta and gave feedback. I then got wind of &lt;a href=&#34;http://openhallway.com/&#34;&gt;OpenHallway&lt;/a&gt;, which also provides unmoderated testing with the addition of recording the users&#39; screen and voice using. I want to note that having agreed to participate in the beta, Open Hallway is also now a sponsor of Konigi.&lt;/p&gt;
 &lt;p&gt;I conducted a simple test with one task using Open Hallway. The observations below take you through the application in the current beta, and are based on my experience testing a common task in Balsamiq Mockups, updating your software.  &lt;/p&gt;
@@ -87,10 +87,10 @@ wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsqu
     
     <item>
       <title>UserTesting.com: Automated usability testing</title>
-      <link>http://localhost:1313/tools/submissions/usertestingcom-automated-usability-testing/</link>
+      <link>http://konigi.com/tools/submissions/usertestingcom-automated-usability-testing/</link>
       <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/usertestingcom-automated-usability-testing/</guid>
+      <guid>http://konigi.com/tools/submissions/usertestingcom-automated-usability-testing/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;UserTesting is a commercial service that promises automated usability testing.&lt;/p&gt;
 &lt;p&gt;You might think of this as a series of task-oriented usability test sessions where you only need enter a number of tasks for a test that will take approximately 15 minutes, enter the demographics (age, income) and technographics (computer experience) for the user you&#39;d like to target. &lt;a href=&#34;http://www.usertesting.com/&#34;&gt;UserTesting&lt;/a&gt; has a pool of paid testers who accept sessions, view your site with a floating layer that shows the tasks to complete while they record their voice, mouse clicks and movements, and page changes. Finally, the service asks the user to fill out a follow up survey. The cost is tiered by number of users per session. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Here&#39;s how it works:&lt;/strong&gt;&lt;/p&gt;
@@ -117,10 +117,10 @@ wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsqu
     
     <item>
       <title>Usabilla</title>
-      <link>http://localhost:1313/tools/submissions/usabilla/</link>
+      <link>http://konigi.com/tools/submissions/usabilla/</link>
       <pubDate>Tue, 21 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/usabilla/</guid>
+      <guid>http://konigi.com/tools/submissions/usabilla/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2792&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230d71a284c0_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt; is a remote usability testing service that allows you to quickly create short tests that solicit feedback from your users. The service allows you to direct a few questions using screenshots of pages, e.g. you might ask users what do you like/not like about this page, where would you look to find X? Users then click on screenshot to add markers with their notes or answers.&lt;/p&gt;&lt;/p&gt;
 
@@ -131,10 +131,10 @@ wt5230d71a284c0_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Loop11: Online, Unmoderated User Testing</title>
-      <link>http://localhost:1313/tools/submissions/loop11-online-unmoderated-user-testing/</link>
+      <link>http://konigi.com/tools/submissions/loop11-online-unmoderated-user-testing/</link>
       <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/loop11-online-unmoderated-user-testing/</guid>
+      <guid>http://konigi.com/tools/submissions/loop11-online-unmoderated-user-testing/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.loop11.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2802&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52310f6bdb3c6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Loop11 is a web-based user-experience testing tool, allowing companies to conduct online, unmoderated user testing.&lt;/p&gt;
 &lt;p&gt;Loop11 provides the ability to gain detailed insights and understandings of user behaviour.  These insights are obtained via a live interactive environment where users are asked to complete a series of tasks and questions on your website or interface.  All interactions are captured, processed and made available in real-time reports.&lt;/p&gt;
@@ -147,10 +147,10 @@ wt52310f6bdb3c6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Loop11 is a w
     
     <item>
       <title>userfly: Instant web-based usability testing service</title>
-      <link>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</link>
+      <link>http://konigi.com/tools/submissions/userfly-instant-web-based-usability-testing-service/</link>
       <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</guid>
+      <guid>http://konigi.com/tools/submissions/userfly-instant-web-based-usability-testing-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/2451370&#34;&gt;userfly.com&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user930239&#34;&gt;Chris Estreich&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://userfly.com/&#34;&gt;Userfly&lt;/a&gt; is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&amp;rsquo;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. &lt;/p&gt;
@@ -163,10 +163,10 @@ wt52310f6bdb3c6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Loop11 is a w
     
     <item>
       <title>five second test: A simple online usability test</title>
-      <link>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</link>
+      <link>http://konigi.com/tools/submissions/five-second-test-simple-online-usability-test/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</guid>
+      <guid>http://konigi.com/tools/submissions/five-second-test-simple-online-usability-test/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2797&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230f03c96a19_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;five second test&lt;/a&gt; is a simple usability test that helps you measure the effectiveness of your user interfaces by getting users to look at a screen for 5 seconds, and then asking them to recall what they saw. This is something I typically do at the start of a usability test to see what users understand at a high level. Show them a screen, take it away, have them talk, ask them questions. There&amp;rsquo;s more about this method at &lt;a href=&#34;http://www.uie.com/articles/five_second_test/&#34;&gt;UIE&lt;/a&gt;. This site provides a service so you can easily do this kind of thing with users by generating a test and providing a link you can share with participants to take it. The service then emails you the results. &lt;/p&gt;&lt;/p&gt;
 

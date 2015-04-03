@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Konigi</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>http://konigi.com/tags/blog/</link>
     <description>Recent content in Blog on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Nov 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Touch User Interface</title>
-      <link>http://localhost:1313/blog/touch-user-interface/</link>
+      <link>http://konigi.com/blog/touch-user-interface/</link>
       <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/touch-user-interface/</guid>
+      <guid>http://konigi.com/blog/touch-user-interface/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.touchuserinterface.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2205&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4b0561f6aa2a7_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just discovered &lt;a href=&#34;http://www.touchuserinterface.com/&#34;&gt;Touch User Interface&lt;/a&gt;, a blog that reports regularly on touch interface projects, and provides links to resources related to designing for touch screen interfaces.&lt;/p&gt;&lt;/p&gt;
 
@@ -24,10 +24,10 @@ wt4b0561f6aa2a7_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I just discove
     
     <item>
       <title>UX Booth: Free Website Usability Testing Reviews &amp; UX Blog</title>
-      <link>http://localhost:1313/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</link>
+      <link>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</link>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</guid>
+      <guid>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxbooth.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1418&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt49353c9577e4c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.uxbooth.com/&#34;&gt;UX Booth&lt;/a&gt; is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.&lt;/p&gt;
 &lt;p&gt;Via &lt;a href=&#34;http://digitalweb.tumblr.com/&#34;&gt;Digital Web&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
@@ -38,10 +38,10 @@ wt49353c9577e4c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;
     
     <item>
       <title>The CANADIAN DESIGN RESOURCE</title>
-      <link>http://localhost:1313/blog/canadian-design-resource/</link>
+      <link>http://konigi.com/blog/canadian-design-resource/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/canadian-design-resource/</guid>
+      <guid>http://konigi.com/blog/canadian-design-resource/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.canadiandesignresource.ca/officialgallery/index.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1330&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt486a11d5c5a90.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.canadiandesignresource.ca/officialgallery/index.php&#34;&gt;The Canadian Design Resource&lt;/a&gt; is a blog that showcases work from Canadian designers covering a wide range of disciplines.&lt;/p&gt;
 &lt;p&gt;Thanks DesignNotes.&lt;/p&gt;&lt;/p&gt;
@@ -52,10 +52,10 @@ wt486a11d5c5a90.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>inspireUX - words to inspire user experience designers</title>
-      <link>http://localhost:1313/blog/inspireux-words-inspire-user-experience-designers/</link>
+      <link>http://konigi.com/blog/inspireux-words-inspire-user-experience-designers/</link>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/inspireux-words-inspire-user-experience-designers/</guid>
+      <guid>http://konigi.com/blog/inspireux-words-inspire-user-experience-designers/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.inspireux.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1303&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt484d69150d758.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.inspireux.com/&#34;&gt;inspireUX&lt;/a&gt; is a blog that posts quotes to inspire user experience designers (whether they be visual designers, information architects, interaction designers, etc.). The quotes are formatted to be printed on 4x6&amp;rdquo; index cards, so you can keep them close at hand when inspiration is needed.&lt;/p&gt;&lt;/p&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communication on Konigi</title>
-    <link>http://localhost:1313/tags/communication/</link>
+    <link>http://konigi.com/tags/communication/</link>
     <description>Recent content in Communication on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Give it five minutes</title>
-      <link>http://localhost:1313/blog/give-it-five-minutes/</link>
+      <link>http://konigi.com/blog/give-it-five-minutes/</link>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/give-it-five-minutes/</guid>
+      <guid>http://konigi.com/blog/give-it-five-minutes/</guid>
       <description>&lt;p&gt;I&#39;m certainly no stranger to being opinionated and argumentative. I&#39;ve put my foot in my mouth a few times by pushing back on others&#39; ideas, and am well aware that being quick to react can be detrimental. The older I get, the more I realize how little I know and how much more time I need to spend thinking after listening, before I open my mouth or start to type to respond.&lt;/p&gt;
 
 &lt;p&gt;I admire Jason Fried&#39;s recent blog post, &lt;a href=&#34;http://37signals.com/svn/posts/3124-give-it-five-minutes&#34;&gt;&amp;quot;Give it five minutes.&amp;quot;&lt;/a&gt; In it, he writes candidly about the issue of pushing back on ideas, starting from an exchange he had with Richard Saul Wurman, where the two had given talks at the same event. Wurman approached Fried to congratulate him, and Fried replied by telling Wurman what he disagreed with about his talk. The take away from that exchange was that Wurman taught Fried to stop and think, to give ideas a chance before challenging them with little respect or consideration.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Dogs on Design: Danzico and Lucy</title>
-      <link>http://localhost:1313/blog/dogs-design-danzico-and-lucy/</link>
+      <link>http://konigi.com/blog/dogs-design-danzico-and-lucy/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dogs-design-danzico-and-lucy/</guid>
+      <guid>http://konigi.com/blog/dogs-design-danzico-and-lucy/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2397&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c1a293c95c99_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Core77&amp;rsquo;s Sarah Cox wrote &lt;a href=&#34;http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp&#34;&gt;a lovely article&lt;/a&gt; after talking with &lt;a href=&#34;http://bobulate.com/&#34;&gt;Liz Danzico&lt;/a&gt; about her thoughts on interaction design, life with her dog Lucy and communicating simply and humanly. Below is her summary of what dogs can teach us about interaction design.&lt;/p&gt;&lt;/p&gt;
 
@@ -58,10 +58,10 @@ wt4c1a293c95c99_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Core77&amp;rsq
     
     <item>
       <title>Shades of Grey: Wireframes as Thinking Device</title>
-      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <link>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</link>
       <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
 &lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;
@@ -75,10 +75,10 @@ wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans wri
     
     <item>
       <title>Gabble Client for Yammer</title>
-      <link>http://localhost:1313/tools/submissions/gabble-client-yammer/</link>
+      <link>http://konigi.com/tools/submissions/gabble-client-yammer/</link>
       <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/gabble-client-yammer/</guid>
+      <guid>http://konigi.com/tools/submissions/gabble-client-yammer/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://erikhinterbichler.com/software/gabble/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2715&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fea4f7d534_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://erikhinterbichler.com/software/gabble/&#34;&gt;Gabble&lt;/a&gt; is a native Mac OS X client for &lt;a href=&#34;http://yammer.com/&#34;&gt;Yammer&lt;/a&gt;, the micro-messaging application for companies.&lt;/p&gt;&lt;/p&gt;
 

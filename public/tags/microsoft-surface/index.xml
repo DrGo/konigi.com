@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Surface on Konigi</title>
-    <link>http://localhost:1313/tags/microsoft-surface/</link>
+    <link>http://konigi.com/tags/microsoft-surface/</link>
     <description>Recent content in Microsoft Surface on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Oct 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/microsoft-surface/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/microsoft-surface/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Audi Car Configurator on Surface</title>
-      <link>http://localhost:1313/blog/audi-car-configurator-surface/</link>
+      <link>http://konigi.com/blog/audi-car-configurator-surface/</link>
       <pubDate>Sat, 03 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/audi-car-configurator-surface/</guid>
+      <guid>http://konigi.com/blog/audi-car-configurator-surface/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;336&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=6796111&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=6796111&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;336&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;This is video showing the interaction design of a Surface interface to configure the Audi A4.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>MSNBC.com Microsoft Surface Videos</title>
-      <link>http://localhost:1313/blog/msnbccom-microsoft-surface-videos/</link>
+      <link>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</link>
       <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/msnbccom-microsoft-surface-videos/</guid>
+      <guid>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</guid>
       <description>&lt;p&gt;&lt;p&gt;I&amp;rsquo;ve caught Chuck Todd using a desktop touch interface a few times on MSNBC to click through poll charts. While John King has been using a &lt;a href=&#34;http://www.nytimes.com/2008/04/22/arts/television/22king.html?_r=1&amp;amp;ref=arts&amp;amp;oref=slogin&#34;&gt;Perceptive Pixel-designed touch wall&lt;/a&gt;, Todd has been using &lt;a href=&#34;http://blogs.msdn.com/surface/archive/2008/09/08/Live-from-MSNBC_2C00_-it_2700_s-Microsoft-Surface.aspx&#34;&gt;a Microsoft Surface interface&lt;/a&gt; on a desktop. The device and manipulation of data on the screen looks very natural on this show, especially for the kind of information he&amp;rsquo;s speaking to. I think whenever there&amp;rsquo;s a lot of visual information to add to a story, this kind of an interface has potential to be very helpful and I look forward to seeing what they do at MSNBC and on other shows.  &lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/lhJ0M0u33mw&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/lhJ0M0u33mw&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;

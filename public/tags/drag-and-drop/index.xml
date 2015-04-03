@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drag And Drop on Konigi</title>
-    <link>http://localhost:1313/tags/drag-and-drop/</link>
+    <link>http://konigi.com/tags/drag-and-drop/</link>
     <description>Recent content in Drag And Drop on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/drag-and-drop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/drag-and-drop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Slavery Footprint Form: Drag to Select</title>
-      <link>http://localhost:1313/interface/slavery-footprint-form-drag-select/</link>
+      <link>http://konigi.com/interface/slavery-footprint-form-drag-select/</link>
       <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/slavery-footprint-form-drag-select/</guid>
+      <guid>http://konigi.com/interface/slavery-footprint-form-drag-select/</guid>
       <description>&lt;p&gt;The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.&lt;/p&gt;
 
 &lt;p&gt;They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>WordPress Layout Customization</title>
-      <link>http://localhost:1313/interface/wordpress-layout-customization/</link>
+      <link>http://konigi.com/interface/wordpress-layout-customization/</link>
       <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/wordpress-layout-customization/</guid>
+      <guid>http://konigi.com/interface/wordpress-layout-customization/</guid>
       <description>&lt;p&gt;WordPress added some excellent layout customization options on administration screens in version 2.7. The most obvious change comes in the form of the Screen Options tab, which expands a settings panel that let&#39;s the admin hide or show parts of the UI being viewed, and saves those settings for the user immediately. &lt;/p&gt;
 &lt;p&gt;The UI also provides a drag and drop behavior to re-arrange modules. When hovering over a module heading, the icon turns into a full hand and lets the user move modules up or down in the column, or between columns. A down arrow appears on hover over the headings and allows the user to collapse the body of the module.&lt;/p&gt;
 &lt;p&gt;This seems like an excellent idea for an administrative interface, and the behaviors were very intuitive. I noticed the options, and my changes without even knowing that this was a new feature. At some point I wondered if it would be desirable to reset all your customizations to move the modules to their default positions. Other than that, everything I could to customize the layout seemed easy, and it seemed particularly nice to be able to modify the post forms. Good stuff.&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>YouTube Media Annotation</title>
-      <link>http://localhost:1313/interface/youtube-media-annotation/</link>
+      <link>http://konigi.com/interface/youtube-media-annotation/</link>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/youtube-media-annotation/</guid>
+      <guid>http://konigi.com/interface/youtube-media-annotation/</guid>
       <description>&lt;p&gt;YouTube have added media annotation controls that allow users to add comment bubbles, note boxes, and links (within YouTube only) to their own videos. &lt;/p&gt;
 &lt;p&gt;YouTube is not the first to add media annotations or commenting features like this, but the addition of this feature may mean we&#39;ll see more if it on video portals. The feature is similar to the video annotation that &lt;a href=&#34;http://www.bubbleply.com/&#34;&gt;Bubbleply&lt;/a&gt; does. Viewers are not allowed to add annotations to other users&#39; media as is done on &lt;a href=&#34;http://flickr.com/&#34;&gt;Flickr&lt;/a&gt; and &lt;a href=&#34;iminlikewithyou-comments.html&#34;&gt;iminlikewithyou&lt;/a&gt;.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Click &amp;quot;Edit Annotations&amp;quot; button for a video in My Account page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-annotations-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Click &amp;quot;Edit Annotations&amp;quot; button for a video in My Account page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-annotations-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Entering a comment box in the editing form. A small yellow area is shown below the timeline to indicate the start and endpoints for the comment.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-annotations-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Entering a comment box in the editing form. A small yellow area is shown below the timeline to in...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-annotations-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Entering a comment bubble. Bubble may be resized and moved by manipulating the handles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-annotations-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Entering a comment bubble. Bubble may be resized and moved by manipulating the handles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-annotations-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Entering a comment area.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-annotations-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Entering a comment area.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-annotations-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        

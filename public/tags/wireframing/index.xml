@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wireframing on Konigi</title>
-    <link>http://localhost:1313/tags/wireframing/</link>
+    <link>http://konigi.com/tags/wireframing/</link>
     <description>Recent content in Wireframing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Balsamiq Mockups Version 3 Released</title>
-      <link>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</link>
+      <link>http://konigi.com/blog/balsamiq-mockups-version-3-released/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</guid>
+      <guid>http://konigi.com/blog/balsamiq-mockups-version-3-released/</guid>
       <description>&lt;p&gt;We &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;released version 3 of Balsamiq Mockups today&lt;/a&gt;! There&#39;s plenty to see including an updated interface, new file format (single packaged project files), better asset and symbols management, the addition of &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34; target=&#34;_blank&#34;&gt;FontAwesome&lt;/a&gt; icons, and plenty of improvements under the surface. We point out some of the highlights in the video below.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/-Zz8EYPhEew?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;There&#39;s plenty more under the hood, and lots of new stuff on deck. You can &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;read all about it in the announcement&lt;/a&gt;. It&#39;s a free update to existing users. &lt;a href=&#34;http://balsamiq.com/download/&#34;&gt;Download it here.&lt;/a&gt;&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>The Sticker UI Book</title>
-      <link>http://localhost:1313/tools/submissions/sticker-ui-book/</link>
+      <link>http://konigi.com/tools/submissions/sticker-ui-book/</link>
       <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sticker-ui-book/</guid>
+      <guid>http://konigi.com/tools/submissions/sticker-ui-book/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.kickstarter.com/projects/1040120743/the-sticker-ui-book-by-killer-inc/widget/video.html&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt; &lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/1040120743/the-sticker-ui-book-by-killer-inc&#34;&gt;The Sticker UI Book&lt;/a&gt; is a UI design sketchbook that with templates (web, mobile, and storyboard) and UI element stickers, being produced by Jennifer Williams and Brandy Bora of Killer Inc. You can &lt;a href=&#34;https://www.kickstarter.com/projects/1040120743/the-sticker-ui-book-by-killer-inc&#34;&gt;order one&lt;/a&gt; via their Kickstarter campaign which ends Oct 30 2014 7:44 AM PDT. &lt;/p&gt;&lt;/p&gt;
 
@@ -41,10 +41,10 @@
     
     <item>
       <title>Balsamiq UX Template</title>
-      <link>http://localhost:1313/tools/balsamiq-ux-template/</link>
+      <link>http://konigi.com/tools/balsamiq-ux-template/</link>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/balsamiq-ux-template/</guid>
+      <guid>http://konigi.com/tools/balsamiq-ux-template/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
 &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
 &lt;h3&gt;Made for UX designers&lt;/h3&gt;
@@ -124,10 +124,10 @@
     
     <item>
       <title>Experimenting with the IPEVO Interactive Whiteboard</title>
-      <link>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</link>
+      <link>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</link>
       <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</guid>
+      <guid>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</guid>
       <description>&lt;p&gt;I got an &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&#34;&gt;IPEVO Interactive Whiteboard System&lt;/a&gt; ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here&#39;s a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.&lt;/p&gt;
 &lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/101344544&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it&#39;s pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you&#39;re so inclined. I used a regular painted wall, but I&#39;m going to give it a try on a real whiteboard. &lt;/p&gt;
@@ -139,10 +139,10 @@
     
     <item>
       <title>User Inter Faces: Avatars for mockups</title>
-      <link>http://localhost:1313/tools/submissions/user-inter-faces-avatars-mockups/</link>
+      <link>http://konigi.com/tools/submissions/user-inter-faces-avatars-mockups/</link>
       <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/user-inter-faces-avatars-mockups/</guid>
+      <guid>http://konigi.com/tools/submissions/user-inter-faces-avatars-mockups/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://uifaces.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2655&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5227937545be2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://uifaces.com/&#34;&gt;UI Faces&lt;/a&gt; is a useful little tool by Caleb Ogden for generating a grid of avatars that you can use in your designs.&lt;/p&gt;&lt;/p&gt;
 
@@ -153,10 +153,10 @@ wt5227937545be2_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Redacted Font</title>
-      <link>http://localhost:1313/tools/submissions/redacted-font/</link>
+      <link>http://konigi.com/tools/submissions/redacted-font/</link>
       <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/redacted-font/</guid>
+      <guid>http://konigi.com/tools/submissions/redacted-font/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://github.com/christiannaths/Redacted-Font/blob/master/README.md&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2701&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt522fcb0bbaee8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Naths&amp;rsquo; &lt;a href=&#34;https://github.com/christiannaths/Redacted-Font&#34;&gt;Redacted&lt;/a&gt; is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and &lt;a href=&#34;http://blokkfont.com/&#34;&gt;BLOKK&lt;/a&gt; (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&amp;rsquo;t end up wider than your normal font setting.&lt;/p&gt;&lt;/p&gt;
 
@@ -169,10 +169,10 @@ wt522fcb0bbaee8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Nat
     
     <item>
       <title>Text Snippets</title>
-      <link>http://localhost:1313/tools/text-snippets/</link>
+      <link>http://konigi.com/tools/text-snippets/</link>
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/text-snippets/</guid>
+      <guid>http://konigi.com/tools/text-snippets/</guid>
       <description>&lt;h3&gt;About&lt;/h3&gt;
 &lt;p&gt;This is a work in progress. I&#39;m copying over my commonly used text snippets and wireframes as I go.&lt;/p&gt;
 
@@ -345,10 +345,10 @@ wt522fcb0bbaee8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Nat
     
     <item>
       <title>BLOKK font</title>
-      <link>http://localhost:1313/tools/submissions/blokk-font/</link>
+      <link>http://konigi.com/tools/submissions/blokk-font/</link>
       <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/blokk-font/</guid>
+      <guid>http://konigi.com/tools/submissions/blokk-font/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.blokkfont.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2757&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230550bce661_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.blokkfont.com/&#34;&gt;BLOKK&lt;/a&gt; is a font for quick mock-ups and wireframing for clients who do not understand lorem ipsum. Awesome.&lt;/p&gt;&lt;/p&gt;
 
@@ -359,10 +359,10 @@ wt5230550bce661_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>The Printed Word and The Written Words fonts from LettError</title>
-      <link>http://localhost:1313/tools/submissions/printed-word-and-written-words-fonts-letterror/</link>
+      <link>http://konigi.com/tools/submissions/printed-word-and-written-words-fonts-letterror/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/printed-word-and-written-words-fonts-letterror/</guid>
+      <guid>http://konigi.com/tools/submissions/printed-word-and-written-words-fonts-letterror/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/thewrittenword.png&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.letterror.com/foundry/goodies/index.html&#34;&gt;2 different fonts&lt;/a&gt; to turn text to obscure your copy in design documents so they don&amp;rsquo;t distract the audience. It&amp;rsquo;s an alternative to using real text or lorem ipsum. Download for free.&lt;/p&gt;
 &lt;p&gt;Thanks to Ryan Schroeder (@rschroed) for &lt;a href=&#34;https://twitter.com/rschroed/statuses/266273003799715840&#34;&gt;pointing me to this&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -374,10 +374,10 @@ wt5230550bce661_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#
     
     <item>
       <title>Wirefy: Responsive Wireframe Library</title>
-      <link>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</link>
+      <link>http://konigi.com/tools/submissions/wirefy-responsive-wireframe-library/</link>
       <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</guid>
+      <guid>http://konigi.com/tools/submissions/wirefy-responsive-wireframe-library/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2776&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5230a9c13e1b7_custom_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;Wirefy&lt;/a&gt; is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.&lt;/p&gt;&lt;/p&gt;
 
@@ -388,10 +388,10 @@ wt5230a9c13e1b7_custom_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=
     
     <item>
       <title>protomoto: Prototyping and Wireframing Tool Finder</title>
-      <link>http://localhost:1313/blog/protomoto-prototyping-and-wireframing-tool-finder/</link>
+      <link>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</link>
       <pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid>
+      <guid>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2569&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4feb6b253a5fb_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;protomoto&lt;/a&gt; is an excellent showcase of prototyping or wireframing tools created to helps designers find a tool that&amp;rsquo;s suited to the specific devices or platforms they are designing for. The site, developed by Paper &amp;amp; Equator, will be adding more filters in the future as they continue to evolve the resource, so that you can browse the tools based on features. Very cool.&lt;/p&gt;&lt;/p&gt;
 
@@ -403,10 +403,10 @@ wt4feb6b253a5fb_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#3
     
     <item>
       <title>You can now post Mockups to UX.StackExchange.com</title>
-      <link>http://localhost:1313/blog/you-can-now-post-mockups-uxstackexchangecom/</link>
+      <link>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</link>
       <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/you-can-now-post-mockups-uxstackexchangecom/</guid>
+      <guid>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2557&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4f4b9c9c3be5c_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;m pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange.  You can now post Mockups wireframes with questions and answers to &lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;UX.StackExchange.com&lt;/a&gt; using the free integrated Mockups editor. &lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I&amp;rsquo;ve wanted to use for a long time&amp;ndash;a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals. I&amp;rsquo;m of the &amp;ldquo;show me, don&amp;rsquo;t tell me&amp;rdquo; school of communication. Luckily the excellent UX version of StackExchange was created, and Mockups had the plugin model to integrate with it nicely, so lazyweb wishes can happen without even asking. &lt;/p&gt;
@@ -422,10 +422,10 @@ wt4f4b9c9c3be5c_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;m 
     
     <item>
       <title>Vector Doodlekit Icons</title>
-      <link>http://localhost:1313/tools/submissions/vector-doodlekit-icons/</link>
+      <link>http://konigi.com/tools/submissions/vector-doodlekit-icons/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/vector-doodlekit-icons/</guid>
+      <guid>http://konigi.com/tools/submissions/vector-doodlekit-icons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://doodlekit.imagiag.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2832&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5232430e0b808_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://doodlekit.imagiag.com/&#34;&gt;Doodlekit Icons&lt;/a&gt; set contains 700+ hand-drawn icons for use in sketch-style wireframes. You can buy them in vector format to use in the design tool of your choice, or download the free set of 32 x 32 px PNGs. &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a screenshot of the icons in the new custom icon feature that&amp;rsquo;s available in the &lt;a href=&#34;http://balsamiq.com/products/mockups/next&#34;&gt;pre-release&lt;/a&gt; version of Mockups. &lt;/p&gt;
@@ -439,10 +439,10 @@ wt5232430e0b808_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Steedicons</title>
-      <link>http://localhost:1313/tools/submissions/steedicons/</link>
+      <link>http://konigi.com/tools/submissions/steedicons/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/steedicons/</guid>
+      <guid>http://konigi.com/tools/submissions/steedicons/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://steedicons.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2814&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52316c664dc90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://steedicons.com/&#34;&gt;Steedicons&lt;/a&gt; set by Kyle Steed contains 300+ hand drawn icons available as a font or in vector format (.ai, .eps, .csh) for Illustrator, Photoshop, or the wireframing tool of your choice. The bold, sketchy icons would would work perfectly in Balsamiq Mockups or alongside the Konigi Sketch stencils.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a small sample of the icons available in this set. &lt;/p&gt;
@@ -456,10 +456,10 @@ wt52316c664dc90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a hre
     
     <item>
       <title>Form design guidelines crib sheet</title>
-      <link>http://localhost:1313/tools/submissions/form-design-guidelines-crib-sheet/</link>
+      <link>http://konigi.com/tools/submissions/form-design-guidelines-crib-sheet/</link>
       <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/form-design-guidelines-crib-sheet/</guid>
+      <guid>http://konigi.com/tools/submissions/form-design-guidelines-crib-sheet/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2656&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt5227940014778_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;These &lt;a href=&#34;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&#34;&gt;form design crib sheets&lt;/a&gt; provide examples for laying out forms to get users through the process efficiently. Created by  Joe Leech at cxpartners, and available for OmniGraffle, Photoshop, or in PDF vector format.&lt;/p&gt;&lt;/p&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>White Space on Konigi</title>
-    <link>http://localhost:1313/tags/white-space/</link>
+    <link>http://konigi.com/tags/white-space/</link>
     <description>Recent content in White Space on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Apr 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/white-space/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/white-space/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Debussy on White Space</title>
-      <link>http://localhost:1313/blog/debussy-white-space/</link>
+      <link>http://konigi.com/blog/debussy-white-space/</link>
       <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/debussy-white-space/</guid>
+      <guid>http://konigi.com/blog/debussy-white-space/</guid>
       <description>&lt;p class=&#34;dek&#34;&gt;&#34;Music is the space between the notes.&#34;&lt;/p&gt;
 &lt;p&gt;&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey&lt;/p&gt;
     

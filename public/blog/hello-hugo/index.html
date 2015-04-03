@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
   <link href="/css/konigi.min.css" type="text/css" rel="stylesheet" media="all">
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
-  <link rel="canonical" href="http://localhost:1313/blog/hello-hugo/">
+  <link rel="canonical" href="http://konigi.com/blog/hello-hugo/">
   <link href="http://konigi.com/index.xml" rel="alternate" type="application/rss+xml" title="Konigi">
 </head>
 <body class="blog">
@@ -86,7 +86,9 @@
 
 <p>The last step is a command that uses <a href="http://s3tools.org/s3cmd">s3cmd</a> to sync only the changed pages to the generated public directory, removing deletions. See the options in the docs for doing this. There are many blog posts with different suggestions for how to deploy, but I found all I needed <a href="http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/">in this one on Programblings</a>.</p>
 
-<p>That&rsquo;s what I&rsquo;ve done to date and it&rsquo;s working well. My next steps are to get everything on Git and hooked up to a middleman that will automate the deploy part of the process. So far I&rsquo;m very happy, and after a few years of trying different tools, this set feels right&hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to <a href="http://spf13.com/">Steve Francia</a> for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&rsquo;s saying a lot.</p>
+<p>That&rsquo;s what I&rsquo;ve done to date and it&rsquo;s working well. My next steps are to get my content, which is on Git, hooked up to a middleman that will automate the deploy part of the process. If you&rsquo;re interested in seeing how I created this site, you can look at my theme templates. The entire site is publicly <a href="https://github.com/jibbajabba/konigi.com/tree/master/themes/konigi">viewable on Github</a>.</p>
+
+<p>So far I&rsquo;m very happy, and after a few years of trying different tools, this set feels right&hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to <a href="http://spf13.com/">Steve Francia</a> for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&rsquo;s saying a lot.</p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Apr 1, 2015 in <a href="/blog" class="capitalize">blog</a></div>
@@ -106,8 +108,10 @@
 
 <div class="row section-pager">
 
-  <div class="columns small-12 medium-6 section-prev"><a href="http://localhost:1313/blog/balsamiq-mockups-version-3-released/"> &lt;&nbsp;Balsamiq Mockups Version 3 Released</a></div>
+  <div class="columns small-12 medium-6 section-prev"><a href="http://konigi.com/blog/balsamiq-mockups-version-3-released/"> &lt;&nbsp;Balsamiq Mockups Version 3 Released</a></div>
 
+
+  <div class="columns small-12 medium-6 section-next"><a href="http://konigi.com/blog/jim-kalbach-jazz/">Jim Kalbach on Jazz as a Model for the Way Businesses Work&nbsp;&gt;</a></div>
 
 </div>
 
@@ -133,9 +137,6 @@
 <script src="/js/jquery.fancybox.js"></script>
 <script src="/js/konigi.min.js"></script>
 
-<script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
-		+ ':1313/livereload.js?mindelay=10"></'
-        + 'script>')</script></body>
+</body>
 </html>
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libraries on Konigi</title>
-    <link>http://localhost:1313/tags/libraries/</link>
+    <link>http://konigi.com/tags/libraries/</link>
     <description>Recent content in Libraries on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NYPL Labs Infomaki: A lightweight usability testing service</title>
-      <link>http://localhost:1313/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</link>
+      <link>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</link>
       <pubDate>Tue, 17 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</guid>
+      <guid>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://labs.nypl.org/2009/02/16/introducing-infomaki-bite-sized-usability-testing/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/nypl-infomaki.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The New York Public Library Labs has begun testing a &lt;a href=&#34;http://labs.nypl.org/2009/02/16/introducing-infomaki-bite-sized-usability-testing/&#34;&gt;light usability testing system&lt;/a&gt; to supplement their formal tests, inspired by the &lt;a href=&#34;http://fivesecondtest.com/&#34;&gt;Five Second Test&lt;/a&gt; method which was devised by Jared Spool and turned into a service by the guys at mayhem(method).  The service, nicknamed Infomaki (info roll?), combines the type of service 5 second test provides, as well as allowing single question surveys for checking on things like simple labeling issues, which you might have tested using card sorting.&lt;/p&gt;
 &lt;p&gt;The test lets you answer only 1 question, or continue answering as you like, which makes the task feel very game like, and reminds me of crowdsourcing apps like Amazon&amp;rsquo;s Mechanical Turk. I love that the types of questions you can ask require simple twitch-like responses, so you can get through a lot very quickly. Here&amp;rsquo;s a bit more from the NYPL Labs site about the project: &lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;It has become apparent that we needed a tool in our kit that would allow us to get simple usability questions in front of users with a minimum of fuss.&lt;/p&gt;

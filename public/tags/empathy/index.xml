@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Empathy on Konigi</title>
-    <link>http://localhost:1313/tags/empathy/</link>
+    <link>http://konigi.com/tags/empathy/</link>
     <description>Recent content in Empathy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Realizing Empathy: An Inquiry into the Meaning of Making</title>
-      <link>http://localhost:1313/blog/realizing-empathy-inquiry-meaning-making/</link>
+      <link>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</link>
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/realizing-empathy-inquiry-meaning-making/</guid>
+      <guid>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;iframe frameborder=&#34;0&#34; height=&#34;360px&#34; src=&#34;http://www.kickstarter.com/projects/800798301/realizing-empathy-an-inquiry-into-the-meaning-of-m/widget/video.html&#34; width=&#34;480px&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;

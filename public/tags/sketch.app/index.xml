@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sketch.App on Konigi</title>
-    <link>http://localhost:1313/tags/sketch/index.app/</link>
+    <link>http://konigi.com/tags/sketch/index.app/</link>
     <description>Recent content in Sketch.App on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sketch.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/sketch.app/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SketchMine: Sketch app templates</title>
-      <link>http://localhost:1313/tools/submissions/sketchmine-sketch-app-templates/</link>
+      <link>http://konigi.com/tools/submissions/sketchmine-sketch-app-templates/</link>
       <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/submissions/sketchmine-sketch-app-templates/</guid>
+      <guid>http://konigi.com/tools/submissions/sketchmine-sketch-app-templates/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://sketchmine.co/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2659&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
 wt52297e6642617_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://sketchmine.co/&#34;&gt;Sketchmine&lt;/a&gt; provides .sketch files for use in Bohemian Coding&amp;rsquo;s Sketch app for Mac. The files are free to download and are contributed by the Sketch community.&lt;/p&gt;&lt;/p&gt;
 

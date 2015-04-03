@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft Ribbon on Konigi</title>
-    <link>http://localhost:1313/tags/microsoft-ribbon/</link>
+    <link>http://konigi.com/tags/microsoft-ribbon/</link>
     <description>Recent content in Microsoft Ribbon on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Oct 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/microsoft-ribbon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/microsoft-ribbon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Using the Microsoft Ribbon without anyone getting hurt</title>
-      <link>http://localhost:1313/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</link>
+      <link>http://konigi.com/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</link>
       <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</guid>
+      <guid>http://konigi.com/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</guid>
       <description>&lt;p&gt;&lt;p&gt;In Flow Interactive&amp;rsquo;s blog, Phil Barrett offers &lt;a href=&#34;http://www.thinkflowinteractive.com/2008/10/06/using-the-microsoft-ribbon-without-anyone-getting-hurt/&#34;&gt;advice for those who are considering implementing Microsoft&amp;rsquo;s Ribbon in their applications&lt;/a&gt;. The Ribbon has received praise from usability folks who see the benefit this offers in terms of ease of use and better, more visible contextual controls. But it has also met with resistance from individuals who find the large menu-heavy approach disruptive.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;The ribbon is a decent piece of interface, but like most things in UX, it&amp;rsquo;s hard to design it well. And to design it well you really have to understand your users&amp;rsquo; needs, behaviours and work practices.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s because the ribbon tries to show commands grouped together based on what users are most likely to want to do. So in Word 2007, for example, there&amp;rsquo;s a tab for mail-merge, and one for page layout and one for referencing, whereas in Word 2003 those features are pushed lower down in a more generic menu structure. If you get the groupings right, your users will always find the selection of controls they need right there in the ribbon. But if you misunderstand what they need to do, they&amp;rsquo;ll get an irrelevant list and you&amp;rsquo;ll get complaints.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taxonomy on Konigi</title>
-    <link>http://localhost:1313/tags/taxonomy/</link>
+    <link>http://konigi.com/tags/taxonomy/</link>
     <description>Recent content in Taxonomy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/taxonomy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing for Faceted Search</title>
-      <link>http://localhost:1313/blog/designing-faceted-search/</link>
+      <link>http://konigi.com/blog/designing-faceted-search/</link>
       <pubDate>Tue, 28 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/designing-faceted-search/</guid>
+      <guid>http://konigi.com/blog/designing-faceted-search/</guid>
       <description>&lt;p&gt;Stephanie Lemieux discusses issues to consider when designing faceted navigation interfaces for search in the latest UIE newsletter.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Faceted search is a very popular and powerful solution when done well; it allows users to deconstruct a large set of results into bite-size pieces and navigate based on what’s important to them. But faceted search by itself is not necessarily going to make your users lives easier.  You need to understand your users’ mental models (how they seek information), test your assumptions about how they will interpret your terms and categories and spend time refining your approach.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.uie.com/articles/faceted_search&#34;&gt;Read More...&lt;/a&gt;&lt;/p&gt;

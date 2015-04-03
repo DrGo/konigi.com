@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Micromessaging on Konigi</title>
-    <link>http://localhost:1313/tags/micromessaging/</link>
+    <link>http://konigi.com/tags/micromessaging/</link>
     <description>Recent content in Micromessaging on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/micromessaging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/micromessaging/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Gmail Client Wireframe</title>
-      <link>http://localhost:1313/blog/better-gmail-client-wireframe/</link>
+      <link>http://konigi.com/blog/better-gmail-client-wireframe/</link>
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/better-gmail-client-wireframe/</guid>
+      <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/bettergmail.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Growl alert. Click and a Quicksilver-like diaogue appears. Click. Reply. Done. Gmail archives. Optionally tag the thread.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Coincidentally, I&amp;rsquo;ve been designing a feature on the product I&amp;rsquo;m working on that does something like this. We have a plugin for our app, a CMS, that turns a project into a Twitter-like micromessaging application. It&amp;rsquo;s only in release 0.1, but I&amp;rsquo;ve designed a few iterations ahead, which we plan to review. &lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>The Shorty Awards</title>
-      <link>http://localhost:1313/blog/shorty-awards/</link>
+      <link>http://konigi.com/blog/shorty-awards/</link>
       <pubDate>Sun, 14 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/shorty-awards/</guid>
+      <guid>http://konigi.com/blog/shorty-awards/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://shortyawards.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1422&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4944fb0382a0f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://shortyawards.com/&#34;&gt;An award&lt;/a&gt; to celebrate short form public messaging, and honor the world&amp;rsquo;s top Twitterers.&lt;/p&gt;&lt;/p&gt;
 
@@ -47,10 +47,10 @@ wt4944fb0382a0f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http
     
     <item>
       <title>Twingr Registration: My mind was made up before I even tried the product</title>
-      <link>http://localhost:1313/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</link>
+      <link>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</link>
       <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</guid>
+      <guid>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://twingr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1403&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt491deb743c162.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I very rarely will say anything about a site if the only opinion I have is negative. &lt;a href=&#34;http://twingr.com/&#34;&gt;Twingr&lt;/a&gt; looked like an interesting idea. The service let&amp;rsquo;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&amp;rsquo;t say that I know what the experience is like because I couldn&amp;rsquo;t get past the front door, so I walked away possibly never to return.&lt;/p&gt;
 &lt;p&gt;So here&amp;rsquo;s the criticism, and my advice for how not to run a product alpha/beta. &lt;/p&gt;
@@ -66,10 +66,10 @@ wt491deb743c162.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I very rarely will s
     
     <item>
       <title>twitrratr: Sentiment on Twitter</title>
-      <link>http://localhost:1313/blog/twitrratr-sentiment-twitter/</link>
+      <link>http://konigi.com/blog/twitrratr-sentiment-twitter/</link>
       <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/twitrratr-sentiment-twitter/</guid>
+      <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://twitrratr.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/twitrratr.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://twitrratr.com/&#34;&gt;twitrratr&lt;/a&gt; looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. &lt;/p&gt;
 &lt;p&gt;The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used. Because Tweets are short I wonder how effective they can be. The upside to the constraints of a 140 character textarea is that often people end up being more concise and better communicate what&amp;rsquo;s on their mind. Other times, though, it can be utterly meaningless.&lt;/p&gt;&lt;/p&gt;
 
@@ -79,10 +79,10 @@ wt491deb743c162.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I very rarely will s
     
     <item>
       <title>Favrd</title>
-      <link>http://localhost:1313/blog/favrd/</link>
+      <link>http://konigi.com/blog/favrd/</link>
       <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/favrd/</guid>
+      <guid>http://konigi.com/blog/favrd/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://textism.com/favrd/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1253&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt482dbcc345c08.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://textism.com/favrd/&#34;&gt;Favrd&lt;/a&gt; is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &amp;lsquo;favorite. Here&amp;rsquo;s the raison d&amp;rsquo;etre:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;It works on three principles: first, that anyone who wants to can have their vote counted; second, that things people find interesting are more important than people who find things interesting; and third, that by any means necessary, web-strategy, social-media, online-marketing webcocks – unaware as they are of how toxic their presence is in the arenas they cannot shut up about – must and shall be filtered out of view.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;

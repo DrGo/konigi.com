@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>List Browsing on Konigi</title>
-    <link>http://localhost:1313/tags/list-browsing/</link>
+    <link>http://konigi.com/tags/list-browsing/</link>
     <description>Recent content in List Browsing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jul 2009 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/list-browsing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/list-browsing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fever Progressive Disclosure</title>
-      <link>http://localhost:1313/interface/fever-progressive-disclosure/</link>
+      <link>http://konigi.com/interface/fever-progressive-disclosure/</link>
       <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/fever-progressive-disclosure/</guid>
+      <guid>http://konigi.com/interface/fever-progressive-disclosure/</guid>
       <description>&lt;p&gt;The Fever RSS news reader provides some useful progressive disclosure/enhancement behaviors that hide features until they are needed. Many of the primary features are also provided as keyboard shortcuts. The resulting experience provides a subtle and minimalist aesthetic without compromising features.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The initial view of the app shows groups of items and the pages linking to them. The main navigator is shown in left sidebar.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The initial view of the app shows groups of items and the pages linking to them. The main navigat...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Selecting a category (&amp;quot;UX&amp;quot; in this example) displays a second column for browsing feeds in that category.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Selecting a category (&amp;quot;UX&amp;quot; in this example) displays a second column for browsing feeds...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. When the user hovers over the feed column, an A-Z jump list appears to the left as well as an overflow scroll bar in the right. Above the A-Z list is an X icon to hide the feed list. Hovering over a single feed displays an options menu and a refresh button.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. When the user hovers over the feed column, an A-Z jump list appears to the left as well as an ove...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Clicking a feed&#39;s options menu displays a drop down of options for the feed.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Clicking a feed&#39;s options menu displays a drop down of options for the feed.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/fever-progressive-enhancement-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://feedafever.com/&#34;&gt;http://feedafever.com/&lt;/a&gt;&lt;/p&gt;

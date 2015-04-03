@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Age Gate on Konigi</title>
-    <link>http://localhost:1313/tags/age-gate/</link>
+    <link>http://konigi.com/tags/age-gate/</link>
     <description>Recent content in Age Gate on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/age-gate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/age-gate/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>La Wine Agency Date Picker</title>
-      <link>http://localhost:1313/interface/la-wine-agency-date-picker/</link>
+      <link>http://konigi.com/interface/la-wine-agency-date-picker/</link>
       <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/la-wine-agency-date-picker/</guid>
+      <guid>http://konigi.com/interface/la-wine-agency-date-picker/</guid>
       <description>&lt;p&gt;I like the design of the La Wine Agency site. The beautiful large type on the off-white paper reminds me of letterpress cards.&lt;/p&gt;
 
 &lt;p&gt;One thing I loved immediately was the age gate, which asks you when you were born so you can get through to shop for wine.&lt;/p&gt;

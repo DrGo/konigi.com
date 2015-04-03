@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Konigi</title>
-    <link>http://localhost:1313/music/</link>
+    <link>http://konigi.com/music/</link>
     <description>Recent content in Music on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nulo</title>
-      <link>http://localhost:1313/music/nulo/</link>
+      <link>http://konigi.com/music/nulo/</link>
       <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/nulo/</guid>
+      <guid>http://konigi.com/music/nulo/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve hinted at starting to play with music for a little while now. I&amp;rsquo;ve gotten past the point of just being overwhelmed and uncertain about whether I can learn to create music, and am now immersed in learning. Here&amp;rsquo;s the story, and why you may start to see me blog about music now.&lt;/p&gt;
 
 &lt;p&gt;In 2013 I committed to teaching a mixing (DJing) workshop to a group of colleagues, having rediscovered mixing with digital music. I mixed house and electronic music as a teenager (because Filipino) and college student, and then bedroom DJ through the years until I settled into an IA/IXD career, had kids, etc. I returned to bedroom DJ status when I acquired Traktor, and that&amp;rsquo;s rekindled the love I have for electronic music.&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Songs</title>
-      <link>http://localhost:1313/music/songs/</link>
+      <link>http://konigi.com/music/songs/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/songs/</guid>
+      <guid>http://konigi.com/music/songs/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s nothing like the exquisite pain of starting something new.&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94505333&amp;amp;color=499bd7&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>Mixes</title>
-      <link>http://localhost:1313/music/mixes/</link>
+      <link>http://konigi.com/music/mixes/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/music/mixes/</guid>
+      <guid>http://konigi.com/music/mixes/</guid>
       <description>&lt;ul id=&#34;filter&#34; class=&#34;inline mt0&#34;&gt;
   &lt;li class=&#34;current&#34;&gt;&lt;a href=&#34;#&#34;&gt;All&lt;/a&gt;&lt;a/li&gt;
   &lt;li&gt;&lt;a href=&#34;#&#34;&gt;Featured&lt;/a&gt;&lt;/li&gt;

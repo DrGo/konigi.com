@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletters on Konigi</title>
-    <link>http://localhost:1313/tags/newsletters/</link>
+    <link>http://konigi.com/tags/newsletters/</link>
     <description>Recent content in Newsletters on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Apr 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/newsletters/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>GoodUI Newsletter: Ideas for getting good conversion rates</title>
-      <link>http://localhost:1313/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</link>
+      <link>http://konigi.com/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</link>
       <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</guid>
+      <guid>http://konigi.com/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</guid>
       <description>&lt;p&gt;Jakub Linowski, creator of &lt;a href=&#34;http://wireframes.linowski.ca/&#34;&gt;Wireframes Magazine&lt;/a&gt; just started writing a newsletter called &lt;a href=&#34;http://www.goodui.org/&#34;&gt;Good UI&lt;/a&gt; on how to design sites that are easy to use and also yield high conversion rates.&lt;/p&gt;
 
 &lt;p&gt;He&#39;s looking at how to employ practical ideas that satisfy the business side as well as the people using it, which I&#39;m sure is something we all want to do on sites that sell a product or service. He plans to publish the newsletter monthly. &lt;a href=&#34;http://www.goodui.org/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Anatomy of an Apple Email</title>
-      <link>http://localhost:1313/blog/anatomy-apple-email/</link>
+      <link>http://konigi.com/blog/anatomy-apple-email/</link>
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/anatomy-apple-email/</guid>
+      <guid>http://konigi.com/blog/anatomy-apple-email/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flowtown.com/blog/wp-content/uploads/2011/01/110110-FLOW-APPLE.png&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2469&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4d2dd8f7b8083_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Peldi tipped me to &lt;a href=&#34;http://www.flowtown.com/blog/anatomy-ofan-apple-email&#34;&gt;this graphic&lt;/a&gt; deconstructing one of Apple&amp;rsquo;s promotional emails.&lt;/p&gt;&lt;/p&gt;
 

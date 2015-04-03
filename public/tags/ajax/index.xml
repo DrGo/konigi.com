@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajax on Konigi</title>
-    <link>http://localhost:1313/tags/ajax/</link>
+    <link>http://konigi.com/tags/ajax/</link>
     <description>Recent content in Ajax on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 May 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Rise of Contextual User Interfaces</title>
-      <link>http://localhost:1313/blog/rise-contextual-user-interfaces/</link>
+      <link>http://konigi.com/blog/rise-contextual-user-interfaces/</link>
       <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/rise-contextual-user-interfaces/</guid>
+      <guid>http://konigi.com/blog/rise-contextual-user-interfaces/</guid>
       <description>&lt;p&gt;In Alex Iskold&#39;s article, &lt;a href=&#34;http://alexiskold.wordpress.com/2008/05/15/the-rise-of-contextual-user-interfaces/&#34;&gt;The Rise of Contextual User Interfaces&lt;/a&gt;, the writer and CEO of software company AdaptiveBlue talks about the rise of contextual interfaces on the desktop an in the services we use on the web.&lt;/p&gt;
 &lt;p&gt;He points out the failing of choice over context in the old paradigm of UI design. Standardization of UI elements (tabs, combo boxes, etc.) was meant as a way to keep users from having to learn how to use an interface. The argument made was apparently that users are stupid and this paradigm supported the idea that we shouldn&#39;t innovate on core UI elements because users wouldn&#39;t be able to figure out how to user our applications. But over time UI designers simply made all of the choices available in an application in the forefront, putting the burden of having to sift through all of them.&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;Another philosophy of the old UI approach was that the user wants to see all information all the time. Instead of building UIs that responded to the way that people actually interacted with the tool, the user interface opened up all possible choices at all times. Naturally, this is completely overwhelming and confusing to people.&lt;/p&gt;&lt;/blockquote&gt;

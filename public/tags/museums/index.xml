@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Museums on Konigi</title>
-    <link>http://localhost:1313/tags/museums/</link>
+    <link>http://konigi.com/tags/museums/</link>
     <description>Recent content in Museums on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Dec 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/museums/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/museums/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Brooklyn Museum: 1stfans, a socially-networked museum membership</title>
-      <link>http://localhost:1313/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</link>
+      <link>http://konigi.com/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</link>
       <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</guid>
+      <guid>http://konigi.com/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.brooklynmuseum.org/join/1stfans/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/bma-1stfans.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Brooklyn Museum continues its exploration and extension of Museum services by offering &lt;a href=&#34;http://www.brooklynmuseum.org/join/1stfans/&#34;&gt;1stfans&lt;/a&gt; a socially-networked museum membership. Members pay a smaller $20 membership fee and get access to special events where they can mingle with other 1stfans members, may skip lines at film events, and get alerts via flickr, facebook, and twitter. &lt;/p&gt;
 &lt;p&gt;The museum also recently added a crowd-sourced art work tagging interface that allows users to describe work in the collection using free tags, and has utilized Flickr for over a year now to promote events. &lt;/p&gt;&lt;/p&gt;
 

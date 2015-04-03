@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dogs on Konigi</title>
-    <link>http://localhost:1313/tags/dogs/</link>
+    <link>http://konigi.com/tags/dogs/</link>
     <description>Recent content in Dogs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Jun 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dogs on Design: Danzico and Lucy</title>
-      <link>http://localhost:1313/blog/dogs-design-danzico-and-lucy/</link>
+      <link>http://konigi.com/blog/dogs-design-danzico-and-lucy/</link>
       <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/dogs-design-danzico-and-lucy/</guid>
+      <guid>http://konigi.com/blog/dogs-design-danzico-and-lucy/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2397&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4c1a293c95c99_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Core77&amp;rsquo;s Sarah Cox wrote &lt;a href=&#34;http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp&#34;&gt;a lovely article&lt;/a&gt; after talking with &lt;a href=&#34;http://bobulate.com/&#34;&gt;Liz Danzico&lt;/a&gt; about her thoughts on interaction design, life with her dog Lucy and communicating simply and humanly. Below is her summary of what dogs can teach us about interaction design.&lt;/p&gt;&lt;/p&gt;
 

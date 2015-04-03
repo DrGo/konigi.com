@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Classification on Konigi</title>
-    <link>http://localhost:1313/tags/classification/</link>
+    <link>http://konigi.com/tags/classification/</link>
     <description>Recent content in Classification on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Aug 2008 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/classification/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Faceted Browsing on Konigi</title>
-      <link>http://localhost:1313/blog/better-faceted-browsing-konigi/</link>
+      <link>http://konigi.com/blog/better-faceted-browsing-konigi/</link>
       <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/better-faceted-browsing-konigi/</guid>
+      <guid>http://konigi.com/blog/better-faceted-browsing-konigi/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;companies.html&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/konigi-notes-by-company.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;About 10 years ago I participated in the daily indexing of news articles as part of my job designing a digital library. During graduate study for the MLS my concentration was actually on information retrieval and classification, so I was interested in doing the job and understanding the content in order to know how to make it useful to users. Customers would get this information via the web site, by email, and in newsletters. Every day I had a bunch of news articles from a load of database feeds queued up for me to skim and tag. A first pass of auto-indexing and clustering was done and we&amp;rsquo;d have to check the applied tags and add new tags for subject, company, product, etc. We had a person whose primary job it was to maintain these terms, with the cooperation of subject matter experts in the business, in separate controlled vocabularies. &lt;/p&gt;
 &lt;p&gt;That faceted approach to indexing and description has really informed a lot of what I&amp;rsquo;ve done as a blogger in the years that I&amp;rsquo;ve maintained sites at iaslash, urlgreyhot, and now here. You see the result of the faceted approach to tagging in the metadata for every entry, and in the navigation for things like Design Tags and Design Colors. But I&amp;rsquo;ve hidden some of that tagging until I had some time to add views for navigating via those facets. I&amp;rsquo;ve been operating this blog with the mantra, &amp;ldquo;&amp;hellip; better to get it up fast and fix it later.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;But now I&amp;rsquo;ve added a few more facets to the navigation. If you notice the subnav in the Interface, Design, and Notebooks sections, you will see that there are now options to browse by Companies in all of them, and additionally by Person in Notebook. So now you can view &lt;a href=&#34;../interface/companies/Nike.html&#34;&gt;only Nike Interfaces&lt;/a&gt; or alternatively &lt;a href=&#34;../design/companies/Nike.html&#34;&gt;only Nike Designs&lt;/a&gt;, for instance. Also, in the entry metadata, the term Nike will appear in the pill shaped tag, and you can click that link to see all Nike tagged items across all sections of the site. &lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>iStockPhoto Tags</title>
-      <link>http://localhost:1313/interface/istockphoto-tags/</link>
+      <link>http://konigi.com/interface/istockphoto-tags/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/interface/istockphoto-tags/</guid>
+      <guid>http://konigi.com/interface/istockphoto-tags/</guid>
       <description>&lt;p&gt;iStockPhoto provides an interesting way of mapping keywords or tags to the controlled vocabulary the site uses. This makes a lot of sense in a site that wants people to be able to browse for concepts, themes, and subject matter with a high degree of relevancy. Curiously, they refer to the keywords as tags on the review screen when the term &#34;tag&#34; isn&#39;t used on the site as of this writing.&lt;/p&gt;
 &lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Image upload screen provides textarea for entering comma-separated keywords&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/istockphoto-tags-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Image upload screen provides textarea for entering comma-separated keywords&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/istockphoto-tags-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. User matches keywords (called tags on this screen) to terms from controlled vocabulary&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/istockphoto-tags-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. User matches keywords (called tags on this screen) to terms from controlled vocabulary&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/istockphoto-tags-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
 &lt;p&gt;&lt;a href=&#34;http://istockphoto.com/&#34;&gt;http://istockphoto.com&lt;/a&gt;&lt;/p&gt;

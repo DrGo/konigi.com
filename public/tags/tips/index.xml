@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tips on Konigi</title>
-    <link>http://localhost:1313/tags/tips/</link>
+    <link>http://konigi.com/tags/tips/</link>
     <description>Recent content in Tips on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alfred/Hazel Workflow for Screen Capture</title>
-      <link>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</link>
+      <link>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</guid>
+      <guid>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</guid>
       <description>&lt;p&gt;If you take a lot of screenshots on a Mac like me, you probably have a good workflow for doing it using something like &lt;a href=&#34;http://realmacsoftware.com/ember&#34;&gt;LittleSnapper/Ember&lt;/a&gt;, &lt;a href=&#34;https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en&#34;&gt;Awesome Screenshot&lt;/a&gt; or &lt;a href=&#34;http://evernote.com/skitch/&#34;&gt;Skitch&lt;/a&gt;. The biggest problem I&#39;ve had is that after I take a screenshot, I often want to do something with it. I can do this by just getting &lt;a href=&#34;http://getcloudapp.com/&#34;&gt;Cloud&lt;/a&gt; to watch and upload files passively, but I&#39;ve always wanted to save to my own server after just issuing one command to capture the page. &lt;/p&gt;
 &lt;p&gt;I love Alfred. Launchers like Quicksilver and Alfred are what I think of as the best minimal UI apps that I use on the Mac. I finally got around to searching for a way to capture a full scrolling screen from it and do something with the output. &lt;/p&gt;
 &lt;p&gt;I found an &lt;a href=&#34;http://www.alfredforum.com/topic/2062-scrennshot-of-web-pages/&#34;&gt;excellent Alfred workflow&lt;/a&gt; by user moom on the Alfred Forum that uses a shell script to run &lt;a href=&#34;http://www.paulhammond.org/webkit2png/&#34;&gt;Webkit2Png&lt;/a&gt; in the background. It&#39;s awesome. I just copy the URL of the page I&#39;m on, summon Alfred with a few keystrokes, and then it gets captured, optimized, and uploaded to my server in the background. I made a video of the workflow showing &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;, &lt;a href=&#34;http://www.noodlesoft.com/hazel.php&#34;&gt;Hazel&lt;/a&gt;, &lt;a href=&#34;http://imageoptim.com/&#34;&gt;ImageOptim&lt;/a&gt;, and &lt;a href=&#34;http://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt; working together with lots of spit and chewing gum in case anyone else has this need. &lt;/p&gt;
@@ -33,10 +33,10 @@ xargs -I {} mv {} ${HOME}/Sites/media.konigi.com/snaps/2013/&lt;/code&gt;&lt;/p&
     
     <item>
       <title>Why Creative People Need to Be Eccentric</title>
-      <link>http://localhost:1313/blog/why-creative-people-need-be-eccentric/</link>
+      <link>http://konigi.com/blog/why-creative-people-need-be-eccentric/</link>
       <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/why-creative-people-need-be-eccentric/</guid>
+      <guid>http://konigi.com/blog/why-creative-people-need-be-eccentric/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2503&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these two posts by Mark McGuiness on the 99% on why &lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;eccentricity&lt;/a&gt; and how &lt;a href=&#34;http://the99percent.com/tips/7007/How-Mundane-Routines-Produce-Creative-Magic&#34;&gt;daily routine&lt;/a&gt; helps trigger creativity.&lt;/p&gt;&lt;/p&gt;
 
@@ -55,10 +55,10 @@ wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these t
     
     <item>
       <title>How to Make Tree Components in OmniGraffle</title>
-      <link>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</link>
+      <link>http://konigi.com/blog/how-make-tree-components-omnigraffle/</link>
       <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</guid>
+      <guid>http://konigi.com/blog/how-make-tree-components-omnigraffle/</guid>
       <description>&lt;p&gt;I swear I&#39;ve answered this question a dozen times, so I&#39;m capturing to refer people in the future. The tree control in my OmnGraffle Wireframe Stencil is a godawful hack that uses tabs and arrow characters. Copying and pasting the arrows, however, screws up the formatting. OmniGraffle just doesn&#39;t make this kind of manipulation of text all that easy and I haven&#39;t found an ideal solution, but if you want to learn how I do it, read on.&lt;/p&gt;
 &lt;p&gt;To use the tree control presently, you utilize the tab stops and insert arrrows from a character viewer. Type CMD-R to show rulers and tab stops in paragraphs of text. Then Option-Tab to move between tab stops. 1 tab for first level arrow. Insert arrows from the character viewer.&lt;/p&gt;
 &lt;p&gt;The video below shows how to :&lt;/p&gt;
@@ -76,10 +76,10 @@ wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these t
     
     <item>
       <title>Mockups Tips and Tricks, Chapter 1: Working with Controls 	</title>
-      <link>http://localhost:1313/blog/mockups-tips-and-tricks-chapter-1-working-controls/</link>
+      <link>http://konigi.com/blog/mockups-tips-and-tricks-chapter-1-working-controls/</link>
       <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mockups-tips-and-tricks-chapter-1-working-controls/</guid>
+      <guid>http://konigi.com/blog/mockups-tips-and-tricks-chapter-1-working-controls/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
 &lt;object width=&#34;610&#34; height=&#34;494&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/1mnlN4SJxFg&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/1mnlN4SJxFg&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;494&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
 &lt;p&gt;Peldi from &lt;a href=&#34;http://balsamiq.com/&#34;&gt;Balsamiq&lt;/a&gt; shares some &lt;a href=&#34;http://www.youtube.com/watch?v=1mnlN4SJxFg&#34;&gt;power user tips and tricks&lt;/a&gt; for Mockups controls. In this video he shows keyboard shortcuts and methods for selection, snapping, layering, locking, aligning and zooming.&lt;/p&gt;&lt;/p&gt;
@@ -90,10 +90,10 @@ wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these t
     
     <item>
       <title>Annotating Specs With Tracing Paper</title>
-      <link>http://localhost:1313/blog/annotating-specs-tracing-paper/</link>
+      <link>http://konigi.com/blog/annotating-specs-tracing-paper/</link>
       <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/annotating-specs-tracing-paper/</guid>
+      <guid>http://konigi.com/blog/annotating-specs-tracing-paper/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/dlichaw-wf-vellum-notes.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.greatnorthelectric.com/&#34;&gt;Donna Lichaw&lt;/a&gt; posted a &lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;photo&lt;/a&gt; showing a nice method for annotating specs using tracing paper or vellum.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;http://www.flickr.com/photos/dlichaw/4053897862/&lt;/a&gt;&lt;/p&gt;
@@ -102,10 +102,10 @@ wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these t
     
     <item>
       <title>OmniGraffle Tip: Change Keyboard Shortcuts</title>
-      <link>http://localhost:1313/blog/omnigraffle-tip-change-keyboard-shortcuts/</link>
+      <link>http://konigi.com/blog/omnigraffle-tip-change-keyboard-shortcuts/</link>
       <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/omnigraffle-tip-change-keyboard-shortcuts/</guid>
+      <guid>http://konigi.com/blog/omnigraffle-tip-change-keyboard-shortcuts/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/change-og-group-keys-2.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;Here&amp;rsquo;s a tip that I blurted out on Twitter in a moment of frustration. I use both Adobe Illustrator and OmniGraffle, and one thing that repeatedly trips me up is using the keyboard shortcuts for grouping/ungrouping between the two apps. Illustrator uses Cmd-G to group, and OmniGraffle uses Shift-Cmd-G. They add the Shift key because CMD-G is assigned to search again which I don&amp;rsquo;t use all that often.&lt;/p&gt;
 &lt;p&gt;The fix for this, as well as for any Mac application is simple. &lt;/p&gt;
 &lt;p&gt;1) Open System Preferences &amp;gt; Keyboard and Mouse settings. &lt;/p&gt;
@@ -118,10 +118,10 @@ wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these t
     
     <item>
       <title>Mac Tip: Mounting a Server Automatically</title>
-      <link>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</link>
+      <link>http://konigi.com/blog/mac-tip-mounting-server-automatically/</link>
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</guid>
+      <guid>http://konigi.com/blog/mac-tip-mounting-server-automatically/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/mounting-mac-server.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.  &lt;/p&gt;
 &lt;p&gt;The thing with Webdav is that I can mount the shared folders in my Mac Finder and drag and drop tons of documents in there without going to the web site. But I don&amp;rsquo;t want to have to manually connect to the shared folder. Luckily it&amp;rsquo;s easy to have the Mac OS automatically connect to servers when you log in. Someone tweeted today wondering how you do that, so I posted a screenshot showing how I&amp;rsquo;ve set up my Mac. You can do the same thing with whatever share point or server you use.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s the steps:&lt;/p&gt;

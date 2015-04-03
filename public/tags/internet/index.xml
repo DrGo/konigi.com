@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on Konigi</title>
-    <link>http://localhost:1313/tags/internet/</link>
+    <link>http://konigi.com/tags/internet/</link>
     <description>Recent content in Internet on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://konigi.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BBC News: The top 100 sites on the internet</title>
-      <link>http://localhost:1313/blog/bbc-news-top-100-sites-internet/</link>
+      <link>http://konigi.com/blog/bbc-news-top-100-sites-internet/</link>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/bbc-news-top-100-sites-internet/</guid>
+      <guid>http://konigi.com/blog/bbc-news-top-100-sites-internet/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://news.bbc.co.uk/2/hi/technology/8562801.stm&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2332&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
 wt4ba0dd260b751_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The BBC &lt;a href=&#34;http://news.bbc.co.uk/2/hi/technology/8562801.stm&#34;&gt;charts the top 100 Internet sites&lt;/a&gt; in terms of traffic (unique visits) using January 2010 data from Nielsen. Data covers the UK, France, Germany, Italy, Spain, Switzerland, Brazil, US and Australia.&lt;/p&gt;&lt;/p&gt;
 
