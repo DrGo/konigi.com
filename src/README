@@ -1,8 +1,0 @@
-README
-1. Hugo
-Run in root folder to build static site.
-$ hugo
-
-2. Gulp
-Run in src/ folder to generate css into themes/konigi/static.
-$ gulp
