@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notification on Konigi</title>
+    <link>http://localhost:1313/tags/notification/</link>
+    <description>Recent content in Notification on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/notification/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Twilert - Twitter search alerts via email</title>
+      <link>http://localhost:1313/blog/twilert-twitter-search-alerts-email/</link>
+      <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/twilert-twitter-search-alerts-email/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1421&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt493fb8d601bbd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;Twilert&lt;/a&gt; is an email alert/notification service for Twitter. Just enter any brand, product, service, or any keyword. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://swissmiss.typepad.com/weblog/2008/12/twilert.html&#34;&gt;Via SwissMiss&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;http://www.twilert.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

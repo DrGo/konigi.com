@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on Konigi</title>
+    <link>http://localhost:1313/tags/forms/</link>
+    <description>Recent content in Forms on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basecamp Form Focus</title>
+      <link>http://localhost:1313/interface/basecamp-form-focus/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/basecamp-form-focus/</guid>
+      <description>&lt;p&gt;This is a cute interaction for the input focus and data validation on Basecamp&#39;s registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.&lt;/p&gt;
+
+&lt;p&gt;The illustrations on the site do a great job of making you feel like this isn&#39;t &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp. Simple things that make the customer smile probably go a long way in this case.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Smiling, pointing dude. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/basecamp-form-focus-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Smiling, pointing dude. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/basecamp-form-focus-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Dude is concerned about your invalid form value and stays pointed at that error to remind you to come back.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/basecamp-form-focus-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Dude is concerned about your invalid form value and stays pointed at that error to remind you to ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/basecamp-form-focus-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://basecamp.com/start&#34;&gt;https://basecamp.com/start&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geeklist Sign Up Password Strength</title>
+      <link>http://localhost:1313/interface/geeklist-sign-password-strength/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/geeklist-sign-password-strength/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://geekli.st/signup&#34;&gt;Geeklist&#39;s sign up form&lt;/a&gt; tells you how secure your password is by indicating how long it would take to crack. Sounds much more understandable and convincing than the typical weak/strong message.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. A really strong password.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. A really strong password.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. A dictionary word is weak. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. A dictionary word is weak. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Better, but still weak. The messaging may be convincing enough to get users to think about their choice.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/geeklist_signup-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Better, but still weak. The messaging may be convincing enough to get users to think about their ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/geeklist_signup-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://geekli.st/signup&#34;&gt;https://geekli.st/signup&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Infield Form Labels Suck Less</title>
+      <link>http://localhost:1313/blog/making-infield-form-labels-suck-less/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/making-infield-form-labels-suck-less/</guid>
+      <description>&lt;p&gt;Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/infield-plugin.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less&#34;&gt;Part 1&lt;/a&gt; talks about the problems using infield labels. &lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less-2&#34;&gt;Part 2&lt;/a&gt; shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a &lt;a href=&#34;http://jsfiddle.net/ten1seven/hYM8G/3/light/&#34;&gt;jsFiddle snippet&lt;/a&gt; to play with the code. You can &lt;a href=&#34;https://github.com/ten1seven/infieldLabel&#34;&gt;download the jquery plugin from Git&lt;/a&gt;.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://viget.com/inspire/making-infield-form-labels-suck-less&#34;&gt;http://viget.com/inspire/making-infield-form-labels-suck-less&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slavery Footprint Form: Drag to Select</title>
+      <link>http://localhost:1313/interface/slavery-footprint-form-drag-select/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/slavery-footprint-form-drag-select/</guid>
+      <description>&lt;p&gt;The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.&lt;/p&gt;
+
+&lt;p&gt;They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.&lt;/p&gt;
+
+&lt;p&gt;This section of the survey asks the user to drag the icons for items that describe the kind of house and car they own or rent into a drop area in the home above.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Select your home ownership type.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Select your home ownership type.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Drag in the items that characterize your home and car ownership.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Drag in the items that characterize your home and car ownership.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. As rooms and autos are added, the house grows to indicate your status.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. As rooms and autos are added, the house grows to indicate your status.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. While filling out the survey, you can fine tune your answers by adding more granular information for each category.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. While filling out the survey, you can fine tune your answers by adding more granular information ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/slaveryfootprint-radios-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://slaveryfootprint.org/&#34;&gt;http://slaveryfootprint.org/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photojojo Captcha</title>
+      <link>http://localhost:1313/interface/photojojo-captcha/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/photojojo-captcha/</guid>
+      <description>&lt;p&gt;Yes, I know you hate captchas and they&#39;re riddled with problems. Why do it if you don&#39;t have to? But if you do it, at least make it a brainless action like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Click to answer the captcha challenge.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/photojojo-captcha-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Click to answer the captcha challenge.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/photojojo-captcha-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://photojojo.com/contact/&#34;&gt;http://photojojo.com/contact/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mad Libs Style Form Increases Conversion 25-40%</title>
+      <link>http://localhost:1313/blog/mad-libs-style-form-increases-conversion-25-40/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mad-libs-style-form-increases-conversion-25-40/</guid>
+      <description>&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.lukew.com/ff/entry.asp?1007&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2326&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b8c1b9135268_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Luke Wroblewski reports on A-B tests performed by Ron Kurti and the team at Vast.com, who note that Mad Libs style forms increased conversion across the board by 25-40%. &lt;a href=&#34;http://www.lukew.com/ff/entry.asp?1007&#34;&gt;Read more&lt;/a&gt; and see the before/after screenshots at LukeW.&lt;/p&gt;
+&lt;p&gt;Update:&lt;/p&gt;
+&lt;p&gt;Shortly after posting this, David Kaneda pointed out his post, in which &lt;a href=&#34;http://www.davidkaneda.com/post/413592285/mad-libs-style-form-increases-conversion-25-40&#34;&gt;he observes&lt;/a&gt; that there is quite a bit more to that Kelly Blue Book form redesign than just switching from vertically arranged fields to inline fields. The increase in conversion can&#39;t necessarily be attributed to one thing in this case since there are many other variables from A to B.&lt;/p&gt;
+&lt;p&gt;Patrick McKenzie noted that you should test with your own users. He experimented with inline form fields &lt;a href=&#34;http://www.kalzumeus.com/2010/02/27/lesson-from-madlibs-signup-fad-do-your-own-tests/&#34;&gt;in his A-B test&lt;/a&gt; and found that conversion rates decreased. His form design, however, was a bit harder to parse than the KBB example. Some argue that the agenda there seemed to be to disprove the effectiveness of the mad libs style.&lt;/p&gt;
+&lt;p&gt;There&#39;s even more discussion about issues with the A-B test &lt;a href=&#34;http://news.ycombinator.com/item?id=1151052&#34;&gt;at Hacker News&lt;/a&gt;. So this looks like one to implement with care and be sure to observe the results. &lt;/p&gt;
+&lt;p&gt;For what it&#39;s worth, I find short inline forms to be effective, and useful given space constraints. The login form on this site, for instance works within a short strip of real estate. It&#39;s not really the same as the longer forms--the mad libs style seems to take about a paragraph rather than sentence--but it&#39;s similar in that it departs from the typical quick parsing of a skimmable columnar layout to prose style reading.&lt;/p&gt;
+&lt;div class=&#34;notebook-image&#34;&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4398925765/&#34; title=&#34;Konigi inline login form by jibbajabba, on Flickr&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4058/4398925765_97d66122f0_o.png&#34; width=&#34;610&#34; height=&#34;117&#34; alt=&#34;Konigi inline login form&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.lukew.com/ff/entry.asp?1007&#34;&gt;http://www.lukew.com/ff/entry.asp?1007&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kelley Blue Book Mad Libs Form</title>
+      <link>http://localhost:1313/interface/kelley-blue-book-mad-libs-form/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/kelley-blue-book-mad-libs-form/</guid>
+      <description>&lt;p&gt;The Kelley Blue Book features Mad Libs-style inline form elements for its contact form. The contact form, which was previously displayed with right-aligned labels adjacent to to left aligned fields, is now displayed as an inline form with &amp;quot;fill in the blanks&amp;quot; style prompts for input.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/kellybluebook-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/kellybluebook-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kbb.com/&#34;&gt;http://www.kbb.com/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Apple Store&#39;s Checkout Form Redesign</title>
+      <link>http://localhost:1313/blog/apple-stores-checkout-form-redesign/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/apple-stores-checkout-form-redesign/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.lukew.com/ff/entry.asp?968&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2235&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b30ef2e07cab_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I finally made some time to read through Luke Wroblewski&amp;rsquo;s excellent review of the &lt;a href=&#34;http://www.lukew.com/ff/entry.asp?968&#34;&gt;changes in the Apple store&amp;rsquo;s redesigned checkout form&lt;/a&gt;. According to Wroblewski, &amp;quot;&amp;hellip;retail sales data shows that Mac sales were up 21% year-over-year in the months of October and November. So it&amp;rsquo;s interesting to note that Apple&amp;rsquo;s primary online sales channel (Web-based checkout) was redesigned during this time.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;I wasn&#39;t surprised that the single page checkout form is an improvement over the paged version. What I was particularly interested in reading was Luke&#39;s observations about the problems with the move to put labels in inputs on so much of the form, and the improvements made with error messaging and breaking up secondary actions via tabbed sections.&lt;/p&gt;
+
+&lt;p&gt;I consider this a must read, and as always it&#39;s great to read whatever Luke continues to provide as an update to the form book. &lt;a href=&#34;http://www.lukew.com/ff/entry.asp?968&#34;&gt;Read it on Functioning Form&lt;a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lukew.com/ff/entry.asp?968&#34;&gt;http://www.lukew.com/ff/entry.asp?968&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deconstructing a CSS trick to display form data as tabular data</title>
+      <link>http://localhost:1313/blog/deconstructing-css-trick-display-form-data-tabular-data/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/deconstructing-css-trick-display-form-data-tabular-data/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://cssglobe.com/articles/editable_fields/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2234&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b30e6fa5e314_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS and Javascript experiments are fun to play around with. I tend to talk about them here because of the questions they raise about whether a technique is worth implementing or if it does more harm than help. Straight forward and familiar are the safe route. Sometimes experiments lead to better ways of doing things, other times they seem like they&amp;rsquo;re gratuitous.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;I came across an &lt;a href=&#34;http://cssglobe.com/post/6984/ux-trick-display-form-data-as-tabular-data&#34;&gt;interesting, if problematic experiment&lt;/a&gt; to convert form fields into editable fields that are masked table cells until each input is in focus. I don&#39;t think this would be particularly familiar to a user if they&#39;re editing a form for the first time. However, it does provide a nice problem to deconstruct and review.&lt;/p&gt;
+
+&lt;p&gt;I&#39;m sure there is a specific application they have in mind here, e.g. displaying a view of tabular data as a masked form to a user that has permission to edit it. But I think that could just be accomplished using javascript to transform individual fields and submit via AJAX. One of the problems with transforming the text to input and back to system text again is that the user might believe that the transition implies a submission, when nothing is submitted in this form, I presume, until the Edit button is clicked. If the case was that editing each input submitted the data, however, this feels like it could be an appropriate concept.&lt;/p&gt;
+
+&lt;p&gt;As far as the concept of masking input fields here, I think the issue I have has to do with familiarity, usability, and efficiency. But to make it more usable, the form could give the user a cue as to how to start using this form. The first input might be put in focus so you know that you&#39;re able to edit form fields. Clicking an edit icon to start seems inefficient, although tabbing is also possible.&lt;/p&gt;
+
+&lt;p&gt;Some tricks run the risk of turning a simple function into what might be perceived as a gimmick, or worse, might fail to perform its primary function of getting the user&#39;s data input. Form fields feel like a dangerous place for me to confuse.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cssglobe.com/articles/editable_fields/&#34;&gt;http://cssglobe.com/articles/editable_fields/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iPhone-like Passwords using jQuery</title>
+      <link>http://localhost:1313/tools/submissions/iphone-passwords-using-jquery/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/iphone-passwords-using-jquery/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2780&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230b832dcf66_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Stefan Ullrich&amp;rsquo;s jQuery plugin on the DECAF site provides &lt;a href=&#34;http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/&#34;&gt;a behavior for masking passwords that is familiar to mobile users&lt;/a&gt;. The plugin obscures previously entered characters at delayed intervals or when new characters are entered. It falls back on using the browser&amp;rsquo;s password masking when JS is disabled.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/&#34;&gt;http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Log in or sign up?</title>
+      <link>http://localhost:1313/blog/log-or-sign/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/log-or-sign/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.leahculver.com/2009/11/log-in-or-sign-up.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2197&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b02ae93ccfe2_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Leah Culver discusses the &lt;a href=&#34;http://blog.leahculver.com/2009/11/log-in-or-sign-up.html&#34;&gt;design of hybrid sign up / login forms&lt;/a&gt;, showing a few examples and the final form as implemented for Leafy Chat. Uses the familiar I&amp;rsquo;m a customer/I&amp;rsquo;m new here radios that we know from Amazon, but positions it before the password field, which I find an improvement over the Amazon implementation. Lots of ideas in the comments.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.leahculver.com/2009/11/log-in-or-sign-up.html&#34;&gt;http://blog.leahculver.com/2009/11/log-in-or-sign-up.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confirming Passwords Is Annoying: Is There a Better Way?</title>
+      <link>http://localhost:1313/blog/confirming-passwords-annoying-there-better-way/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/confirming-passwords-annoying-there-better-way/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2198&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b02bd5209f8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This an article from March 09 by Kevin Vigneault of Viget that explores some &lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;techniques using Javascript to create more usable password inputs&lt;/a&gt; in forms. The ideas range from using a checkbox or button to temporarily show the password or changing type from text to password when the input is not in focus. Great ideas.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&#39;re interested in this topic, you might also want to check out Chris Dary&#39;s experiments with &lt;a href=&#34;experiments-password-masking.html&#34;&gt;password masking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;http://www.viget.com/advance/password-fields-are-annoying/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chroma-Hash Password Masking</title>
+      <link>http://localhost:1313/tools/submissions/chroma-hash-password-masking/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/chroma-hash-password-masking/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://foxxtrot.github.com/Chroma-Hash/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2839&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5232f8d29739b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Chroma-Hash is a jQuery script that Mattt Thompson created to explore a visual method for confirmation password matches during confirmation on login and registration forms. The idea is similar to Identicon, but uses a small colored bars in the input to visually check your strings. He &lt;a href=&#34;http://mattt.me/2009/07/chroma-hash-a-belated-introduction/&#34;&gt;describes the project on Mattt.com&lt;/a&gt; and you can &lt;a href=&#34;http://mattt.github.com/Chroma-Hash/&#34;&gt;try the demo&lt;/a&gt; out on GitHub or &lt;a href=&#34;http://github.com/mattt/Chroma-Hash/&#34;&gt;download it&lt;/a&gt;. Versions supporting &lt;a href=&#34;http://mattt.me/2009/11/chroma-hash-revisited/&#34;&gt;other libraries are also linked from this page&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://www.pauric.net/&#34;&gt;Pauric&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://foxxtrot.github.com/Chroma-Hash/&#34;&gt;http://foxxtrot.github.com/Chroma-Hash/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Turn any webform into a powerful wizard with jQuery</title>
+      <link>http://localhost:1313/tools/submissions/turn-any-webform-powerful-wizard-jquery/</link>
+      <pubDate>Sat, 03 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/turn-any-webform-powerful-wizard-jquery/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2716&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522feb3b83764_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The FormToWizard plugin for jQuery allows you to break up form fieldsets to create a stepped wizard-like flow. You can &lt;a href=&#34;http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx&#34;&gt;download and view the demo via Janko at Warp Speed&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx&#34;&gt;http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Aardvark Registration</title>
+      <link>http://localhost:1313/interface/aardvark-registration/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/aardvark-registration/</guid>
+      <description>&lt;p&gt;The registration process on Aardvark provides a modal dialog that uses some nice content previews, content filtering, and progressive disclosure to guide the new user through the form. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Clicking sign up button from an invitation opens modal dialog with basic information form. A preview area updates your info as you fill out the form.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aardvark-registration-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Clicking sign up button from an invitation opens modal dialog with basic information form. A prev...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aardvark-registration-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The birthday input filters and corrects date format. City/State shows suggestions. (The one in yellow is a browser auto-completion.)&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aardvark-registration-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The birthday input filters and corrects date format. City/State shows suggestions. (The one in ye...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aardvark-registration-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. A conditional select is shown for neighborhoods matching my city.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aardvark-registration-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. A conditional select is shown for neighborhoods matching my city.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aardvark-registration-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Following entry of email/password, additional fields are disclosed in the dialog.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aardvark-registration-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Following entry of email/password, additional fields are disclosed in the dialog.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aardvark-registration-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Confirmation dialog is displayed.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aardvark-registration-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Confirmation dialog is displayed.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aardvark-registration-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://vark.com/&#34;&gt;http://vark.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

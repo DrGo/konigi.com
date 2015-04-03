@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Konigi</title>
+    <link>http://localhost:1313/tags/tips/</link>
+    <description>Recent content in Tips on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alfred/Hazel Workflow for Screen Capture</title>
+      <link>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/alfredhazel-workflow-screen-capture/</guid>
+      <description>&lt;p&gt;If you take a lot of screenshots on a Mac like me, you probably have a good workflow for doing it using something like &lt;a href=&#34;http://realmacsoftware.com/ember&#34;&gt;LittleSnapper/Ember&lt;/a&gt;, &lt;a href=&#34;https://chrome.google.com/webstore/detail/awesome-screenshot-captur/alelhddbbhepgpmgidjdcjakblofbmce?hl=en&#34;&gt;Awesome Screenshot&lt;/a&gt; or &lt;a href=&#34;http://evernote.com/skitch/&#34;&gt;Skitch&lt;/a&gt;. The biggest problem I&#39;ve had is that after I take a screenshot, I often want to do something with it. I can do this by just getting &lt;a href=&#34;http://getcloudapp.com/&#34;&gt;Cloud&lt;/a&gt; to watch and upload files passively, but I&#39;ve always wanted to save to my own server after just issuing one command to capture the page. &lt;/p&gt;
+&lt;p&gt;I love Alfred. Launchers like Quicksilver and Alfred are what I think of as the best minimal UI apps that I use on the Mac. I finally got around to searching for a way to capture a full scrolling screen from it and do something with the output. &lt;/p&gt;
+&lt;p&gt;I found an &lt;a href=&#34;http://www.alfredforum.com/topic/2062-scrennshot-of-web-pages/&#34;&gt;excellent Alfred workflow&lt;/a&gt; by user moom on the Alfred Forum that uses a shell script to run &lt;a href=&#34;http://www.paulhammond.org/webkit2png/&#34;&gt;Webkit2Png&lt;/a&gt; in the background. It&#39;s awesome. I just copy the URL of the page I&#39;m on, summon Alfred with a few keystrokes, and then it gets captured, optimized, and uploaded to my server in the background. I made a video of the workflow showing &lt;a href=&#34;http://www.alfredapp.com/&#34;&gt;Alfred&lt;/a&gt;, &lt;a href=&#34;http://www.noodlesoft.com/hazel.php&#34;&gt;Hazel&lt;/a&gt;, &lt;a href=&#34;http://imageoptim.com/&#34;&gt;ImageOptim&lt;/a&gt;, and &lt;a href=&#34;http://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt; working together with lots of spit and chewing gum in case anyone else has this need. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/72290954?title=0&amp;amp;byline=0&amp;amp;portrait=0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;It&#39;s a lot of steps to set up, but if you have this need, you&#39;ll appreciate it. ;) You can modify the steps for your workflow to move it to note in Evernote, to Cloud, or wherever your heart desires. &lt;a href=&#34;http://www.alfredforum.com/topic/2062-scrennshot-of-web-pages/&#34;&gt;Download the workflow here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested to know how I modified the workflow, these are the options I used:&lt;/p&gt;
+&lt;blockquote style=&#34;font-style: normal&#34;&gt;&lt;p&gt;&lt;code&gt;python webkit2png -F -W 980 --delay=5 &#34;$(pbpaste)&#34;&lt;br /&gt;
+ls *.png | grep -v icon.png |&lt;br /&gt;
+xargs -I {} mv {} ${HOME}/Sites/media.konigi.com/snaps/2013/&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;-F -W 980 outputs a full scrolling screen at 980px wide. You can see what the options are by running this command in the terminal: webkit2png --help.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/72290954&#34;&gt;https://vimeo.com/72290954&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Creative People Need to Be Eccentric</title>
+      <link>http://localhost:1313/blog/why-creative-people-need-be-eccentric/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/why-creative-people-need-be-eccentric/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2503&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4dc94996a685e_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I love these two posts by Mark McGuiness on the 99% on why &lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;eccentricity&lt;/a&gt; and how &lt;a href=&#34;http://the99percent.com/tips/7007/How-Mundane-Routines-Produce-Creative-Magic&#34;&gt;daily routine&lt;/a&gt; helps trigger creativity.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;He points out three characteristics of a hypnotic trigger:&lt;br /&gt;
+&lt;ol&gt;&lt;li&gt;Uniqueness - it should be something (or a combination of things) you don&#39;t associate with other activities, otherwise the effect will be diluted.&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Emotional intensity - the kind you experience when you&#39;re really immersed in creative work.&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Repetition - the more times you experience the unique trigger in association with the emotions, the stronger the association becomes.&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;I live by daily routines, but I also associate that with my need to feel balanced and in control of my time and the living and working space around me. I also have a tendency to be impulsive or to dive very deeply into activities, so routine acts both as clock and trigger.&lt;/p&gt;
+
+&lt;p&gt;There are some excellent anecdotes about the routines of famous creatives. I find myself really intrigued by the more eccentric ones, like those of Victor Hugo and especially that of Orhan Pamuk. Pamuk&#39;s act of re-creating his &amp;quot;walk to work&amp;quot; trigger is pretty ingenious. &lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&#34;&gt;http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make Tree Components in OmniGraffle</title>
+      <link>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</link>
+      <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</guid>
+      <description>&lt;p&gt;I swear I&#39;ve answered this question a dozen times, so I&#39;m capturing to refer people in the future. The tree control in my OmnGraffle Wireframe Stencil is a godawful hack that uses tabs and arrow characters. Copying and pasting the arrows, however, screws up the formatting. OmniGraffle just doesn&#39;t make this kind of manipulation of text all that easy and I haven&#39;t found an ideal solution, but if you want to learn how I do it, read on.&lt;/p&gt;
+&lt;p&gt;To use the tree control presently, you utilize the tab stops and insert arrrows from a character viewer. Type CMD-R to show rulers and tab stops in paragraphs of text. Then Option-Tab to move between tab stops. 1 tab for first level arrow. Insert arrows from the character viewer.&lt;/p&gt;
+&lt;p&gt;The video below shows how to :&lt;/p&gt;
+&lt;p&gt;1) Enable the character viewer in OS X System Preferences &gt; Language &amp;amp; Text &gt; Input Sources.&lt;br /&gt;
+2) Use tab stops to Option-tab your text to create hierarchy.&lt;br /&gt;
+3) Use OS X&#39;s character viewer to insert arrows.&lt;/p&gt;
+&lt;p&gt;View it in full screen to see it. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object classid=&#39;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#39; codebase=&#39;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0&#39; width=&#39;560&#39; height=&#39;345&#39;&gt;&lt;param name=&#39;movie&#39; value=&#39;http://screenr.com/Content/assets/screenr_1116090935.swf&#39; /&gt;&lt;param name=&#39;flashvars&#39; value=&#39;i=81782&#39; /&gt;&lt;param name=&#39;allowFullScreen&#39; value=&#39;true&#39; /&gt;&lt;embed src=&#39;http://screenr.com/Content/assets/screenr_1116090935.swf&#39; flashvars=&#39;i=81782&#39; allowFullScreen=&#39;true&#39; width=&#39;560&#39; height=&#39;345&#39; pluginspage=&#39;http://www.macromedia.com/go/getflashplayer&#39;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;I&#39;m using Option-* to make the bullets. Like I said it&#39;s terribly awkward, but that&#39;s how I make do.&lt;/p&gt;
+&lt;p&gt;Since using paragraph formatting in a text element is unnecessarily difficult, what might be an easier way to manage is to use a table and copy/paste the arrow icons if you find the above technique a pain. &lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Mockups Tips and Tricks, Chapter 1: Working with Controls 	</title>
+      <link>http://localhost:1313/blog/mockups-tips-and-tricks-chapter-1-working-controls/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mockups-tips-and-tricks-chapter-1-working-controls/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;494&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/1mnlN4SJxFg&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/1mnlN4SJxFg&amp;amp;hl=en_US&amp;amp;fs=1&amp;amp;&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;494&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;Peldi from &lt;a href=&#34;http://balsamiq.com/&#34;&gt;Balsamiq&lt;/a&gt; shares some &lt;a href=&#34;http://www.youtube.com/watch?v=1mnlN4SJxFg&#34;&gt;power user tips and tricks&lt;/a&gt; for Mockups controls. In this video he shows keyboard shortcuts and methods for selection, snapping, layering, locking, aligning and zooming.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=1mnlN4SJxFg&#34;&gt;http://www.youtube.com/watch?v=1mnlN4SJxFg&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Annotating Specs With Tracing Paper</title>
+      <link>http://localhost:1313/blog/annotating-specs-tracing-paper/</link>
+      <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/annotating-specs-tracing-paper/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/dlichaw-wf-vellum-notes.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.greatnorthelectric.com/&#34;&gt;Donna Lichaw&lt;/a&gt; posted a &lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;photo&lt;/a&gt; showing a nice method for annotating specs using tracing paper or vellum.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/dlichaw/4053897862/&#34;&gt;http://www.flickr.com/photos/dlichaw/4053897862/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OmniGraffle Tip: Change Keyboard Shortcuts</title>
+      <link>http://localhost:1313/blog/omnigraffle-tip-change-keyboard-shortcuts/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/omnigraffle-tip-change-keyboard-shortcuts/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/change-og-group-keys-2.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;Here&amp;rsquo;s a tip that I blurted out on Twitter in a moment of frustration. I use both Adobe Illustrator and OmniGraffle, and one thing that repeatedly trips me up is using the keyboard shortcuts for grouping/ungrouping between the two apps. Illustrator uses Cmd-G to group, and OmniGraffle uses Shift-Cmd-G. They add the Shift key because CMD-G is assigned to search again which I don&amp;rsquo;t use all that often.&lt;/p&gt;
+&lt;p&gt;The fix for this, as well as for any Mac application is simple. &lt;/p&gt;
+&lt;p&gt;1) Open System Preferences &amp;gt; Keyboard and Mouse settings. &lt;/p&gt;
+&lt;p&gt;2) Select Keyboard Shortcuts in the control bar. Now scroll down to Application Keyboard Shortcuts.&lt;/p&gt;
+&lt;p&gt;3) Click the Add button and you&amp;rsquo;ll see the dialog above to add keyboard shortcuts. I&amp;rsquo;ve shown you how to re-assign the Group command. &lt;/p&gt;
+&lt;p&gt;4) Now re-assign the commands for UnGroup and Find as above or using whatever seems intuitive to you.&lt;/p&gt;
+&lt;p&gt;Now you won&amp;rsquo;t need to know you OG from your AI keyboard shortcuts.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mac Tip: Mounting a Server Automatically</title>
+      <link>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/mounting-mac-server.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.  &lt;/p&gt;
+&lt;p&gt;The thing with Webdav is that I can mount the shared folders in my Mac Finder and drag and drop tons of documents in there without going to the web site. But I don&amp;rsquo;t want to have to manually connect to the shared folder. Luckily it&amp;rsquo;s easy to have the Mac OS automatically connect to servers when you log in. Someone tweeted today wondering how you do that, so I posted a screenshot showing how I&amp;rsquo;ve set up my Mac. You can do the same thing with whatever share point or server you use.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure you&amp;rsquo;re in the Finder. Connect to the server using menu Go &amp;gt; Connect to Server, or keyboard shortcut Command-K.&lt;/li&gt;
+&lt;li&gt;With the volume mounted, open System Preferences &amp;gt; Accounts, and select your user account. Click the Login Items tab (you may need to click the lock icon in the lower left to edit login items).&lt;/li&gt;
+&lt;li&gt;Now just drag the mounted volume from the Finder in to your System Preferences &amp;gt; Login Items list.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That&amp;rsquo;s it. Now your Mac should automatically try to connect to your server volume whenever you log in, and it will show up in your Finder.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

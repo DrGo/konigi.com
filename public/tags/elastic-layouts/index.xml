@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elastic Layouts on Konigi</title>
+    <link>http://localhost:1313/tags/elastic-layouts/</link>
+    <description>Recent content in Elastic Layouts on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elastic-layouts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why browser zoom shouldn&#39;t kill flexible layouts</title>
+      <link>http://localhost:1313/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1764&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a3b8efa6d85f_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zoe Mickley Gillenwater posted &lt;a href=&#34;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&#34;&gt; an interesting article&lt;/a&gt; which makes the argument that browser zoom doesn&amp;rsquo;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&amp;rsquo;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &amp;ldquo;Zoom text only&amp;rdquo; options, e.g. in Firefox and Safari 4.&lt;/p&gt;
+&lt;p&gt;Gillenwater makes the argument that in either use of browser zoom&amp;#8212;normal zoom or text only zoom&amp;#8212;flexible layouts not only give users control, but they also tend not to break and show horiztonal scrollbars. I move between both worlds. On this site, I use fixed widths with flexible em-based type that works well with Zoom Text Only. It&amp;rsquo;s a decision I make knowing that it affects the smaller population that want to use a narrow viewport. But on the enterprise web software I&amp;rsquo;ve done front end development on, I use flexible layouts because of the audience and use. In those cases, designing for smaller laptop and netbooks, as well as mobile devices is a necessity.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s an interesting discussion, and brings up issues to be aware of. In many scenarios, I imagine a large majority of users won&amp;rsquo;t use browser zoom, and those that do will be the most likely to be aware of the difference of zooming the entire page versus zooming only text. Knowing your audience and choosing a strategy that&amp;rsquo;s appropriate is the expected advice, but also knowing how to make the most of the capabilities of zoom while attempting to prevent breakage is what this is about to me. I don&amp;rsquo;t intend to make this incarnation of Konigi, for instance, liquid or elastic, but I try to make type work when zoom is modified. Whereas other scenarios I could imagine for this site, e.g. a web app perhaps, might demand flexible layouts.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&#34;&gt;http://zomigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fixed vs. Fluid vs. Elastic Layout</title>
+      <link>http://localhost:1313/blog/fixed-vs-fluid-vs-elastic-layout/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1621&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a268cf34724e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine &lt;a href=&#34;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&#34;&gt;compares fixed, fluid, and elastic layout strategies&lt;/a&gt; and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&amp;rsquo;s right for your project. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&#34;&gt;http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Konigi</title>
+    <link>http://localhost:1313/tags/hardware/</link>
+    <description>Recent content in Hardware on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Buxton Collection</title>
+      <link>http://localhost:1313/tools/submissions/buxton-collection/</link>
+      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/buxton-collection/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2658&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522797368ec05_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata. Each device includes Buxton&#39;s photos, notes, details about the device&#39;s release date, retail value, and name of the creator.&lt;/p&gt;
+
+&lt;p&gt;View the &lt;a href=&#34;http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx&#34;&gt;Buxton Collection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx&#34;&gt;http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/default.aspx&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>The Setup</title>
+      <link>http://localhost:1313/blog/setup/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/setup/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sam.brown.usesthis.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1835&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a65925d1696f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://usesthis.com/&#34;&gt;The Setup&lt;/a&gt; does nerdy interviews to find out what people use to get stuff done. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sam.brown.usesthis.com/&#34;&gt;http://sam.brown.usesthis.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

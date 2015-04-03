@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zen on Konigi</title>
+    <link>http://localhost:1313/tags/zen/</link>
+    <description>Recent content in Zen on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 May 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/zen/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The more you know, the less you need.</title>
+      <link>http://localhost:1313/blog/more-you-know-less-you-need/</link>
+      <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/more-you-know-less-you-need/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau&#39;s advice: &#39;I say beware of all enterprises that require new clothes...&#39;&#34;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Yvon Chouinard in &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Let-People-Surfing-Education-Businessman/dp/0143037838&#34;&gt;Let My People Go Surfing&lt;/a&gt;&lt;/em&gt;.&lt;br /&gt;
+Chouinard is a mountain climber, environmentalist, and founder of Patagonia. He was writing about product design in the quote above. &lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Ed Parker on Competition</title>
+      <link>http://localhost:1313/blog/ed-parker-competition/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ed-parker-competition/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;&#34;It is always better to improve and strengthen your own line or knowledge than to try and cut your opponent&#39;s line.&#34;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Ed Parker, Martial Arts Instructor and Author&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Debussy on White Space</title>
+      <link>http://localhost:1313/blog/debussy-white-space/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/debussy-white-space/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;&#34;Music is the space between the notes.&#34;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey&lt;/p&gt;
+    
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Games on Konigi</title>
+    <link>http://localhost:1313/tags/video-games/</link>
+    <description>Recent content in Video Games on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/video-games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Designing Enjoyable User Interfaces: Lessons learned from computer games</title>
+      <link>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</link>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/designing-enjoyable-user-interfaces-lessons-learned-computer-games/</guid>
+      <description>&lt;p&gt;I find inspiration in the literature that examines &lt;a href=&#34;tags/games.html&#34;&gt;games&lt;/a&gt; and &lt;a href=&#34;tags/play.html&#34;&gt;play&lt;/a&gt; as factors in creating delightful and engaging experiences. I like to think of how this applies to products outside of the video gaming industry. I&#39;ve had Thomas Malone&#39;s 1981 paper, &#34;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=800049.801756&#34;&gt;Heuristics for Designing Enjoyable Interfaces: Lessons from computer games&lt;/a&gt;&#34; on my desk for a while. I finally got around to reading it and found some interesting ideas that resonated with me. &lt;/p&gt;
+&lt;p&gt;The paper asks why users find games captivating and proposes guidelines for designing enjoyable systems. What I found relevant for interface design are Malone&#39;s observations about the experience with toys versus tools, and how to incorporate elements of game play to make tools more enjoyable. &lt;/p&gt;
+&lt;p&gt;One of the distinctions he makes is that when using tools, their interfaces tend to become virtually invisible, to allow the user to focus attention on tasks that satisfy their external needs and goals. &lt;/p&gt;
+&lt;p&gt;I don&#39;t think all tools become invisible, but well-designed, efficient interfaces for business software tend to feel this way. I also think of it this way&amp;#8212;I don&#39;t go to the library to experience the library, I go to satisfy a need external to that physical place. The collection of the building, its contents, and it&#39;s staff are the tool, and more importantly they are simply a means to an end. The same is true of research databases or search engines. Most business software is focussed on fulfilling needs and goals, and the ones that I&#39;ve used that feel efficient tend to have interfaces that fall away so I can focus on tasks.&lt;/p&gt;
+&lt;p&gt;We&#39;re using tools during large portions of our work day, and to some extent, for power users, their utility sometimes makes them boring, and we seek out ways to find challenges using them. I found this passage particularly relevant to me.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;In a sense, a good game is intentionally made difficult to play, but a tool should be made as easy as possible to use. This distinction helps explain why some users of complex system may enjoy mastering tools that are extremely difficult to use. To the extent that these users are treating the systems as toys rather than tools, the difficulty increases the challenge and therefore the pleasure of using the systems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Interesting idea, although the conflict of simple versus complex presents a challenge. With tools, simple features are great for satisfying that 80% of users that need efficiency, but the 20% of power users can probably stand to go beyond that simpler experience. For them, the challenge is to find ways to unlock the hidden features beneath the iceberg.&lt;/p&gt;
+&lt;p&gt;I thought of it as an iceberg representing features (excuse the cliche metaphor). The tip represents defaults and simple features for the majority of average users, and the larger mass below the surface represents power users and the often hidden, advanced features they use.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/malone-graph.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The conflict really has to do with power users. They want to push the tool to do more, they want to do advanced things. What Malone proposes in this case is to build in a progression of increasingly complex levels, and the analog in the business tools world would be access to advanced features, whether they be built into the interface itself, or require expert-level expertise to access those features. Have you ever looked at the  insanity of an MS Excel spreadsheet loaded with macros? That&#39;s the kind of analog we&#39;re talking about. Or in a SaaS environment, it&#39;s an API that gives access to data. &lt;/p&gt;
+&lt;p&gt;There are simpler examples from our world. Some IAs use these kinds of expert-level skills to get access to data from websites to come up with information graphics that help us visualize that information when wrestling with server log analysis or content inventories. I did a lot of this with tools like Graphviz in the past. In traditional design tools, it could mean pushing an advanced feature in graphics software to do things beyond what they were intended for. I&#39;m thinking of things like using JavaScript and Scriptographer in Illustrator, in this case.&lt;/p&gt;
+&lt;p&gt;Malone talks about building multi-layered systems in games in order to push advanced users to become more engaged and sustain their use with the game.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;[A] multi-layered system could not only help resolve the trade-off between simplicity and power. It could also enhance the challenge of using the system. Users could derive self-esteem and pleasure from successively mastering more and more advanced layers of the system, and this kind of pleasure might be more frequent if the layers are made an explicit part of the system.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;What he&#39;s talking about is common in games&amp;#8212;providing an ecosystem that supports leveling up with the purpose of providing incentive and reward via building up expertise and engagement. &lt;/p&gt;
+&lt;p&gt;This reminds me of what Kathy Sierra talks about in her talks on &lt;a href=&#34;kathy-sierra-creating-awesome-users.html&#34;&gt;creating awesome users&lt;/a&gt;. Experiences that progressively introduce and teach users about advanced features have a better chance of sustaining engagement with them.  This is something we all want in our products. &lt;/p&gt;
+&lt;p&gt;I love the idea behind this. It becomes our responsibility as interface designers to know how to identify the tip of the iceberg to provide the simple defaults, but simplicity isn&#39;t all. We might keep the majority of our users working with the obvious features, but we want to provide the conditions that will let them become expert, and over time keep them feeling continually challenged and satisfied. Our challenge comes in knowing how to push the iceberg up, or teach the user how to swim deeper below the surface.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=800049.801756&#34;&gt;http://dl.acm.org/citation.cfm?id=800049.801756&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Windows on Konigi</title>
+    <link>http://localhost:1313/tags/microsoft-windows/</link>
+    <description>Recent content in Microsoft Windows on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/microsoft-windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BumpTop 3D Desktop</title>
+      <link>http://localhost:1313/blog/bumptop-3d-desktop/</link>
+      <pubDate>Sat, 03 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/bumptop-3d-desktop/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;493&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/eqcmPJ-oVL0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;hl=en&amp;amp;feature=player_embedded&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/eqcmPJ-oVL0&amp;amp;color1=0xb1b1b1&amp;amp;color2=0xcfcfcf&amp;amp;hl=en&amp;amp;feature=player_embedded&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowScriptAccess=&#34;always&#34; width=&#34;610&#34; height=&#34;493&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;I&amp;rsquo;m becoming more and more intrigued by the latest offering of inexpensive touch screen PCs like the &lt;a href=&#34;http://us.msi.com/msiaio/specs/productslist.aspx?id=1&#34;&gt;MSI Wind Top&lt;/a&gt; that have been released recently, as well as the rumored Apple Tablet. I&amp;rsquo;m excited for the penetration of touch interfaces on higher resolution desktop applications, which will start to spread at a much greater rate to a wider audience when we see low cost devices like tablets and touch screen desktops at netbook prices. &lt;/p&gt;
+&lt;p&gt;The researchers behind BumpTop released a new commercial version of their desktop interface software that shows how Windows users might begin to use their touch screen PCs before Microsoft releases its own touch interface. You may recall the demo of BumpTop for Windows tablets that was initially &lt;a href=&#34;http://www.youtube.com/watch?v=SWe-TIy2Lbs&#34;&gt;demonstrated in 2006&lt;/a&gt; and published in Proceedings of CHI 2006. The recently released $29 product for Windows 7 is a desktop overlay that allows users to access, manipulate and filter objects on their desktop using a &lt;a href=&#34;http://portal.acm.org/citation.cfm?id=143055&#34;&gt;piles metaphor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If Apple comes out with a tablet, I&amp;rsquo;m sure will see a lot of similar interfaces using their dock piles. Watch the video above to see how the app transforms the Windows desktop, or check out the &lt;a href=&#34;http://bumptop.com/&#34;&gt;BumpTop&lt;/a&gt; page for more info. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bumptop.com/&#34;&gt;http://bumptop.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows 7 Revealed</title>
+      <link>http://localhost:1313/blog/windows-7-revealed/</link>
+      <pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/windows-7-revealed/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;amp;imageID=1&amp;amp;articleID=211601289&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/infoweek-windows-7.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;InformationWeek previews Windows 7, the successor to Vista, with &lt;a href=&#34;http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;amp;imageID=1&amp;amp;articleID=211601289&#34;&gt;24 screenshots&lt;/a&gt; from a demo given by Julie Larson Green, Microsoft&amp;rsquo;s vice president for Windows experience. Read more about Windows 7 in the &lt;a href=&#34;http://www.informationweek.com/news/windows/operatingsystems/showArticle.jhtml?articleID=211601289&#34;&gt;InformationWeek article&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;amp;imageID=1&amp;amp;articleID=211601289&#34;&gt;http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;imageID=1&amp;articleID=211601289&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

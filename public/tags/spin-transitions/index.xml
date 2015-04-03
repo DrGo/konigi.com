@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spin Transitions on Konigi</title>
+    <link>http://localhost:1313/tags/spin-transitions/</link>
+    <description>Recent content in Spin Transitions on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spin-transitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>In Quotes</title>
+      <link>http://localhost:1313/interface/quotes/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/quotes/</guid>
+      <description>&lt;p&gt;The &#34;In Quotes&#34; project in Google Labs is an interesting attempt to leverage information from Google News to try to help people understand where public figures stand on topics and issues by extracting quotes. Google says &#34;Much of the published reporting about people is based on the interpretation of a journalist. Direct quotes, on the other hand, are concrete units of information that describe how newsmakers represent themselves.&#34;&lt;/p&gt;
+&lt;p&gt;The interface is pretty simple to use. Enter keywords or click the provided words to compare quotes from the 2 public figures who have been vocal on the given topic area. Then you can click through what each person was reported to have said on the topic, or use the fun Spin button, which is a like a pulling a slot machine to change the quotes shown.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Default screen for the presidential candidates.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-in-quotes-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Default screen for the presidential candidates.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-in-quotes-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Enter or search for a topic. It will be added to the list of quote comparison rows.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-in-quotes-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Enter or search for a topic. It will be added to the list of quote comparison rows.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-in-quotes-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Select the people to compare.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-in-quotes-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Select the people to compare.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-in-quotes-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Read and change the quotes.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-in-quotes-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Read and change the quotes.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-in-quotes-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://labs.google.com/inquotes/&#34;&gt;http://labs.google.com/inquotes/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

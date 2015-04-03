@@ -1,0 +1,340 @@
+// ========================================
+// FONT SIZES
+// Assuming base font is 16px
+// px = em
+// 12 = .75
+// 14 = .875
+// 16 = 1
+// 18 = 1.125
+// 21 = 1.3
+
+// ========================================
+// CORE LAYOUT
+
+body {
+  background: #fcfcfc;
+  padding: 0;
+  margin: 1.5em auto;
+  text-align: left;
+  position: relative;
+}
+
+// ========================================
+// HEADER LAYOUT AND SOME TYPE
+header {
+  font-family: "Lato","Helvetica Neue",sans-serif;
+  padding-bottom: 1.5em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid $gray;
+}
+
+// LOGO
+#logo {
+  letter-spacing: -.05em;
+  text-align: center;
+  @include fontsize(24,24);
+  font-weight: 400;
+  @include breakpoint(mdmin) {
+    font-weight: 700;
+    @include fontsize(18,18);
+    text-align: left;
+  }
+  a {
+    color: $black !important;
+  }
+}
+// GNAV
+#gnav-container {
+  text-align: center;
+  @include breakpoint(mdmin) {
+    text-align: left;
+  }
+}
+ul#gnav {
+  @include navigation-list();
+  float: none;
+  display: inline-block;
+  margin-top: .25em;
+  padding-top: 2px;
+  text-align: right;
+  @include breakpoint(mdmin) {
+    margin-top: 0;
+    float: right;
+  }
+  > li {
+    padding-right: .6em;
+    @include fontsize(16,18);
+    font-weight: 400;
+    @include breakpoint(mdmin) {
+      @include fontsize(14,18);
+      text-transform: uppercase;
+      padding-right: 1em;
+    }
+    a {
+      color: $graymed;
+      &:hover {
+        color: $black !important;
+      }
+    }
+  }
+}
+
+// ========================================
+// FOOTER
+footer {
+  margin: 3em 0;
+}
+
+// ========================================
+// HOME
+  .list-grid li a {
+    display: block;
+    border-top: 1px solid $gray;
+    padding-top: 1em;
+  }
+  .home.list-grid {
+    min-height: 1.5em;
+    @include breakpoint(mdmin) {
+      min-height: 100px;
+    }
+    @include breakpoint(lgmin) {
+      min-height: 120px;
+    }
+  }
+// ========================================
+// METADATA
+.metadata {
+  margin: 1em 0 1.5em 0;
+  .pub-date {
+    margin-bottom: 1em;
+  }
+  ul.tags {
+    margin: 1em 0;
+  }
+  &.single.bottom {
+    margin: 1em 0;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-top: 1px solid $gray;
+    border-bottom: 1px solid $gray;
+  }
+}
+.list-node .metadata.single.bottom {
+  padding-top: 0;
+  border: none;
+}
+
+p.url-out {
+  text-align: center;
+}
+
+// ========================================
+// SECTION PAGER
+.section-pager {
+  margin-bottom: 1.5em;
+  .section-next {
+    text-align: right;
+  }
+}
+
+// ========================================
+// LISTS
+.list-node {
+  margin-bottom: 3em;
+  border-bottom: 1px solid $gray;
+}
+.block-grid li {
+  margin-bottom: 1.5em;
+}
+
+// ========================================
+// ARTICLE BODIES
+article {
+  margin-bottom: 1.125em;
+}
+
+// ========================================
+// CONTENT
+// Titles
+.post-title {
+  margin-top: 1.125em;
+}
+
+// intro
+.intro {
+  padding-bottom: 1.5em;
+  margin-bottom: 1.5em;
+  border-bottom: 1px solid $gray;
+}
+
+// SCREENS FULL IN INTERFACE
+#screens-full {
+  // background: $graylight;
+  border-top: 1px dotted $gray;
+  padding: 10px 0 10px 0;
+  margin: 0 0 1.125em 0;
+  .fullimg {
+    background: $white;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  img {
+    display: inline-block;
+    margin: 0;
+    max-width: 100%;
+  }
+  .caption {
+    padding-bottom: 1.125em;
+  }
+  .interface & .caption {
+    padding: 10px 0 1.125em 0;
+  }
+
+}
+
+// ========================================
+// VIDEO
+.video {
+  position: relative;
+  padding-top: 25px;
+  padding-bottom: 67.5%;
+  height: 0;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+  overflow: hidden;
+  border: none;
+  &.widescreen { padding-bottom: 57.25%; }
+  &.vimeo { padding-top: 0; }
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+// ========================================
+/* notebook, product, tools section */
+// RESPONSIVE IMAGE
+article .notebook-image,
+article .notebook-screenshot,
+article .tool-screenshot,
+.screenshot {
+  text-align: center;
+}
+
+img.img-responsive,
+img.notebook-image,
+.notebook-screenshot img,
+div.notebook-image img,
+.screenshot img,
+.tool-screenshot img,
+img.bluga-thumbnail {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1em 0;
+}
+
+img.bluga-thumbnail {
+  display: inline-block;
+}
+
+.notebook-screenshot a {
+  border: none;
+}
+
+// ========================================
+// SEARCH PAGE
+.search {
+  #content {
+    .box {
+      margin: 0;
+      padding: 0;
+    }
+    .search-form {
+      padding: 0 0 .75em 0;
+      margin: 0;
+    }
+    h2 {
+      border-top: 1px solid $gray;
+      padding: .75em 0;
+    }
+    dd {
+      margin: 0 0 2em 0;
+    }
+    p {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+}
+
+// ========================================
+// PAGINATE
+.pagination-block {
+  text-align: center;
+  margin: 1.5em 0;
+  ul.pagination {
+    display: inline-block;
+    li.active a {
+      background: $graypale;
+      color: $black;
+    }
+  }
+}
+
+// ========================================
+// INLINE LISTS
+ul.inline {
+  @include navigation-list();
+  li.current a {
+    color: $black;
+  }
+}
+
+// ========================================
+// VISIBILITY
+.hidden {
+  display: none;
+}
+
+// ========================================
+// HR
+hr {
+  background: $gray;
+  color: $gray;
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 1.125em 0;
+  border: none;
+}
+
+// ========================================
+// BORDERS
+.b0 {
+  border: none;
+}
+
+// ========================================
+// KONAMI
+body.unibg {
+  background: transparent url(//media.konigi.com/img/rainbows.gif) repeat 0 0;
+}
+#body.unicorns *, body.unibg #footer-links-wrapper {
+  display: none;
+}
+#body.unicorns {
+  border-color:#FF6FCF;
+  max-width: 686px;
+  min-height: 686px;
+  background: #ffccff url(//media.konigi.com/img/uni.jpg) no-repeat 50% 0;
+}
+#body.unicorns.evil {
+  background: $black url(//media.konigi.com/img/evil.jpg) no-repeat 50% 0;
+}

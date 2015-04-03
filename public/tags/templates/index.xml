@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Templates on Konigi</title>
+    <link>http://localhost:1313/tags/templates/</link>
+    <description>Recent content in Templates on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Balsamiq UX Template</title>
+      <link>http://localhost:1313/tools/balsamiq-ux-template/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/balsamiq-ux-template/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+&lt;h3&gt;Made for UX designers&lt;/h3&gt;
+&lt;p&gt;This template is made for UI designers using Balsamiq Mockups that want to create polished, client-ready presentation decks. It includes a few example pages for basic UX document needs (journey maps, personas, wireframe pages), a Symbol Library for controls crafted in Konigi-style, and grid Symbols to keep your layout tight.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+&lt;h3&gt;Download for free&lt;/h3&gt;
+&lt;p&gt;1. &lt;a href=&#34;https://mockupstogo.mybalsamiq.com/projects/template-ux.zip&#34;&gt;Download the template&lt;/a&gt;.&lt;br /&gt;
+2. Duplicate it whenever you start a new project.&lt;br /&gt;
+3. Set to Wireframe Skin and System Fonts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://support.balsamiq.com/customer/portal/articles/1640428#ux&#34; target=&#34;blank&#34;&gt;Watch a tutorial on how to use this template.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;h3 class=&#34;mb1-5 tcenter&#34;&gt;Symbol Library for Controls&lt;/h3&gt;
+
+&lt;div class=&#34;thumbs gallery&#34;&gt;&lt;!-- thumbs --&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/symbols-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/symbols-1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/symbols-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/symbols-2.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3 class=&#34;mb1-5 tcenter&#34;&gt;Example Pages and Grid Symbols&lt;/h3&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/title-page.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/title-page.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/persona-overview.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/persona-overview.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/persona-detail.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/persona-detail.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/journey-map.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/journey-map.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/site-map.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/site-map.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/storyboard.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/storyboard.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-phone.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-phone.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-tablet.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-tablet.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-desktop.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/balsamiq-ux-template/wireframe-desktop.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Form design guidelines crib sheet</title>
+      <link>http://localhost:1313/tools/submissions/form-design-guidelines-crib-sheet/</link>
+      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/form-design-guidelines-crib-sheet/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2656&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5227940014778_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;These &lt;a href=&#34;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&#34;&gt;form design crib sheets&lt;/a&gt; provide examples for laying out forms to get users through the process efficiently. Created by  Joe Leech at cxpartners, and available for OmniGraffle, Photoshop, or in PDF vector format.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://twitter.com/#!/theresaneil/statuses/120899262996418561&#34;&gt;@theresaneil&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&#34;&gt;http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Android Interaction Design Patterns</title>
+      <link>http://localhost:1313/tools/submissions/android-interaction-design-patterns/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/android-interaction-design-patterns/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.androidpatterns.com/wiki&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2766&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230745639729_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Android Patterns is a community-contributed site with interaction patterns for Android app design. The site is created by the folks at Dutch interaction design firm, &lt;a href=&#34;http://unitid.nl/&#34;&gt;UNITiD&lt;/a&gt;, who also provide an &lt;a href=&#34;http://unitid.nl/tag/template/&#34;&gt;mobile wireframe templates&lt;/a&gt; for Android and Blackberry devices.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.androidpatterns.com/wiki&#34;&gt;http://www.androidpatterns.com/wiki&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>960 grid template for OmniGraffle</title>
+      <link>http://localhost:1313/tools/submissions/960-grid-template-omnigraffle/</link>
+      <pubDate>Mon, 07 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/960-grid-template-omnigraffle/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2692&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fc1ed32a48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I’m a big fan of increasing efficiency and consistency from conceptual design to implementation. This OmniGraffle template has helped me quite a bit in that regard, and I decided to share it with others.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/&#34;&gt;http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Content Templates to the Rescue</title>
+      <link>http://localhost:1313/blog/content-templates-rescue/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/content-templates-rescue/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.alistapart.com/articles/content-templates-to-the-rescue/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1813&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a55ec6a2256d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Erin Kissane writes about &lt;a href=&#34;http://www.alistapart.com/articles/content-templates-to-the-rescue/&#34;&gt;using content templates&lt;/a&gt; &amp;ldquo;&amp;hellip; to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&amp;rdquo; in A List Apart.&lt;/p&gt;
+&lt;p&gt;The ideal situation is to have a content strategist, perhaps a technical writer, who can provide the guidance for auditing and organizing information, and add some rigor to the writing process. The absence of a content strategist on a project necessitates at least dedicating one person to this task. Kissane&amp;rsquo;s article shows how to use content templates to provide the framework for preparing each page of content so they may communicate the essential information effectively and consistently. If you have an IA on the project, this can follow from wireframes on new work.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.alistapart.com/articles/content-templates-to-the-rescue/&#34;&gt;http://www.alistapart.com/articles/content-templates-to-the-rescue/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EightShapes Unify  </title>
+      <link>http://localhost:1313/tools/submissions/eightshapes-unify/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/eightshapes-unify/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://unify.eightshapes.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2785&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230cfb0978de_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://unify.eightshapes.com/&#34;&gt;EightShapes Unify&lt;/a&gt; is a collection of templates, libraries, and other assets that enable user experience designers to create more consistent, effective deliverables faster. The system utilizes the Adobe Creative Suite of products; primarily, Adobe InDesign is the key authoring tool.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://unify.eightshapes.com/&#34;&gt;http://unify.eightshapes.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Resume Template</title>
+      <link>http://localhost:1313/blog/resume-template/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/resume-template/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://sampleresumetemplate.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1630&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a311a218d434_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Matt Brown of thingsthatarebrown.com offers a &lt;a href=&#34;http://sampleresumetemplate.net/&#34;&gt;free, simple, well-designed HTML resume template&lt;/a&gt; for those in need.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sampleresumetemplate.net/&#34;&gt;http://sampleresumetemplate.net/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Usability.gov Templates &amp; Examples</title>
+      <link>http://localhost:1313/tools/submissions/usabilitygov-templates-examples/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/usabilitygov-templates-examples/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usability.gov/templates/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2838&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5232edfe030aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&amp;rsquo;s usability needs. All of these are in the public domain and can be freely downloaded.&lt;/p&gt;
+&lt;p&gt;Among the most useful of the files you&amp;rsquo;ll find in this collection are commonly used usability test plan templates, waivers and consent forms. I&amp;rsquo;ve used these forms many times in the past, and the examples provided can be easily modified to suit your needs.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.usability.gov/templates/&#34;&gt;http://www.usability.gov/templates/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Handbook of Usability Testing: Templates and Forms</title>
+      <link>http://localhost:1313/tools/submissions/handbook-usability-testing-templates-and-forms/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/handbook-usability-testing-templates-and-forms/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2817&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231a3587282a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-description.html&#34;&gt;&lt;em&gt;Handbook of Usability Testing&lt;/em&gt;&lt;/a&gt;, by Jeffrey Rubin and Dana Chisnell, describes how to plan, design, and conduct effective tests. The books site includes a downloads page with templates and examples of usability test plans, questionairres, test scripts, and consent forms.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html&#34;&gt;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>zef[a]media UX Templates</title>
+      <link>http://localhost:1313/tools/submissions/zefamedia-ux-templates/</link>
+      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/zefamedia-ux-templates/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.zefamedia.com/websites/free-ux-templates/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2787&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230d0c5a3b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.zefamedia.com/websites/free-ux-templates/&#34;&gt;http://www.zefamedia.com/websites/free-ux-templates/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Templates (Photoshop)</title>
+      <link>http://localhost:1313/tools/submissions/web-browser-templates-photoshop/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/web-browser-templates-photoshop/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2720&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fee27a8c23_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;An Adobe Photoshop .PSD template with Internet Explorer, Firefox for Mac, and Firefox for Windows browser chrome. Provides a layered PSD of browser windows at the following resolutions: 800×600 pixels, 1024×768 pixels, and 1280×1024 pixels.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/&#34;&gt;http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Schedule and Cost Summary Calculator</title>
+      <link>http://localhost:1313/tools/schedule-and-cost-summary-calculator/</link>
+      <pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/schedule-and-cost-summary-calculator/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+    &lt;h3&gt;About this template&lt;/h3&gt;
+    &lt;p&gt;This Cost Estimate and Scheduling spreadsheet provides a lightweight method for learning to estimate time to complete a web design project, and calculating cost for completion. The intended audience is individual freelancers or contractors who need to prepare proposals for potential clients. This may not be an ideal format for the calculation of project team estimates. &lt;/p&gt;
+    &lt;p&gt;The purpose of the document is to teach you to get acquainted with spreadsheets as tools for cost estimation, with the hopes that you will learn to use and modify it to suit your needs. Please note that this is only meant to be learning a tool and must be customized to be useful to you. This is NOT meant to be an out of the box solution.&lt;/p&gt;
+    &lt;h3&gt;How it works&lt;/h3&gt;
+    &lt;p&gt;This spreadsheet works by breaking your phases into individual tasks. You estimate time to complete tasks and start dates. Estimates are rolled up to show the sum of hours and estimated completion date for all tasks in a phase. Those numbers are then rolled up to show the sum of hours, cost, and completion date for all of the phases. This makes up your cost summary for your proposal. &lt;/p&gt;
+    &lt;h3&gt;Calculating time&lt;/h3&gt;
+    &lt;p&gt;The spreadsheet calculates time to complete each task based on an estimated low and high number of hours for each task in each phase of work, and calculating the mean or average of those values. This is done so you can enter a range rather than a hard number for safety. The range should be based on your own knowledge of how long it takes to complete each task. Only you will know how long you take to complete these tasks. To better know that number, you may want to work outside the spreadsheet to break each task into sub-tasks that can be estimated in hours.&lt;/p&gt;
+    &lt;p&gt;When a starting date is entered for a task, an estimation of finishing date is calculated based on your value for the number of hours per day you can devote to the project which you enter at the bottom of the spreadsheet, and subtracting any holidays you specify (also at the bottom).&lt;/p&gt;
+    &lt;h3&gt;Calculating cost&lt;/h3&gt;
+    &lt;p&gt;Cost is calculated by taking the mean hours for a task and multiplying by the rate of pay you select. For this example, I use 3 different rates of pay. You will need to calculate your formulas to the appropriate rate of pay in the Cost column.&lt;/p&gt;
+    &lt;h3&gt;Estimating Hours&lt;/h3&gt;
+    &lt;p&gt;Coming up with these numbers will depend on the information that you gather in your request for information/statement of work produced with the client. You will llikely do a more broken down estimate of hours based on scope of work. The screen inventory is an example of a document that can be used to break down a task.&lt;/p&gt;
+    &lt;h3&gt;Modifying Calculations&lt;/h3&gt;
+    &lt;p&gt;Because you may only want to use part of this spreadsheet, e.g. give hard estimates without computing means and using only 1 pay rate, you may wish to edit the formulas included here. The sheet and its formulas are not protected, so you may want to configure your phases and tasks, rates and rate assignments, as well as holidays. You may then protect the document so it can be used for information entry only. Some knowledge of Excel is mandatory for modifying formulas.&lt;/p&gt;
+    &lt;h3&gt;Disclaimer&lt;/h3&gt;
+    &lt;p&gt;Michael Angeles and Konigi provide no warranty for the use of this spreadsheet. By electing to use this spreadsheet, the user acknowledges that any errors are the sole responsibility of the user, due to data entry, formula creation, calculation, or any use of this spreadsheet on the user&#39;s part. Use this spreadsheet at your own risk.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+    &lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/schedule-cost-calculator/schedule-cost-summary.png&#34; id=&#34;single_image&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/schedule-cost-calculator/schedule-cost-summary-thumb.png&#34; alt=&#34;screenshot&#34; class=&#34;img-responsive&#34; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://media.konigi.com/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip&#34;&gt;Download the Excel Template&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+    &lt;span class=&#34;t10&#34;&gt;This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.&lt;/span&gt;&lt;/p&gt;
+    &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; class=&#34;mar0 pad0&#34;&gt;
+    &lt;input type=&#34;image&#34; src=&#34;https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;&#34;  class=&#34;mar0 pad0 paypal&#34; style=&#34;background-color: #fff;&#34; /&gt;&lt;br /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+    &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;2318535&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+    &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypal.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+    &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Todd Warfel&#39;s Persona Templates</title>
+      <link>http://localhost:1313/tools/submissions/todd-warfels-persona-templates/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/todd-warfels-persona-templates/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://zakiwarfel.com/archives/persona-templates/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2699&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fc92f51747_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Todd Warfel has posted &lt;a href=&#34;http://zakiwarfel.com/archives/persona-templates/&#34;&gt;templates for his data-driven personas&lt;/a&gt;. The main file is an InDesign (INDD) file and the visual chart is in Illustrator file. Both are made with CS4.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://zakiwarfel.com/archives/persona-templates/&#34;&gt;http://zakiwarfel.com/archives/persona-templates/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>OmniGraffle Wireframe Stencils</title>
+      <link>http://localhost:1313/tools/omnigraffle-wireframe-stencils/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/omnigraffle-wireframe-stencils/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;h3&gt;About&lt;/h3&gt;
+  &lt;p&gt;This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications. &lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;h3&gt;No Installation!&lt;/h3&gt;
+  &lt;p&gt;The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;h3&gt;Download&lt;/h3&gt;
+  &lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/Konigi_Wireframe_Stencils_v3-3.gstencil.zip&#34;&gt;Download Version 3.3 (6/14/13)&lt;/a&gt;&lt;br /&gt;
+  &lt;span class=&#34;t10&#34;&gt;Stencils are free to use, but can&#39;t be distributed. If you like them, a donation is appreciated.&lt;/span&gt;&lt;/p&gt;
+  &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; class=&#34;mar0 pad0&#34;&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;&#34;  class=&#34;mar0 pad0 paypal&#34; style=&#34;background-color: #fff;&#34; /&gt;&lt;br /&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;2318535&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypal.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34; class=&#34;mar0 pad0&#34; /&gt;&lt;br /&gt;
+  &lt;/form&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;h3 class=&#34;tcenter&#34;&gt;UI Components&lt;/h3&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/02-Controls.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/02-Controls-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/03-Forms.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/03-Forms-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/04-Navigation.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/04-Navigation-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/05-Audio-Video.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/05-Audio-Video-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/09-Social-Features.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/09-Social-Features-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/06-Text.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/06-Text-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 class=&#34;tcenter&#34;&gt;Ad Units&lt;/h3&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Rectangles.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Rectangles-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Skyscrapers.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Skyscrapers-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 class=&#34;tcenter&#34;&gt;Browser Chrome&lt;/h3&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/Web-Browser.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/Web-Browser-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 class=&#34;tcenter&#34;&gt;Mobile Devices&lt;/h3&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPad.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPad-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPhone.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPhone-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+  &lt;a href=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/Nexus.png&#34; class=&#34;group&#34; rel=&#34;group&#34;&gt;&lt;img class=&#34;img-responsive&#34; src=&#34;http://media.konigi.com/tools/og-wireframe-stencil/png-v3/Nexus-thumb.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;version&#34;&gt;
+&lt;h3&gt;Version Information&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;javascript:void(0);&#34; class=&#34;toggle&#34;&gt;View version notes.&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;toggle-content hide&#34;&gt;
+&lt;p&gt;
+&lt;strong&gt;3.3 (6/14/13)&lt;/strong&gt;&lt;br /&gt;
+Added &lt;a href=&#34;http://abcd.ca/&#34;&gt;Andrew Blair&#39;s&lt;/a&gt; Google Nexus device.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3.1-2 (2010)&lt;/strong&gt;&lt;br /&gt;
+Ships natively with OmniGraffle
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3.02 (4/2/2010)&lt;/strong&gt;&lt;br /&gt;
+Fixed dimensions of iPad chrome viewport.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3.01 (2/24/2010)&lt;/strong&gt;&lt;br /&gt;
+Added iPad chrome. Replaced graphic icons with vector images.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;3 (9/15/2009)&lt;/strong&gt;&lt;br /&gt;
+Modified all form and controls elements for color consistency. Added the following: sliders, new form icons, tag clouds and lists, a-z lists, IAB advertising units, iphone chrome, web browser chrome.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2.0.1 (1/6/2009)&lt;/strong&gt;&lt;br /&gt;
+Minor bug fixes, clean up of element alignment.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2.0 (1/6/2009)&lt;/strong&gt;&lt;br /&gt;
+Major updates to version 1.&lt;br /&gt;
+Formatted for OmniGraffle 5.x&lt;br /&gt;
+Includes Base Wireframe Kit; Controls Audio and Video; Controls Basic; Forms; Navigation; Text; Windows, Dialogs and Layers.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;1.x (2005-2007)&lt;/strong&gt;&lt;br /&gt;
+Original urlgreyhot OmniGraffle Wireframe Palette, formatted for OmniGraffle 4.x (Original is available &lt;a href=&#34;http://urlgreyhot.com/personal/resources/omnigraffle_wireframe_palette&#34;&gt;here&lt;/a&gt;).
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STC Usability Toolkit</title>
+      <link>http://localhost:1313/tools/submissions/stc-usability-toolkit/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/stc-usability-toolkit/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2830&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;Usability Toolkit&lt;/a&gt; is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

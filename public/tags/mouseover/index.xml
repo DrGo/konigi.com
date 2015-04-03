@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mouseover on Konigi</title>
+    <link>http://localhost:1313/tags/mouseover/</link>
+    <description>Recent content in Mouseover on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Nov 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mouseover/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Netflix Mouseover Info</title>
+      <link>http://localhost:1313/interface/netflix-mouseover-info/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/netflix-mouseover-info/</guid>
+      <description>&lt;p&gt;The video details shown on mouseover in Netflix is one of those behaviors I just take for granted now. They&#39;ve used their quick-loading, shadowed mouseover call outs for years now and they&#39;ve always felt very useful to me and effortless to deal with. They&#39;re always available, and even work in areas you might not expect to see them, like in a recommendation list within a lightbox dialog. &lt;/p&gt;
+&lt;p&gt;The mouseovers even make up for some things that I feel are design shortcomings, like the lack of a feature to show a gallery of poster images or sort by genre in the instant play queue. I have 225 videos in my instant queue and that list is not the same to me as my DVD queue in terms of how I use it, because I don&#39;t always want the top thing in the list, and since I can choose without thinking about order, I want to filter and view more info here. Oh well. The mouseover suffice to some degree. While the Netflix mouseover is really excellent, they could take a lesson from the Apple TV in designing some of their listings/views. Don&#39;t even get me started on the painful experience that is the Roku UI.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. A mouseover showing video details in a module.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-mouseover-info-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. A mouseover showing video details in a module.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-mouseover-info-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. A mouseover showing video details in the queue.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-mouseover-info-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. A mouseover showing video details in the queue.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-mouseover-info-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Mouseovers even show up on lightbox layers. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-mouseover-info-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Mouseovers even show up on lightbox layers. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-mouseover-info-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.netflix.com/MemberHome&#34;&gt;http://www.netflix.com/MemberHome&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

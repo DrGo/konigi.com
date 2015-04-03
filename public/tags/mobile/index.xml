@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Konigi</title>
+    <link>http://localhost:1313/tags/mobile/</link>
+    <description>Recent content in Mobile on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mobile Design Pattern Gallery</title>
+      <link>http://localhost:1313/blog/mobile-design-pattern-gallery/</link>
+      <pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mobile-design-pattern-gallery/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.mobiledesignpatterngallery.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2544&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4ec52d23221b4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Theresa Neil&amp;rsquo;s forthcoming book, &lt;em&gt;Mobile Design Pattern Gallery&lt;/em&gt;, is set to be released by O&amp;rsquo;Reilly in the Fall of 2011.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Theresa launched a site to go along with the book that includes a fantastic gallery of 70 user interface design patterns for mobile devices with 400+ supporting examples from iOS, Android, BlackBerry, WebOS, Windows Mobile, and Symbian applications. The gallery covers a broad range of problems from designing your application&#39;s navigation to choosing the right invitation technique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mobiledesignpatterngallery.com/mobile-patterns.php&#34;&gt;Check out the pattern gallery&lt;/a&gt;, and subscribe to be notified when the book comes out. She&#39;s giving away 5 free copies to subscribers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mobiledesignpatterngallery.com/&#34;&gt;http://www.mobiledesignpatterngallery.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

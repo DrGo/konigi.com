@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Fonts on Konigi</title>
+    <link>http://localhost:1313/tags/web-fonts/</link>
+    <description>Recent content in Web Fonts on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FontPrep: Web Font Generator for Mac</title>
+      <link>http://localhost:1313/tools/submissions/fontprep-web-font-generator-mac/</link>
+      <pubDate>Mon, 03 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/fontprep-web-font-generator-mac/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://fontprep.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2676&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fab5ed74a5_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://fontprep.com/&#34;&gt;FontPrep&lt;/a&gt; is a web font generator for the Mac with a simple drag/drop interface for adding your TTF and OTF font files and generating all of the respective font-formats for the web: WOFF, EOT, and SVG. Each converted web-font is bundled with @font-face declarations, and a subsettings feature allows you to select which character sets to include.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fontprep.com/&#34;&gt;http://fontprep.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

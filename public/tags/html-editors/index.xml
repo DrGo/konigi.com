@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html Editors on Konigi</title>
+    <link>http://localhost:1313/tags/html-editors/</link>
+    <description>Recent content in Html Editors on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/html-editors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Macaw: Code-savvy web design tool</title>
+      <link>http://localhost:1313/tools/submissions/macaw-code-savvy-web-design-tool/</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/macaw-code-savvy-web-design-tool/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://macaw.co/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2660&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522e556ae08c0_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://macaw.co/&#34;&gt;Macaw&lt;/a&gt; is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;There are some great optimizations for nudging/pudging on a grid, and for setting properties that make sense for css—thinking of positioning and dimensions.&lt;/p&gt;
+
+&lt;p&gt;The outline view is a nice way to browse through all the groups in the  document and adding container tags and/or classes for semantic html publishing. It&#39;s well matched to how you&#39;d think in html. It leap-frogs the heavier prototyping tools, but it&#39;s limited to creating static pages, like comps, for now. I&#39;m not sure what the graphics output options will be.&lt;/p&gt;
+
+&lt;p&gt;The html export is clean, maybe cleaner and more efficient than what I would write because it&#39;s a robot. Look really interesting, and is yet another approach to designing more directly for the browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://macaw.co/peek/&#34;&gt;Watch the sneak preview video to learn more. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://macaw.co/&#34;&gt;http://macaw.co/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
+      <link>http://localhost:1313/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/zen-coding/&#34;&gt;Zen Coding&lt;/a&gt; is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. &lt;/p&gt;
+&lt;p&gt;The demo video below shows Zen Coding in action.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;572&#34; height=&#34;393&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=7405114&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=7405114&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=1&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;572&#34; height=&#34;393&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://groups.google.com/group/htmlprototyping/msg/3bb400638e7741f2&#34;&gt;Via se&lt;/a&gt; on the htmlprototyping group&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://code.google.com/p/zen-coding/&#34;&gt;http://code.google.com/p/zen-coding/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

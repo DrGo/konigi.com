@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitors on Konigi</title>
+    <link>http://localhost:1313/tags/monitors/</link>
+    <description>Recent content in Monitors on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monitors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BiDi Screen</title>
+      <link>http://localhost:1313/blog/bidi-screen/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/bidi-screen/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;389&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=8111316&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=8111316&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;389&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://web.media.mit.edu/~mhirsch/bidi/&#34;&gt;BiDi Screen&lt;/a&gt; was demonstrated at SIGGRAPH Asia this year. It is a thin, depth-sensing LCD for 3D interaction using light fields.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The BiDi Screen is an example of a new type of I/O device that possesses the ability to both capture images and display them. This thin, bidirectional screen extends the latest trend in LCD devices, which has seen the incorporation of photo-diodes into every display pixel. Using a novel optical masking technique developed at the Media Lab, the BiDi Screen can capture lightfield-like quantities, unlocking a wide array of applications from 3-D gesture interaction with CE devices, to seamless video communication.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;More demonstrations and paper at Matthew Hirsch&amp;rsquo;s &lt;a href=&#34;http://web.media.mit.edu/~mhirsch/bidi/&#34;&gt;BiDi Screen&lt;/a&gt; page.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.media.mit.edu/~mhirsch/bidi/&#34;&gt;http://web.media.mit.edu/~mhirsch/bidi/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

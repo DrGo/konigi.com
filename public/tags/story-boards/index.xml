@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story Boards on Konigi</title>
+    <link>http://localhost:1313/tags/story-boards/</link>
+    <description>Recent content in Story Boards on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/story-boards/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gifting Feature at Nintendo</title>
+      <link>http://localhost:1313/interface/gifting-feature-nintendo/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/gifting-feature-nintendo/</guid>
+      <description>&lt;p&gt;Nintendo provides excellent illustrations to describe the gifting process on the Wii, using storyboards. The gifting page shows a table of contents at the top, for each use case: sending, receiving, confirmation, and faq. Clicking one of the use cases jumps the user down to the storyboard illustrating steps to complete each case. It&#39;s a simple, very clear, and visual. I wish every support site worked that way.  &lt;/p&gt;
+&lt;p&gt;Thanks to Boon Sheridan for the tip.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Table of contents (use cases) at the top of the page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nintendo-gifting-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Table of contents (use cases) at the top of the page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nintendo-gifting-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Sending a gift.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nintendo-gifting-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Sending a gift.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nintendo-gifting-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Receiving a gift.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nintendo-gifting-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Receiving a gift.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nintendo-gifting-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Gift confirmation.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/nintendo-gifting-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Gift confirmation.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/nintendo-gifting-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.nintendo.com/wii/channels/gifting&#34;&gt;http://www.nintendo.com/wii/channels/gifting&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

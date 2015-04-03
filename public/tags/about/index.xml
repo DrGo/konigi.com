@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Konigi</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Digg Contact</title>
+      <link>http://localhost:1313/interface/digg-contact/</link>
+      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/digg-contact/</guid>
+      <description>&lt;p&gt;This is perhaps more about information architecture than interface or interaction design. One thing I like about Digg&#39;s About section is the transparency of the company that&#39;s suggested here. They only provide email addresses for contacting the company, rather than providing a form. They provide 4 types of contact: feedback, abuse, press, and partners, each type of gets sent to an email address. This exposes you, the sender, as it doesn&#39;t allow the sending of anonymous email, and gives them a way to respond to you. It also gives a sense that someone will respond, which is not the perception I have when I fill out a form and get an autoresponder. That may provide a false sense of openness, however. With the volume of traffic Digg gets, I wonder if they are able to respond to each piece of communication they receive in a timely fashion. To further emphasize this transparency, Digg exposes who the staff are by providing a list of avatars linking to each person&#39;s Digg profile. &lt;/p&gt;
+&lt;p&gt;Digg provides a form for contacting them regarding bugs, which makes sense because in this case they want more information about the page you&#39;re looking at, the browser/OS you&#39;re using, etc. That doesn&#39;t appear to be done very well, however. Clicking the Report Bug link from the footer could auto-fill the referring URL, and grab the Browser and OS using environmental variables. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Main &amp;quot;About&amp;quot; page. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Main &amp;quot;About&amp;quot; page. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Mailto links for contact info and report a bug links in right sidebar. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Mailto links for contact info and report a bug links in right sidebar. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Digg staff.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Digg staff.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Bug Report form.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/digg-about-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Bug Report form.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/digg-about-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://digg.com/about&#34;&gt;http://digg.com/about&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

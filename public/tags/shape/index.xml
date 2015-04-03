@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shape on Konigi</title>
+    <link>http://localhost:1313/tags/shape/</link>
+    <description>Recent content in Shape on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shape/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Realizations of Rounded Rectangles</title>
+      <link>http://localhost:1313/blog/realizations-rounded-rectangles/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/realizations-rounded-rectangles/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1845&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a76fe347eb48.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Plasq designer, Keith Lang, recounts the story from computer folklore of &lt;a href=&#34;http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/&#34;&gt;how the rounded rectangle came to dominate&lt;/a&gt; the Mac OS, and discusses its effect on visual cognition. He gets Professor Jürg Nänni, author of &lt;em&gt;&lt;a href=&#34;http://www.blelb.com/english/blelbpub/publications_en.htm&#34;&gt;Visual Perception&lt;/a&gt;&lt;/em&gt; to offer his opinion.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A rectangle with sharp edges takes indeed a little bit more cognitive visible effort than for example an ellipse of the same size. Our “fovea-eye” is even faster in recording a circle. Edges involve additional neuronal image tools. The process is therefore slowed down.”&lt;/p&gt;
+&lt;p&gt;Professor Nänni is saying that rounded rectangles are literally easier on the eye. Put another way, compared to square-edged rectangles, rounded rectangles are more computationally efficient for the human brain. To me, this is a revelation. An idea that at the very least demands more investigation.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The comment by Voideka provides a perfect visual reading of the difference between the rounded and sharp angled shapes.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&amp;rdquo;&amp;hellip;to me the difference I perceive is a single line versus four lines. In other words, when corners are involved, the brain processes from point A to B, then B to C, and so on, until it completes a circuit. With rounded corners, the line never comes to a point, which we interpret as a stop, and so there is a single computation following the entire shape.&lt;/p&gt;
+&lt;p&gt;I think the key is in thinking of a point as a full stop (much like a period in a sentence).&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The point being made is that a particular use of shape, color, position, and movement are not simply aesthetic decisions, but can impact visual cognition. Mullet Sano&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0133033899&#34;&gt;Designing Visual Interfaces&lt;/a&gt;&lt;/em&gt; is another good source for the kinds of principles that can be used in practice. I haven&amp;rsquo;t read Nänni&amp;rsquo;s book, but have read a lot of literature on visual literacy, and tend to like the argument, however subtle, about the impact of the rounded shape on effort and perception.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/&#34;&gt;Read the full article.&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/&#34;&gt;http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

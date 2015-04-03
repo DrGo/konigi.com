@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculator on Konigi</title>
+    <link>http://localhost:1313/tags/calculator/</link>
+    <description>Recent content in Calculator on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/calculator/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grid Calculator</title>
+      <link>http://localhost:1313/tools/submissions/grid-calculator/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/grid-calculator/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.29digital.net/grid/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2745&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230279a37a61_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Matthew Pennel&amp;rsquo;s &lt;a href=&#34;http://www.29digital.net/grid/&#34;&gt;Grid Calculator&lt;/a&gt; is a tool to calcuate a grid based on easy to use slider controls and forms. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;[A]llows you to choose the font size you are going to use, and then select the number of columns, column width, and gutter width based on that base font size. As you fiddle with the dimensions, the total width is dynamically updated, so you can check that you haven’t gone over that magic 1024px!&lt;/p&gt;
+&lt;p&gt;If you’re not bothered about the column and gutter widths having an exact proportional relationship to the font size, you can edit the values directly (they are plain text input boxes). The total width will reflect changes as you type.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.29digital.net/grid/&#34;&gt;http://www.29digital.net/grid/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Continuum Javascript Ratio Calculator</title>
+      <link>http://localhost:1313/blog/continuum-javascript-ratio-calculator/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/continuum-javascript-ratio-calculator/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.continuum2.com/js_ratio.php&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/javascript-ratio-calculator.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Continuum&amp;rsquo;s &lt;a href=&#34;http://www.continuum2.com/js_ratio.php&#34;&gt;Javascript Ratio Calculator&lt;/a&gt; is a handy tool you can use to calculate object dimensions based on a ratio you provide. You can do this easily in a graphics tool like Photoshop by setting an image size and resizing, but this can be useful when you just need to pull those dimensions out when planning a project layout.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.continuum2.com/js_ratio.php&#34;&gt;http://www.continuum2.com/js_ratio.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

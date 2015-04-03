@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editorial on Konigi</title>
+    <link>http://localhost:1313/tags/editorial/</link>
+    <description>Recent content in Editorial on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Economist.com Editorial Style Guide</title>
+      <link>http://localhost:1313/blog/economist-com-editorial-style-guide/</link>
+      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/economist-com-editorial-style-guide/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.economist.com/research/styleguide/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1353&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48b81ee6c8c81.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Economist, the magazine and news site, provides access to the excellent &lt;a href=&#34;http://www.economist.com/research/styleguide/&#34;&gt;editorial style guide&lt;/a&gt; that every journalist for the company is given. The book, written by John Grimond, is also available for purchase in the printed book form.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.economist.com/research/styleguide/&#34;&gt;http://www.economist.com/research/styleguide/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

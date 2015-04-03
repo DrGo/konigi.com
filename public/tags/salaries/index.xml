@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salaries on Konigi</title>
+    <link>http://localhost:1313/tags/salaries/</link>
+    <description>Recent content in Salaries on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/salaries/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jobs</title>
+      <link>http://localhost:1313/wiki/jobs/</link>
+      <pubDate>Mon, 28 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/jobs/</guid>
+      <description>&lt;p&gt;&lt;h3 id=&#34;toc1&#34;&gt;Professional Association Job Listings&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://designjobs.aiga.org/public/jobs_browse.asp&#34;&gt;AIGA Design Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.baychi.org/jobbank/&#34;&gt;BayCHI Job Bank&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://listserv.acm.org/scripts/wa-ACMLPX.exe?A0=CHI-JOBS&#34;&gt;CHI-JOBS Email List&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://lists.iainstitute.org/listinfo.cgi/iai-jobs-iainstitute.org&#34;&gt;IA Institute Job Board&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.ixda.org/jobs&#34;&gt;IXDA Interaction Design Job Board&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.upassoc.org/usability_resources/jobs/&#34;&gt;Usability Professionals Association Job Bank&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;toc3&#34;&gt;UX Focussed&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.bestica.com/&#34;&gt;Bestica&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://jobs.boxesandarrows.com/&#34;&gt;Boxes and Arrows Job Board&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.duxjobs.com/&#34;&gt;DUX Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.hfcareers.com/&#34;&gt;HF Careers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://consortia.co.uk/category/jobs/user-experience-jobs&#34;&gt;Consortia (UK) UX Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://goodexperience.com/jobs/&#34;&gt;Good Experience&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.indeed.com/q-Ux-jobs.html&#34;&gt;Indeed UX Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.uxdesignjobs.net/&#34;&gt;UX Design Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://uxjobsla.com/&#34;&gt;UX Jobs LA (Los Angeles)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;https://www.uxjobsboard.com/&#34;&gt;UX Jobs Board&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;toc4&#34;&gt;Broad Design and Technology Focus&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://jobs.37signals.com/jobs&#34;&gt;37signals Job Board&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.aquent.com/&#34;&gt;Aquent&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.authenticjobs.com/&#34;&gt;Authentic Jobs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.creativecircle.com/&#34;&gt;Creative Circle&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.creativehotlist.com/&#34;&gt;Creative Hotlist&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://elegant.ly/&#34;&gt;elegant.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.krop.com/&#34;&gt;Krop&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.simplyhired.com/a/jobs/list/q-ux+&#39;information+architect&#39;+&#39;interaction+design&#39;+&#39;interface+design&#39;&#34;&gt;Simply Hired&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://jobs.smashingmagazine.com/&#34;&gt;Smashing Magazine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;toc5&#34;&gt;Broadest Focus&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.careerbuilder.com/&#34;&gt;Career Builder&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.craigslist.org/&#34;&gt;Craigslist&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.dice.com/&#34;&gt;Dice&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://jobs.freelanceswitch.com/&#34;&gt;FreelanceSwitch&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.theladders.com/&#34;&gt;The Ladders&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.linkedin.com/job/home&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.workopolis.com/&#34;&gt;Workopolis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;toc6&#34;&gt;Salaries&lt;/h3&gt;
+&lt;p&gt;Salary surveys compiled by professional associations, communities, and recruitment companies.&lt;br /&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://archive.aneventapart.com/alasurvey2011/00.html&#34;&gt;A List Apart Survey&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://designsalaries.aiga.org/&#34;&gt;AIGA-Aquent Survey of Design Salaries&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://iainstitute.org/en/learn/research/salary_survey.php&#34;&gt;Information Architecture Institute Salary Survey&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://usabilityprofessionals.org/usability_resources/surveys/SalarySurveys.html&#34;&gt;Usability Professionals Association Salary Survey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

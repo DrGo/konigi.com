@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form Validation on Konigi</title>
+    <link>http://localhost:1313/tags/form-validation/</link>
+    <description>Recent content in Form Validation on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/form-validation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Basecamp Form Focus</title>
+      <link>http://localhost:1313/interface/basecamp-form-focus/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/basecamp-form-focus/</guid>
+      <description>&lt;p&gt;This is a cute interaction for the input focus and data validation on Basecamp&#39;s registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.&lt;/p&gt;
+
+&lt;p&gt;The illustrations on the site do a great job of making you feel like this isn&#39;t &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp. Simple things that make the customer smile probably go a long way in this case.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Smiling, pointing dude. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/basecamp-form-focus-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Smiling, pointing dude. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/basecamp-form-focus-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Dude is concerned about your invalid form value and stays pointed at that error to remind you to come back.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/basecamp-form-focus-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Dude is concerned about your invalid form value and stays pointed at that error to remind you to ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/basecamp-form-focus-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;https://basecamp.com/start&#34;&gt;https://basecamp.com/start&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coolspotters User Registration</title>
+      <link>http://localhost:1313/interface/coolspotters-user-registration/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/coolspotters-user-registration/</guid>
+      <description>&lt;p&gt;Coolspotters user registration form does input validation and shows an icon in the right side of the input for valid or invalid values, and displays error message text to the right of the input. Simple.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Checking user name and displaying error.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/coolspotters-registration-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Checking user name and displaying error.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/coolspotters-registration-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Validated input.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/coolspotters-registration-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Validated input.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/coolspotters-registration-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://coolspotters.com/&#34;&gt;http://coolspotters.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

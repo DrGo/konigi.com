@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Status on Konigi</title>
+    <link>http://localhost:1313/tags/status/</link>
+    <description>Recent content in Status on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Mar 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/status/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arrivals, Cultured Code Development Status</title>
+      <link>http://localhost:1313/interface/arrivals-cultured-code-development-status/</link>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/arrivals-cultured-code-development-status/</guid>
+      <description>&lt;p&gt;I love this idea. Cultured Code shows the development status on their projects as a flight arrivals display.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/culturedcode-status-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/culturedcode-status-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://culturedcode.com/status/&#34;&gt;http://culturedcode.com/status/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

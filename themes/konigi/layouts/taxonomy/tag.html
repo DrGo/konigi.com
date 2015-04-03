@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+<h2 class="page-title">{{ .Title }}</h2>
+
+<section class="article-list">
+  <table>
+    <tbody>
+    {{ range .Data.Pages.GroupByDate "2006" }}
+    <thead><tr><th colspan="2"><h5>{{ .Key }}</h5></th></tr></thead>
+    {{ range .Pages }}
+    {{ .Render "table-row"}}
+    {{ end }}
+    {{ end }}
+  </tbody>
+  </table>
+</section>
+
+<p><a href="/tags">Browse All Tags</a></p>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

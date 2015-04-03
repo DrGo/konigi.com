@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Analytics on Konigi</title>
+    <link>http://localhost:1313/tags/web-analytics/</link>
+    <description>Recent content in Web Analytics on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Should Design Be Held Back by a Tyranny of Data</title>
+      <link>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1599&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a08334b160c4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The NYTimes &lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html?_r=2&amp;amp;adxnnl=1&amp;amp;adxnnlx=1242040513-Kke1lvsicTbH8SYjNFYe3w\&#34;&gt;interviewed Doug Bowman&lt;/a&gt; to talk about his departure from Google, which Bowman wrote about &lt;a href=&#34;http://stopdesign.com/archive/2009/03/20/goodbye-google.html&#34;&gt;on his blog&lt;/a&gt; in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:&lt;/p&gt;
+&lt;p&gt;Bowman on Google:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Data eventually becomes a crutch for every decision, paralyzing the company and preventing it from making any daring design decisions,”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Bowman on Twitter, where he is now Creative Director:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;He has also found a new way to listen to customers: reading their tweets in reaction to the new design features.&lt;/p&gt;
+&lt;p&gt;“Using data is fundamental to what we do,” Mr. Bowman said. “But we take all that with a grain of salt. Anytime you make design changes, the most vocal people are the ones who dislike what you’ve done. We don’t just throw the numbers in a spreadsheet.” &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Deborah Dunn, associate professor at the Stanford Institute of Design:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Adhering too rigidly to a design philosophy guided by “Web analytics,” Ms. Dunn said, “makes it very difficult to take bold leaps.”&lt;/p&gt;
+&lt;p&gt;“It is more from engaging with users, watching what they do, understanding their pain points, that you get big leaps in design,” Ms. Dunn said.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html&#34;&gt;http://www.nytimes.com/2009/05/10/business/10ping.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

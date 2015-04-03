@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Error Recovery on Konigi</title>
+    <link>http://localhost:1313/tags/error-recovery/</link>
+    <description>Recent content in Error Recovery on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/error-recovery/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Netflix Undo</title>
+      <link>http://localhost:1313/interface/netflix-undo/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/netflix-undo/</guid>
+      <description>&lt;p&gt;Netflix offers an undo function in their Queue that allows users to undo a remove action. Users click an X icon to remove a movie from their queue, and the row is grayed out, showing an undo text link replacing the remove icon. The row persists until the user moves to a different page, so several removed rows may be visible if the user does repeated removes in one session. Upon return visits to the queue, the removed movies will be gone.&lt;/p&gt;
+&lt;p&gt;Prior to adding this function, clicking the remove control would simply remove the list from your queue, so if the user made a mistake, they would have to navigate back to the removed movie to add it back. The undo allows users to recover from mis-clicks or if they change their mind about watching that movie they just axed. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Section of a movie Queue.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Section of a movie Queue.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over a movie row.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over a movie row.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. If the user clicks the X icon, the movie is removed, but the user may undo their action.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/netflix-undo-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. If the user clicks the X icon, the movie is removed, but the user may undo their action.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/netflix-undo-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.netflix.com/MemberHome&#34;&gt;http://www.netflix.com/MemberHome&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

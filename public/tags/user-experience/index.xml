@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Experience on Konigi</title>
+    <link>http://localhost:1313/tags/user-experience/</link>
+    <description>Recent content in User Experience on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Sep 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/user-experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Letting Go</title>
+      <link>http://localhost:1313/blog/letting-go/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/letting-go/</guid>
+      <description>&lt;p&gt;Two great slides from Yiibu&#39;s presentation, &lt;a href=&#34;http://www.slideshare.net/yiibu/letting-go-9109114&#34; rel=&#34;nofollow&#34;&gt;Letting Go&lt;/a&gt;, a talk about design in an time of increasing disruption.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm7.static.flickr.com/6170/6188891324_71eb68e152_z.jpg&#34; /&gt;&lt;/div&gt;
+&lt;blockquote&gt;&lt;p&gt;&#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;&lt;br /&gt;
+&amp;#8212;  Martin Thomas in &lt;a href=&#34;http://www.amazon.com/Loose-Future-Business-Letting-Go/dp/0755361555&#34; rel=&#34;nofollow&#34;&gt;&#34;Loose: The Future of Business is Letting Go&#34;&lt;/a&gt; &lt;/p&gt;&lt;/blockquote&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm7.static.flickr.com/6127/6189715023_b5fc1f1b73_z.jpg&#34; /&gt;&lt;/div&gt;
+&lt;blockquote&gt;&lt;p&gt;&#34;The best designs will set the stage, but stop short of fully defining the experience.&#34;&lt;br /&gt;
+&amp;#8212; Adam Silver, Frog Design&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Awesome presentation deck. Would have loved to see and hear it in person. &lt;a href=&#34;http://www.slideshare.net/yiibu/letting-go-9109114&#34;&gt;See the full presentation here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Photo credits: &lt;a href=&#34;http://flickr.com/photos/tiseb/13541804&#34;&gt;1&lt;/a&gt;, &lt;a href=&#34;http://flickr.com/photos/hodac/2243470147&#34;&gt;2&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/yiibu/letting-go-9109114&#34;&gt;http://www.slideshare.net/yiibu/letting-go-9109114&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kathy Sierra on Creating Awesome Users</title>
+      <link>http://localhost:1313/blog/kathy-sierra-creating-awesome-users/</link>
+      <pubDate>Tue, 04 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/kathy-sierra-creating-awesome-users/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/96807822?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p class=&#34;dek&#34;&gt;The model for sustaining customer loyalty is reverse engineering user awesomeness.&lt;/p&gt;
+&lt;p&gt;Peldi pointed me to a video of &lt;a href=&#34;http://blog.businessofsoftware.org/2010/05/kathy-sierra-at-business-of-software-2009.html&#34;&gt;Kathy Sierra&amp;rsquo;s presentation at Business of Software 09&lt;/a&gt;, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&amp;rsquo;s about user benefits, and not features&amp;ndash;about how they feel about themselves in the context of what you provide them.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Don&amp;rsquo;t make a better [X], make a better [user of X].&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;What creates the conditions for a user to be happy is how they experience what they do in the world because of what you give them. To jump to the chase, it&amp;rsquo;s not about good products, good service, or good companies. It&amp;rsquo;s not about you at all. It&amp;rsquo;s about your users. &lt;/p&gt;
+&lt;p&gt;The model for sustaining customer loyalty is reverse engineering user awesomeness. Doing things that continue to let them say, &amp;ldquo;I&amp;rsquo;m awesome&amp;rdquo; because of things your product lets them do. Helping people kick ass FTW. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Don&amp;rsquo;t sell me, teach me and I&amp;rsquo;ll do the rest.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;One example she gives has to do with how you treat examples vs. documentation. She references a Nikon learning site that shows people how to capture a waterfall, and cuts right to that user voice that says, &amp;ldquo;I want to do that.&amp;rdquo; &lt;/p&gt;
+&lt;p&gt;By providing a learning experience that tells this story rather than expecting users to read the manual, the user can do more and go further than any technical document will ever enable them to do. Manuals let users understand tools, but stories and examples help users have great experiences. If you help users have that experience, they associate you with that experience&amp;ndash;that awesomeness they create themselves. It&amp;rsquo;s not about creating better products necessarily, it&amp;rsquo;s about enabling people to become better users. &lt;/p&gt;
+&lt;p&gt;She suggests focussing on compelling questions, like the ones below, that have to do with creating that user experience.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on what the user does, not what you do.&lt;/li&gt;
+&lt;li&gt;Ask, &amp;ldquo;What does having a solution mean to our users? What [bigger cooler thing] is enabled?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Give them super powers.&lt;/li&gt;
+&lt;li&gt;Offer better gear and help them justify it to others. Give them higher &amp;ldquo;resolution&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Motivate and Inspire. Give them motivation for things they WANT to do but aren&amp;rsquo;t. Get stuck camera users out of P mode.&lt;/li&gt;
+&lt;li&gt;Make the right thing easy and the wrong thing difficult.&lt;/li&gt;
+&lt;li&gt;Make them actually smarter. Keep users working on the smart things. Offer exercises, games, etc. that support deliberate practice of the right things. Make the time more fun. Turn the brain on with cognitive pleasures.&lt;/li&gt;
+&lt;li&gt;Shrink the user&amp;rsquo;s &lt;a href=&#34;http://en.wikipedia.org/wiki/Outliers_(book)&#34;&gt;10,000 hours&lt;/a&gt; (time spent working on a specific task), by giving them patterns or shortening the duration of that time. &lt;/li&gt;
+&lt;li&gt;Make your product or your documentation reflect how they really feel.&lt;/li&gt;
+&lt;li&gt;What does being your user SAY about your user? What would their tshirt read?&lt;/li&gt;
+&lt;li&gt;On the heroes journey, we have to think about who we are to our users, and what role we actually play.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t insist on inclusivity. It&amp;rsquo;s OK to split off the advanced ass kickers from the newbies in your community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have to agree with the closing point she makes. What we&amp;rsquo;re doing by making software is increasing the resolution of the universe for people&amp;ndash;increasing their ability to see more and feel expert in their world. &lt;/p&gt;
+&lt;p&gt;If you haven&amp;rsquo;t already &lt;a href=&#34;http://blog.businessofsoftware.org/2010/05/kathy-sierra-at-business-of-software-2009.html&#34;&gt;watched the hour long video above&lt;/a&gt;, I highly recommend making the time to come back to it.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.businessofsoftware.org/2010/05/kathy-sierra-at-business-of-software-2009.html&#34;&gt;http://blog.businessofsoftware.org/2010/05/kathy-sierra-at-business-of-software-2009.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UX Lessons Learned From Offline Experiences</title>
+      <link>http://localhost:1313/blog/ux-lessons-learned-offline-experiences/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ux-lessons-learned-offline-experiences/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2348&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4bb5fc90a0f11_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jon Phillips writes about how &lt;a href=&#34;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&#34;&gt;the user experience of restaurant flow can be redesigned&lt;/a&gt; by illustrating the flow in a cafeteria-style space from entry, order and pickup to seating and exit. In his great diagrams he shows how the orginal flow frustrated diners (users) and could be easily re-designed to consider a flow that was immediately understandable&amp;ndash;the design he experienced made him feel stupid. Sound familiar?&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;I think about interior spaces like lines at Whole Foods, where sometimes it makes absolutely no sense (I&#39;m looking at you Columbus Circle) and where other lines seem to have considered this (Union Square sometimes feels efficient). Whole Foods has the problem of not having enough real estate to manage their volume unfortunately.&lt;/p&gt;
+
+&lt;p&gt;I remember experiences from my childhood, however, in places like Disney World, where the wait didn&#39;t always seem so incredibly grueling because lines are split off to feel shorter, and because distractions make the line feel like part of the experience. Ugh, I take that back. That now makes me think about creative &amp;quot;Loading...&amp;quot; dialogs in Flash. Actually, come to think of it, there are some pretty cool loading experiences in games that give you something fun to do. I also experienced the same with the credits when we recently finished Super Mario Wii.&lt;/p&gt;
+
+&lt;p&gt;Jon&#39;s article is a must read, if only to think about the problem solving we do and how it is applicable in physical contexts. There&#39;s so much opportunity, but I think how unfortunate it is that we don&#39;t have UX designers in important places. I think of all the time following the &amp;quot;hanging chad&amp;quot; Florida elections  and how poorly designed the polling place in my district in Brooklyn remains, for instance. There&#39;s no shortage of UX design need out there.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&#34;&gt;http://feedgrids.com/originals/post/ux_lessons_learned_from_offline_experiences/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>uxurls.com: A user experience aggregator</title>
+      <link>http://localhost:1313/blog/uxurlscom-user-experience-aggregator/</link>
+      <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/uxurlscom-user-experience-aggregator/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxurls.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2323&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b8a8e29cf45b_large_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://uxurls.com/&#34;&gt;uxurls&lt;/a&gt; is a single page aggregator for UX news feeds. The page format is similar to popurls, and is intended for people who are too busy to set themselves up with their own RSS reader, or just fancy a quick glance at the latest UX news. The page is curated by Harry Brignull, creator of &lt;a href=&#34;http://www.90percentofeverything.com/&#34;&gt;90 percent of everything&lt;/a&gt;. Feeds are refreshed once every 24 hours.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://uxurls.com/&#34;&gt;http://uxurls.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>52 Weeks of UX</title>
+      <link>http://localhost:1313/blog/52-weeks-ux/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/52-weeks-ux/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://52weeksofux.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2266&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b4c70c2251a4_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;It&amp;rsquo;s nice to have something good to look forward to every week, and Joshua Porter and Joshua Brewer will deliver by writing a &lt;a href=&#34;http://52weeksofux.com/&#34;&gt;weekly blog&lt;/a&gt; about user experience. Nice.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://52weeksofux.com/&#34;&gt;http://52weeksofux.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keith Lang&#39;s Top 10 UX Myths</title>
+      <link>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1877&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a95c2b02ba2f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin &lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;about UX Myths&lt;/a&gt;. It&amp;rsquo;s full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.&lt;/p&gt;
+&lt;p&gt;The top 10 UX myth list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The Design Has to be Original&lt;/li&gt;
+&lt;li&gt;People Read&lt;/li&gt;
+&lt;li&gt;People Know What They Like&lt;/li&gt;
+&lt;li&gt;Design Always with Implementation in Mind&lt;/li&gt;
+&lt;li&gt;Can’t Decide? Make it a Preference&lt;/li&gt;
+&lt;li&gt;If you Have Great Search, You Don’t Need Great Information Architecture&lt;/li&gt;
+&lt;li&gt;UX Design Stops at the Edges of the Product&lt;/li&gt;
+&lt;li&gt;Design to Avoid Clicks&lt;/li&gt;
+&lt;li&gt;People Don’t Change&lt;/li&gt;
+&lt;li&gt;If the Design is a Good One, You Don’t Need to Test It&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Some of these become so ingrained, that it takes a lot of effort to convince clients or colleagues otherwise. I&amp;rsquo;ve struggled with many of these beliefs, holdig on to some of the earlier in my career, e.g. I remember heated debates about and broad versus deep and the number of click to get to destinations. I struggle with #2 people read, and #5 preferences and handling options. Those can be huge challenges when you&amp;rsquo;re looking for ways to simplify existing software.&lt;/p&gt;
+&lt;p&gt;There are so many nuggets here to be appreciated, and a few observations in UIs that I wasn&amp;rsquo;t aware of. Check it out. If any of the references are new, you&amp;rsquo;ll be surfing off the links for days.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;http://carsonified.com/blog/design/top-10-ux-myths/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Publications</title>
+      <link>http://localhost:1313/blog/user-experience-publications/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-experience-publications/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1862&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a8afe9235561.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Nick Finck has created an excellent bibliography of UX web publications. The list is grouped into three main sections; Industry Publications (non-corporate ezines and/or printed magazines), Team &amp;amp; Company Publications (multi-author and/or business focused publications), and Personal Publications (practitioners who write).  &lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;View the list here.&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;http://www.nickfinck.com/blog/entry/user_experience_publications/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is Information Architecture Dying?</title>
+      <link>http://localhost:1313/blog/information-architecture-dying/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/information-architecture-dying/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://threeminds.organic.com/2009/05/is_information_architecture_dy.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1605&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a12c188ad86c_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Anthony Viviano at Organic &lt;a href=&#34;http://threeminds.organic.com/2009/05/is_information_architecture_dy.html&#34;&gt;asks if Information Architecture is dead&lt;/a&gt;, continuing the discussions about the inclusiveness and &lt;a href=&#34;http://www.ixda.org/discuss.php?post=40634&#34;&gt;expanding scope of IA vis-a-vis UX&lt;/a&gt;, and hopping on the question about &lt;a href=&#34;http://www.cooper.com/journal/2009/04/is_ixd_a_dead_end_job.html&#34;&gt;interaction design being a dead end job&lt;/a&gt;. Clearly, he doesn&amp;rsquo;t think the practice and craft of IA is dead, just as the craft of Interaction Design is clearly alive. But the role is changing, and while the navel gazing gets resoundingly loud around defining things, the definition of the shifting roles and responsibilities in the field is meaningful.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://threeminds.organic.com/2009/05/is_information_architecture_dy.html&#34;&gt;http://threeminds.organic.com/2009/05/is_information_architecture_dy.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nick&#39;s Top User Experience Books</title>
+      <link>http://localhost:1313/blog/nicks-top-user-experience-books/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/nicks-top-user-experience-books/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1600&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a0963c7a7a3b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Nick lists his list of &lt;a href=&#34;http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books&#34;&gt;recommended user experience books&lt;/a&gt;. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books&#34;&gt;http://www.nickfinck.com/blog/entry/nicks_top_user_experience_books&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Discussion on User Experience Design</title>
+      <link>http://localhost:1313/blog/discussion-user-experience-design/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/discussion-user-experience-design/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1574&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49f1c037507b6.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I spoke with Russ Perry at the &lt;a href=&#34;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&#34;&gt;Phoenix Ad Blog&lt;/a&gt; to discuss what User Experience Design might mean to graphic designers and marketing professionals, especially those not involved in the design of sites and apps. &lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t like getting caught up in the &amp;ldquo;defining the damned thing&amp;rdquo; discussions, but there you have it. Oh, and I mention Zappos, not because of their visual or interface design, per se, but about their relevance in terms of the holistic approach to user experience outside of the interface. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&#34;&gt;http://phxadblog.com/2009/04/a-discussion-on-user-experience-design/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The History &amp; Evolution of User Experience Design</title>
+      <link>http://localhost:1313/blog/history-evolution-user-experience-design/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/history-evolution-user-experience-design/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.teawithteresa.com/2009/03/history-evolution-of-user-experience.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1534&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49b811b22fb50.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&amp;rsquo;s Peter Merholz to talk about the history and evolution of User Experience Design. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&amp;rsquo;s actually not the way many designers historically thought about making things. In fact, it wasn&amp;rsquo;t until the 1990s that an industry came together around this particular approach to design.&lt;/p&gt;
+&lt;p&gt;I did some research to try uncover the history of this field, and, I didn&amp;rsquo;t find a lot - partly because it hasn’t been around for long. So, I had tea with Peter Merholz, who has been involved in the industry since its very early stages. We had a great conversation about what it was like when the industry started to come together and where he thinks it&amp;rsquo;s headed. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Listen to the podcast at &lt;a href=&#34;http://www.teawithteresa.com/2009/03/history-evolution-of-user-experience.html&#34;&gt;Tea with Theresa&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://twitter.com/jeepu/statuses/1312159478&#34;&gt;@jeepu&lt;/a&gt; &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.teawithteresa.com/2009/03/history-evolution-of-user-experience.html&#34;&gt;http://www.teawithteresa.com/2009/03/history-evolution-of-user-experience.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Deliverables</title>
+      <link>http://localhost:1313/blog/user-experience-deliverables/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-experience-deliverables/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://semanticstudios.com/publications/semantics/000228.php&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/morville-ux-deliverables.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Peter Morville and Jeffrey Callender have been compiling a &lt;a href=&#34;http://semanticstudios.com/publications/semantics/000228.php&#34;&gt;list of UX deliverables&lt;/a&gt; and have summarized 20 of them succintly on the Semantic Studios site.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This list describes twenty user experience deliverables with links to relevant resources and examples. Clearly, these artifacts of the process are not the whole story. We must also think about the relationship between goals, methods, and documents. And yet, for many of us, deliverables are the coin of the realm and merit special attention.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ve taken the 20 deliverables and put them into a single, full-sized poster-like image &lt;a href=&#34;http://konigi.s3.amazonaws.com/notebook/morville-ux-deliverables-large.png&#34;&gt;in PNG&lt;/a&gt; or &lt;a href=&#34;http://konigi.s3.amazonaws.com/notebook/morville-ux-deliverables-large.pdf&#34;&gt;PDF&lt;/a&gt; format if you want to view them that way. There&amp;rsquo;s also a cute image that shows the deliverables as a Treasure Map. &lt;a href=&#34;http://semanticstudios.com/publications/semantics/000228.php&#34;&gt;Go read the article&lt;/a&gt; for the full 9.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://semanticstudios.com/publications/semantics/000228.php&#34;&gt;http://semanticstudios.com/publications/semantics/000228.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10 Most Common Misconceptions About User Experience Design</title>
+      <link>http://localhost:1313/blog/10-most-common-misconceptions-about-user-experience-design/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/10-most-common-misconceptions-about-user-experience-design/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://mashable.com/2009/01/09/user-experience-design/&#34;&gt;Whitney Hess asked&lt;/a&gt; some of the most influential and widely respected practitioners in UX what they consider to be the biggest misperceptions of what we do. The result is not only a terrific list that debunks myths, but an excellent compilation of quotes that better describe what UX is about than a clinical definition can. Those who were quoted described UX as many things, from the reach and touch of customers with products and companies, to the processes we use and the roles we play when we take part in its design.  &lt;/p&gt;
+&lt;p&gt;The Top 10 list of what user experience design is NOT…&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;1. …user interface design&lt;br /&gt;
+2. …a step in the process&lt;br /&gt;
+3. …about technology&lt;br /&gt;
+4. …just about usability&lt;br /&gt;
+5. …just about the user&lt;br /&gt;
+6. …expensive&lt;br /&gt;
+7. …easy&lt;br /&gt;
+8. …the role of one person or department&lt;br /&gt;
+9. …a single discipline&lt;br /&gt;
+10. …a choice&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Of course you&#39;re going to have to read the article to get what those points mean. But in essence all of these observations debunk myths that UXD is any one thing among the many parts that might describe it. User experience is both tangible and intangible--it&#39;s just exists when people decide to participate in the use of a thing. UX Design is the many parts in a holistic approach to design or enable the use of the thing, and every aspect related to its use.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://mashable.com/2009/01/09/user-experience-design/&#34;&gt;http://mashable.com/2009/01/09/user-experience-design/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title>
+      <link>http://localhost:1313/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.asktog.com/columns/074KindleVsiPhone.html&#34;&gt;Tog&#39;s comparison&lt;/a&gt; and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn&#39;t only about the design.&lt;/p&gt;
+&lt;p&gt;I don&#39;t use a Kindle daily, so I can&#39;t comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it. Truth be told, though, the kind of books I read are probably better on dead trees. The thing that impressed me most was the mobile connectivity and the screen. But when I held it in my hand and paged through, the buttons kept me paging through accidentally. I think the lack of back light for darkened rooms would also be a let down.&lt;/p&gt;
+&lt;p&gt;As for the iPhone, I&#39;m not one of those people that dotes on it. Don&#39;t get me wrong. It&#39;s without a doubt the single most enjoyable device I use daily, and I wouldn&#39;t want to be without it. But many of the elements of the experience have frustrated me, and I still won&#39;t be convinced that typing on a touchscreen is a step forward from a physical keyboard. The Sidekick spoiled me.&lt;/p&gt;
+&lt;p&gt;The best part of this article is that step back that tells the story of why we need to take a holistic approach to the product, from the interaction with the interface to every aspect that radiates from the product.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Companies that pay attention to both the mechanics of the interface and the subtleties of the user experience win. Explore websites like Bed, Bath &amp;amp; Beyond and see how good screen design and carefully-plotted user experience come together. Don’t just examine look and feel; set up a shopping scenario and experience every step from thinking about maybe buying a product to selecting it and checking out. Bed, Bath &amp;amp; Beyond has perfected a superior experience in their real-world stores, and they have translated it beautifully into the cyber world.&lt;/p&gt;
+&lt;p&gt;There are no trade-offs here. Human/machine interaction is a subset of the user experience. Anything done to improve the mechanics of the interface will, by its very nature, improve the overall experience. Anything done to improve the user experience will amplify the good qualities of the human/machine interaction.&lt;/p&gt;
+&lt;p&gt;You must, however, research and design each of them separately—and to test each of them separately. They each require a specific frame of mind, and concentrating on just one will lead to the kind of uneven design that both the Kindle and the iPhone/iPod Touch have been offering.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;And that last part strikes home most. These are separate activities, but require a holistic approach and frame of mind. Investing in research and design on both of them can be seen as either a luxury or a given depending on how and where you work. But the holistic approach ensures a better experience.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.asktog.com/columns/074KindleVsiPhone.html&#34;&gt;http://www.asktog.com/columns/074KindleVsiPhone.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>9 experiences for 2009</title>
+      <link>http://localhost:1313/blog/9-experiences-2009/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/9-experiences-2009/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1433&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49634592eed2d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Brandon Schauer gives us &lt;a href=&#34;http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/&#34;&gt;9 ideas for experiences whose time has come&lt;/a&gt;&amp;ndash;the idea being that these are things we can do to create or extend the experience with our businesses because the timing is right. With luck, execution of any of these ideas can turn into real value for businesses and their customers.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/&#34;&gt;http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

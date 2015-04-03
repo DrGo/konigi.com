@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability on Konigi</title>
+    <link>http://localhost:1313/tags/usability/</link>
+    <description>Recent content in Usability on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UX Check</title>
+      <link>http://localhost:1313/tools/submissions/ux-check/</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/ux-check/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2894&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt54b5949b0d995_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;UX Check&lt;/a&gt; is a Google Chrome extension for reviewing web sites and apps against &lt;a href=&#34;http://www.nngroup.com/articles/ten-usability-heuristics/&#34;&gt;Jakob Neilsen&amp;rsquo;s Usability Heuristics&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The tool opens the heuristics in a side panel next to the website you enter. You select a problem area on the screen, related to one of the usability heuristics and a callout appears for you to add notes and recommendations. When you&#39;re done a report is available with screenshots and your notes for each issue. You can download the report as HTML or in Word .docx format.&lt;/p&gt;
+
+&lt;p&gt;Looks like a nice tool for evaluating web sites in Chrome, as long as the pages you&#39;re reviewing have selectable DOM elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uxcheck.co/&#34;&gt;http://www.uxcheck.co/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Noticeability Evaluation</title>
+      <link>http://localhost:1313/wiki/noticeability-evaluation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/noticeability-evaluation/</guid>
+      <description>&lt;p&gt;&lt;h2 id=&#34;toc0&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;A research technique for learning whether people notice key elements in your design.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;An exercise during which users are asked to re-create a screen based on their memory.&lt;/p&gt;
+
+&lt;p&gt;Source: &amp;quot;&lt;a href=&#34;https://speakerdeck.com/tsharon/what-ux-research-can-you-do?slide=49&#34;&gt;What UX Research Can You Do with 5 Users in 1 Hour?&lt;/a&gt;,&amp;quot; by &lt;a href=&#34;http://about.me/tsharon&#34;&gt;Tomer Sharon&lt;/a&gt;. Asbury Agile 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc1&#34;&gt;How to do it&lt;/h2&gt;
+&lt;p&gt;1. Create an evaluation kit&lt;br /&gt;
+&lt;ul&gt;
+    &lt;li&gt; Print any screen&lt;/li&gt;
+    &lt;li&gt; Cut the screen into elements (leave some out)&lt;/li&gt;
+    &lt;li&gt; Also print/cut some elements that weren&amp;rsquo;t on the screen&lt;/li&gt;
+    &lt;li&gt; Mix the pieces up&lt;/li&gt;
+    &lt;li&gt; Sharpie and some extra paper&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;2. Give user a task to perform on a web site or app.&lt;/p&gt;
+
+&lt;p&gt;3. After the user performs the task, give them an evaluation kit. Tell them that the kit includes elements of the screen, and that they can also use the paper and pen to draw elements that are missing. Ask them to re-assemble the screen and observe.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc2&#34;&gt;Questions to ask&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt; Did they put the key elements in place?&lt;/li&gt;
+    &lt;li&gt; Did they leave out what doesn&amp;rsquo;t belong?&lt;/li&gt;
+    &lt;li&gt; Did they draw elements that weren&amp;rsquo;t there.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2763&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52306d9d14e90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;http://www.conceptfeedback.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Confirming Passwords Is Annoying: Is There a Better Way?</title>
+      <link>http://localhost:1313/blog/confirming-passwords-annoying-there-better-way/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/confirming-passwords-annoying-there-better-way/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2198&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b02bd5209f8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This an article from March 09 by Kevin Vigneault of Viget that explores some &lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;techniques using Javascript to create more usable password inputs&lt;/a&gt; in forms. The ideas range from using a checkbox or button to temporarily show the password or changing type from text to password when the input is not in focus. Great ideas.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&#39;re interested in this topic, you might also want to check out Chris Dary&#39;s experiments with &lt;a href=&#34;experiments-password-masking.html&#34;&gt;password masking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.viget.com/advance/password-fields-are-annoying/&#34;&gt;http://www.viget.com/advance/password-fields-are-annoying/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6 Things Video Games Can Teach Us About Web Usability</title>
+      <link>http://localhost:1313/blog/6-things-video-games-can-teach-us-about-web-usability/</link>
+      <pubDate>Mon, 16 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/6-things-video-games-can-teach-us-about-web-usability/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2196&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b0176edbc402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Mark Riggan makes some interesting observations about &lt;a href=&#34;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&#34;&gt;design strategies and techniques used in video games&lt;/a&gt; that keep the experience usable, and suggests how these ideas apply to designing for the web.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&#34;&gt;http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usability/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Playfulness, Usability, &amp; Context: The Three Pillars of a Delightful User Experience</title>
+      <link>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1896&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4ab7c8d1441ca.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around. The delight that playfulness contributes to an experience depends on the context surrounding that experience. &lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;[W]hile playfulness is undoubtedly an important new focus in user experience design, it’s not a panacea. User experience designers need to understand when playfulness is more effective than pure usability in inspiring delight and vice versa.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Fred observed that playfulness wasn&amp;rsquo;t always favored, but that &amp;ldquo;playfulness is more effective at certain levels of interaction and when there is a clear benefit to the user to learn the mechanics of that playfulness.&amp;rdquo; &lt;/p&gt;
+&lt;p&gt;With regard to the use case of converting measurements, his small sample favored the less playful interface that required less to learn. Clearly the dimensions of frequency of use, and specificity of the use case are big factors. The quick information need when converting a measurement is nothing like exploring other kinds of information-rich environments. But the exception in his test points out that once she learned how to use the playful app, she preferred it better. What I&amp;rsquo;m wondering is, how do you determine when playful comes at too large a cost? What is the point where the burden of learning is outweighed by the benefit of use?&lt;/p&gt;
+&lt;p&gt;He&amp;rsquo;s suggesting that ultimately UX designers need to understand the balance between playfulness and usability, and the goal is to deliver appropriate experiences that achieve sustainability while making users enjoy using the product. Again, I think audience, context, and use case seem to be key factors. &lt;a href=&#34;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&#34;&gt;Read the full article for more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&#34;&gt;http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iPhone is all Fun and Games</title>
+      <link>http://localhost:1313/blog/iphone-all-fun-and-games/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/iphone-all-fun-and-games/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1863&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a8b1adb1092d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Fred Beecher wrote the excellent article &amp;ldquo;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;The iPhone is Not Easy to Use: A New Direction for User Experience&lt;/a&gt;&amp;rdquo; on Johnny Holland to talk about why the iPhone is &lt;strong&gt;not&lt;/strong&gt; easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;As a user experience designer, I thought my job was to make things not suck. Until recently. As technology has evolved, human behavior has evolved along with it. Since behavior is the basis of user experience design, my job has evolved as well. Now, my job is to make things people love. At the 2009 IA Summit, Karl Fast articulated the value proposition of user experience design with sparkling clarity. “Engineers make things,” he said, “we make people love them.” And then he held up an iPhone as an example.&lt;/p&gt;
+&lt;p&gt;This is a crucial change, the importance of which cannot be overstated.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s cool to me that creating pleasurable and fun experiences has become such a meme because the issue of usability has become less important when compared with the feel of the product. It&amp;rsquo;s always there in terms of principles, but I personally never want to lean on it as a crutch when designing. I think we sometimes equate usability with sterility and boredom. This is an odd thing to see myself write, since I&amp;rsquo;ve spent so much of my time trying to design usable things, or make things other people create more usable. &lt;/p&gt;
+&lt;p&gt;I think the point about finding fun and exploiting the users&amp;rsquo; willingness to play are key. Having an 8 year old son that is really into games of every type (card, board, video, and schoolyard games) has helped me gain a different perspective on interface design. It&amp;rsquo;s not just in terms of seeing his immediate adaptability to the iPhone without the burden of reference to older interfaces. Most kids from pre-literacy learn to push and pull buttons and screens right away until something happens. But what I&amp;rsquo;ve been experiencing is how a child&amp;rsquo;s curiosity, continual exploration and willingness to absorb information and fail quicker to get to desired goals is such a positive thing in terms of the learning experience. &lt;/p&gt;
+&lt;p&gt;One thing that has also immersed me in all of this fun learning is that we homeschool our son here in NYC. I&amp;rsquo;ve used gaming a great deal as a part of the learning experience with my son. I went through a period years ago when he was very young where I read &lt;em&gt;Got Game&lt;/em&gt; and &lt;em&gt;Everything Bad is Good for You&lt;/em&gt;. Our son talked us into getting him a GameBoy Advance so he could play with an older child, and my wife and I thought, &amp;ldquo;Why not make it part of his learning experience?&amp;rdquo; And we&amp;rsquo;ve been doing that with whatever he becomes interested in.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s great that Fred mentions the game Fluxx. We&amp;rsquo;ve been playing this game all summer, and I bought blank cards to make our own rules. To my son, games aren&amp;rsquo;t just about accomplishing goals and earning stuff, they&amp;rsquo;re also largely about becoming an actor in the story and taking that experience to think of new games he wants to create. Fluxx is a great example of a game that lets users become more active participants in the rules. &lt;/p&gt;
+&lt;p&gt;MMPORG games immerse the gamer in a world where the player is part actor. SIM games like Spore bring God-like power to gamers. Games with creation mode like Little Big Planet allow users to re-cast the rules and experience. All of these create a different kind of user mentality that will be more interested in not only exploring the hidden, pleasurable world of easter egg interfaces, but who will also want to do more, explore more, and view computers as social and recreational tools as much if not more than tools to get things done. And that opens up the range of elements and methods you can use in interfaces.  &lt;/p&gt;
+&lt;p&gt;These are great challenges. On my last large project I spent a lot of time working on game interfaces to push creation of user generated content within a video watching community. A few years after leaving, I see that none of that experimental work got to see the light of day. But I found the experience of thinking about how playfulness and even play within the application could make the use more pleasurable and as a designer it was incredibly exciting. I&amp;rsquo;ve jumped into a totally different world&amp;#8212;enterprise software&amp;#8212;where the challenge to make the experience pleasurable is even greater, and the implementation of these types of UIs more subtle. &lt;/p&gt;
+&lt;p&gt;I think what I take away from Fred&amp;rsquo;s article is that we can&amp;rsquo;t overlook the value of play, and I would add that empathy for the different experience of the younger generations who value things and possibly approach using things differently than we might. For more on this topic, read Fred Beecher&amp;rsquo;s &lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;article in Johnny Holland&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&#34;&gt;http://johnnyholland.org/magazine/2009/08/the-iphone-is-not-easy-to-use-a-peek-into-the-future-of-experience-design/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Forget Heuristics</title>
+      <link>http://localhost:1313/blog/dont-forget-heuristics/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dont-forget-heuristics/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://theresaneil.wordpress.com/2009/07/10/6-tips-for-a-great-flex-ux-part-5/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1824&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a5b394c9282a.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Theresa Neil continues her tips for designing great Flex UX&amp;rsquo;s showcasing interfaces that exemplify Jakob Nielsen&amp;rsquo;s 10 usability heuristics.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Don’t forget the usability basics. Jakob Nielsen’s Ten Usability Heuristics are as relevant now as they were in 1999. I stress this because I looked at the Flex showcase recently, and it looks like many of the applications are not built with these best practices in mind.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://theresaneil.wordpress.com/2009/07/10/6-tips-for-a-great-flex-ux-part-5/&#34;&gt;Read more at Theresa Neil&amp;rsquo;s blog&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://theresaneil.wordpress.com/2009/07/10/6-tips-for-a-great-flex-ux-part-5/&#34;&gt;http://theresaneil.wordpress.com/2009/07/10/6-tips-for-a-great-flex-ux-part-5/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Userfocus 247 Web Usability Guidelines</title>
+      <link>http://localhost:1313/tools/submissions/userfocus-247-web-usability-guidelines/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/userfocus-247-web-usability-guidelines/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.userfocus.co.uk/resources/guidelines.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2735&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt523004a2df565_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Userfocus provides &lt;a href=&#34;http://www.userfocus.co.uk/resources/guidelines.html&#34;&gt;guidelines for evaluating web site usability&lt;/a&gt;. The cover the following different contexts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Home page usability&lt;/li&gt;
+&lt;li&gt;Task orientation&lt;/li&gt;
+&lt;li&gt;Navigation and IA&lt;/li&gt;
+&lt;li&gt;Forms and data entry&lt;/li&gt;
+&lt;li&gt;Trust and credibility&lt;/li&gt;
+&lt;li&gt;Writing and content quality&lt;/li&gt;
+&lt;li&gt;Page layout and visual design&lt;/li&gt;
+&lt;li&gt;Search usability&lt;/li&gt;
+&lt;li&gt;Help, feedback and error tolerance&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.userfocus.co.uk/resources/guidelines.html&#34;&gt;http://www.userfocus.co.uk/resources/guidelines.html&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback</title>
+      <link>http://localhost:1313/tools/submissions/concept-feedback/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/concept-feedback/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2763&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52306d9d14e90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Concept Feedback.com is a free community where designers and developers can exchange feedback on design projects. Registered users have the ability to post marketing concepts for free. Concepts may include, but are not limited to, websites, logos, newsletters, landing pages, advertisements and videos. &lt;/p&gt;
+&lt;p&gt;Reviewers can offer constructive feedback on each concept using a proprietary feedback tool. Feedback is automatically collected and archived for the user to help improve the final concept and get better results. In addition to a distinctive professional network, registered users have the capability to post concepts privately, for secure review by clients, co-workers, and friends.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;http://www.conceptfeedback.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Apparent usability vs. inherent usability</title>
+      <link>http://localhost:1313/blog/apparent-usability-vs-inherent-usability/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/apparent-usability-vs-inherent-usability/</guid>
+      <description>&lt;p&gt;Occasionally the argument about the affect of aesthetics or beauty on usability seems to come up in UX discussion, and this CHI short paper from 1995 is referred to. This is an article by members of the Design Center, Hitachi discusses the team&#39;s research on determinants to apparent usability, based on tests of design and psychology students. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;These results show that the apparent usability is less correlated with the inherent usability compared to to the apparent beauty. ... This suggests that the user may be strongly affected by the aesthetic aspect of the interface even when they try to evaluate the interface in its functional aspects and it is suggested that the interface design should strive not only to improve the inherent usability but&lt;br /&gt;
+also brush up the apparent usability or the aesthetic aspect of the interface.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;ACM members can &lt;a href=&#34;http://portal.acm.org/citation.cfm?id=223680&#34;&gt;download the short report at the ACM Portal&lt;/a&gt;.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://portal.acm.org/citation.cfm?id=223680&#34;&gt;http://portal.acm.org/citation.cfm?id=223680&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feng-GUI:  Feng Shui for Graphic User Interfaces?</title>
+      <link>http://localhost:1313/blog/feng-gui-feng-shui-graphic-user-interfaces/</link>
+      <pubDate>Tue, 24 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/feng-gui-feng-shui-graphic-user-interfaces/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.feng-gui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1548&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49c8bb47cec69.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is an interesting idea in principle. Feng-GUI helps you find out how people see your website, photo or ad and which areas are getting most of the attention. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Feng-GUI simulates human vision during the first 5 seconds of exposure to visuals,&lt;br /&gt;
+and creates heatmaps based on an algorithm that predicts what a real human would be most likely to look at.&lt;br /&gt;
+This offers designers, advertisers and creatives, a Pre-testing technology that predicts performance of an image, by analyzing levels of attention, brand effectiveness and placement, as well as breaking down the Flow of Attention.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m not sure it&amp;rsquo;s all that useful, and it certainly wouldn&amp;rsquo;t replace usability testing or real click-tracking and eye-tracking. The examples imply that people only look ads and dark, saturated areas of color. Doesn&amp;rsquo;t seem very realistic. Have you tried it? What do you think?&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.feng-gui.com/&#34;&gt;http://www.feng-gui.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Untitled Document Syndrome</title>
+      <link>http://localhost:1313/blog/untitled-document-syndrome/</link>
+      <pubDate>Mon, 23 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/untitled-document-syndrome/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://daringfireball.net/2009/02/untitled_document_syndrome&#34;&gt;John Gruber laments&lt;/a&gt; the illogical, yet human, tendency to avoid saving new documents, which occasionally leads users to the loss of data when an &#34;Untitled Document&#34; is left in limbo and a crash leaves them scrambling to figure out what happened to it. The point is that users often can&#39;t be bothered with things like figuring out where to put this thing on a file system because we&#39;re too busy with the task at hand, e.g. writing the thing that we might not have a name or place for yet.&lt;/p&gt;
+&lt;p&gt;Good software would save users from their non-saving, human selves. Software needs to offer a way to protect us from our laziness (and I say that as someone who is very lazy about certain things) by providing systematic methods for frictionless data protection and recovery. We&#39;re talking about the realm of usability principles that Jef Raskin wrote about, e.g. providing undos rather than dialogs for destructive actions. &lt;/p&gt;
+&lt;p&gt;Gruber also talks about the &#34;i&#34; apps&#39; implicit handling of things like file system paths in iTunes and iPhoto, which take care of file organization for you, so you can just focus on things that makes sense to you, like albums and playlists, and let the system just do the file management for you in a logical manner. Gruber also writes of the autosave intelligence in apps like Stickies and BBEdit, which auto-save in the background unbeknownst to the user, and upon return from an abandoned session, data is back where she left it, in whatever state they left it in. &lt;/p&gt;
+&lt;p&gt;These are frictionless applications--those that lets users get to the main task that brought them to the app in the first place, e.g. writing, uploading photos and music, without having to think of things like the file system. This is design for use, and not for micro-managing control. It&#39;s getting directly to the point of using the application, and avoiding obstacles like thinking about how to use the application.&lt;/p&gt;
+&lt;p&gt;I think this is the vision most of us, concerned with ease of use, espouse and want for our apps. I speak out of both sides of my mouth sometimes, opting for micro-managing some things, e.g. I&#39;ve used a photo management app based on my camera/year/ file organization rather than using iPhoto&#39;s file management, but I let iTunes manage all my music and video data. But the point is, most people probably don&#39;t want to micromanage that organization.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://daringfireball.net/2009/02/untitled_document_syndrome&#34;&gt;http://daringfireball.net/2009/02/untitled_document_syndrome&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Account Sign-in: 8 Design Mistakes to Avoid</title>
+      <link>http://localhost:1313/blog/account-sign-8-design-mistakes-avoid/</link>
+      <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/account-sign-8-design-mistakes-avoid/</guid>
+      <description>&lt;p&gt;&amp;quot;I don&#39;t want to develop a relationship with these guys. I just want to buy something.&amp;quot; That&#39;s what some of your customers are saying when you ask them to register or sign in, and some of them will walk away with their dollars if you frustrate them enough. UIE rounds up the most common mistakes they observe from watching users in testing sessions try to sign in to user accounts.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;There are many great business advantages to having users create an account and log into the system. You know who is using your system, how often they visit, and what they do on the site. You can store information they might need later, such as their order history and their billing info for future purchases. And, you can offer them content and services reserved for only your best clientele.&lt;/p&gt;
+&lt;p&gt;Yet, in usability test after usability test, we see the registration and sign-in processes to be consistently problematic. It&#39;s the most common thing that scares users away from shopping on e-commerce sites. It generates the most calls to the customer-support call center&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Here&#39;s the list of mistakes.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Having a Sign-in In The First Place&lt;/li&gt;
+&lt;li&gt;Requiring Sign-in Too Soon&lt;/li&gt;
+&lt;li&gt;Not Stating the Benefits to Registering&lt;/li&gt;
+&lt;li&gt;Hiding the Sign-In Button&lt;/li&gt;
+&lt;li&gt;Not Making &amp;quot;Create New Account&amp;quot; or &amp;quot;Forgot Your Password&amp;quot; a Button or Link&lt;/li&gt;
+&lt;li&gt;Not Providing Sign-in Opportunities at Key Locations&lt;/li&gt;
+&lt;li&gt;Asking for Too Much Information When Registering&lt;/li&gt;
+&lt;li&gt;Not Telling Users How You&#39;ll Use Their Information&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p class=&#34;rteindent2 rtecenter&#34;&gt;&lt;a href=&#34;http://www.uie.com/articles/sign_in_process_reprint/&#34;&gt;Read the full article&lt;/a&gt; for scenarios illustrating these mistakes, and the better practices some companies employ to avoid them.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.uie.com/articles/sign_in_process_reprint/&#34;&gt;http://www.uie.com/articles/sign_in_process_reprint/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UX Booth: Free Website Usability Testing Reviews &amp; UX Blog</title>
+      <link>http://localhost:1313/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxbooth.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1418&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49353c9577e4c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.uxbooth.com/&#34;&gt;UX Booth&lt;/a&gt; is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.&lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://digitalweb.tumblr.com/&#34;&gt;Digital Web&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uxbooth.com/&#34;&gt;http://www.uxbooth.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

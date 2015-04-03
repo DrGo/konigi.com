@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightbox on Konigi</title>
+    <link>http://localhost:1313/tags/lightbox/</link>
+    <description>Recent content in Lightbox on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lightbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SugarSync Uploading Files</title>
+      <link>http://localhost:1313/interface/sugarsync-uploading-files/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/sugarsync-uploading-files/</guid>
+      <description>&lt;p&gt;SugarSync&#39;s upload file behavior uses a customized interface that is not typical. Instead of using the browser behavior for handling file uploads using &amp;lt;input type=&#34;file&#34;&amp;gt;, which typically provides an input and browse button in Firefox and Internet Explorer, SugarSync uses a single button to invoke the file browsing window, and then displays the file&#39;s name in HTML. &lt;/p&gt;
+&lt;p&gt;To be fair, Safari provides a slicker interface for file uploads, which doesn&#39;t display an input, but only a button, and then shows the file name next to the button when a file is found. Safari users can actually also drag file names into the browse button from the finder.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The file manager.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/sugarsync-upload-file-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The file manager.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/sugarsync-upload-file-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;Upload File&amp;quot; from the menu displays dialog to upload via web-based application or via desktop application. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/sugarsync-upload-file-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;Upload File&amp;quot; from the menu displays dialog to upload via web-based applicatio...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/sugarsync-upload-file-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking web-based uploader displays web browser&#39;s File Upload window.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/sugarsync-upload-file-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking web-based uploader displays web browser&#39;s File Upload window.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/sugarsync-upload-file-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. When the file has been selected, the window displays the found file name. User has the option to remove the file, upload it, or cancel.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/sugarsync-upload-file-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. When the file has been selected, the window displays the found file name. User has the option to ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/sugarsync-upload-file-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.sugarsync.com/&#34;&gt;http://www.sugarsync.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

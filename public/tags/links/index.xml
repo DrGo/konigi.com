@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Konigi</title>
+    <link>http://localhost:1313/tags/links/</link>
+    <description>Recent content in Links on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Zerply Email Notifications Settings</title>
+      <link>http://localhost:1313/interface/zerply-email-notifications-settings/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/zerply-email-notifications-settings/</guid>
+      <description>&lt;p&gt;Simple things appeal to me. I like the simplicity of being able to usubscribe immediately. Zerply goes the extra mile and not only gives me options to never get email notifications via links in the notification itself, but also to change the frequency of updates. Nice.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Email notification from Zerply.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/zerply-email-notifications-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Email notification from Zerply.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/zerply-email-notifications-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Update frequency settings in the bottom. Click and you&amp;rsquo;re done.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/zerply-email-notifications-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Update frequency settings in the bottom. Click and you&#39;re done.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/zerply-email-notifications-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&#34;http://zerply.com/&#34;&gt;http://zerply.com/&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flickr Sharing</title>
+      <link>http://localhost:1313/interface/flickr-sharing/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/flickr-sharing/</guid>
+      <description>&lt;p&gt;Flickr have added a sharing interface for their photos and videos. Presumably this is because of the introduction of videos into the ecosystem. The interface is provided via an unobtrusive link that uses AJAX to display contextual menus when clicked.&lt;/p&gt;
+&lt;p&gt;Prior to the introduction of this interface, users had to go to click the &#34;All Sizes&#34; link to find URLs for the item.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;Share This&amp;quot; displays sharing options, showing email sharing by default. Entering text provides auto-completion suggestions using user names.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;Share This&amp;quot; displays sharing options, showing email sharing by default. Enter...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Copying the item link.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Copying the item link.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Copying the embed code.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Copying the embed code.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Posting to a blog. User must have blogs configured to see this option.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Posting to a blog. User must have blogs configured to see this option.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. Posting to blog displays the &amp;quot;Blog this...&amp;quot; page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. Posting to blog displays the &amp;quot;Blog this...&amp;quot; page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://flickr.com/&#34;&gt;http://flickr.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

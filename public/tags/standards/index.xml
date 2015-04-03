@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Standards on Konigi</title>
+    <link>http://localhost:1313/tags/standards/</link>
+    <description>Recent content in Standards on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Nov 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/standards/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Email Standards Project</title>
+      <link>http://localhost:1313/blog/email-standards-project/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/email-standards-project/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1398&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt491a17f102c8c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.email-standards.org/&#34;&gt;Email Standards Project&lt;/a&gt; is a community effort to ensure that emails render consistently. Similar to the Web Standards Project, the Email Standards Project community works with email client developers and the design community to improve web standards support and accessibility in email.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;http://www.email-standards.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring the Usability of Everyday Products</title>
+      <link>http://localhost:1313/blog/measuring-usability-everyday-products/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/measuring-usability-everyday-products/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.userfocus.co.uk/articles/ISO20282.html&#34;&gt;David Travis reports&lt;/a&gt; for UserFocus on &#34;&lt;a href=&#34;http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=34122&#34;&gt;ISO 2082, Ease of Operation of Every Day Products.&lt;/a&gt;&#34; While web-focussed interaction designers and information architects may not be involved in the design of everyday products, we should probably be interested at a high level, in the processes discussed. As Travis points out, clients are increasingly concerned with objective measurements of usability, and standards such as this &#34;...will help ensure that we have robust and reliable test methods for all interactive designs, whether these are products, software or web sites.&#34; &lt;/p&gt;
+&lt;p&gt;ISO2082 is a new standard for the measurement of usability in everyday products. The document provides requirements and recommendations for the design of easy-to-operate everyday products. Its intended audience includes usability specialists, ergonomists, product designers, interaction designers, product manufacturers, and others involved in the design and development of everyday products.&lt;/p&gt;
+&lt;p&gt;The document is organized into 4 parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Design requirements for context of use and user characteristics.&lt;/li&gt;
+&lt;li&gt;Test method for walk-up-and-use products.&lt;/li&gt;
+&lt;li&gt;Test method for consumer products.&lt;/li&gt;
+&lt;li&gt;Test method for the installation of consumer products.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As a designer of web products who only gets involved in discount usability testing, this standard is a curiosity to me more than anything. As Travis notes, testing consumer products is primarily concerned with determining if the product helps users achieve the most frequent and/or important user goal that the product is intended to support. So we&#39;re talking about tests of large groups over small sets of tasks in short periods of time. This is the kind of thing that is best handled by a dedicated usability team or consultant. &lt;/p&gt;
+&lt;p&gt;I think we designers, at minimimum need only be aware of the process proposed here, and the relevance this may have with regard to having a standardized process to reference with clients or usability consultants.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.userfocus.co.uk/articles/ISO20282.html&#34;&gt;http://www.userfocus.co.uk/articles/ISO20282.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

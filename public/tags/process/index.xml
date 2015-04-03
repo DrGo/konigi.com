@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process on Konigi</title>
+    <link>http://localhost:1313/tags/process/</link>
+    <description>Recent content in Process on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/process/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What do you call...</title>
+      <link>http://localhost:1313/blog/what-do-you-call/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/what-do-you-call/</guid>
+      <description>&lt;p&gt;After repeatedly using a pattern of term + description to describe something, I wondered if other people in my Twitter-sphere used the same or similar language to describe a common artifact. &lt;/p&gt;
+&lt;p&gt;My question started:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I was wondering if people used different terms to describe either drawings made in software or on paper that describe a screen view at a high level of abstraction that uses only lines and labels.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Accompanied by this screenshot: &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/what_do_you_call.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It&#39;s interesting to learn that we use so many terms to describe essentially the same thing, although some of the confusion in this discussion might be with understanding what I meant by my question:&lt;/p&gt;
+&lt;p&gt;Flow Diagrams, Low Fidelity, Doodles and Notes, Page Maps, Schematics, Storyboards, IA, High Level Concept, Gray Box Wireframes, Whatever the client calls them, Boxes and Lines, Blockyframes, Scribbles on Paper, Blueprints, Page Zones (also Zoning and Zone Diagrams), Models, Conceptual UI Sketches, Thumbnails, Sketches&lt;/p&gt;
+&lt;p&gt;You can imagine the challenge we have educating about the pieces of a design process when the language is so variable. The &lt;a href=&#34;http://storify.com/konigi/what-do-you-call&#34;&gt;thread is captured at Storify&lt;/a&gt;.&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Why Invest in Sketching?</title>
+      <link>http://localhost:1313/blog/why-invest-sketching/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/why-invest-sketching/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;Jumping in and immediately starting to build the product, even if it does get completed and ship, is almost guaranteed to produce a mediocre product in which there is little innovation or market differentiation. When you have only one kick at the can, the behaviour of the entire team and process is as predictable as it will be pedestrian.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Bill Buxton in &lt;em&gt;Sketching the User Experience&lt;/em&gt;&lt;br /&gt;
+Buxton writes in this passage on the impact of iterative sketching on risk, exploration and innovation.&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://localhost:1313/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/have-nice-day/</guid>
+      <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.&lt;/p&gt;
+
+&lt;p&gt;I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with. I also love to give my own design resources to peers, or to teach techniques that I think will help people perfect their craft. In the end, I benefit from that exchange the most.&lt;/p&gt;
+
+&lt;p&gt;When asked to comment on slanted opinions that throw a stake in the ground and tend to confuse and divide the community, I abstain. Navel gazing and defining the damned thing became an uninteresting use of time to me long ago. It took some time immersed in those conversations to know that I have nothing to contribute. I&#39;d rather be making stuff than talking about it. I just say call yourself whatever you like, and do whatever works.&lt;/p&gt;
+
+&lt;p&gt;Interface design tools are as good as you make them. When I started out, I had to use &lt;a href=&#34;http://www.google.com/search?q=michael+angeles+visio&#34;&gt;Visio&lt;/a&gt; to communicate UI specs. It wasn&#39;t awesome, but I made it work. Later I found &lt;a href=&#34;http://www.google.com/search?q=michael+angeles+omnigraffle&#34;&gt;Omnigraffle&lt;/a&gt;. It was not designed specifically to enable interface designers, but we made it awesome. We learned how to use it to make our documents communicate design ideas.&lt;/p&gt;
+
+&lt;p&gt;We are the ones who determine what&#39;s useful for us after immersion in tools. We&#39;ve debated what we want in the ultimate IA tool, we&#39;ve found parallels in other industries and fields of practice and made them our own. We&#39;ve experimented with forward-looking low-fidelity prototyping projects like Denim, and pondered what the right suite of tools are for our work. Some of us built them and shared our work. Some of us are still building them.&lt;/p&gt;
+
+&lt;p&gt;Over years of working and watching others work, I&#39;ve noticed that some attributes are common among the people whose work I admire. The people who are the most effective seem to continue to study their practice, and perfect their craft. After long hours of use, they find the way to flow within any app at their disposal, and become as fast and effective as they can using it. The key is what they do with the app once they&#39;ve become expert at their craft, expert in finding the right design, expert in communicating, and expert in refining. There&#39;s some kind of maker/doer tenacity I see in people, and it doesn&#39;t have to do with any one tool.&lt;/p&gt;
+
+&lt;p&gt;There are no good or bad tools for finding the right design. Paper prototypes are your thing? Awesome. If you want to sketch and go right to building in HTML? Go for it! I&#39;ve done it. You want to craft gray box schematics in OmniGraffle, Photoshop, or Mockups? Godspeed you wireframer. Maybe I can help you with that. You want to use a tool that generates interactive prototypes? Have a nice day. :)&lt;/p&gt;
+
+&lt;p&gt;All the side-taking is useless to me. If you&#39;ve ever interviewed people for an IA or IXD position, you know that beautiful documents and prototypes are meaningless if in the end they don&#39;t demonstrate good problem solving and good design decision making. I don&#39;t care what people use. They can use finger puppets and crayons if they help them.&lt;/p&gt;
+
+&lt;p&gt;I say use whatever makes sense or is at your disposal. Your tools are only as effective as you are at using them to accomplish goals. But don&#39;t let anyone tell you that what you choose is wrong or inappropriate. Find the right design and keep winning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sarah Sampsel on Designing The Washington Post for iPad</title>
+      <link>http://localhost:1313/blog/sarah-sampsel-designing-washington-post-ipad/</link>
+      <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sarah-sampsel-designing-washington-post-ipad/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2455&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4cdc1064e10d5_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Sarah Sampsel wrote about designing the Washington Post iPad app, in 2 entries describing a little bit about the process. The &lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/08/designing-the-washington-post-app-for-ipad/&#34;&gt;first entry&lt;/a&gt; describes the types of interaction, visual design, and brand issues she had to consider when designing for the device. &lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&#34;&gt;The second shows a few wireframes&lt;/a&gt; of the evolution of the home screen design.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Would have been lovely to also see some of the sketches, but it&#39;s awesome that Sarah shared not just final wireframes, but a series of wireframes showing the iterations. I&#39;m hopeful that she&#39;ll continue the series to discuss the visual design and some post-launch thoughts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&#34;&gt;http://www.sarahsampsel.com/blog/2010/11/10/designing-the-washington-post-for-ipad-detailed-wireframes/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>POTD: J.K. Rowlings Plot Spreadsheet for Harry Potter and the Order of the Phoenix</title>
+      <link>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</link>
+      <pubDate>Fri, 22 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1187/5104558387_88ff2b5cd7_o.png&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Love &lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;this post on /Film&lt;/a&gt; showing a few artifacts from J.K. Rowling&amp;rsquo;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&amp;rsquo;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Rowling outlines each chapter in detail including which month of the school year it takes place in, the title and the plot. All of that seems standard. But it’s the next few columns where things get really good.&lt;/p&gt;
+&lt;p&gt;She keeps track of all the book’s subplots in every chapter and how they are developing in the real world of the book, even if they aren’t mentioned on the page. So, there’s a full column on “The Prophecy” which is the main subplot Harry is worried about throughout the book. Then there’s a column for the romantic subplot, titled “Cho/Ginny” followed by “D.A.” which follows what’s going on with Harry, Ron and Hermione’s resistance group “Dumbledore’s Army,” one called “O of P,” a column about what’s the latest with the “Order of the Phoenix,” a.k.a, the people who believe Voldemort is still alive, then separate columns for Snape (and others, I can’t read Rowlings writing) and the Hagrid and Grawp story.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;Read more on /Film.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://www.subtraction.com/2010/10/21/jk-rowlings-plot-diagrams&#34;&gt;Via +Subtraction&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overhauling Balsamiq.com</title>
+      <link>http://localhost:1313/blog/overhauling-balsamiqcom/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/overhauling-balsamiqcom/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2446&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4cb905716017f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;We launched an overhauled Balsamiq.com this week and I &lt;a href=&#34;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&#34;&gt;wrote about the effort&lt;/a&gt;. In addition to doing interface design on the product (myBalsamiq mostly up to now) I also get to be the &amp;quot;webmaster.&amp;quot; :) What that means in our small startup is doing the user research, interface design, visual design, and front end development. If you know me, you know that I dig getting to do more than one thing, so that&amp;rsquo;s a win.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;In any case, take a look and see how we evolved our little site. I&#39;m planning to do another article on some the CSS 3 techniques I learned, but this high level blog entry will give you an idea of what I learned doing this project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&#34;&gt;http://blogs.balsamiq.com/ux/2010/10/15/overhauling-balsamiq/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shades of Grey: Wireframes as Thinking Device</title>
+      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
+&lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;
+&lt;p&gt;Something Victor Lombardi wrote about the process of &lt;a href=&#34;http://noisebetweenstations.com/personal/weblogs/?p=2214&#34;&gt;concept design&lt;/a&gt; seems related here. Victor discusses expert vs. novice designers in an article that focussed on the designers&amp;rsquo; tendencies to frame and reframe the problem and approach solutions differently depending on expertise. The idea was basically that the experts, those with years of experience, had the tendency to simultaneously spend time on inquiry and problem framing as well as solution generation, but then abandon deep inquiry and rigor in favor of selection. &lt;/p&gt;
+&lt;p&gt;This reminds me of the few times I&amp;rsquo;ve worked a desk in a reference library in the past, where people framed their problem verbally only to have us help them reframe the problem in terms of a question that could be asked of the information. Language, questions and answers are the communication artifact there. The artifacts are really beside the point, but their usefulness in coming to a solution is important to the process when the discovery requires iterations of inquiry/framing/solving.&lt;/p&gt;
+&lt;p&gt;The communication of ideas that things like wireframes facilitate is what is interesting. Replace wireframe with sketch, model, prototype, what have you. What Will Evans is showing here is that wireframes used in this way, serve as one of the communication artifacts we use for problem framing and solving. THAT is the right way to wireframe.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing OmniGraphSketcher for the iPad </title>
+      <link>http://localhost:1313/blog/designing-omnigraphsketcher-ipad/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/designing-omnigraphsketcher-ipad/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2319&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b8706dad1001_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The Omni Group posted some photos and a little story about their progress working on &lt;a href=&#34;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&#34;&gt;prototypes for the OmniGraphSketcher for the iPad&lt;/a&gt;. The app is a simple graph drawing and data plotting tool that they&amp;rsquo;re creating an iPad version of. Apparently no one at Omni Group is sleeping much while their iPad apps are being developed, but they are doing some interesting things with hardware prototypes, including mocking up the hardware with 3d printers.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&#34;&gt;http://blog.omnigroup.com/2010/02/25/designing-omnigraphsketcher-for-the-ipad/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Michael Bierut: 5 Secrets from 86 Notebooks</title>
+      <link>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</link>
+      <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/michael-bierut-5-secrets-86-notebooks/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object type=&#34;application/x-shockwave-flash&#34; width=&#34;572&#34; height=&#34;429&#34; data=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34;&gt;  &lt;param name=&#34;quality&#34; value=&#34;best&#34; /&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;scale&#34; value=&#34;showAll&#34; /&gt;  &lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=7252845&amp;amp;server=vimeo.com&amp;amp;fullscreen=1&amp;amp;show_title=0&amp;amp;show_byline=0&amp;amp;show_portrait=0&amp;amp;color=e91c6b&#34; /&gt; &lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative. Instead, he likens his job to that of a doctor who tends to patients  – &amp;ldquo;the sicker, the better.&amp;rdquo; Digging into the 86 notebooks he&amp;rsquo;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.g. the problem contains the solution; don&amp;rsquo;t avoid the obvious) at the foundation of brilliant design solutions.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;View more videos and register for the upcoming &lt;a href=&#34;http://the99percent.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks&#34;&gt;99 Percent conference&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://the99percent.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks&#34;&gt;http://the99percent.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 10% Myth and How to Put Your Creative Process on Autopilot</title>
+      <link>http://localhost:1313/blog/10-myth-and-how-put-your-creative-process-autopilot/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/10-myth-and-how-put-your-creative-process-autopilot/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;What if we could eliminate noise and give our brains space to do harder work or process different things?&lt;/p&gt;
+&lt;h3&gt;The Costanza Principle&lt;/h3&gt;
+&lt;p&gt;There&#39;s a particularly funny episode of Seinfeld titled &#34;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Abstinence&#34;&gt;The Abstinence&lt;/a&gt;,&#34; where George abstains from sex because his girlfriend has Mono, and strange things begin to happen to the serial underachiever. He appears to utilize more of his brain and becomes mentally sharp. He remembers where he left things years ago. He starts to read and understands math. He becomes more intelligent. Of course he ruined it all in a weak moment with a comely waitress.&lt;/p&gt;
+&lt;p&gt;That comedy sketch summarizes a simple and persistent myth that has stuck for years&amp;#8212;that we use &lt;a href=&#34;http://www.scientificamerican.com/article.cfm?id=do-we-really-use-only-10&#34;&gt;only 10% of our brain&lt;/a&gt;. That number may have more to do with 10 percent of our potential or capacity rather than 10% of brain use. But the idea sticks, I think, because of that hopeful notion of doing more than one thinks she is capable.&lt;/p&gt;
+&lt;p&gt;I thought of the Seinfeld sketch while I was reading Barry Schwartz&#39;s &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice&#34;&gt;The Paradox of Choice&lt;/a&gt;&lt;/em&gt; and it put me on a separate train of thought about creativity and productivity. What if we could take the idea of eliminating noise in order to give our brains space to focus, to do harder work, or to process different things? &lt;/p&gt;
+&lt;p&gt;Schwartz says that in effect we do this every day when we go into autopilot to take care of our morning routines&amp;#8212;bathing, shaving, brushing, etc&amp;#8212;because we don&#39;t need or want to waste time and effort considering choices all the time. So it started me wondering how this idea translates to the work I do.&lt;/p&gt;
+&lt;p&gt;The are two ways I thought this idea could have some benefit for me: first as a tool for freeing my mind in everyday creative activity, and second, as a tool for users of the things I design not to feel overwhelmed with choice and decision making.&lt;/p&gt;
+&lt;p&gt;So I started listing how I might make this idea work in each of those contexts. For now, I&#39;m going to focus on how this relates to my creative process, and what I try to do that now seems related to this idea. &lt;/p&gt;
+&lt;h3&gt;Processes&lt;/h3&gt;
+&lt;p&gt;If I learn and use a technique or process, I write about it and when necessary turn it into a set of tools that support the process. I record the steps in the system for re-doing without having to re-learn. I modify what I learn and borrow from others when what I&#39;ve gleaned limits my ability to get things done.&lt;/p&gt;
+&lt;p&gt;I&#39;ve done this over and over with all of the information architecture and interaction design practices that I employ. I just stand on the shoulders of those who pioneer and test these processes, making use of what makes sense, and discarding aspects as needed. This is one of the aspects of agencies that I think is really great. Processes are so well defined for those inside and outside the agency to understand that it becomes part of the common language of the team.&lt;/p&gt;
+&lt;h3&gt;Tool Sets&lt;/h3&gt;
+&lt;p&gt;I find toolsets and frameworks for nearly everything I do, or I create them when I can&#39;t find them. They add rigor to my process, and allow me to re-use without thought. I break out of the frameworks as necessary, but start with a sense of the complete framework, even if only in concept, and expand to satisfy my use cases and needs.&lt;/p&gt;
+&lt;p&gt;One of the things I learned early in my career from Perl programmers I worked with is that code libraries help you to be lazy. Laziness can be a virtue if it means you don&#39;t want to sweat the routine and small things so you can focus on the bigger ideas. Designers also do this with design pattern libraries and component libraries. I don&#39;t limit myself to only what libraries provide, but I do exploit them when they&#39;re useful and save me time and effort.&lt;/p&gt;
+&lt;h3&gt;So what does this buy you?&lt;/h3&gt;
+&lt;p&gt;I think to sum up, this all comes back to the idea of freeing your mind from the tyranny of small decisions, so you can focus on the bigger, more intellectual or creative ones. A lot of this isn&#39;t exactly auto-pilot, or may not feel that way in the beginning. But after years of developing and evolving these things, I feel some of the routines or toolsets I&#39;ve created have become a part of my vocabulary. The only problem is maybe that other things compete for the open space I create. I have more to say about that, and the issue of focus, but will leave that to another entry. &lt;/p&gt;
+&lt;p&gt;I&#39;ll end as I often do with a question. What kinds of things are you doing to put your work life on autopilot?&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframing over the shoulder</title>
+      <link>http://localhost:1313/blog/wireframing-over-shoulder/</link>
+      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/wireframing-over-shoulder/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object classid=&#34;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&#34; width=&#34;437&#34; height=&#34;370&#34; id=&#34;viddler&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.viddler.com/player/3ff47344/&#34; /&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;embed src=&#34;http://www.viddler.com/player/3ff47344/&#34; width=&#34;437&#34; height=&#34;370&#34; type=&#34;application/x-shockwave-flash&#34; allowScriptAccess=&#34;always&#34; allowFullScreen=&#34;true&#34; name=&#34;viddler&#34; &gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;This is a video on From The Couch podcast showing David Perel sketching wireframes for the Obox Theme. The first half shows David sketching, and during the second half he talks through the interface.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.from-the-couch.com/post.cfm/title/wireframing-over-the-shoulder&#34;&gt;View the article for more&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.from-the-couch.com/post.cfm/title/wireframing-over-the-shoulder&#34;&gt;http://www.from-the-couch.com/post.cfm/title/wireframing-over-the-shoulder&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>That design is money! Pentagram redesigns an ATM UI</title>
+      <link>http://localhost:1313/blog/design-money-pentagram-redesigns-atm-ui/</link>
+      <pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/design-money-pentagram-redesigns-atm-ui/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://physicalinterface.com/view/that-design-is-money&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1843&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a6db524a8304_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Holger Struppek has written an article describing the design and prototyping process for the &lt;a href=&#34;http://physicalinterface.com/view/that-design-is-money&#34;&gt;redesign of the Wells Fargo ATM&lt;/a&gt; user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.&lt;/p&gt;
+&lt;p&gt;The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design. There&amp;rsquo;s some discussion of research considerations (environment, check scanning concerns), and excellent description of the design choices for button design, layout, and behavior, including the smart shortcut feature, which acts as a history-based shortcuts area for frequently-used features, and a deep look at the check deposit flow. I also appreciated the description of the physical factors of ATM screens and environments that affected contrast and positioning of controls.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://physicalinterface.com/view/that-design-is-money&#34;&gt;http://physicalinterface.com/view/that-design-is-money&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Dialogue on Design With Intent</title>
+      <link>http://localhost:1313/blog/dialogue-design-intent/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dialogue-design-intent/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://designmind.frogdesign.com/articles/power/design-with-intent.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1771&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a3fa566cf438_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&amp;rsquo;s desire to influence. The first is Robert Fabricant&amp;rsquo;s article on &lt;a href=&#34;http://designmind.frogdesign.com/articles/power/design-with-intent.html&#34;&gt;&amp;ldquo;Design with Intent: how designers can influence behavior&amp;rdquo;&lt;/a&gt;, and the follow up is Dan Lockton&amp;rsquo;s &lt;a href=&#34;http://architectures.danlockton.co.uk/2009/06/14/frog-design-on-design-with-intent/&#34;&gt;&amp;ldquo;frog design on Design with Intent&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;User centered design focuses primarily on user needs and  research and decision making must support these needs. Because of this, the argument being made by Frog Design&amp;rsquo;s Robert Fabricant is that UCD puts designers a step removed from playing an active role in influencing behavior in ways reflective of their own values and judgement, and the desire to engage more directly has led designers to push outside of the boundaries of the purist&amp;rsquo;s definition of UCD practice. &lt;/p&gt;
+&lt;p&gt;In a typical UCD designed product, the designer tends to disappear and the user&amp;rsquo;s engagement with the designed product or experience is judged by the essence of understanding and predictability of need intrinsic in the product design&amp;#8212;to me the essence is the ability to allow frictionless or enjoyable use, made possible by the design and designer. Fabricant wrote that designers want to have more of an active and immediate role in behavior change through social engagement, and are doing so in more apparent ways. This is taking shape through direct engagement with users through practices intended to influence their behavior positively. The three mentioned themes in play are Persuasion Design, Catalyst Design, and Performance Design. Catalyst and Performance Design are new terms to me, but the concepts and some of the examples of participatory design, more direct involvement with users, or providing open architectures for user involvement with design on web products are familiar.&lt;/p&gt;
+&lt;p&gt;Dan Lockton, author of the Design With Intent site, writes that the notion of &amp;ldquo;direct behavior design&amp;rdquo; is something often perceived along the lines of architectural determinism or behaviorism, and warns that awareness that someone is trying to determine and influence your behavior often leads to an emotional reactance&amp;#8212;the very idea that one&amp;rsquo;s freedom is being restricted or one&amp;rsquo;s behavior being persuasively pushed in some direction causes irritation. He also says that while Fabricant believes design with intent may be opposed to the principles of the user centered design philosophy, it needn&amp;rsquo;t be viewed this way. To quote:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I would argue that in cases where design with intent, or design for behaviour change, is aligned with what the user wants to achieve, it’s very much still user-centred design, whether enabling, motivating or constraining. It’s the best form of user-centred design, supporting a user’s goals while transforming his or her behaviour. Some of the most insightful current work on influencing user behaviour &amp;hellip; starts with achieving a deeper understanding of user behaviour with existing products and systems, to identify better how to improve the design.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I think the argument could be made that somewhere in the process of injecting the designer into the users&amp;rsquo; experience, especially in the more apparent and active examples of Catalyst Design and Performance Design, that the approach to engaging with users is entirely more active and immersed in users&amp;rsquo; awareness than what I&amp;rsquo;ve ever understood User Centered Design to encompass. It doesn&amp;rsquo;t really matter to me in the end, whether this expanding role of the designer from designing for use, to influencing behavior is contrary to any given process. What matters to me is where you see the lines of responsibility, and how easily you can cross them for the users&amp;rsquo; benefit while doing no harm. A more engaged designer needn&amp;rsquo;t be on the &amp;ldquo;genius designer&amp;rdquo; end of the spectrum to have to believe that they might provide a needed role by influencing new or different behavior that helps achieve user goals, for instance, rather than perpetuating existing models.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://designmind.frogdesign.com/articles/power/design-with-intent.html&#34;&gt;http://designmind.frogdesign.com/articles/power/design-with-intent.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Highrise Contacts Design Exploration</title>
+      <link>http://localhost:1313/blog/highrise-contacts-design-exploration/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/highrise-contacts-design-exploration/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1604&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a12bbb79d99b.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jason Zimdars describes the &lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;explorations and iterations&lt;/a&gt; over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jasonzimdars.com/svn/highrise.html&#34;&gt;http://jasonzimdars.com/svn/highrise.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Research for Personas and Other Audience Models</title>
+      <link>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</link>
+      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1593&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a03272610c42.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In UX Matters, Steve Baty describes the &lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;user research methodologies&lt;/a&gt; we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

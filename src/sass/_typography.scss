@@ -1,0 +1,307 @@
+// ========================================
+// FONT SIZES
+// Assuming base font is 16px
+// px = em
+// 12 = .75
+// 14 = .875
+// 16 = 1
+// 18 = 1.125
+// 21 = 1.3
+// 24 = 1.5
+
+// ========================================
+// TEXT, COLORS, MINOR DECORATION
+
+body {
+  font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+body {
+  color: $black;
+}
+
+// ========================================
+// TEXT
+p {
+  margin-bottom: 1.5em;
+}
+
+em {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.intro, .dek {
+  @include fontsize(18, 27);
+}
+
+.selected, a.selected, .selected a {
+  color: $black !important;
+}
+
+.tupper {
+  text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Lato","Helvetica Neue",sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 300;
+}
+h4, h5 {
+  font-weight: 400;
+}
+
+h1.page-title {
+  margin: 0 0 1.5em 0;
+  padding: 0 0 .75em 0;
+  font-weight: 600;
+  @include fontsize(36, 36);
+  letter-spacing: -1px;
+  color: $black;
+  &.tags {
+    text-transform: capitalize;
+  }
+}
+h2.post-title, h2.page-title {
+  margin: 0 0 .5em 0;
+  text-align: center;
+  @include fontsize(36, 36);
+}
+h3.post-title {
+  margin: 0 0 1em 0;
+  text-align: center;
+  @include fontsize(28, 28);
+}
+
+// ========================================
+// COLORS
+
+/* gray */
+.entry #screens-thumbs .actions a,
+#comments .box h2 {
+  color: #999;
+}
+
+// ========================================
+// LINKS
+a {
+  outline: none;
+}
+a:link, a:visited {
+  color: $linkcolor;
+  text-decoration: none;
+}
+a:hover {
+  color: $linkhovercolor;
+  text-decoration: none;
+}
+
+// ========================================
+// MISC
+.dim, a.dim:link, a.dim:visited {
+  color: $graydark;
+}
+.dim2, a.dim2:link, a.dim2:visited {
+  color: $gray;
+}
+.bgdim {
+  background: #f7f7f7;
+}
+
+.txt-center, .tcenter, p.center, div.center {
+  text-align: center;
+}
+
+.caps {
+  text-transform: uppercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+small {
+  @include fontsize(12, 18);
+}
+
+// ========================================
+// TABLES
+table {
+  clear: both;
+  margin-bottom: .75em;
+  width: 100%;
+  border-top: 2px solid $graylight;
+}
+
+table thead th {
+  border-bottom: 1px solid $graylight;
+}
+
+table td {
+  border-bottom: 1px solid $graylight;
+  padding: 6px 0;
+}
+
+table tr, table td {
+  background: $white;
+}
+
+table th, table td {
+  padding: .75em 6px;
+}
+
+table th:first-child, table td:first-child {
+  padding-left: 0;
+}
+
+// ========================================
+// TABLE FILTER
+ul#filter {
+  margin-bottom: .5em;
+}
+
+// ========================================
+// HEADER SELECTED SECTION
+// .current
+body.blog li#gnav-blog a,
+body.interface li#gnav-interface a,
+body.tools li#gnav-tools a,
+body.wiki li#gnav-wiki a,
+body.music li#gnav-music a,
+#gnav li.current a
+{
+  color: $black !important;
+}
+
+// ========================================
+// FOOTER
+footer {
+  text-align: center;
+  p {
+    @include fontsize(12,12);
+  }
+  color: $graymed;
+  p.top a {
+    color: $graymed !important;
+  }
+}
+
+// ========================================
+// Entry Thumbs
+.entry {
+  #screens-thumbs {
+    .caption {
+      color: $graymed;
+      @include fontsize(12, 12);
+    }
+    .actions {
+      color: $graymed;
+      @include fontsize(12, 12);
+    }
+  }
+}
+
+// ========================================
+// Article Lists on Tag Pages
+.article-list {
+  .title {
+    @include fontsize(18, 18);
+  }
+  .pub-date {
+    color: $graymed;
+    @include fontsize(14, 14);
+    white-space: nowrap;
+  }
+}
+
+// ========================================
+// Thumbs on index pages
+.screens-thumbs-index {
+  .thumb {
+    &:hover {
+      .indexlink a, .indexlink-big a {
+        color: $white;
+      }
+    }
+    .indexlink, .indexlink-big  {
+      a {
+        font-family: "Lato","Helvetica Neue",sans-serif;
+        color: $textcolor;
+        font-weight: 700;
+        @include fontsize(24, 30);
+        text-decoration: none;
+      }
+    }
+    .nodetype a {
+      color: $graydark;
+      @include fontsize(12, 12);
+      font-weight: normal;
+    }
+  } // /.thumb
+} // /.screens-thumb-index
+
+// ========================================
+// SCREENS-FULL -- used in Interface section
+#screens-full {
+  .caption {
+    color: $textcolor;
+    font-weight: bold;
+  }
+}
+// ========================================
+// VIDEO
+.video .caption {
+  color: $textcolor;
+  font-weight: bold;
+  text-align: left;
+}
+
+// ========================================
+// Metadata
+.metadata {
+  text-align: center;
+  color: $graymed;
+  .pub-date {
+    @include fontsize(14,14);
+    color: $graymed;
+  }
+  ul.tags {
+    display: inline-block;
+    @include inline-list();
+    > li {
+      @include fontsize(12,12);
+      margin-right: 3px;
+      padding: 5px 10px;
+      border: 1px solid $graymed;
+      border-radius: 15px;
+      a {
+        color: $graymed;
+        text-decoration: none;
+      }
+      &:hover {
+        background: $graymed;
+        a {
+          text-decoration: none;
+          color: $white;
+        }
+      }
+    }
+  }
+}
+
+// ========================================
+// SECTION PAGER
+.section-pager {
+  @include fontsize(12,12);
+}

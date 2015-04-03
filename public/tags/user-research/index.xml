@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Research on Konigi</title>
+    <link>http://localhost:1313/tags/user-research/</link>
+    <description>Recent content in User Research on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/user-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How GitHub Uses &amp;amp;quot;Deprivation Testing&amp;amp;quot; To Hone Product Design</title>
+      <link>http://localhost:1313/blog/how-github-uses-deprivation-testing-hone-product-design/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-github-uses-deprivation-testing-hone-product-design/</guid>
+      <description>&lt;p&gt;Fastco interviewed Chrissie Brodigan, design and UX researcher at GitHub to talk about &lt;a href=&#34;http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design&#34;&gt;how they&#39;re using deprivation to study people&#39;s reaction to removing elements from a product&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The gist of the technique is to work with a set of participants who develop a pattern of use around a feature or design characteristic and journal their experience. After some time, at a point when they&#39;ve had time to be accustomed to that thing, they take away or alter it, and observe through the journal what the users&#39; reactions are to its removal.&lt;/p&gt;
+
+&lt;p&gt;It seems like A/B testing with a greater focus on qualitative measurement. Deprivation could be a powerful factor and tool for assessing value of features on both new and existing products. Designers and developers get to measure the features by removing them, and seeing how upset their users get within a controlled group. Removing features from an existing product is difficult, but the upside in measurement could be that features that have a cost to the user or vendor might turn out to be unnecessary, or the research could lead to improvement.&lt;/p&gt;
+
+&lt;p&gt;This is technique is new to me, but I&#39;m not unfamiliar with the pain of having features removed for me, or the backlash you can experience when you change something as a designer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design&#34;&gt;http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PowWow</title>
+      <link>http://localhost:1313/tools/submissions/powwow/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/powwow/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2661&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522f95bc25025_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;PowWow&lt;/a&gt; is a free simple service for scheduling user research using your Google Calendar. The fine folks at &lt;a href=&#34;http://pointlesscorp.com/&#34;&gt;Pointless Corp (aka Viget)&lt;/a&gt; created this as a side project for handling scheduling of user interviews and testing, but could be used for any kind of event.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;There are other apps like this that remove the fuss of coordinating schedules via email. PowWow does it simply, and provides a polished and pleasing experience. You pick the times that work best for you and send out a calendar with available appointments and any additional information to potential participants. Participants can select the appointment time that works best for them and you will be sent a confirmation with their contact information.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.powwowapp.net/&#34;&gt;http://www.powwowapp.net/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Call Recorder for Skype</title>
+      <link>http://localhost:1313/tools/submissions/call-recorder-skype/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/call-recorder-skype/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2742&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230115bec53c_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ecamm&amp;rsquo;s &lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;Call Recorder for Mac&lt;/a&gt; captures audio and video to save Skype calls as QuickTime movies. Useful for user interviews or screensharing sessions.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Thanks to &lt;a href=&#34;https://twitter.com/vanderwal&#34;&gt;Thomas @vanderwal&lt;/a&gt; for the tip&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ecamm.com/mac/callrecorder/&#34;&gt;http://www.ecamm.com/mac/callrecorder/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Noticeability Evaluation</title>
+      <link>http://localhost:1313/wiki/noticeability-evaluation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/noticeability-evaluation/</guid>
+      <description>&lt;p&gt;&lt;h2 id=&#34;toc0&#34;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;A research technique for learning whether people notice key elements in your design.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;An exercise during which users are asked to re-create a screen based on their memory.&lt;/p&gt;
+
+&lt;p&gt;Source: &amp;quot;&lt;a href=&#34;https://speakerdeck.com/tsharon/what-ux-research-can-you-do?slide=49&#34;&gt;What UX Research Can You Do with 5 Users in 1 Hour?&lt;/a&gt;,&amp;quot; by &lt;a href=&#34;http://about.me/tsharon&#34;&gt;Tomer Sharon&lt;/a&gt;. Asbury Agile 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc1&#34;&gt;How to do it&lt;/h2&gt;
+&lt;p&gt;1. Create an evaluation kit&lt;br /&gt;
+&lt;ul&gt;
+    &lt;li&gt; Print any screen&lt;/li&gt;
+    &lt;li&gt; Cut the screen into elements (leave some out)&lt;/li&gt;
+    &lt;li&gt; Also print/cut some elements that weren&amp;rsquo;t on the screen&lt;/li&gt;
+    &lt;li&gt; Mix the pieces up&lt;/li&gt;
+    &lt;li&gt; Sharpie and some extra paper&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;2. Give user a task to perform on a web site or app.&lt;/p&gt;
+
+&lt;p&gt;3. After the user performs the task, give them an evaluation kit. Tell them that the kit includes elements of the screen, and that they can also use the paper and pen to draw elements that are missing. Ask them to re-assemble the screen and observe.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc2&#34;&gt;Questions to ask&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt; Did they put the key elements in place?&lt;/li&gt;
+    &lt;li&gt; Did they leave out what doesn&amp;rsquo;t belong?&lt;/li&gt;
+    &lt;li&gt; Did they draw elements that weren&amp;rsquo;t there.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPEVO Ziggi Review</title>
+      <link>http://localhost:1313/tools/submissions/ipevo-ziggi-review/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/ipevo-ziggi-review/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/ipevoziggi1.jpg&#34; alt=&#34;Camera attached to computer&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;Have you ever done the dance of holding a sketch up to your computer&amp;rsquo;s webcam or taken pictures of them with your iPhone to email to yourself or to colleagues? I&amp;rsquo;ve done that sort of thing for all of the years that I&amp;rsquo;ve worked remotely on design and development teams, because scanners get tired real fast. &lt;/p&gt;
+&lt;p&gt;Frustrated with this process, I had largely given up, until a few months ago when I was looking for tools to share work on paper between students and teachers. I stumbled upon the $89 &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO_Ziggi_USB_Document_Camera&#34;&gt;IPEVO Ziggi USB Document Camera&lt;/a&gt; and have been evaluating it for a few months now as a tool for design collaboration. &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been finding it easy to use for both shooting sketches for sharing in other apps, and for capturing and reviewing sketches with remote users using a screen-sharing tool like Skype. I now also believe it could be useful for other tasks including video capture for usability testing on mobile devices, and even presentations like one would do with an old school overhead projector.&lt;/p&gt;
+&lt;p&gt;The compact camera folds down and fits in a small bag. It comes with a posable arm to adjust the camera height, a rotatable camera head, an anti-glare shield, and the P2V software is used to display the video on your screen or to a projector when in fullscreen mode. &lt;/p&gt;
+&lt;p&gt;The camera includes buttons to adjust exposure, a focus button, and a switch to set autofocus on or off. These functions can also be controlled via the software interface. The software additionally provides a focussed mode for capture, a thumbnail view for review, and the fullscreen view.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/ipevoziggi2.jpg&#34; alt=&#34;Camera controls&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;This is a closeup of the camera with the foldable anti-glare shield which can be used when capturing back lit devices like a smartphone or tablet screen. If you were to record an iOS device screen, you would keep this attached. &lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/ipevoziggi3.jpg&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;Here&amp;rsquo;s a low-resolution video I took of me sketching that you may have seen in a presentation I gave. It&amp;rsquo;s pretty low quality because of the movement and video compression since I used it in a presentation. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/51043154?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&#34; width=&#34;600&#34; height=&#34;419&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/51043154&#34;&gt;Sketch Basics&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/konigi&#34;&gt;konigi&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The camera itself has a 2.0-megapixel CMOS sensor with auto-focus and is capable of 30 fps live video capture (at 640 x 480). Still shots can be taken up to 12.2&amp;rdquo; x 9.1&amp;rdquo; (310 x 230mm) and offer resolutions up to 1600px x 1200px.&lt;/p&gt;
+&lt;p&gt;You can use the camera as an input for third party software like Skype or Google Talk, although you&amp;rsquo;ll lose some capture capabilities. If you&amp;rsquo;re capturing a test session you&amp;rsquo;re most likely want to screen capture the session with another app like Silverback or Screenflow. I&amp;rsquo;m also using the new Evernote page capture feature a lot with the Moleskine, but could see this device being a better alternative at a desktop. &lt;/p&gt;
+&lt;p&gt;Overall, I&amp;rsquo;m really pleased to have this as one of the few tools in my design arsenal. There are few that stay, but this one is turning out to be as useful as I&amp;rsquo;d hope it to be with little fuss. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ipevo.com/prods/IPEVO_Ziggi_USB_Document_Camera&#34;&gt;http://www.ipevo.com/prods/IPEVO_Ziggi_USB_Document_Camera&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
+      <link>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/37421265&#34; width=&#34;572&#34; height=&#34;322&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mrtappy.com/&#34;&gt;Mr Tappy&lt;/a&gt; is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.&lt;/p&gt;
+&lt;p&gt;Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://www.90percentofeverything.com/2012/02/27/mr-tappy-a-filming-rig-for-mobile-and-tablet-usability-testing&#34;&gt;90 Percent of Everything&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrtappy.com/&#34;&gt;http://www.mrtappy.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Reframer: Qualitative data analysis system</title>
+      <link>http://localhost:1313/tools/submissions/reframer-qualitative-data-analysis-system/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/reframer-qualitative-data-analysis-system/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/31922657?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; width=&#34;610&#34; height=&#34;343&#34; frameborder=&#34;0&#34; webkitAllowFullScreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://getreframer.com/&#34;&gt;Reframer&lt;/a&gt; is a collaborative web app for collecting and analyzing qualitative data. You start by capturing data into the app&amp;#8212;things like customer feedback, free text responses in surveys, emails, interviews, and usability test data. The system then uses the aggregated information and provides a view reframed with quantitative values based on a significance rating that team members apply. These values can also be used to prioritize issues to assess feasibility. The metadata additionally allows you to identify trends and themes, and show relationships in data based on correlated tags. &lt;/p&gt;
+&lt;p&gt;Looks like a fantastic way to get all of that data out of spreadsheets and into a living tool for both quick capture and simpler analysis. They offer tiered plans from free to $249. Paid plans come with 30 days free. &lt;a href=&#34;http://getreframer.com/&#34;&gt;More info here&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://getreframer.com/&#34;&gt;http://getreframer.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Pear Note: Note taking utility for Mac</title>
+      <link>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/pear-note-note-taking-utility-mac/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2736&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52300510755a6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note&lt;/a&gt; from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The notes are time-marked to the video and slides that are being viewed during the recording, so you can click text from your notes, and the app will jump to that time in the recording so you can watch the video or see the slide that went with the note. While you&#39;re playing back, text notes are highlighted as you follow along with audio/video.&lt;/p&gt;
+
+&lt;p&gt;This is a pretty amazing looking tool to supplement your user research toolbox, and fills a well defined need for researchers, but is just as useful for meetings, conference calls, remote design reviews, and classes.&lt;/p&gt;
+
+&lt;p&gt;More info in the &lt;a href=&#34;http://itunes.apple.com/us/app/pear-note/id411827890?mt=12&#34;&gt;Mac App Store&lt;/a&gt; or at the &lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;Pear Note site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.usefulfruit.com/pearnote/&#34;&gt;http://www.usefulfruit.com/pearnote/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Cohdoo Highlight: Voice recording iPhone app</title>
+      <link>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/cohdoo-highlight-voice-recording-iphone-app/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2677&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fad14ed298_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;To start new sessions, press the New Recording button, and during the recording you can tap the huge green Mark Highlight button, which I could see being useful for marking new questions during interviews, or marking sections of conference talks. Afterwards during playback, you can press a marker to jump to it, and swipe a marker to label it. You can then sync and access your recordings via iTunes, or email the audio recordings.  Really nice app. I can see myself using this for more than just user research recordings.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://itunes.apple.com/us/app/cohdoo-highlight/id422247746?mt=8&amp;amp;ls=1&#34;&gt;More info in the App Store&lt;/a&gt; or on the &lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;Highlight&lt;/a&gt; site.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cohdoo.com/highlight.php&#34;&gt;http://cohdoo.com/highlight.php&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>AddUse User research service</title>
+      <link>http://localhost:1313/tools/submissions/adduse-user-research-service/</link>
+      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/adduse-user-research-service/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2683&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fb04368801_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;AddUse&lt;/a&gt; is a commercial user research service that allow you to run and analyze web surveys and allows usability test facilitators to manually capture and analyze the results of test sessions.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.adduse.com/Default.aspx&#34;&gt;http://www.adduse.com/Default.aspx&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Interaction10: How to Design an Experience for Experience Designers</title>
+      <link>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</link>
+      <pubDate>Fri, 26 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/interaction10-how-design-experience-experience-designers/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2339&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4bad3ae7b2390_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Jennifer Bove writes for Fast Company about how she and Bill DeRouchey designed the conference experience in &amp;quot;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;Interaction10: How to Design an Experience for Experience Designers&lt;/a&gt;.&amp;quot; It&amp;rsquo; a great behind the scenes look at how they observed the event the year prior, and thought about every aspect of the attendee experience and designed the IXD10 event to create a service that caters to what&amp;rsquo;s important to the conference-goer at every point. I&amp;rsquo;m sad I missed it. Sounds different from most conferences I&amp;rsquo;ve been to, for sure.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&#34;&gt;http://www.fastcompany.com/1597697/behind-the-scenes-at-interaction10&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just add an egg: Usability, User Experience and Dramaturgy</title>
+      <link>http://localhost:1313/blog/just-add-egg-usability-user-experience-and-dramaturgy/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/just-add-egg-usability-user-experience-and-dramaturgy/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.90percentofeverything.com/2009/10/20/just-add-an-egg-usability-user-experience-and-dramaturgy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1916&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4addf12b507b3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Harry Brignull quotes a passage from Susan Marks&amp;rsquo; &lt;em&gt;Finding Betty Crocker&lt;/em&gt; to tell the story of how the cake mix maker used a clever bit of imagination about the process of using their product to give customers the feeling of playing a desirable role&amp;ndash;that of home-maker and cook. They did this by simply requiring that real eggs be used in making cakes, rather than incorporating powered egg, and marketed this as a benefit. &lt;/p&gt;
+&lt;p&gt;Brignull sums up the use of psychology in the creation of this story and sense of role as a clever manipulation of the user experience.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;[P]sychologists realized the customer wanted to play the role of a successful home-maker and cook. We could even go so far to argue that their customers may have felt societal pressures to perform this role well. The egg, therefore, becomes more than an ingredient, and more than just an extra pleasurable step. It becomes a prop, enabling the customer to play a social role.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Brignull points out that we can make that comparison to usability and efficiency vs. the creation of emotional contact and the feeling of satisfaction. The egg stands in place of some role that enables some aspect of the fulfilling experience. Looking at the experience from this perspective has so much to do with understanding the customer, and what they want to get out of making cakes.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.90percentofeverything.com/2009/10/20/just-add-an-egg-usability-user-experience-and-dramaturgy/&#34;&gt;http://www.90percentofeverything.com/2009/10/20/just-add-an-egg-usability-user-experience-and-dramaturgy/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should Design Be Held Back by a Tyranny of Data</title>
+      <link>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/should-design-be-held-back-tyranny-data/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1599&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a08334b160c4.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The NYTimes &lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html?_r=2&amp;amp;adxnnl=1&amp;amp;adxnnlx=1242040513-Kke1lvsicTbH8SYjNFYe3w\&#34;&gt;interviewed Doug Bowman&lt;/a&gt; to talk about his departure from Google, which Bowman wrote about &lt;a href=&#34;http://stopdesign.com/archive/2009/03/20/goodbye-google.html&#34;&gt;on his blog&lt;/a&gt; in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:&lt;/p&gt;
+&lt;p&gt;Bowman on Google:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Data eventually becomes a crutch for every decision, paralyzing the company and preventing it from making any daring design decisions,”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Bowman on Twitter, where he is now Creative Director:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;He has also found a new way to listen to customers: reading their tweets in reaction to the new design features.&lt;/p&gt;
+&lt;p&gt;“Using data is fundamental to what we do,” Mr. Bowman said. “But we take all that with a grain of salt. Anytime you make design changes, the most vocal people are the ones who dislike what you’ve done. We don’t just throw the numbers in a spreadsheet.” &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Deborah Dunn, associate professor at the Stanford Institute of Design:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Adhering too rigidly to a design philosophy guided by “Web analytics,” Ms. Dunn said, “makes it very difficult to take bold leaps.”&lt;/p&gt;
+&lt;p&gt;“It is more from engaging with users, watching what they do, understanding their pain points, that you get big leaps in design,” Ms. Dunn said.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2009/05/10/business/10ping.html&#34;&gt;http://www.nytimes.com/2009/05/10/business/10ping.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Research for Personas and Other Audience Models</title>
+      <link>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</link>
+      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-research-personas-and-other-audience-models/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1593&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a03272610c42.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;In UX Matters, Steve Baty describes the &lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;user research methodologies&lt;/a&gt; we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&#34;&gt;http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STC Usability Toolkit</title>
+      <link>http://localhost:1313/tools/submissions/stc-usability-toolkit/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/stc-usability-toolkit/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2830&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52321fad148a9_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The STC &lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;Usability Toolkit&lt;/a&gt; is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&#34;&gt;http://www.stcsig.org/usability/resources/toolkit/toolkit.html&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

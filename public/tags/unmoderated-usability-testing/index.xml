@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unmoderated Usability Testing on Konigi</title>
+    <link>http://localhost:1313/tags/unmoderated-usability-testing/</link>
+    <description>Recent content in Unmoderated Usability Testing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unmoderated-usability-testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>YouEye: User testing with webcam eye tracking</title>
+      <link>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/youeye-user-testing-webcam-eye-tracking/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://youeye.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2704&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fd0c0b6b4f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&amp;lt;a href=&amp;quot;&lt;a href=&#34;http://www.youeye.com/&#34;&gt;http://www.youeye.com/&lt;/a&gt;&amp;lsquo;&amp;gt;YouEye&lt;/a&gt; looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://youeye.com/&#34;&gt;http://youeye.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Clue: A 5 Second Test Service</title>
+      <link>http://localhost:1313/tools/submissions/clue-5-second-test-service/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/clue-5-second-test-service/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2819&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsquo;s &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue&lt;/a&gt; is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;To use, enter a URL for a page you&#39;d like to test, they generate a screenshot, and provide you with URLs for the test and the test report. Here&#39;s an example using this site: &lt;a href=&#34;http://www.clueapp.com/27951&#34;&gt;test&lt;/a&gt; and &lt;a href=&#34;http://www.clueapp.com/27951+&#34;&gt;report&lt;/a&gt;. Feel free to mock my home page at will. ;)&lt;/p&gt;
+
+&lt;p&gt;Users will see a screen with these brief instructions, &amp;quot;Look at this screenshot and remember what you see,&amp;quot; and upon clicking the Take the Test button, they are flashed the screenshot for 5.5 seconds. Afterwards they&#39;re given 5 inputs to describe what they remember seeing. Go to &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue App&lt;/a&gt; to create your own.&lt;/p&gt;
+
+&lt;p&gt;If you&#39;re interested in learning more about this type of first impression task, read about it &lt;a href=&#34;http://www.uie.com/articles/five_second_test/&#34;&gt;UIE&#39;s article&lt;/a&gt; about the technique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;http://www.clueapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>OpenHallway: Unmoderated Remote Usability Testing with Screen Recording</title>
+      <link>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
+      <description>&lt;p&gt;Inspired by the 5 second test, a lot web-based services have cropped up to support remote usability testing. In the past few years, I&#39;ve been experimenting with some of these to conduct super small, unmoderated remote usability testing sessions. I&#39;ve used Morae extensively in the past, but for most of my needs, that&#39;s like using a sledgehammer on a pushpin.&lt;/p&gt;
+&lt;p&gt;I&#39;d been successful using &lt;a href=&#34;http://fivesecondtest.com/&#34;&gt;fivesecondtest&lt;/a&gt; and &lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt;, who decided to sponsor me after I participated in the beta and gave feedback. I then got wind of &lt;a href=&#34;http://openhallway.com/&#34;&gt;OpenHallway&lt;/a&gt;, which also provides unmoderated testing with the addition of recording the users&#39; screen and voice using. I want to note that having agreed to participate in the beta, Open Hallway is also now a sponsor of Konigi.&lt;/p&gt;
+&lt;p&gt;I conducted a simple test with one task using Open Hallway. The observations below take you through the application in the current beta, and are based on my experience testing a common task in Balsamiq Mockups, updating your software.  &lt;/p&gt;
+&lt;h4&gt;Set up&lt;/h4&gt;
+&lt;p&gt;To get started, you create a project and start creating scenarios for your test. The screen below shows the form for defining the scenario or task. I entered the name of my scenario, instructions the user will read, and the URL to use in the session.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-1.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;When you&#39;re finished defining your scenario, you share a link for the test session with your recipients. The screenshot below shows the share link that displays when you click the &#34;Recording link&#34; text. The sessions that have been completed are also displayed here.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-2.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;It appears currently that if you plan to have the user attempt multiple tasks, you have to either create each task as a separate scenario, and share the URL for each scenario.&lt;/p&gt;
+&lt;h4&gt;User&#39;s experience starting a session&lt;/h4&gt;
+&lt;p&gt;Once you share the test session URL with your users, they&#39;re taken to a welcome page that asks for their contact information and diplays browser requirements.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-3.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;After entering contact information, the next screen shows instructions and describes how the session works. It&#39;s a lot of text to read. My first reaction is that this could be a 1-2-3 graphic that&#39;s quickly skimmed. The second thing I think might be useful here is some type of consent form or agreement. This would be necessary for most people I would think. Just a quick paragraph in a form textarea and a checkbox to proceed would suffice. This way facilitators can include details about the usage of the recorded video/audio.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-4.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;It would be useful to somehow show a persistent area in the browser that guides the user through the tasks. I&#39;m thinking of a very unobtrusive box in a fixed position at the top of the page. I wanted to set up my test so that I could do a tasks for 2 different scenarios, but in between I would required a URL change. The fact that the instructions are only given up front once makes it a little hard to expect the user to remember the steps for task #2 without returning to the original screen. That kind of interruption would be a little jarring.&lt;/p&gt;
+&lt;p&gt;Next we move on to the last pre-test screen which shows the scenario or task to be performed. The test participant reads the task and clicks Start Recording to begin the session, and a new window is opened with the URL specified in the scenario.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-5.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;After clicking through several pages, I felt like the copy of the task itself could easily be missed if the user clicked the start. My concern is that they would skip the copy and  wouldn&#39;t know what their task was, and would have to return to the original browser window, looking for the task.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-6.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;Once the session gets started, everything runs extremely smoothly. If the user performs the task while thinking aloud, their screen movements and audio are captured beautifully. &lt;/p&gt;
+&lt;p&gt;The only feature request I have regarding the actual session is that I&#39;d love to have multiple tasks be supported in a single session. I like how Usabilla uses a slim iframe at the top of the browser viewport to display the description of the current task and asks the user to indicate when they&#39;re done completing the task. It then steps the user to the next task and screen. Something like this would be lovely in OpenHallway so that all tasks are tested in one session.&lt;/p&gt;
+&lt;h4&gt;Viewing the results&lt;/h4&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/openhallway-7.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;Once your test is complete, you head back to your project window and view your completed sessions. Clicking a session displays the video of the session. Test participant notes are shown below the video, and you can also add notes of your own. There are no tools or adding markers, e.g. to mark when a task starts. I don&#39;t know that you would want or need that in this tool. Viewing the session is simple enough as it is in my opinion, without aspiring to be Morae.&lt;/p&gt;
+&lt;p&gt;Finally, you can download MP4 video or share the URL for the session page with your team.&lt;/p&gt;
+&lt;p&gt;It&#39;s also noteworthy that while OpenHallway&#39;s proprietary video format and SSL data transfer are sufficient for most applications, premium plan holders also have the option to turn on OpenHallway&#39;s enterprise security features to further secure the storage of your test scenario results. Doing so, however, means you can&#39;t share your video URLs. &lt;/p&gt;
+&lt;h4&gt;Conclusions&lt;/h4&gt;
+&lt;p&gt;I found the experience using this tool to be effortless. The details in my review are largely to satisfy more complicated needs. For the most part, I can make do without these features because simpler is better in the end, and doing multiple small sessions more frequently works for me.&lt;/p&gt;
+&lt;p&gt;Overall, the experience of getting test sessions up and running was extremely smooth. If you&#39;re interested, you can also read more about my first test session &lt;a href=&#34;http://www.balsamiq.com/blogs/mike/2010/03/install-and-upgrade-usability/&#34;&gt;on the Balsamiq UX Blog&lt;/a&gt;. I started by putting a session together at around 7am. I recruited via Twitter, got 5 respondents and waited while they ran their tests. By 10 I was watching their videos and wrote up notes and a plan for changes. I had lunch, and was making the changes by 1pm.&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://www.openhallway.com/&#34;&gt;http://www.openhallway.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>UserTesting.com: Automated usability testing</title>
+      <link>http://localhost:1313/tools/submissions/usertestingcom-automated-usability-testing/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/usertestingcom-automated-usability-testing/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;UserTesting is a commercial service that promises automated usability testing.&lt;/p&gt;
+&lt;p&gt;You might think of this as a series of task-oriented usability test sessions where you only need enter a number of tasks for a test that will take approximately 15 minutes, enter the demographics (age, income) and technographics (computer experience) for the user you&#39;d like to target. &lt;a href=&#34;http://www.usertesting.com/&#34;&gt;UserTesting&lt;/a&gt; has a pool of paid testers who accept sessions, view your site with a floating layer that shows the tasks to complete while they record their voice, mouse clicks and movements, and page changes. Finally, the service asks the user to fill out a follow up survey. The cost is tiered by number of users per session. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here&#39;s how it works:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. You sign up for user testing, specifying the demographic profile of your target audience, how many users you want, and what tasks you want them to perform on your site. You can optionally enter more information about your user requirements, or enter names of specific UserTesting users you my have worked with in the past.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/usertesting-1.png&#34; alt=&#34;signup&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;2. Usertesting notifies users. When users have accepted your test, the status change appears in your control panel. Completed tests can be viewed from this page or via an email notification.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/usertesting-2.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;3. Users record their screen and voice as they use your website, speaking their thoughts as they browse. You watch and listen to them use your site. Each user&#39;s session - mouse movements, clicks, keystrokes, and spoken comments - is saved as a Flash video for you to watch.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/usertesting-4.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;4. Finally you are able to read a summary the user enters at the end of hte session: What they liked, didn’t like, what would have caused them to leave your site.&lt;/p&gt;
+&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/usertesting-3.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Observations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The product seems targeted at companies that don&#39;t have a person on staff with experience doing user testing, who don&#39;t want to invest in time for preparing and facilitating test sessions, or who don&#39;t want to hire a usability consultant. Seems promising on the surface, but I think it&#39;s not without challenges. &lt;/p&gt;
+&lt;p&gt;A few things stand out from my brief demo. Without the physical presence at sessions, follow-up questions to specific tasks have to be scripted as part of the given script, and you cannot ask follow up questions while the test is in session. On the positive side, you can&#39;t lead tasks at all, but a facilitator with experience wouldn&#39;t be likely to fall into that trap. The forms make some good suggestions for typical tasks and follow up questions and how to word them.&lt;/p&gt;
+&lt;p&gt;You do not do the screening yourself. This has pros and cons. The pros are that they save you time. The cons are that you cannot screen people out after talking with them through your own screener, with your specific questions. The best that the sign up form offers you is a field to enter additional needs, but you&#39;re at the mercy of the service to follow through on your requests.&lt;/p&gt;
+&lt;p&gt;Another thing I&#39;d like to have seen is the ability to write my own follow-up questionnaire rather than use the set provided, as well as offering some simple questions with ordinal value answers perhaps. &lt;/p&gt;
+&lt;p&gt;The best benefit on the surface is cost. The biggest challenge in my opinion will be in proper screening, and most importantly in the analysis. I have no doubt that the right company might be able to find value in a service like this if they choose the right scenarios, word tasks well, and are able to analyze the results and make suggestions for the right improvements. &lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://www.usertesting.com/&#34;&gt;http://www.usertesting.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Usabilla</title>
+      <link>http://localhost:1313/tools/submissions/usabilla/</link>
+      <pubDate>Tue, 21 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/usabilla/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2792&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230d71a284c0_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;Usabilla&lt;/a&gt; is a remote usability testing service that allows you to quickly create short tests that solicit feedback from your users. The service allows you to direct a few questions using screenshots of pages, e.g. you might ask users what do you like/not like about this page, where would you look to find X? Users then click on screenshot to add markers with their notes or answers.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://usabilla.com/&#34;&gt;http://usabilla.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Loop11: Online, Unmoderated User Testing</title>
+      <link>http://localhost:1313/tools/submissions/loop11-online-unmoderated-user-testing/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/loop11-online-unmoderated-user-testing/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.loop11.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2802&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52310f6bdb3c6_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Loop11 is a web-based user-experience testing tool, allowing companies to conduct online, unmoderated user testing.&lt;/p&gt;
+&lt;p&gt;Loop11 provides the ability to gain detailed insights and understandings of user behaviour.  These insights are obtained via a live interactive environment where users are asked to complete a series of tasks and questions on your website or interface.  All interactions are captured, processed and made available in real-time reports.&lt;/p&gt;
+&lt;p&gt;Loop11 is not a survey or web analytics tool, but a user experience tool helping you to understand user behaviour.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.loop11.com/&#34;&gt;http://www.Loop11.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>userfly: Instant web-based usability testing service</title>
+      <link>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</link>
+      <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/userfly-instant-web-based-usability-testing-service/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;&lt;param name=&#34;movie&#34; value=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;&lt;embed src=&#34;http://vimeo.com/moogaloop.swf?clip_id=2451370&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;460&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/2451370&#34;&gt;userfly.com&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user930239&#34;&gt;Chris Estreich&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://userfly.com/&#34;&gt;Userfly&lt;/a&gt; is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&amp;rsquo;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. &lt;/p&gt;
+&lt;p&gt;This looks like a pretty nice service for certain types of observation. There doesn&amp;rsquo;t appear to be any options for interacting with users, e.g. video/audio capture, task marking. I suppose on a siloed test server you could drive test session tasks and do an additional recording via other software. But at that point, you might as well go a more traditional route using web-based methods. But this should definitely be useful for some testing needs. Would love to hear more about people&amp;rsquo;s experiences with this.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://userfly.com/&#34;&gt;http://userfly.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>five second test: A simple online usability test</title>
+      <link>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2797&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230f03c96a19_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;five second test&lt;/a&gt; is a simple usability test that helps you measure the effectiveness of your user interfaces by getting users to look at a screen for 5 seconds, and then asking them to recall what they saw. This is something I typically do at the start of a usability test to see what users understand at a high level. Show them a screen, take it away, have them talk, ask them questions. There&amp;rsquo;s more about this method at &lt;a href=&#34;http://www.uie.com/articles/five_second_test/&#34;&gt;UIE&lt;/a&gt;. This site provides a service so you can easily do this kind of thing with users by generating a test and providing a link you can share with participants to take it. The service then emails you the results. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;http://www.fivesecondtest.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

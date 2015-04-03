@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Konigi</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello Hugo: Konigi is now a Static Site</title>
+      <link>http://localhost:1313/blog/hello-hugo/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hello-hugo/</guid>
+      <description>
+
+&lt;p&gt;After many years of being a Drupal user, from version 2 when I started iaslash.org to version 6 on this site, I&amp;rsquo;ve made the move from PHP/MySQL blog to full on static site. Here&amp;rsquo;s why and how I did it.&lt;/p&gt;
+
+&lt;h3 id=&#34;choosing-static-site-generators:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Choosing Static Site Generators&lt;/h3&gt;
+
+&lt;p&gt;In the past few years, I&amp;rsquo;ve taken a few sites backwards from Drupal and WordPress into the age of static sites. In many ways, it feels like going back to the beginning of my career, when I used Perl and Shell scripts to generate sites in my first job, and later to more sophisticated site generation using MovableType as a middle man.&lt;/p&gt;
+
+&lt;p&gt;As each of the small personal projects I&amp;rsquo;ve worked on became bigger, I started to miss how simple things used to be, and loathe how much I had to babysit my site or pay a lot for better cloud MySQL instances. In my day job, we also had to deal with the regular security patches on WP and Drupal, and it became a drag.&lt;/p&gt;
+
+&lt;p&gt;I started our first experiment by moving a site to Hammer, then shortly after moved it to become a grunt generated site. Those sites are happily chugging along, maintained by a team that generates the pages with grunt. Our main site at &lt;a href=&#34;http://balsamiq.com&#34;&gt;balsamiq.com&lt;/a&gt; is one of them.&lt;/p&gt;
+
+&lt;p&gt;After that year or so of being happy with how simple those site are to maintain, I started looking at more powerful &lt;a href=&#34;http://localhost:1313/tools/submissions/static-site-generator-directories/&#34;&gt;static site generators&lt;/a&gt; and finally migrated this site content off of Drupal so it can be used by a static generator. I now use &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the few thousand pages of this site in a few seconds and sync it to AWS S3 using their static site hosting options.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a generator written in the &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; programming language. I chose Hugo over a few of the other great options out there like Jekkyl and Octopress because of its speed, support for taxonomies, and markdown support. I&amp;rsquo;m no programmer, so my implementation of Hugo is very simple and I put together my theme using only the examples in the docs, and a couple of questions to the discussion forum.&lt;/p&gt;
+
+&lt;p&gt;I still haven&amp;rsquo;t gotten my head around how to do more complex things yet, and I don&amp;rsquo;t want to be the newb that inundates the forum with dense questions. If you happen to find yourself in that forum you&amp;rsquo;ll see how little I understand, despite reading docs. But for now, after a few weeks of work with only a few days of template building, it&amp;rsquo;s doing nearly everything I did in Drupal, with none of the overhead.&lt;/p&gt;
+
+&lt;h3 id=&#34;migrating-content-off-drupal:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Migrating Content Off Drupal&lt;/h3&gt;
+
+&lt;p&gt;To get started, I created a modified version of my Drupal theme that exports all of my content to text files. I removed all the views and only exported the actual node contents. Each node includes Hugo&amp;rsquo;s &amp;ldquo;front matter&amp;rdquo; at the top of each page. This is the metadata that describes title, tags, permalink slug, and publish date. I pared down my taxonomy use on this site to one tag taxonomy for the time being to simplify things. I had taxonomies for people, company, color, etc.&lt;/p&gt;
+
+&lt;p&gt;After testing to see that what I output was formatted to properly get read by Hugo, I then used &lt;a href=&#34;http://www.httrack.com/&#34;&gt;httrack&lt;/a&gt; to download all of the nodes of content to my machine. Each file was downloaded into a subfolder for the corresponding sections used by the global nav and the url paths on the site. I ran the files all through a file renamer to add .md (markdown) extensions. I use &lt;a href=&#34;http://manytricks.com/namemangler/&#34;&gt;Name Mangler&lt;/a&gt; on the Mac for renaming.&lt;/p&gt;
+
+&lt;p&gt;These articles helped with figuring out the export part of the process.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lullabot.com/blog/article/sending-drupal-site-retirement&#34;&gt;Sending a Drupal Site Into Retirement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drupal.org/node/27882&#34;&gt;Creating a static archive of a Drupal site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;building-it-in-hugo:559804b0a39dd16d2d1d1238c597145a&#34;&gt;Building it in Hugo&lt;/h3&gt;
+
+&lt;p&gt;Next step was to install Hugo and generate a basic Hugo site with the .md files I downloaded. The &lt;a href=&#34;http://gohugo.io/overview/introduction/&#34;&gt;Hugo docs&lt;/a&gt; show you how to create a Hugo site and install a theme. I did this first to test out the content. Then I started learning how templates work and built my own straight from the docs, looking at a few examples to figure out how to create taxonomy views. I started with a skeleton template that just spits out a nav and bodies, then made some section views.&lt;/p&gt;
+
+&lt;p&gt;Next was CSS/JS asset management. I copied over my SASS files and JS. I also decided to switch from the Bootstrap grid to Foundation, so I stripped down a lot of styles and the layout. After years of changing layout ideas, it&amp;rsquo;s nice to trim the SASS layout files down to nothing.&lt;/p&gt;
+
+&lt;p&gt;To manage the pre-processing, minifying and building of JS and SASS/CSS I had to set up a task manager. I decided to learn how Gulp handles this compared to Grunt, and I like how simple and clean my Gulpfile.js is. It works about the same as Grunt, so there was little to learn there. &lt;a href=&#34;http://markgoodyear.com/2014/01/getting-started-with-gulp/&#34;&gt;This post on getting started with gulp&lt;/a&gt; is good if all you&amp;rsquo;re interested in is processing Sass. There&amp;rsquo;s plenty of StackOverflow articles on processing JS. I only run gulp whenever I make a change to JS or SASS which is rare, and the minified files get included with the Hugo build command.&lt;/p&gt;
+
+&lt;p&gt;My process for writing new content now is to start up Atom, create a new .md file in the appropriate directory, then run &amp;ldquo;hugo server &amp;ndash;watch&amp;rdquo; to test it. When I&amp;rsquo;m happy with my writing, I run &amp;ldquo;hugo&amp;rdquo; to build files into my /public directory and I&amp;rsquo;m ready to deploy.&lt;/p&gt;
+
+&lt;p&gt;The last step is a command that uses &lt;a href=&#34;http://s3tools.org/s3cmd&#34;&gt;s3cmd&lt;/a&gt; to sync only the changed pages to the generated public directory, removing deletions. See the options in the docs for doing this. There are many blog posts with different suggestions for how to deploy, but I found all I needed &lt;a href=&#34;http://www.programblings.com/2013/07/12/hosting-a-website-on-s3/&#34;&gt;in this one on Programblings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s what I&amp;rsquo;ve done to date and it&amp;rsquo;s working well. My next steps are to get everything on Git and hooked up to a middleman that will automate the deploy part of the process. So far I&amp;rsquo;m very happy, and after a few years of trying different tools, this set feels right&amp;hellip; until the next change. The older I get, however, the less I want to waste time on stuff like this, so it feels like a keeper. Huge thanks to &lt;a href=&#34;http://spf13.com/&#34;&gt;Steve Francia&lt;/a&gt; for creating Hugo and to everyone who contribute to it. If a simple-minded UX designer like me can use it, that&amp;rsquo;s saying a lot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Balsamiq Mockups Version 3 Released</title>
+      <link>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</link>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/balsamiq-mockups-version-3-released/</guid>
+      <description>&lt;p&gt;We &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;released version 3 of Balsamiq Mockups today&lt;/a&gt;! There&#39;s plenty to see including an updated interface, new file format (single packaged project files), better asset and symbols management, the addition of &lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34; target=&#34;_blank&#34;&gt;FontAwesome&lt;/a&gt; icons, and plenty of improvements under the surface. We point out some of the highlights in the video below.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/-Zz8EYPhEew?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;There&#39;s plenty more under the hood, and lots of new stuff on deck. You can &lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;read all about it in the announcement&lt;/a&gt;. It&#39;s a free update to existing users. &lt;a href=&#34;http://balsamiq.com/download/&#34;&gt;Download it here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Special thanks to all of the great customers giving us feedback over the years, and particularly those who we talked to in our forum, in our Beta group, our usability test sessions, and in the hallways at Interaction 15 this year. Much more to come!&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.balsamiq.com/product/2015/03/10/b3/&#34;&gt;http://blogs.balsamiq.com/product/2015/03/10/b3/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code.org Program for K-5</title>
+      <link>http://localhost:1313/blog/codeorg-program-k-5/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/codeorg-program-k-5/</guid>
+      <description>&lt;p&gt;&lt;p&gt;Code.org now has an &lt;a href=&#34;http://code.org/educate/k5&#34;&gt;elementary school program&lt;/a&gt; (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free &lt;a href=&#34;http://scratch.mit.edu/&#34;&gt;MIT Scratch app&lt;/a&gt;, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/rNIM1fzJ8u0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aral Balkan: I, Simulation</title>
+      <link>http://localhost:1313/blog/aral-balkan-i-simulation/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aral-balkan-i-simulation/</guid>
+      <description>&lt;p&gt;Aral Balkan’s &lt;a href=&#34;https://vimeo.com/106681730&#34;&gt;“I, Simulation”&lt;/a&gt; talk about the current state of privacy and freedom in software and services is one the best presentations I’ve watched this year. Balkan talks about business models that focus on user data, and what that can mean to your &#34;privacy.&#34;  Watch the talk below, given at Open Exchange in Munich, Germany. &lt;/p&gt;
+
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/106681730?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;The information you hand over using service providers like Facebook (think also Messenger, Whatsapp, Instagram) and Google (think also Gmail, Hangouts, Android Devices, Drive, Nest, Dropcam, and Fiber) is already being used to create simulations of you, and he likens this use to spyware. It&#39;s a business model of &#34;corporate surveillance.&#34; He quotes Eric Schmidt, who says Google can already predict some of what you&#39;re doing to do. Balkan says that all that is missing in these simulations is your body, and these representations of you have no rights. &lt;/p&gt;
+&lt;p&gt;He poses some challenges to what this means as services get more and more inside of your home and your behaviors and where their involvement becomes less and less apparent. In the end, he is making an argument for what the alternatives are to shift the ownership and control of consumer technology and data from corporations to individuals. You can &lt;a href=&#34;https://ind.ie/manifesto/&#34;&gt;read the ind.ie manifesto&lt;/a&gt; for more about how his company is planning to do that. &lt;/p&gt;
+&lt;p&gt;Recently there&#39;s &lt;a href=&#34;https://gigaom.com/2014/09/25/ello-investor-co-founder-funding-or-not-we-hate-ads-and-we-want-to-shift-values/&#34;&gt;been&lt;/a&gt; &lt;a href=&#34;https://aralbalkan.com/notes/ello-goodbye/&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://medium.com/message/what-does-ethical-social-networking-software-look-like-315373c898ed&#34;&gt;discussion&lt;/a&gt; over what should be apparent to users when they engage in new social software apps. People want to know if someone has already taken VC funding, versus making a statement about being bootstrapped with the goal of not flipping or exiting. When a new business is admitting to taking funding, there&#39;s an assumption that user data will eventually go elsewhere. The right thing to do is be upfront about that. There&#39;s really no guarantee that your data won&#39;t be used in ways you don&#39;t expect even when a company provides a Manifesto with all their good intentions. The firmly expressed statement in Balkan&#39;s Manifesto seems genuine and a better &#34;my word is my bond&#34; indicator than the absence of transparency up front about taking VC funding in the case of Ello. Who knows? &lt;/p&gt;
+&lt;p&gt;It&#39;s been interesting reading what others think of this. While I&#39;m a user of businesses where corporate surveillance is a model, I love not working for a business that monetizes its users data. I realize that not everyone cares about this, and picking who you get to work for is a luxury. I&#39;m personally looking forward to seeing how &lt;a href=&#34;https://ind.ie/&#34;&gt;ind.ie&lt;/a&gt; are going to make their goals happen. &lt;/p&gt;
+&lt;p&gt;Hat tip to &lt;a href=&#34;https://twitter.com/stinie&#34;&gt;@stinie&lt;/a&gt; for the recommendation. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/106681730&#34;&gt;https://vimeo.com/106681730&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dedesign the Web 2</title>
+      <link>http://localhost:1313/blog/dedesign-web-2/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dedesign-web-2/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://dedesigntheweb.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2887&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt5425b0a9e9e50_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Head to &lt;a href=&#34;http://dedesigntheweb.com/&#34;&gt;Dedesign the Web&lt;/a&gt; and play name that website using wireframes. Courtesy of &lt;a href=&#34;http://www.designation.io/&#34;&gt;Designation&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dedesigntheweb.com/&#34;&gt;http://dedesigntheweb.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Des Traynor: Product Strategy is About Saying No</title>
+      <link>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/des-traynor-product-strategy-about-saying-no/</guid>
+      <description>&lt;p&gt;&lt;p&gt;The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&amp;rsquo;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/81544164?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/81544164&#34;&gt;http://vimeo.com/81544164&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimenting with the IPEVO Interactive Whiteboard</title>
+      <link>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/experimenting-ipevo-interactive-whiteboard/</guid>
+      <description>&lt;p&gt;I got an &lt;a href=&#34;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&#34;&gt;IPEVO Interactive Whiteboard System&lt;/a&gt; ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here&#39;s a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/101344544&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it&#39;s pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you&#39;re so inclined. I used a regular painted wall, but I&#39;m going to give it a try on a real whiteboard. &lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&#34;&gt;http://www.ipevo.com/prods/IPEVO-IS-01-Interactive-Whiteboard-System&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What If DJ Controllers Had Built In Screens?</title>
+      <link>http://localhost:1313/blog/what-if-dj-controllers-had-built-screens/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/what-if-dj-controllers-had-built-screens/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2881&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt53cda276915a2_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a cool &lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;design challenge&lt;/a&gt; that showed up on DJ Tech Tools&amp;rsquo; blog to mock up DJ controllers. DJ gear vendor &lt;a href=&#34;http://www.djtechtools.com/2014/07/14/numark-nv-dj-controller-full-color-screens-built-in/&#34;&gt;Numark is reported&lt;/a&gt; to be releasing a controller with a screen. That&amp;rsquo;s kind of interesting, because it could potentially let digital DJs that use them close their computer screen and focus on performing.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;While there are CDJs that already have color LCDs to preview deck track information, midi controllers are largely comprised of faders, buttons, knobs, toggle switches, jog wheels, and touch sensitive strips. At most they provide color LED feedback behind translucent silicon buttons, and as far I can tell from what I&#39;ve read they haven&#39;t had display screens yet.  Perhaps overall cost for the hardware is coming down, making it possible to deliver screens into more products. Thanks, Moore&#39;s Law.&lt;/p&gt;
+
+&lt;p&gt;DJ Tech Tools put up some Photoshop assets for its users to imagine what the other existing DJ controllers would look like if they had screens. It&#39;s kind of fun watching the DJ community come up with ideas. I see a some concepts that feel over-loaded. Hardware is interesting because more buttons/knobs for dedicated access to functions can be better, but there comes a point where I imagine ease of access to essential functions can be lost when too many secondary ones are added. There&#39;s a sweet spot between the minimalist DJ setup and the advanced/expert user that I imagine makes for some difficult product discussions at these companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;UPDATE: Traktor tease their &lt;a href=&#34;http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s8/&#34;&gt;Kontrol S8&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&#34;&gt;http://www.djtechtools.com/2014/07/17/what-if-other-dj-controllers-pioneer-native-instruments-vestax-had-built-in-screens/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UI / UX Design Interviews on Medium</title>
+      <link>http://localhost:1313/blog/ui-ux-design-interviews-medium/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ui-ux-design-interviews-medium/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2878&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt53adbf251e35f_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://medium.com/@frankiefreesbie&#34;&gt;Frank Rapacciuolo&lt;/a&gt; is writing a series of &lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Interviews of User Interface &amp;amp; User Experience Designers&lt;/a&gt; in a collection at Medium. In the interviews he asks people about their background, what they tell people they do, what a typical work day looks like, and gets opinions on several UX topics including the impact of design on society and where they stand on jumping directly into visual design.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;Read the interviews at Medium&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/balsamiq/status/482587067700895744&#34;&gt;Via Leon @balsamiq&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://medium.com/ux-design-interviews&#34;&gt;https://medium.com/ux-design-interviews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>99u Master Class: Irene Au on Mindfulness Techniques to Make You a Better Creative</title>
+      <link>http://localhost:1313/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/99u-master-class-irene-au-mindfulness-techniques-make-you-better-creative/</guid>
+      <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://blog.ireneau.com/&#34;&gt;Irene Au&lt;/a&gt; was a design and user experience leader at Google, Yahoo, and Netscape. She&amp;rsquo;s now a partner at Khosla Ventures, and has been focussing on her yoga instruction in the past few years. She led a session at the 99u Conference to discuss mindfulness mediation techniques for creatives.&lt;/p&gt;
+&lt;p&gt;Au talked about different methods of mindfulness mediation practice. Mindfulness, in general, is a state of awareness or consciousness of the present moment. Mindfulness mediation comes from the Buddhist practice of controlling the mind, and uses awareness of the present as a form of meditation.&lt;/p&gt;
+&lt;p&gt;Au talked about benefits of mindfulness practice, including references to scientific research, use in treating psychological issues. Mindfulness practice is also becoming more of a secular, mainstream topic appearing in the media frequently, including a &lt;a href=&#34;http://time.com/1556/the-mindful-revolution/&#34;&gt;Time Magazine feature&lt;/a&gt; on mindfulness. &lt;a href=&#34;http://en.wikipedia.org/wiki/Jon_Kabat-Zinn&#34;&gt;Jon Kabat-Zinn&amp;rsquo;s&lt;/a&gt; work on bringing mindfulness meditation to non-Buddhists for its benefits in stress reduction is only one example. &lt;/p&gt;
+&lt;p&gt;Mindfulness meditation is an element that Au uses in her yoga practice and suggests that we might also be able to practice mindfulness practices to improve our work.&lt;/p&gt;
+&lt;p&gt;She introduced us to the different techniques of mindfulness mediation. In focussed attention meditation, one can choose to focus attention on one thing. In open monitoring meditation, one may allow the mind to wander and observe without reacting or judging. In both, the focus and awareness of breath and body, bring the mind back to the present.&lt;/p&gt;
+&lt;p&gt;The audience participated in several mindfulness activities. The first exercise was a warm up. We all practiced yoga breathing with eyes closed, while being aware of our presence in our seats in the room and building. We used counting with our breath to bring awareness back to the room when we wandered. &lt;/p&gt;
+&lt;p&gt;She pointed out that sitting meditation can help us in daily life in several ways:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Enhances single to noise contrast&lt;/li&gt;&lt;li&gt;Recover from distraction&lt;/li&gt;&lt;li&gt;Improve cognitive capacities (decision making, perspective taking, memory)&lt;/li&gt;&lt;li&gt;Emotion stabilization&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The second activity was the one that interested me most. Au is a journal writer, and she talked about how she has used journal writing most of her life. I liked the idea of daily journal writing to help get perspective. I once tried morning journaling after starting to read &lt;a href=&#34;http://www.amazon.com/The-Artists-Way-Julia-Cameron/dp/1585421464&#34;&gt;The Artists Way&lt;/a&gt; a long time ago, but didn&amp;rsquo;t get through that book, and that sort of journaling felt forced to me. Using journaling to just record and observe the thoughts and activities of the day feels more natural.&lt;/p&gt;
+&lt;p&gt;The audience was asked to spend several minutes writing in our journals, finishing each of these sentences. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;When I feel understood, I&amp;hellip;&lt;/li&gt;&lt;li&gt;When I&amp;rsquo;m at my best, I&amp;hellip;&lt;/li&gt;&lt;li&gt;What I really care about is&amp;hellip;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Then we spent the next few minutes taking turns telling the person sitting next to us what we wrote about to complete the first sentence. That listener would then take a few minutes to repeat back to the teller what they heard. This was a fantastic exercise in listening, and reminds me of the practice of reflecting back to someone what they hear when expressing needs, something I learned from Marshall Rosenberg&amp;rsquo;s book on &lt;a href=&#34;http://en.wikipedia.org/wiki/Nonviolent_Communication&#34;&gt;Nonviolent Communication&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I think this practice of intently listening to someone and repeating back is something that can be very difficult to become comfortable with, but the reward is invaluable. It is a gift, and is something I highly recommend doing with your partner/spouse or children. We do this in my family, and I can&amp;rsquo;t tell you how much it has helped during difficult times. Doing it in the work day can be very valuable in helping practice empathy and is something that I&amp;rsquo;m sure a lot of people who do research are already comfortable with. I recommend Rosenberg&amp;rsquo;s book because of this, if you&amp;rsquo;re comfortable getting uncomfortable. It&amp;rsquo;s not easy to use his communication framework, believe me, but it helps to be given a language and framework for doing the work of listening and reflecting. &lt;/p&gt;
+&lt;p&gt;The final exercise in focussed attention mindfulness involved us each taking a piece of chocolate to fully experience mindfully. We took our time holding, touching, smelling and tasting the chocolate and observing our thoughts during the experience.&lt;/p&gt;
+&lt;p&gt;Aside from liking the chocolate and the discussion of the emotional and spiritual benefits of mindfulness meditation, I&amp;rsquo;m really intrigued by the idea of using mindfulness practice to help in your work life. I&amp;rsquo;ve dabbled in mindfulness meditation only briefly in my life, introduced to the idea when I was younger and interested in Thich Nhat Hanh&amp;rsquo;s books. I was maybe too restless and unready at that time to meditate, even while walking or washing dishes, and have gravitated to more physical ways to connect mind and body. But I&amp;rsquo;m finding that the possibilities have changed with everything as I&amp;rsquo;ve matured. Sure it took me only a few decades to feel that, but better late than never. &lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a sense of connection in journaling when writing with your own hand that has the same feeling of connectedness I&amp;rsquo;ve gotten in occasionally doing yoga in the past and in doing martial arts now. I like that hand writing feels more doable, but I feel like I need something like the structure of those prompts (the starter sentences above) to give me a framework for starting. Motivation is easy, but sustainable practice is hard. Quitting is easy. I like some of the ideas in Austin Kleon&amp;rsquo;s &lt;a href=&#34;http://austinkleon.com/show-your-work/&#34;&gt;Show Your Work&lt;/a&gt; for making yourself capture what you&amp;rsquo;re working on daily. Google tells me a lot of people have come up with these &lt;a href=&#34;http://www.google.com/search?q=journaling+prompts&#34;&gt;creative writing prompts for inspiration&lt;/a&gt;, so I&amp;rsquo;m also exploring that. &lt;/p&gt;
+&lt;p&gt;Here are some ideas Au suggested to apply when journaling.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Collect list of prompts, randomly pick one daily&lt;/li&gt;&lt;li&gt;When a salient emotion occurs, write&lt;/li&gt;&lt;li&gt;Begin each day by tapping core values&lt;/li&gt;&lt;li&gt;Use as a &amp;ldquo;brain dump&amp;rdquo; and clarifier&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;I suspect that I&amp;rsquo;ll spend some time figuring out how to integrate what I took away from Irene&amp;rsquo;s talk into my daily practice. &lt;/p&gt;
+&lt;p&gt;Also to check out: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are&#34;&gt;Amy Cuddy&amp;rsquo;s TED talk on posture&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://750words.com/&#34;&gt;750 Words&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/get-some-headspace/id493145008&#34;&gt;Headspace meditation app for iPhone&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>99u Conference Notes: The Way We Work</title>
+      <link>http://localhost:1313/blog/99u-conference-notes-way-we-work/</link>
+      <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/99u-conference-notes-way-we-work/</guid>
+      <description>&lt;p&gt;These is part 1 of my notes from day 1 of the &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u&lt;/a&gt;, which began with some great talks about how we work. I&#39;ll post part 2 for the talks on how we lead in a later entry.&lt;/p&gt;
+
+&lt;p&gt;This set of talks featured &lt;a href=&#34;#joshuaklein&#34;&gt;Joshua Klein&lt;/a&gt; talking about the power of networks, &lt;a href=&#34;#sarahlewis&#34;&gt;Sarah Lewis&lt;/a&gt; talking about the importance of personal space, and &lt;a href=&#34;#wendymacnaughton&#34;&gt;Wendy MacNaughton&lt;/a&gt; talking about the power of listening.&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;joshuaklein&#34;&gt;Joshua Klein&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://josh.is/&#34; title=&#34;he Nation&#34;&gt;Joshua Klein&lt;/a&gt; is a hacker/technologist. He&amp;rsquo;s known for his &lt;a href=&#34;http://www.ted.com/talks/joshua_klein_on_the_intelligence_of_crows&#34; title=&#34;The Link.&#34;&gt;Ted talk about crows&lt;/a&gt;, for the National Geographic show &amp;ldquo;The Link.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Klein talked about &lt;a href=&#34;http://www.ntwrkr.co/&#34;&gt;ntwrkr&lt;/a&gt;, his current project, to tell us how he began rethinking networking. He says he didn&amp;rsquo;t know enough to crack the big data problem he was trying to solve with the product, so he kept giving up. What he discovered however, by talking about the project when people asked about it, is that repeated conversations with his friends and colleagues led to valuable connections that turned an idea that he was sure was dead in the water into a living and viable product.&lt;/p&gt;
+&lt;p&gt;Takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We shouldn&amp;rsquo;t take for granted the value of our connections. Connections to people are the most important and often overlooked part of success.&lt;/li&gt;
+&lt;li&gt;Optimize your relationships first.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t be afraid to start sharing sooner. Share early and often with anyone who will listen.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;sarahlewis&#34;&gt;Sarah Lewis&lt;/h3&gt;
+&lt;p&gt;Artist and art historian Sarah Lewis writes about creativity, and in her book, &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/The-Rise-Creativity-Failure-Mastery/dp/1451629230&#34;&gt;The Rise&lt;/a&gt;&lt;/em&gt;, she talks about how failure is an essential part of the creative process. Lewis followed Joshua Klein&amp;rsquo;s talk with an interesting counter-point to his thoughts about looking outside ourselves. She talked about treating our personal domains with near sacredness.&lt;/p&gt;
+&lt;p&gt;She told an interesting story about an email survey that a film executive sent around to colleagues to find out what their favorite un-produced screenplays were. The survey was dubbed the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Black_List_(survey&#34;&gt;Blacklist&lt;/a&gt;, and the results became a tallied list that identified scripts that went largely unnoticed by the production machine until then. Films like The King&amp;rsquo;s Speech, American Hustle, Juno, and Slumdog Millionaire came from that list. This story pointed out that what individuals feel and think can often differ greatly from what we say operating within a group.&lt;/p&gt;
+&lt;p&gt;She showed some examples of private domains, including a picture of Albert Einstein&amp;rsquo;s desk. She told the story of Einstein, the patent office clerk who called the job &amp;ldquo;a worldly cloister where he hatched his most beautiful ideas.&amp;rdquo; The theme of personal space and cloisters of the mind is something she found common among creative people in her research.&lt;/p&gt;
+&lt;p&gt;We need to honor our inner world as much as we do our networking. You need both obviously, and this doesn&amp;rsquo;t downplay the importance of our networks. But I liked that she reminds us not to belittle the importance of the inner world, particularly at a time when group think is so easy to fall into.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Putting out something that&amp;rsquo;s new in the world requires a temporary removal from it.&lt;/li&gt;
+&lt;li&gt;Creatives need private domains to incubate ideas. Private spaces develop in us so we have the bravery to see the world differently.&lt;/li&gt;
+&lt;li&gt;We need private spaces to help our creative process, and to free us from group-think.&lt;/li&gt;
+&lt;li&gt;Seeking an audience prematurely can disconnect us from ourselves. Honor your inner world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I like how this talk followed Klein&amp;rsquo;s to provide what felt like a contradiction on the surface, but was obviously meant to convey the importance of both.&lt;/p&gt;
+&lt;p&gt;Takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilize personal spaces that are only for work.&lt;/li&gt;
+&lt;li&gt;Honor the interior world required to be creative&lt;/li&gt;
+&lt;li&gt;Solitude is as important as your network&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To check out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sarah Lewis&amp;rsquo; Ted talk, &amp;ldquo;&lt;a href=&#34;http://www.ted.com/talks/sarah_lewis_embrace_the_near_win&#34;&gt;Embrace the near win&lt;/a&gt;&amp;ldquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.brainpickings.org/&#34;&gt;Brainpickings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3 id=&#34;wendymacnaughton&#34;&gt;Wendy MacNaughton&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://wendymacnaughton.com/&#34; title=&#34;http://www.amazon.com/Meanwhile-San-Francisco-City-Words/dp/1452113890&#34;&gt;Wendy MacNaughton&lt;/a&gt; is an illustrator and published &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Meanwhile-San-Francisco-City-Words/dp/1452113890&#34;&gt;Meanwhile in San Francisco: The City in its Own Words&lt;/a&gt;&lt;/em&gt;, a book of illustrations that feature vignettes of life in San Francisco.&lt;/p&gt;
+&lt;p&gt;McNaughton talked about her series of captioned drawings of SF life, and what happened when she started interacting with strangers and let people write the stories for themselves, in their own words. She had fantastic anecdotes about putting herself in uncomfortable and unfamiliar places and learning about people&amp;rsquo;s experiences.&lt;/p&gt;
+&lt;p&gt;She went to a sketchy and presumably &amp;ldquo;unsafe&amp;rdquo; corner where she drew people and found them eventually seeking to have their portraits drawn and to tell their stories. She was invited by a friend into the mahjong parlors of Chinatown where she got the honest opinions of the players in those cloisters that go unnoticed by outsiders.&lt;/p&gt;
+&lt;p&gt;Something about her journey of freeing herself from her personal view (I guess this could be called the cloister too) to be let into others seemed to be incredibly liberating to her work. I loved how this talk sort of bookended Lewis&amp;rsquo; by looking at how creative work can benefit so greatly by openness and venturing into unfamiliar territory.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s incredible what happens when we stop assuming we know what&amp;rsquo;s going on.&lt;/li&gt;
+&lt;li&gt;Get out of our own heads and listen.&lt;/li&gt;
+&lt;/ul&gt;&lt;br /&gt;
+  &lt;a href=&#34;http://conference.99u.com/&#34;&gt;http://conference.99u.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>99u Conference Notes: Quirky Studio Visit with Ben Kaufman</title>
+      <link>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
+      <description>&lt;p&gt;A group of &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u attendees&lt;/a&gt; had a visit with Ben Kaufman, the CEO/founder of product development company &lt;a href=&#34;https://www.quirky.com/&#34;&gt;Quirky&lt;/a&gt;, who gave us a look into how his company uses crowd-sourcing to deliver products. Here are some of my notes from that visit. More 99u notes to follow.&lt;/p&gt;
+
+&lt;p&gt;Kaufman got his start as an inventor in high school when he made a lanyard to hold an iPod shuffle. The company he started to ship this product later morphed into Mophie, the maker of the JuiceBox battery case. He later sold that company to start Quirky. His wanted to take all of the pain and learning he went through designing, developing and shipping a product to the masses, so that anyone with a great idea could become an inventor and let someone else handle the rest.&lt;/p&gt;
+
+&lt;p&gt;Their mission is to &amp;quot;Make invention accessible.&amp;quot; What they do beyond helping people see if their ideas are unique and viable, is provide an infrastructure and experts for the entire process of design, development, marketing, and fulfillment.&lt;/p&gt;
+
+&lt;p&gt;Kaufman began his talk with a story comparing the Empire State Building, which took 410 days to complete, with a potato peeler that took 3 years to complete. His point is that having more time to deliver a product doesn&#39;t always lead to better quality. Quirky works in 11 week sprints, and ships 3 new crowd-sourced products every week. To further make his point, he talked about the difference between invention vs. tweaking, and had us look back 100 years ago to the Model T, which gave us a 17mpg automobile in 1909. Fast forward to 2009, and the most popular truck, a Ford, is giving us 16 MPG.&lt;/p&gt;
+
+&lt;p&gt;Quirky makes it possible for anyone to submit ideas. They&#39;re known for helping a teenager bring Pivot Power, a flexing power strip, to the world and making the inventor over a million dollars. Now their intellectual property partnership with GE has allowed them to bring someone&#39;s idea about making air conditioners smarter to save the world&#39;s energy into a reality too. He gave us a look at how the company and their extensive community selects products for manufacturing using weekly community meetings, their web site to manage the decision-making and evolution of ideas. They have an open community-driven selection process. Somehow the Hollywood pitch in my mind is product development shop meets American Idol. They even use a bit of game mechanics to drive product name selection. The profits are shared among everyone who participates in the process.&lt;/p&gt;
+
+&lt;p&gt;Their founder&#39;s passion and company culture feel genuine. They believe in their people, and in no-bullshit core values. I can&#39;t recall what all of their 5 core values were, but among them were impatience, agility, and getting shit done. They actually use those for evaluation. It was great to get a peek into how they take ideas that we&#39;re familiar with in software development, and push them to the limit in manufacturing. They change the status quo and what&#39;s the most interesting part is not so much their output (and their fantastic prototyping facility), but how they&#39;re running a business with so many projects constantly running and so many products shipping given the real world obstacles in manufacturing, which accounts for the slow pace at which the world usually delivers products.&lt;/p&gt;
+
+&lt;p&gt;In addition to the 11 week sprints, they have 3 blackout periods where they close the offices entirely and no one works. No one even answers the phones. They have a big office party the night before every blackout starts (blackout before the blackout I guess). They don&#39;t have set vacation day policies, but everyone is expected to take 3-4 weeks of time off.&lt;/p&gt;
+
+&lt;p&gt;Takeaways:&lt;br /&gt;
+&lt;ul&gt;&lt;br /&gt;
+&lt;li&gt;Utilize constraints and speed to push product quality&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Rely on the wisdom of community&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Believe and value your people—passion is intrinsic to culture&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;See also these &lt;a href=&#34;http://99u.com/articles/6450/7-tips-for-rapid-iteration-aka-the-quirky-approach&#34;&gt;tips from Kaufman for rapid iteration&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;div class=&#34;screens-thumbs clearfix mb1-5&#34;&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-1.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-1.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-2.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-2.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-3.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-3.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-4.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-4.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-5.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-5.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+  &lt;a href=&#34;https://www.quirky.com/&#34;&gt;https://www.quirky.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car UX</title>
+      <link>http://localhost:1313/blog/car-ux/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/car-ux/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://car-ux.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2877&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt53557d1047b8f_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Min Seung Song&amp;rsquo;s &lt;a href=&#34;http://car-ux.com/&#34;&gt;Car UX&lt;/a&gt; site captures elements of car interiors with photos of instrument panels, gear boxes, and wheel buttons.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://www.swiss-miss.com/2014/04/car-ux.html&#34;&gt;Swiss Miss&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://car-ux.com/&#34;&gt;http://car-ux.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studio Breaks: Sunny Day Session</title>
+      <link>http://localhost:1313/blog/studio-breaks-sunny-day-session/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/studio-breaks-sunny-day-session/</guid>
+      <description>&lt;p&gt;&lt;p&gt;This is a new thing I&amp;rsquo;m doing. During work breaks I&amp;rsquo;m mixing and recording. I&amp;rsquo;m rediscovering mixing music and realizing how much I&amp;rsquo;ve missed it, so I&amp;rsquo;m making it part of my life again as a bedroom/studio DJ. &lt;/p&gt;
+&lt;p&gt;This is my first baby step in. Be gentle. Headphones on? Let&amp;rsquo;s go.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&#34;660&#34; height=&#34;180&#34; src=&#34;http://www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fjibbajabba%2Fsunny-day-session%2F&amp;amp;embed_uuid=a2ce4d36-62e8-4018-acf5-e2db6cc8c033&amp;amp;replace=0&amp;amp;hide_cover=1&amp;amp;embed_type=widget_standard&amp;amp;hide_tracklist=1&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;
+&lt;p style=&#34;display: block; font-size: 11px; font-family: &#39;Open Sans&#39;, Helvetica, Arial, sans-serif; margin: 0px; padding: 3px 4px; color: rgb(153, 153, 153); width: 652px;&#34;&gt;&lt;a href=&#34;http://www.mixcloud.com/jibbajabba/sunny-day-session/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Sunny Day Session&lt;/a&gt;&lt;span&gt; by &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/jibbajabba/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt;Konigi&lt;/a&gt;&lt;span&gt; on &lt;/span&gt;&lt;a href=&#34;http://www.mixcloud.com/?utm_source=widget&amp;amp;utm_medium=web&amp;amp;utm_campaign=base_links&amp;amp;utm_term=homepage_link&#34; target=&#34;_blank&#34; style=&#34;color:#808080; font-weight:bold;&#34;&gt; Mixcloud&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;clear: both; height: 3px; width: 652px;&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://i.mixcloud.com/CHW8D5&#34;&gt;http://i.mixcloud.com/CHW8D5&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudwash: Washing machine prototype by Berg</title>
+      <link>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/87522764?color=ffffff&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;I love Berg&amp;rsquo;s demo of their &lt;a href=&#34;http://vimeo.com/bergstudio/cloudwash&#34;&gt;Cloudwash smart washing machine&lt;/a&gt; concept. The company created the prototype to demonstrate how a smart networked appliance might be better designed. The video provides an excellent walkthrough of their design process.&lt;/p&gt;
+&lt;p&gt;They simplify the face, which consisted of many controls for dedicated functions, reducing that to &amp;ldquo;high value functions&amp;rdquo; only. More functionality is accessible via a smart phone app, which also integrates the device with services such as warranty and supplies management and purchasing. &lt;/p&gt;
+&lt;p&gt;I haven&amp;rsquo;t been very interested in the current offerings of smart appliances, particularly networked refrigerators and stoves, but the value of design in this concept is communicated so well that it is compelling. The future of networked appliances is also getting interesting with Google&amp;rsquo;s acquisition of Nest, for example. The greatest concern I might have for core appliances is trust in the security and reliability of these products. Maybe I just watch too much sci-fi. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/87522764&#34;&gt;http://vimeo.com/87522764&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Axure on Konigi</title>
+    <link>http://localhost:1313/tags/axure/</link>
+    <description>Recent content in Axure on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/axure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sketchy Axure Widget Library</title>
+      <link>http://localhost:1313/tools/submissions/sketchy-axure-widget-library/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/sketchy-axure-widget-library/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/axure-sketch-stencil.jpg&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;Ascentium have posted a library of sketch-style wireframe stencils/widgets. You can view more information and &lt;a href=&#34;http://xrm.ascentium.com/blog/ux-seo/Post222.aspx&#34;&gt;download the stencils from their blog&lt;/a&gt; and view a &lt;a href=&#34;http://xrm.ascentium.com/blog/ux-seo/Gallery/SketchyAxureWidgetsPrototype/Sketchy_Axure_Widgets_Library_inventory_%5BAscentium.com%5D.html&#34;&gt;functional prototype&lt;/a&gt; of the widgets.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://xrm.ascentium.com/blog/ux-seo/Post222.aspx&#34;&gt;http://xrm.ascentium.com/blog/ux-seo/Post222.aspx&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>OS X Widget Library for Axure RP</title>
+      <link>http://localhost:1313/tools/submissions/os-x-widget-library-axure-rp/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/os-x-widget-library-axure-rp/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.archive.org/details/AriFeldmanAxureOSXWidgetLibraryv1.01&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2789&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230d3f8e1b21_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Free library of OS X widgets for Axure users.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.archive.org/details/AriFeldmanAxureOSXWidgetLibraryv1.01&#34;&gt;http://www.archive.org/details/AriFeldmanAxureOSXWidgetLibraryv1.01&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

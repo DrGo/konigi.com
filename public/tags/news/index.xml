@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Konigi</title>
+    <link>http://localhost:1313/tags/news/</link>
+    <description>Recent content in News on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Timeline Views of the News</title>
+      <link>http://localhost:1313/blog/timeline-views-news/</link>
+      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/timeline-views-news/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.viget.com/inspire/timeline-views-of-the-news/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1906&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4accdc26689ba_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Viget&amp;rsquo;s Peyton Crump has collected screenshots from his research on data-driven &lt;a href=&#34;http://www.viget.com/inspire/timeline-views-of-the-news/&#34;&gt;timelines of news&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.viget.com/inspire/timeline-views-of-the-news/&#34;&gt;http://www.viget.com/inspire/timeline-views-of-the-news/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NY Times Article Skimmer</title>
+      <link>http://localhost:1313/blog/ny-times-article-skimmer/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ny-times-article-skimmer/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://prototype.nytimes.com/gst/articleSkimmer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1501&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt499c11b639b22_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The New York Times&amp;rsquo; &lt;a href=&#34;http://prototype.nytimes.com/gst/articleSkimmer/&#34;&gt;Article Skimmer&lt;/a&gt; prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. &lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://www.swiss-miss.com/2009/02/nytimes-article-skimmer.html&#34;&gt;SwissMiss&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://prototype.nytimes.com/gst/articleSkimmer/&#34;&gt;http://prototype.nytimes.com/gst/articleSkimmer/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Newspaper Website Design</title>
+      <link>http://localhost:1313/blog/newspaper-website-design/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/newspaper-website-design/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/smashingmag-newspapers.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Smashing Magazine does a &lt;a href=&#34;http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/&#34;&gt;newspaper roundup&lt;/a&gt; in a week that saw the FT.com make news for its redesign. &lt;/p&gt;
+&lt;p&gt;These days, the design lines between blogs and newspapers are starting to converge a bit with those newspapers that take the threat of the blog format seriously. Smashing Mag does a good design of screenshooting and comparing what news sites are doing. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/&#34;&gt;http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CNN.com Global Navigation</title>
+      <link>http://localhost:1313/interface/cnn-com-global-navigation/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/cnn-com-global-navigation/</guid>
+      <description>&lt;p&gt;The CNN News portal provides a very dense global navigation header that&#39;s got quite a bit going on, but succeeds in drawing out the main entry points for news, featured or promoted points of interest, language/edition preference setting, search, and even a sticky alert area for late breaking news. It even borrows the idea of hot topics navigation per section from Newsvine, which allows for a more variable set of local navigation based on what&#39;s happening now, rather than on a rigid top-down IA. &lt;/p&gt;
+&lt;p&gt;While the density of the navigation might overwhelm some site designs, the clean, modern, and minimalist treatment of the page layout, and the the clear hierarchy of type and content elements make for a cohesive header and body, even given the density of content on the page.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Global navigation on home page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Global navigation on home page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Crime selected in primary navigation bar and hot topics updated to reflect section.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Crime selected in primary navigation bar and hot topics updated to reflect section.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Navigation for featured sections--video, user centered news, and charitable action--are highlighted in the area adjacent to the primary navigation.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Navigation for featured sections--video, user centered news, and charitable action--are highlight...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Hot topics navigation below the primary navigation bar and are re-scoped depending on section being viewed.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Hot topics navigation below the primary navigation bar and are re-scoped depending on section bei...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Setting edition preferences expands a big, clear form with radios for choices.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Setting edition preferences expands a big, clear form with radios for choices.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. The Arabic edition selected.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. The Arabic edition selected.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;7. The global navigation displayed with the page design.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/cnn-globalnav-7.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;7. The global navigation displayed with the page design.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/cnn-globalnav-7.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.cnn.com/&#34;&gt;http://www.cnn.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hold the front page</title>
+      <link>http://localhost:1313/blog/hold-front-page/</link>
+      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hold-front-page/</guid>
+      <description>&lt;p&gt;&lt;p&gt;&lt;a href=&#34;http://www.economist.com/science/displaystory.cfm?story_id=10804121&#34;&gt;The Economist reports&lt;/a&gt; on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&amp;rsquo;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page). &lt;/p&gt;
+&lt;p&gt;They summarize with some editorial advice:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;[W]hat it means in practice is that if you run a website, you would be wise to learn more about exactly how interest in your stories cools off, if you want to display those stories in a way that will entice the largest number of people to read them.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.economist.com/science/displaystory.cfm?story_id=10804121&#34;&gt;http://www.economist.com/science/displaystory.cfm?story_id=10804121&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
+      <link>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://next.yahoo.net/download/newsglobe/&#34;&gt;Yahoo! launched the News Globe&lt;/a&gt;, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page. It&#39;s a jarring experience.&lt;/p&gt;
+&lt;p&gt;This attempt at providing a way to visualize top published news activity is cute, but it&#39;s nowhere near as useful as the interface provided by the Wii. Check out the interaction with the Wii News Channel below:&lt;/p&gt;
+&lt;div class=&#34;center marbot1&#34;&gt;
+&lt;object width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/b7RwuuYWnw4&amp;amp;rel=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/b7RwuuYWnw4&amp;amp;rel=1&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;There is something much more gratifying in the Wii News Channel experience, and I think the satisfaction I feel is due mostly to the fun of using the Wii remote to spin and navigate the globe. I have get a giddy feeling doing the same thing while I spin the globe in the Wii Weather Channel. But the other thing that makes the Wii experience much more useful is that the news stories are previewed seamlessly while the globe visualization persists. I never thought that reading the news on the TV would be a pleasurable experience, but the zoom and pan features for text is as interesting in the Wii as is the zoom feature on the iPhone. &lt;/p&gt;
+&lt;p&gt;Seems to me that the Yahoo! News Globe is an attempt to mimick the experience of news on the Wii, but it comes across feeling gimmicky and not very useful. The Wii News Channel makes reading news on a TV fluid. For reading news on a computer, I&#39;ll stick with organized lists of text, thanks.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2265266114/&#34; title=&#34;Yahoo! NewsGlobe by jibbajabba, on Flickr&#34; class=&#34;small&#34;&gt;View screenshot on Flickr&lt;/a&gt;&lt;/p&gt;
+    
+</description>
+    </item>
+    
+  </channel>
+</rss>

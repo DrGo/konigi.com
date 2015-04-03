@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome on Konigi</title>
+    <link>http://localhost:1313/tags/awesome/</link>
+    <description>Recent content in Awesome on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/awesome/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>{placekitten}</title>
+      <link>http://localhost:1313/tools/submissions/placekitten/</link>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/placekitten/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://placekitten.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2779&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230b236a1d9e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://placekitten.com/&#34;&gt;{placekitten}&lt;/a&gt;. Kittens for placeholder images, inspired by placeholder.it. Use at your own risk.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;See also: &lt;a href=&#34;http://placedog.com/&#34;&gt;&lt;a href=&#34;http://placedog.com/&#34;&gt;http://placedog.com/&lt;/a&gt;&lt;/a&gt; and &lt;a href=&#34;http://placesheen.com/&#34;&gt;&lt;a href=&#34;http://placesheen.com/&#34;&gt;http://placesheen.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://twitter.com/#!/nickf/statuses/56502390135848960&#34;&gt;@nickf&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://placekitten.com/&#34;&gt;http://placekitten.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

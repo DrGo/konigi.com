@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter Link on Konigi</title>
+    <link>http://localhost:1313/tags/twitter-link/</link>
+    <description>Recent content in Twitter Link on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/twitter-link/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raphael JavaScript Library for Vector Graphics</title>
+      <link>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://raphaeljs.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/raphaeljs.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.&lt;/p&gt;
+&lt;p&gt;Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later. Raphaël’s goal is to provide an adapter that will make drawing cross-browser and easy.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Via tweet from &lt;a href=&#34;http://twitter.com/henriklied/status/1091862105&#34;&gt;Henrik Lied&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://raphaeljs.com/&#34;&gt;http://raphaeljs.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

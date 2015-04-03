@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazyweb on Konigi</title>
+    <link>http://localhost:1313/tags/lazyweb/</link>
+    <description>Recent content in Lazyweb on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lazyweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Better Gmail Client Wireframe</title>
+      <link>http://localhost:1313/blog/better-gmail-client-wireframe/</link>
+      <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/better-gmail-client-wireframe/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/bettergmail.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Growl alert. Click and a Quicksilver-like diaogue appears. Click. Reply. Done. Gmail archives. Optionally tag the thread.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Coincidentally, I&amp;rsquo;ve been designing a feature on the product I&amp;rsquo;m working on that does something like this. We have a plugin for our app, a CMS, that turns a project into a Twitter-like micromessaging application. It&amp;rsquo;s only in release 0.1, but I&amp;rsquo;ve designed a few iterations ahead, which we plan to review. &lt;/p&gt;
+&lt;p&gt;The gist for me is this. At work we use Jabber to get alerts for new activity on our internal CMS. We use our Live Blog micromessaging project to do status updates, and other discussion in real time. We want something as easy as IM, as easy as Twitter. &lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;ve been doing all this stuff that makes the stream of messaging easy to respond to when I see something urgent that needs attention. And I begin to notice email differently, and think that it&amp;rsquo;s a big speed bumps in the day when I have to look at it. There are some messages that come in that I wish I could just quickly reply to because they&amp;rsquo;re urgent. But I hate having to load Gmail or Mail.app to stop what I&amp;rsquo;m doing.     &lt;/p&gt;
+&lt;p&gt;Now, I know with added intrusions into your day, this could add to your already full, multi-tasking life. But I simply feel like I want and need it. I want email on my terms until it goes away. So I took some of the ideas I was working on in a project I&amp;rsquo;m doing and saw how those behaviors might apply to email. The wireframe you see above is part of that. &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve posted the files below so you can look at this single page storyboard if you&amp;rsquo;re curious. If you&amp;rsquo;re interested in taking a peek at how I wireframe, download the OmniGraffle document too and play with it. &lt;/p&gt;
+&lt;p&gt;Download the files&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can view this wireframe as a &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail-large.png&#34;&gt;full-sized PNG&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail.pdf&#34;&gt;download as PDF&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;You may also download the &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail.graffle.zip&#34;&gt;OmniGraffle file&lt;/a&gt; to see how this wireframe was made.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A lot of people won&amp;rsquo;t agree that email should work this way. If you don&amp;rsquo;t agree, feel free to tell me why  email is fine just the way it is, or tell me that this is a good idea. If you know of an app that has all of these features and functionality, please tell me, because I need it. If you want to develop it, go ahead. I&amp;rsquo;d be happy to be involved because I want this.&lt;/p&gt;
+&lt;p&gt;UPDATE: Chris Messina reminded me about &lt;a href=&#34;http://mailplaneapp.com/&#34;&gt;MailPlane&lt;/a&gt;, which I tried preview releases of last year. Turns out that when you click Mailplane Growl alerts, MailPlane will open a window with the message, and you can click reply to enter your reply, click send, and close the window. This comes close enough without being quite as subtle and effortless as what I&amp;rsquo;ve wireframed above, so this is the solution I&amp;rsquo;m going with for now.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

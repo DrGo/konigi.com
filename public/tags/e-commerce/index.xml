@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Commerce on Konigi</title>
+    <link>http://localhost:1313/tags/e-commerce/</link>
+    <description>Recent content in E Commerce on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Panic Shopping Cart</title>
+      <link>http://localhost:1313/interface/panic-shopping-cart/</link>
+      <pubDate>Fri, 25 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/panic-shopping-cart/</guid>
+      <description>&lt;p&gt;Panic, the Mac software company that makes Coda and Transmit, has an apparel store with fun shopping cart behaviors that mimic the Mac&#39;s dock. The apparel store shows t-shirt listings, and a little cart dock at the bottom of the page that invites visitors to drag t-shirts down into it to add to cart. Clicking and dragging shows the ghosted t-shirt moving with the cursor until it snaps into the dock. Adding a bunch of t-shirts enables the carousel. When you drag t-shirts out of the dock, they disappear with a puff of smoke, just as items in the Mac dock do. Those who don&#39;t like to drag can use the plus sign icon.&lt;/p&gt;
+&lt;p&gt;The cart page shows a clean and simple form with all of your items to purchase, your information (shipping/billing info), and payment info. Short and without any fuss. I wish open source carts were easy enough to configure to be this simple. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Product page with shopping cart docked to bottom of viewport, doubling as a drop area for adding to cart.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-cart-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Product page with shopping cart docked to bottom of viewport, doubling as a drop area for adding ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-cart-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Drag behavior to add to cart.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-cart-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Drag behavior to add to cart.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-cart-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. A simpler add icon is also provided.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-cart-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. A simpler add icon is also provided.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-cart-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Cart shown with carousel controls when reaching max number to display. Users can drag items out and they&#39;re removed with a puff of smoke.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-cart-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Cart shown with carousel controls when reaching max number to display. Users can drag items out a...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-cart-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Checkout page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/panic-cart-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Checkout page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/panic-cart-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.panic.com/goods/index.php&#34;&gt;http://www.panic.com/goods/index.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ecommr: e-commerce interface and design elements</title>
+      <link>http://localhost:1313/tools/submissions/ecommr-e-commerce-interface-and-design-elements/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/ecommr-e-commerce-interface-and-design-elements/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ecommr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2664&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fa0e8e803b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Tom Sullivan has launched &lt;a href=&#34;http://www.ecommr.com/&#34;&gt;ecommr&lt;/a&gt;, a collection of screen captures of e-commerce design and interface elements. From product listing pages to e-mail newsletters, ecommr is a resource to view all of the individual pieces that make up the e-commerce puzzle. &lt;a href=&#34;http://noturnonred.org/2008/11/10/announcing-ecommr/&#34;&gt;More info&lt;/a&gt; from his personal blog:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Working in the e-commerce field, I often find myself looking at other retailers to gather ideas on how to best present various elements of e-commerce sites. From design to information architecture, I find it fascinating to see how different retailers tackle the same problems in different ways. I’m often looking at different retailers and constantly looking for changes, no matter how small, and trends in e-commerce design.&lt;/p&gt;
+&lt;p&gt;I always wanted to see a site that broke down e-commerce stores into their different elements. I wanted a resource that would allow me to see the various ways retailers display their products or style their “Add to Cart” buttons. There are sites that break down general web elements (see: Elements of Design) and sites that highlight e-commerce design (see: Carted Up), but still no resource that broke down the individual elements.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ecommr.com/&#34;&gt;http://www.ecommr.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrams on Konigi</title>
+    <link>http://localhost:1313/tags/diagrams/</link>
+    <description>Recent content in Diagrams on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/diagrams/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>POTD: J.K. Rowlings Plot Spreadsheet for Harry Potter and the Order of the Phoenix</title>
+      <link>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</link>
+      <pubDate>Fri, 22 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/potd-jk-rowlinge28099s-plot-spreadsheet-e28098harry-potter-and-order-phoenixe28099/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1187/5104558387_88ff2b5cd7_o.png&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Love &lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;this post on /Film&lt;/a&gt; showing a few artifacts from J.K. Rowling&amp;rsquo;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&amp;rsquo;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Rowling outlines each chapter in detail including which month of the school year it takes place in, the title and the plot. All of that seems standard. But it’s the next few columns where things get really good.&lt;/p&gt;
+&lt;p&gt;She keeps track of all the book’s subplots in every chapter and how they are developing in the real world of the book, even if they aren’t mentioned on the page. So, there’s a full column on “The Prophecy” which is the main subplot Harry is worried about throughout the book. Then there’s a column for the romantic subplot, titled “Cho/Ginny” followed by “D.A.” which follows what’s going on with Harry, Ron and Hermione’s resistance group “Dumbledore’s Army,” one called “O of P,” a column about what’s the latest with the “Order of the Phoenix,” a.k.a, the people who believe Voldemort is still alive, then separate columns for Snape (and others, I can’t read Rowlings writing) and the Hagrid and Grawp story.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;Read more on /Film.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://www.subtraction.com/2010/10/21/jk-rowlings-plot-diagrams&#34;&gt;Via +Subtraction&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&#34;&gt;http://www.slashfilm.com/2010/10/08/potd-jk-rowlings-plot-spreadsheet-for-harry-potter-and-the-order-of-the-phoenix/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>jQuery Sparklines</title>
+      <link>http://localhost:1313/blog/jquery-sparklines/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/jquery-sparklines/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.omnipotent.net/jquery.sparkline/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/jquery-sparklines.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.omnipotent.net/jquery.sparkline/&#34;&gt;jQuery Sparklines&lt;/a&gt; plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. The plugin is compatible with most modern browsers and has been tested with Firefox 2+, Safari 3+, Opera 9 and Internet Explorer 6 &amp;amp; 7.&lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://twitter.com/darrengeraghty/status/1270704776&#34;&gt;@darrengeraghty&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.omnipotent.net/jquery.sparkline/&#34;&gt;http://www.omnipotent.net/jquery.sparkline/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Raphael JavaScript Library for Vector Graphics</title>
+      <link>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/raphael-javascript-library-vector-graphics/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://raphaeljs.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/raphaeljs.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.&lt;/p&gt;
+&lt;p&gt;Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later. Raphaël’s goal is to provide an adapter that will make drawing cross-browser and easy.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Via tweet from &lt;a href=&#34;http://twitter.com/henriklied/status/1091862105&#34;&gt;Henrik Lied&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://raphaeljs.com/&#34;&gt;http://raphaeljs.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

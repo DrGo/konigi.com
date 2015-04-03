@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video On Demand on Konigi</title>
+    <link>http://localhost:1313/tags/video-on-demand/</link>
+    <description>Recent content in Video On Demand on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/video-on-demand/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Roku Netflix Player</title>
+      <link>http://localhost:1313/blog/roku-netflix-player/</link>
+      <pubDate>Tue, 20 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/roku-netflix-player/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.roku.com/netflixplayer/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1264&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4832e7e599724_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Yet &lt;a href=&#34;http://www.roku.com/netflixplayer/&#34;&gt;another set top box makes a move to bring the 10 foot Internet TV and movie experience to your living room&lt;/a&gt;. This time Roku, maker of the Soundbridge audio player, has teamed up with Netflix to deliver their video on demand service to a set top box designed for Netflix service only. The $100 box allows you to navigate your queue, view show/movie information, and stream videos that were previously only available for Internet streaming to Windows users previously. It&amp;rsquo;s not apparent if you can browse videos outside of your queue. &lt;/p&gt;
+&lt;p&gt;For Netflix users, the service is included free of charge if your plan allows Internet streaming. The streaming catalog still only hovers around 10,000 movies compared to the 100,000 available DVDs.  This is mostly older titles, but that&amp;rsquo;s still not a bad number and you can expect the catalog to grow. I can confirm that I see about 10% of my queue with Play Now options presently. Sadly, the box doesn&amp;rsquo;t deliver HD, so expect VCR quality video.&lt;/p&gt;
+&lt;p&gt;This move brings Netflix further into the Internet-enabled set top box subcategory of the Video on Demand market   with manufacturers including Apple and VUDU. Look for cable set top boxes to incorporate more of these services over time, and with that, the introduction of yet more features into already crowded 10 foot menus.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.roku.com/netflixplayer/&#34;&gt;http://www.roku.com/netflixplayer/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Docs on Konigi</title>
+    <link>http://localhost:1313/tags/google-docs/</link>
+    <description>Recent content in Google Docs on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A wireframe kit for Google Drawings</title>
+      <link>http://localhost:1313/tools/submissions/wireframe-kit-google-drawings/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/wireframe-kit-google-drawings/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2749&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52303e1983dc0_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Morten Just created &lt;a href=&#34;http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/&#34;&gt;wireframe templates using the new drawing tools available for Google Docs&lt;/a&gt;. The illustration tools in Docs gives you basic shapes you need to create UI elements that can be combined and grouped to create components. The biggest advantage is that since it&amp;rsquo;s document authoring in the Docs cloud, you can do collaborative editing.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;For what it&#39;s worth, I don&#39;t think this is ideal, but it is interesting because of the online collaboration. Like OmniGraffle, it wasn&#39;t created for wireframing, but clever designers will always find a way to make tools useful for our needs, beyond what they were intended for.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/&#34;&gt;http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scrolling on Konigi</title>
+    <link>http://localhost:1313/tags/scrolling/</link>
+    <description>Recent content in Scrolling on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scrolling/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>jQuery Slider Gallery</title>
+      <link>http://localhost:1313/blog/jquery-slider-gallery/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/jquery-slider-gallery/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1900&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4ac364be46e49.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;jQuery Slider Gallery&lt;/a&gt; article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&amp;rsquo;s product pages.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jqueryfordesigners.com/slider-gallery/&#34;&gt;http://jqueryfordesigners.com/slider-gallery/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ClickTale Scrolling Research Report</title>
+      <link>http://localhost:1313/blog/clicktale-scrolling-research-report/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/clicktale-scrolling-research-report/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://blog.clicktale.com/2007/10/05/clicktale-scrolling-research-report-v20-part-1-visibility-and-scroll-reach/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1614&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a23b1609be7e.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;ClickTale makes observations about scrolling based on their research of users&amp;rsquo; browsing behaviors around &amp;ldquo;the fold.&amp;rdquo; Their report on scrolling makes the following conclusions: &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;[I[t appears that visitors scroll in a relative way - about the same percentage of page views will reach the middle of a web page regardless of the actual page height in pixels.&lt;/p&gt;
+&lt;p&gt;Visitors appear to be using the location of the scroll bar but not the size of the tracker when scrolling, since the scroll bar location is a relative indicator and the scroll tracker size is an indicator of page height.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;View their &lt;a href=&#34;http://blog.clicktale.com/2007/10/05/clicktale-scrolling-research-report-v20-part-1-visibility-and-scroll-reach/&#34;&gt;2 part report&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.clicktale.com/2007/10/05/clicktale-scrolling-research-report-v20-part-1-visibility-and-scroll-reach/&#34;&gt;http://blog.clicktale.com/2007/10/05/clicktale-scrolling-research-report-v20-part-1-visibility-and-scroll-reach/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

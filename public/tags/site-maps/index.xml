@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Maps on Konigi</title>
+    <link>http://localhost:1313/tags/site-maps/</link>
+    <description>Recent content in Site Maps on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Feb 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/site-maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lovely Charts Online Diagramming Application</title>
+      <link>http://localhost:1313/tools/submissions/lovely-charts-online-diagramming-application/</link>
+      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/lovely-charts-online-diagramming-application/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.lovelycharts.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2668&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fa31de771b_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a review of &lt;a href=&#34;http://www.lovelycharts.com/&#34;&gt;Lovely Charts&lt;/a&gt;, a free online diagramming tool that provides wire frame, flow chart, and site map stencils. I like the unique, simple method they provide for quickly creating flow charts and site maps. In this screencast I show how to do a few simple flow diagrams and a wireframe, as well as discussing the features that I&amp;rsquo;d like to see for creating prototypes from this tool. I think what they&amp;rsquo;re providing in this first release is very promising and will be one to watch if you&amp;rsquo;re interested in this kind of thing. The video below gives you a preview of some of the app&amp;rsquo;s capabilities.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/gshQ79NAAA.m4v&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;481&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;
+&lt;p&gt;As with all of the Flash-based tools, there&amp;rsquo;s not nearly as much control in the output, but it&amp;rsquo;s useful for light needs. Light, quick, and dirty is a good thing.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lovelycharts.com/&#34;&gt;http://www.lovelycharts.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

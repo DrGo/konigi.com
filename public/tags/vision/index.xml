@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision on Konigi</title>
+    <link>http://localhost:1313/tags/vision/</link>
+    <description>Recent content in Vision on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lighthouse International - Making Text Legible</title>
+      <link>http://localhost:1313/blog/lighthouse-international-making-text-legible/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/lighthouse-international-making-text-legible/</guid>
+      <description>&lt;p&gt;Lighthouse provides &lt;a href=&#34;http://www.lighthouse.org/accessibility/legible/&#34;&gt;10 basic guidelines&lt;/a&gt; for designing for people with partial sight. &lt;/p&gt;
+&lt;p&gt;&#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.lighthouse.org/accessibility/legible/&#34;&gt;http://www.lighthouse.org/accessibility/legible/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

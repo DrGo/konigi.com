@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Engine Optimization Seo on Konigi</title>
+    <link>http://localhost:1313/tags/search-engine-optimization-seo/</link>
+    <description>Recent content in Search Engine Optimization Seo on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/search-engine-optimization-seo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Navigation Markup After Content</title>
+      <link>http://localhost:1313/blog/navigation-markup-after-content/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/navigation-markup-after-content/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://css-tricks.com/navigation-markup-after-content/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1557&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49dbc25a64401.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS tips offers &lt;a href=&#34;http://css-tricks.com/navigation-markup-after-content/&#34;&gt;an SEO tip&lt;/a&gt; for putting navigation after content and repositioning back to top by absolutely positioning the navigation block absolutely inside a relative block.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://css-tricks.com/navigation-markup-after-content/&#34;&gt;http://css-tricks.com/navigation-markup-after-content/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

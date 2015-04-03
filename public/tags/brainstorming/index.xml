@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brainstorming on Konigi</title>
+    <link>http://localhost:1313/tags/brainstorming/</link>
+    <description>Recent content in Brainstorming on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/brainstorming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Edistorm</title>
+      <link>http://localhost:1313/tools/submissions/edistorm/</link>
+      <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/edistorm/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.edistorm.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2783&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230c609a4091_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.edistorm.com/&#34;&gt;Edistorm&lt;/a&gt; looks like an interesting tool for collaborative brainstorming. Group brainstorming sticky note boards (storms) can be set up with a background template, e.g. 5 up, SWOT, venn diagrams, etc. You place colored sticky notes with text, organize however you want,  you can add +1 votes using a voting system, and add comments to notes. There&amp;rsquo;s some kind of recomendations feature that will suggest new topics, which I guess might only work well with certain content types.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;You can export a report that shows the stickies added and their votes and comments in a nicely laid out PDF or as an Excel doc. You can also export the laid out sticky note workspace as a PDF graphic. An iPhone app gives you mobile access to your storms.&lt;/p&gt;
+
+&lt;p&gt;Pretty sweet. Looks like public storms are free for now. I&#39;m liking it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.edistorm.com/&#34;&gt;http://www.edistorm.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Brainstorming</title>
+      <link>http://localhost:1313/blog/effectiveness-brainstorming/</link>
+      <pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/effectiveness-brainstorming/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://twitter.com/smartex&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/smartex-brainstorming.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Found on smartex, and believed by jibbajabba to occasionally be true of group brainstorming&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Wikipedia on &amp;ldquo;&lt;a href=&#34;http://en.wikipedia.org/wiki/Brainstorming&#34;&gt;Brainstorming&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Although brainstorming has become a popular group technique, researchers have generally failed to find evidence of its effectiveness for enhancing either quantity or quality of ideas generated. Because of such problems as distraction, social loafing, evaluation apprehension, and production blocking, brainstorming groups are little more effective than other types of groups, and they are actually less effective than individuals working independently.[2][3][4] In the Encyclopedia of creativity, Tudor Rickards provides the article on brainstorming, summarizing the controversies. He also indicates the dangers of conflating productivity in group work with quantity of ideas.[5]&lt;/p&gt;
+&lt;p&gt;2. Nijstad, B. A., Stroebe, W., Lodewijkx, H. F. M. (2003). Production blocking and idea generation: Does blocking interfere with cognitive processes? Journal of Experimental Social Psychology, 39, 531-548.&lt;br /&gt;
+3. Diehl, M., &amp;amp; Stroebe, W. (1991). Productivity loss in idea-generating groups: tracking down the blocking effect. Journal of Personality and Social Psychology, 61, 392-403.&lt;br /&gt;
+4. Mullen, B., Johnson, C., &amp;amp; Salas, E. (1991). Productivity loss in brainstorming groups: a meta-analytic integration. Basic and Applied Social Psychology. 12, 3-23.&lt;br /&gt;
+5. Rickards, T., (1999) Brainstorming, M Runco &amp;amp; S Pritzker, Eds, Encylopedia of creativity, San Diego: Academic Press Vol 1 219-228.
+&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/smartex&#34;&gt;http://twitter.com/smartex&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

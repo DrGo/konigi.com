@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Techniques for Horizontal Rules</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <link href="/css/konigi.min.css" type="text/css" rel="stylesheet" media="all">
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link rel="canonical" href="http://localhost:1313/tools/css-techniques-horizontal-rules/">
+  <link href="http://konigi.com/index.xml" rel="alternate" type="application/rss+xml" title="Konigi">
+</head>
+<body class="tools">
+
+
+<div class="row">
+  <div class="columns small-12 medium-10 medium-offset-1">
+    <header>
+    <div class="row">
+      <div class="columns small-12 medium-1">
+        <div id="logo"><a href="/">KONIGI</a></div>
+      </div>
+      <div id="gnav-container" class="columns small-12 medium-9">
+        <ul id="gnav">
+          <li id="gnav-blog"><a href="/blog/" title="Blog">Blog</a></li>
+          <li id="gnav-interface"><a href="/interface/" title="Interface Showcase">Interfaces</a></li>
+          <li id="gnav-tools"><a href="/tools/" title="Tools">Tools</a></li>
+          <li id="gnav-music"><a href="/music/" title="music">Music</a></li>
+          <li id="gnav-wiki"><a href="/wiki/" title="Wiki">Wiki</a></li>
+          <li id="gnav-search"><a href="/search" title="Search">Search</a></li>
+        </ul>
+      </div>
+    </div>
+    </header>
+  </div>
+</div>
+
+
+
+<div id="body" class="row">
+  <div class="columns small-12 medium-10 medium-offset-1">
+
+
+
+<article>
+  <h2 class="post-title">CSS Techniques for Horizontal Rules</h2>
+  <section class="article-body"><p><p>I like to use HR tags. I use the technique in the first example below, but occasionally want a nicer separator, and hate having to use a graphic to show that chiseled aqua-style divider or to created the faded line of a gradient. Examples 2 and 3 use background gradients in webkit and mozilla. All versions of IE just show the solid rule. </p>
+<h3>Normal</h3>
+<h4>Demo</h4>
+<hr />
+<h4>HTML &amp; CSS</h4>
+<p>&lt;hr /&gt;</p>
+<pre><code>
+hr {
+  background: #ddd;
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 0 0 1.4em;
+  border: none;
+}
+</code></pre><p>
+</p>
+<h3>With Faded Edges</h3>
+<h4>Demo</h4>
+<hr class="faded" />
+<h4>HTML &amp; CSS</h4>
+<p>&lt;hr class=&ldquo;faded&rdquo; /&gt;</p>
+<pre><code>
+hr.faded {
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 1.4em 0;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+      linear,
+      left bottom,
+      right bottom,
+      color-stop(0, rgb(255,255,255)),
+      color-stop(0.1, rgb(221,221,221)),
+      color-stop(0.9, rgb(221,221,221)),
+      color-stop(1, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      left center,
+      rgb(255,255,255) 0%,
+      rgb(221,221,221) 10%,
+      rgb(221,221,221) 90%,
+      rgb(255,255,255) 100%
+  );
+}
+</code></pre><p>
+</p>
+<h3>Carved</h3>
+<h4>Demo</h4>
+<div style="background: #eee; padding: 20px 10px; margin-bottom: 1em;">
+<hr class="carved" />
+</div>
+<h4>HTML &amp; CSS</h4>
+<p>&lt;hr class=&ldquo;carved&rdquo; /&gt;</p>
+<pre><code>
+hr.carved {
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 2px;
+  margin: 1.4em 0;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      color-stop(0.5, rgb(221,221,221)),
+      color-stop(0.5, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      center top,
+      rgb(221,221,221) 50%,
+      rgb(255,255,255) 50%
+  );
+}
+</code></pre><style>
+/* hr */
+hr {
+  background: #ddd;
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 0 0 1.4em;
+  border: none;
+}
+hr.faded {
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 1px;
+  margin: 1.4em 0;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+      linear,
+      left bottom,
+      right bottom,
+      color-stop(0, rgb(255,255,255)),
+      color-stop(0.1, rgb(221,221,221)),
+      color-stop(0.9, rgb(221,221,221)),
+      color-stop(1, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      left center,
+      rgb(255,255,255) 0%,
+      rgb(221,221,221) 10%,
+      rgb(221,221,221) 90%,
+      rgb(255,255,255) 100%
+  );</p>
+
+<p>}
+hr.carved {
+  clear: both;
+  float: none;
+  width: 100%;
+  height: 2px;
+  margin: 1.4em 0;
+  border: none;
+  background: #ddd;
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      color-stop(0.5, rgb(221,221,221)),
+      color-stop(0.5, rgb(255,255,255))
+  );
+  background-image: -moz-linear-gradient(
+      center top,
+      rgb(221,221,221) 50%,
+      rgb(255,255,255) 50%
+  );
+}
+</style></p>
+</section>
+  <section class="metadata single bottom">
+    <div class="pub-date">Published on Saturday, Jul 2, 2011 in <a href="/tools" class="capitalize">tools</a></div>
+    <ul class="tags">
+    
+    </ul>
+  </section>
+</article>
+
+<div class="row section-pager">
+
+  <div class="columns small-12 medium-6 section-prev"><a href="http://localhost:1313/tools/submissions/edistorm/"> &lt;&nbsp;Edistorm</a></div>
+
+
+  <div class="columns small-12 medium-6 section-next"><a href="http://localhost:1313/tools/submissions/usaura-free-5-second-tests/">Usaura: Free 5-second tests&nbsp;&gt;</a></div>
+
+</div>
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="columns small-12 medium-10 medium-offset-1">
+    <footer>
+    <p><a href="/">Konigi</a> is published by <a href="http://michaelangeles.com">Michael Angeles</a> &middot; <a href="/contact">Contact</a> &middot; <a href="http://twitter.com/konigi">Twitter</a> &middot; Screenshots &copy; their respective owners.</p>
+    </footer>
+  </div>
+</div>
+
+
+<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.5.1/js/foundation.min.js"></script>
+<script src="/js/jquery.fancybox.js"></script>
+<script src="/js/konigi.min.js"></script>
+
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myths on Konigi</title>
+    <link>http://localhost:1313/tags/myths/</link>
+    <description>Recent content in Myths on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/myths/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Keith Lang&#39;s Top 10 UX Myths</title>
+      <link>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/keith-langs-top-10-ux-myths/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1877&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a95c2b02ba2f.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin &lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;about UX Myths&lt;/a&gt;. It&amp;rsquo;s full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.&lt;/p&gt;
+&lt;p&gt;The top 10 UX myth list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The Design Has to be Original&lt;/li&gt;
+&lt;li&gt;People Read&lt;/li&gt;
+&lt;li&gt;People Know What They Like&lt;/li&gt;
+&lt;li&gt;Design Always with Implementation in Mind&lt;/li&gt;
+&lt;li&gt;Can’t Decide? Make it a Preference&lt;/li&gt;
+&lt;li&gt;If you Have Great Search, You Don’t Need Great Information Architecture&lt;/li&gt;
+&lt;li&gt;UX Design Stops at the Edges of the Product&lt;/li&gt;
+&lt;li&gt;Design to Avoid Clicks&lt;/li&gt;
+&lt;li&gt;People Don’t Change&lt;/li&gt;
+&lt;li&gt;If the Design is a Good One, You Don’t Need to Test It&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Some of these become so ingrained, that it takes a lot of effort to convince clients or colleagues otherwise. I&amp;rsquo;ve struggled with many of these beliefs, holdig on to some of the earlier in my career, e.g. I remember heated debates about and broad versus deep and the number of click to get to destinations. I struggle with #2 people read, and #5 preferences and handling options. Those can be huge challenges when you&amp;rsquo;re looking for ways to simplify existing software.&lt;/p&gt;
+&lt;p&gt;There are so many nuggets here to be appreciated, and a few observations in UIs that I wasn&amp;rsquo;t aware of. Check it out. If any of the references are new, you&amp;rsquo;ll be surfing off the links for days.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://carsonified.com/blog/design/top-10-ux-myths/&#34;&gt;http://carsonified.com/blog/design/top-10-ux-myths/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

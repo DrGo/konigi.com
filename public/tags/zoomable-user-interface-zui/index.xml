@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoomable User Interface Zui on Konigi</title>
+    <link>http://localhost:1313/tags/zoomable-user-interface-zui/</link>
+    <description>Recent content in Zoomable User Interface Zui on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Feb 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/zoomable-user-interface-zui/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prezi: The zooming presentation editor</title>
+      <link>http://localhost:1313/blog/prezi-zooming-presentation-editor/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/prezi-zooming-presentation-editor/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/prezi.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;Prezi&lt;/a&gt; is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &amp;ldquo;slides&amp;rdquo; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;http://prezi.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hillcrest Labs Remote Control</title>
+      <link>http://localhost:1313/blog/hillcrest-labs-remote-control/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/hillcrest-labs-remote-control/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;Hillcrest Labs&lt;/a&gt; provides a vision of the pointing and navigating future with their demonstration of Freespace motion-controlled TV remote.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/2bw7gPQdTWw&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/2bw7gPQdTWw&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;I came across the video demos of Hillcrest Labs&#39; remote control via &lt;a href=&#34;http://newteevee.com/2008/06/24/hillcrest-remote-flick-wrist-to-flip-channels/&#34;&gt;NewTeevee&lt;/a&gt;. The video above shows a demo at the Consumer Electronics Show last winter, but check the &lt;a href=&#34;http://newteevee.com/2008/06/24/hillcrest-remote-flick-wrist-to-flip-channels/&#34;&gt;NewTeevee&lt;/a&gt; link for the more complete demo of their Freespace motion control technology (sadly they won&#39;t let me embed it here). The demo shows a proof of concept software interface for the TV that allows the user to navigate and access media on their TV/Computer using the &#34;Loop&#34; concept remote control. &lt;/p&gt;
+&lt;p&gt;The prototype TV interface shows the flexibility and scalability of navigation that is possible with a motion controlled remote pointing device equipped with scroll wheel and selection buttons. The software they demo is a zoomable user interface (ZUI) that was created to demonstrate the possibility for navigating a media space on the TV. The remote provides tremor control, so panning motions with the remote don&#39;t produce the jiggle you see on the Wiimote.&lt;/p&gt;
+&lt;p&gt;This demonstrates the great potential and possibilities that ZUIs provide for a simple hierarchical interface like this. Other options could have been explored, but the ZUI provides a very intuitive experience using pointing rather than an up/down/left/right control for navigation, e.g. in your TiVo and Apple TV remotes. &lt;/p&gt;
+&lt;p&gt;The technology will be licensed to consumer electronics companies, so we might hopefully see this navigation paradigm on set top boxes in the future.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://hillcrestlabs.com/index.php&#34;&gt;http://hillcrestlabs.com/index.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Path Aurora Concept Video, Part 1</title>
+      <link>http://localhost:1313/blog/adaptive-path-aurora-concept-video-part-1/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/adaptive-path-aurora-concept-video-part-1/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;Adaptive Path, as part of Mozilla Lab&#39;s concept video series, provides some suggestions for the possible future of the web experience with &lt;a href=&#34;http://www.adaptivepath.com/aurora/&#34;&gt;Aurora&lt;/a&gt;. This forward looking concept focuses on 4 high priority elements: context awareness, natural interaction, continuity, and multi-user applications.&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;400&#34; height=&#34;225&#34;&gt;   &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;   &lt;param name=&#34;movie&#34; value=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1450211&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; /&gt;   &lt;embed src=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1450211&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;400&#34; height=&#34;225&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;&lt;a href=&#34;http://www.vimeo.com/1450211?pg=embed&amp;amp;sec=1450211&#34;&gt;Aurora (Part 1)&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/user524591?pg=embed&amp;amp;sec=1450211&#34;&gt;Adaptive Path&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/?pg=embed&amp;amp;sec=1450211&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;
+&lt;p&gt;The scenario laid out is one in which one user starts an audio chat and screen sharing sesion with another user and we begin to see how users can find information from their history and share it and remix it with others in the session.&lt;/p&gt;
+&lt;p&gt;Let&#39;s take a look at how they realized the experience hinging on those elements, in terms of the interface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The radial menu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While browsing each object a radial menu can be summoned for acting on the object, e.g. getting the current version of a web page/object.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The spatial viewer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the ways they conceptualize contextual awareness is through browsing your history in the spatial viewer. This is a zoomable user interface in 3 dimensional space that presents the user&#39;s history in clustered objects, like galaxies in space. This is intended as an implicit clustering I assume, but could be based on explicit group since each cluster can also be explicitly labeled. The user may zoom back through history, with the z-index representing time. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The hand pointer and frame&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The hand pointer is used to emphasize natural behaviors such as moving and touching things. The user can use the hand cursor to grab and drop objects around the spatial viewer to the outer edges of the interface. In the edges of the spatial interface is &#34;The Frame.&#34; The Frame presents a shelf with shortcuts to history in these locations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Top, shelf = frequently used objects&lt;/li&gt;
+&lt;li&gt;Left, history stack = recently used objects (reverse chron)&lt;/li&gt;
+&lt;li&gt;Right, user stack = temporary storage (reverse chron)&lt;/li&gt;
+&lt;li&gt;Bottom, wheel = objects I&#39;m connected to right now&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The wheel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The wheel is like the Mac Dock, but it&#39;s a rotating carousel with a fish eye lens focus. As you move through the wheel, related objects are highlighted in the spatial viewer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clusters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the biggest opportunities to extend the browsing experience, in my opinion, is to get the application to understand more about me and my behaviors and usage social patterns and give me feedback based on this. The spatial viewer attempts to address this.&lt;/p&gt;
+&lt;p&gt;The idea of monitoring behavior for implicit patterns and preferences is an area being tapped in discrete contexts, for example via recommendation engines on video, music sites, and in social spaces. I see this as suggestive of getting the application and service to take the ephemeral as well as the more deeply carved out patterns of my behavior, and use it all to remind me or to suggest to me those things that I am likely to have an interest in. It should do it based on all kinds of implicit attributes, like where I&#39;m presently geographically located, what I&#39;ve looked at, who I&#39;ve connected with, as well as using those criteria I have explicitly described as important.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More to come...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The ideas here point to a promising evolution of our experience interacting with information. I&#39;m looking forward to where else they see the browser going.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.adaptivepath.com/aurora/&#34;&gt;http://www.adaptivepath.com/aurora/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

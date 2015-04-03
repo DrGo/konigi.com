@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash on Konigi</title>
+    <link>http://localhost:1313/tags/flash/</link>
+    <description>Recent content in Flash on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 May 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flash/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GestureWorks Open Source Multitouch Gesture Library</title>
+      <link>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/gestureworks-open-source-multitouch-gesture-library/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2708&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fd989949f7_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;GestureWorks is a multitouch authoring environment for Flash and Flex that ships with &lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;a library of over 20 unique gestures&lt;/a&gt;. This gesture library is built upon an open source gesture framework, allowing developers to customize and extend the “gesture object” to create support for new gestures. The library is available for GestureWorks, and posters in PNG, PDF and AI format are also provided.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://gestureworks.com/about/open-source-gesture-library/&#34;&gt;http://gestureworks.com/about/open-source-gesture-library/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Redub Designs a Better Online Magazine</title>
+      <link>http://localhost:1313/blog/redub-designs-better-online-magazine/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/redub-designs-better-online-magazine/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;img style=&#34;visibility:hidden;width:0px;height:0px;&#34; border=0 width=0 height=0 src=&#34;http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNDcxMzU1NjAyMDAmcHQ9MTI*NzEzNTU2NTM*MyZwPTEwMTkxJmQ9c3NfZW1iZWQmZz*yJnQ9Jm89MGRjNDg1OTEzNDVlNDlkYWIzZWFiZWNjYWU5YTJhNGUmb2Y9MA==.gif&#34; /&gt;&lt;br /&gt;
+&lt;div style=&#34;width:425px;text-align:left&#34; id=&#34;__ss_1686868&#34;&gt;
+&lt;object style=&#34;margin:0px&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dontmakemescroll-090706092213-phpapp01&amp;amp;stripped_title=dont-make-me-scroll&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;/&gt;&lt;embed src=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dontmakemescroll-090706092213-phpapp01&amp;amp;stripped_title=dont-make-me-scroll&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;I came across Redub&amp;rsquo;s &amp;ldquo;Don&amp;rsquo;t Make Me Scroll&amp;rdquo; presentation embedded above, which looks at the current offering of magazine readers which are modeled after print layouts, are difficult to read, SEO-unfriendly, and which rarely use the full capabilities provided by web browsers, e.g. multi-media. Or they&amp;rsquo;re modeled largely after blogs with articles are long and scrolling, are limited by the possibilities of HTML/CSS, and have layouts that aren&amp;rsquo;t differentiated from blogs and which pale in comparison to the layout in the printed version of the original magazine article.&lt;/p&gt;
+&lt;p&gt;Redub is working on a magazine reader, built on Flash, with a keyboard-enabled UI (input devices work as well) that scales to any screen size, does not scroll, and provides designer-friendly layout possiblities. You can &lt;a href=&#34;http://reader.redub.org/good/&#34;&gt;check out the GOOD magazine demo to experience the reader&lt;/a&gt;. There&amp;rsquo;s some really interesting interface design happening there including unobtrusive menus and prev/next paging controls, a pagination bar that is scaled to indicate the amount of content on the page, great examples of interactive media in the content, e.g. interactive charts, and hints at personal options like annotations. It&amp;rsquo;s very well thought-out and works better for reading magazines than any of the readers out there.&lt;/p&gt;
+&lt;p&gt;It seems like they&amp;rsquo;re trying to do for online magazine reading what the Kindle does for ebooks. Exciting stuff to see the full potential of Flash being utilized to improve the magazine reading experience, rather than just port it over to an digital, PDF-like version that doesn&amp;rsquo;t work as well on screen.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://redubllc.com/2009/07/dont-make-me-scroll/&#34;&gt;http://redubllc.com/2009/07/dont-make-me-scroll/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use It Better: Usability Testing Service for Flash Sites</title>
+      <link>http://localhost:1313/tools/submissions/use-it-better-usability-testing-service-flash-sites/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/use-it-better-usability-testing-service-flash-sites/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.useitbetter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2818&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231a6fedfd29_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Use It Better is an online tool for recording user sessions for testing &amp;amp; analysing user experience and usability on Adobe Flash websites.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.useitbetter.com/&#34;&gt;http://www.useitbetter.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Free Flash Catalyst Tutorials on Lynda.com</title>
+      <link>http://localhost:1313/blog/free-flash-catalyst-tutorials-lyndacom/</link>
+      <pubDate>Tue, 09 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/free-flash-catalyst-tutorials-lyndacom/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1623&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a2edbb297130_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Lynda.com has &lt;a href=&#34;http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778&amp;amp;utm_source=LDC&amp;amp;utm_medium=viral&amp;amp;utm_content=flash_catalyst&amp;amp;utm_campaign=flash_catalyst&#34;&gt;free introductory tutorials for the Flash Catalyst beta&lt;/a&gt;, screencasted by Mordy Golding.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778&#34;&gt;http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>jQuery Flash Plugin</title>
+      <link>http://localhost:1313/blog/jquery-flash-plugin/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/jquery-flash-plugin/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jquery.lukelutman.com/plugins/flash/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1533&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49b8101500eda.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://jquery.lukelutman.com/plugins/flash/&#34;&gt;Flash Plugin&lt;/a&gt; looks like an extremely simple method to do Flash replacement using XHTML and JQuery. Can embed SWFs, You Tube videos, and even do SIFR. Sick. &lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://www.davidkaneda.com/post/85608474/jquery-flash-plugin&#34;&gt;David Kaneda&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jquery.lukelutman.com/plugins/flash/&#34;&gt;http://jquery.lukelutman.com/plugins/flash/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6 Tips for a Great Flex UX</title>
+      <link>http://localhost:1313/blog/6-tips-great-flex-ux/</link>
+      <pubDate>Fri, 06 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/6-tips-great-flex-ux/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://designingwebinterfaces.com/great-flex-ux&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1518&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49b12cd8247b6_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Theresa Neil is writing a 6 part series of articles on &lt;a href=&#34;http://designingwebinterfaces.com/great-flex-ux&#34;&gt;designing great Adobe Flex/Air user experiences&lt;/a&gt;. The first 3 parts are up now.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;After designing several large enterprise applications for diverse clients and industries, I’ve noticed some barriers to crafting a great experience in Flex. I think these barriers arise from the relative newness of the technology (and RIAs in general), the initial focus on development over design, and the confidence that Flex can provide a great UX out of the box. But it takes a bit more to make a Flex app really shine. Fortunately, the Flex community is chock-full of talented and motivated developers who contribute amazing resources.&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://designingwebinterfaces.com/great-flex-ux&#34;&gt;http://designingwebinterfaces.com/great-flex-ux&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prezi: The zooming presentation editor</title>
+      <link>http://localhost:1313/blog/prezi-zooming-presentation-editor/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/prezi-zooming-presentation-editor/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/prezi.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;Prezi&lt;/a&gt; is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &amp;ldquo;slides&amp;rdquo; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://prezi.com/&#34;&gt;http://prezi.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pretty Loaded</title>
+      <link>http://localhost:1313/blog/pretty-loaded/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/pretty-loaded/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://prettyloaded.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/prettyloaded.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;A &lt;a href=&#34;http://prettyloaded.com/&#34;&gt;preloader museum&lt;/a&gt; curated by Big Spaceship. &lt;/p&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://swissmiss.typepad.com/weblog/2009/01/prettyloadedcom-an-homage-to-the-flash-preloader.html&#34;&gt;Swissmiss&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://prettyloaded.com/&#34;&gt;http://prettyloaded.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pomegranate</title>
+      <link>http://localhost:1313/blog/pomegranate/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/pomegranate/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://76.74.186.145/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/pomegranate.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This one seems out of left field. A clever advertising campaign for the &lt;a href=&#34;http://76.74.186.145/&#34;&gt;all in one device you want&lt;/a&gt;, but can never have. Explore a little while, and you&amp;rsquo;ll discover &lt;a href=&#34;http://www.pomegranatephone.com/novascotia.html&#34;&gt;what you &lt;em&gt;can&lt;/em&gt; have&lt;/a&gt; instead (check out the first link first).&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://76.74.186.145/&#34;&gt;http://76.74.186.145/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sprint Now Widgets</title>
+      <link>http://localhost:1313/blog/sprint-now-widgets/</link>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sprint-now-widgets/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/sprint-widgetopia.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;Sprint&amp;rsquo;s widgetopia&lt;/a&gt; is a clever Flash site advertising their mobile broadband card.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://now.sprint.com/widget/&#34;&gt;http://now.sprint.com/widget/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sumopaint.com beta - Image Editing in the Browser</title>
+      <link>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</link>
+      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1383&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48f4b57bab96e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;Sumopaint&lt;/a&gt;, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. &lt;/p&gt;
+&lt;p&gt;This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing. On the surface this appears to be only a Photoshop-like tool, but if you were to leverage the community and versioning features, the possibilities for a flexible tool like this become pretty interesting. Check it out.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;http://www.sumopaint.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adobe Launches CS4 Suite of Applications</title>
+      <link>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/adobe-launches-cs4-suite-applications/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/news.ars/post/20080923-adobe-launches-cs4-suite-of-applications.html&#34;&gt;Ars rounds up the new features&lt;/a&gt; in the forthcoming release of the Adobe CS4 suite to be released sometime next month. I think I&#39;ll have to upgrade for the multipage docs in Illustrator alone.&lt;/p&gt;
+&lt;p&gt;Photoshop CS4&lt;/p&gt;
+&lt;p&gt;    * GPU-based drawing of documents onscreen&lt;br /&gt;
+    * 64-bit for Windows&lt;br /&gt;
+    * Expanded 3-D paint, lighting and rendering tools&lt;/p&gt;
+&lt;p&gt;Illustrator CS4&lt;/p&gt;
+&lt;p&gt;    * Multipage documents with different sizes&lt;br /&gt;
+    * Indesign-style separations preview&lt;br /&gt;
+    * Many updated tools like gradient and blob brush&lt;/p&gt;
+&lt;p&gt;Indesign CS4&lt;/p&gt;
+&lt;p&gt;    * Live Preflighting&lt;br /&gt;
+    * Easy Flash document creation&lt;br /&gt;
+    * Smart guides and spacing tools&lt;/p&gt;
+&lt;p&gt;Flash CS4&lt;/p&gt;
+&lt;p&gt;    * Powerful Animation presets&lt;br /&gt;
+    * H.264 encoding&lt;br /&gt;
+    * Expanded 3-D transformation and object support with inverse kinematics and bones&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://arstechnica.com/news.ars/post/20080923-adobe-launches-cs4-suite-of-applications.html&#34;&gt;http://arstechnica.com/news.ars/post/20080923-adobe-launches-cs4-suite-of-applications.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Warioland Ad on YouTube</title>
+      <link>http://localhost:1313/blog/warioland-ad-youtube/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/warioland-ad-youtube/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;embed src=&#34;http://blip.tv/play/Ac+GDgA&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;702&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/div&gt;
+&lt;p&gt;This is one of the &lt;a href=&#34;http://www.youtube.com/experiencewii&#34;&gt;cleverest web ads&lt;/a&gt; I&amp;rsquo;ve ever seen. May even trump the Apple ad units that talk to each other.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/experiencewii&#34;&gt;http://www.youtube.com/experiencewii&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Rise of Contextual User Interfaces</title>
+      <link>http://localhost:1313/blog/rise-contextual-user-interfaces/</link>
+      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/rise-contextual-user-interfaces/</guid>
+      <description>&lt;p&gt;In Alex Iskold&#39;s article, &lt;a href=&#34;http://alexiskold.wordpress.com/2008/05/15/the-rise-of-contextual-user-interfaces/&#34;&gt;The Rise of Contextual User Interfaces&lt;/a&gt;, the writer and CEO of software company AdaptiveBlue talks about the rise of contextual interfaces on the desktop an in the services we use on the web.&lt;/p&gt;
+&lt;p&gt;He points out the failing of choice over context in the old paradigm of UI design. Standardization of UI elements (tabs, combo boxes, etc.) was meant as a way to keep users from having to learn how to use an interface. The argument made was apparently that users are stupid and this paradigm supported the idea that we shouldn&#39;t innovate on core UI elements because users wouldn&#39;t be able to figure out how to user our applications. But over time UI designers simply made all of the choices available in an application in the forefront, putting the burden of having to sift through all of them.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Another philosophy of the old UI approach was that the user wants to see all information all the time. Instead of building UIs that responded to the way that people actually interacted with the tool, the user interface opened up all possible choices at all times. Naturally, this is completely overwhelming and confusing to people.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The result of the users are stupid/let&#39;s show all the choices paradigm ends up being, unfortunately, that even if users are smart enough to use these interfaces, they often end up feeling stupid when they can&#39;t figure out how to use bloated UIs. Sadly, many of these UIs make software so difficult to grok that we become frustrated using them, and often simply choose not use them.&lt;/p&gt;
+&lt;p&gt;The strategy of innovating interface elements based on usage and using simpler, contextual interfaces is the antithesis of the old paradigm, and is what is offered to rescue users from the flood of choices in lazily designed interfaces.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The new interfaces are winning people over because they are based on usage patterns instead of choices. The key thing about new UIs is that they are contextual - presenting the user with minimal components and then changing in reaction to user gestures. Thanks to Apple, we have seen a liberating movement towards simplistic, contextual interfaces. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Alex tells the story of something his boss once told him, declaring that user interface are cheap. What the boss meant was, that &#34;the UI is so essential and so important to get right that you shouldn’t just reuse code and widgets.&#34;&lt;/p&gt;
+&lt;p&gt;Iskold points to Apple&#39;s ability to continually innovate on its interface, but points out that the use of contextual interfaces has increased on the web due to the use of the richer set of interactions provided by AJAX and RIA tools such as Flash. The example that many of us have commonly use are the controls provided by flash video sites when we hover over video players (e.g. in YouTube, Vimeo, etc.). These players hide the controls for viewing embedding options, related videos, etc. until you make the conscious decision to move the mouse over the video. Use of AJAX to make expert features available via expanding/collapsing and hiding/displaying design patterns are another example of contextual controls that can be provided nearby when needed.&lt;/p&gt;
+&lt;p&gt;Some of the innovations using contextual controls even break the traditional rules for how these controls work, but in the new model, this is done to provide emphasis to function over form. In the eyes of interface designers, the belief seems to be, &#34;when an efficiency can be provided by breaking the rules, why not do it?&#34;&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://alexiskold.wordpress.com/2008/05/15/the-rise-of-contextual-user-interfaces/&#34;&gt;http://alexiskold.wordpress.com/2008/05/15/the-rise-of-contextual-user-interfaces/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get Out And Play</title>
+      <link>http://localhost:1313/blog/get-out-and-play/</link>
+      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/get-out-and-play/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3080/2489521621_a7c07f9a43_o.png&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Nokia ngage &lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;Get Out and Play&lt;/a&gt; site features some fun stop motion animation, a sick Breakout game using people, and the game Snake played out as an animation of 1,000 people. This is brilliant. Don&#39;t miss it.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.get-out-and-play.com/index.php&#34;&gt;http://www.get-out-and-play.com/index.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

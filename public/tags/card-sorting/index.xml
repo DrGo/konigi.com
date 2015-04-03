@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Card Sorting on Konigi</title>
+    <link>http://localhost:1313/tags/card-sorting/</link>
+    <description>Recent content in Card Sorting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/card-sorting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>xSort: Free card sorting application for Mac OS</title>
+      <link>http://localhost:1313/blog/xsort-free-card-sorting-application-mac-os/</link>
+      <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/xsort-free-card-sorting-application-mac-os/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.xsortapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1364&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48d7818199ddc.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.xsortapp.com/&#34;&gt;xSort&lt;/a&gt; is a card sorting application for researchers and information architects that want to get a better idea of their users&amp;rsquo; mental models for any given application or task. The software is free and works on Mac OS X.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.xsortapp.com/&#34;&gt;http://www.xsortapp.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

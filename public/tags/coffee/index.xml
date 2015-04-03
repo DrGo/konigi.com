@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on Konigi</title>
+    <link>http://localhost:1313/tags/coffee/</link>
+    <description>Recent content in Coffee on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clover Innovates the Coffee Maker</title>
+      <link>http://localhost:1313/blog/clover-innovates-coffee-maker/</link>
+      <pubDate>Sun, 20 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/clover-innovates-coffee-maker/</guid>
+      <description>&lt;p&gt;The $11,000 &lt;a href=&#34;http://www.cloverequipment.com/home/&#34;&gt;Clover Coffee Maker&lt;/a&gt; brews one cup of coffee at a time using a method similar to a French Press, but with the ability to customize water volume and temperature per cup. The machine is programmable and has a network connection, so the machine can use brewing parameters for specific roasts. Check the video below for the Clover in action. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/zAEagZRoXPY&amp;amp;hl=en&amp;amp;fs=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/zAEagZRoXPY&amp;amp;hl=en&amp;amp;fs=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; width=&#34;425&#34; height=&#34;344&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;According to Wired Magazine, Howard Schultz, the founder of Starbucks described the coffee by saying, &#34;In my 25 years at Starbucks, the Clover machine unquestionably delivers the best cup of brewed coffee I have ever tasted.&#34; Schultz tried his first cup after seeing a line formed outside of &lt;a href=&#34;http://www.cafegrumpy.com/&#34;&gt;Cafe Grumpy&lt;/a&gt; in Chelsea. The company later bought out the Coffee Equipment Company, which makes the Clover, and will be testing them in Starbucks coffee shops. Shultz, who has retaken the position of CEO is hoping to restore the original idea of Starbucks, and support the the heritage of coffee at their shops. They will be making changes like grinding beans in store, and getting rid of the breakfast sandwiches.&lt;/p&gt;
+&lt;p&gt;The Clover seems to have an almost cult-like following. What I like most about this story is the history and back story of the Coffee Equipment Company. The company was started by Zander Nosler, a former product designer at IDEO, with the purpose of perfecting the single-brew coffee machine, based on research he did designing a commercial machine while at IDEO. This single idea led to the realization of a machine that produced unmatched quality in a cup of coffee that no other machine had, by focusing on delivering one cup at a time with very controlled customization of the brewing process. That attention to this process produced this $11,000 machine that indie shops and wealthy coffee connoisseurs were apparently happily paying for to make the perfect cup.&lt;/p&gt;
+&lt;p&gt;The Clover is no longer for sale to indie shops and individuals. It will be manufactured for Starbucks only in the future. For more about the Clover Coffee Machine, check out the August issue of Wired. &lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://cloverequipment.com/home/&#34;&gt;http://cloverequipment.com/home/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifestos on Konigi</title>
+    <link>http://localhost:1313/tags/manifestos/</link>
+    <description>Recent content in Manifestos on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/manifestos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>100 Years of Design Manifestos</title>
+      <link>http://localhost:1313/blog/100-years-design-manifestos/</link>
+      <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/100-years-design-manifestos/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://backspace.com/notes/2009/07/design-manifestos.php#more&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1839&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a68880734616.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Social Design Notes has collected a &lt;a href=&#34;http://backspace.com/notes/2009/07/design-manifestos.php&#34;&gt;list of design manifestos&lt;/a&gt; from the past 100 years, largely drawn from Mario Piazza’s &lt;a href=&#34;http://sdz.aiap.it/notizie/11326&#34;&gt;presentation&lt;/a&gt; at the Più Design Può conference in Florence. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Since the days of radical printer-pamphleteers, design and designers have a long history of fighting for what’s right and working to transform society. The rise of the literary form of the manifesto also parallels the rise of modernity and the spread of letterpress printing.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Via &lt;a href=&#34;http://www.core77.com/blog/object_culture/100_years_of_design_manifestos_14117.asp&#34;&gt;Core77&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://backspace.com/notes/2009/07/design-manifestos.php#more&#34;&gt;http://backspace.com/notes/2009/07/design-manifestos.php#more&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

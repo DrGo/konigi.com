@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concept Models on Konigi</title>
+    <link>http://localhost:1313/tags/concept-models/</link>
+    <description>Recent content in Concept Models on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/concept-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>When Sitemaps Don&#39;t Work: Two Alternatives</title>
+      <link>http://localhost:1313/blog/when-sitemaps-dont-work-two-alternatives/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/when-sitemaps-dont-work-two-alternatives/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jounce.net/blog/2009/jan/28/when-sitemaps-dont-work-two-alternatives/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1497&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49999b9d531cb.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Interesting discussion in M. Jackson Wilkinson&amp;rsquo;s blog about the &lt;a href=&#34;http://jounce.net/blog/2009/jan/28/when-sitemaps-dont-work-two-alternatives/&#34;&gt;altnernatives to hierarchical sitemaps&lt;/a&gt;, and the use of concept maps or user flows as alternatives when hierarchy doesn&amp;rsquo;t work in your documentation. &lt;/p&gt;
+&lt;p&gt;I have to agree with one point, in that site maps don&amp;rsquo;t always serve documentation well when the notion of a strict hierarchy just doesn&amp;rsquo;t exist. But I think there&amp;rsquo;s utility in sitemaps at conveying the organization of a site or application at some level. It may be a very high level visualization that maps concept model/mental models to navigation or application menus, and provides a way for a team to visualize the connections between what the user sees and what the system represents in UI. &lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t do sitemaps very often anymore, especially when working on application design. They get you far enough in terms of conveying a 1,000 foot view of the landscape, but the meat of the documentation seems to be in uncovering topography. And that can be the stuff of quite a few deliverable types, including user flows, use cases. A nice list of deliverables that might be suitable is in Peter Morvilles&amp;rsquo; &lt;a href=&#34;user-experience-deliverables.html&#34;&gt;UX Deliverables run down&lt;/a&gt;. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jounce.net/blog/2009/jan/28/when-sitemaps-dont-work-two-alternatives/&#34;&gt;http://jounce.net/blog/2009/jan/28/when-sitemaps-dont-work-two-alternatives/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Konigi</title>
+    <link>http://localhost:1313/tags/community/</link>
+    <description>Recent content in Community on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>99u Conference Notes: Quirky Studio Visit with Ben Kaufman</title>
+      <link>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
+      <description>&lt;p&gt;A group of &lt;a href=&#34;http://conference.99u.com/&#34;&gt;99u attendees&lt;/a&gt; had a visit with Ben Kaufman, the CEO/founder of product development company &lt;a href=&#34;https://www.quirky.com/&#34;&gt;Quirky&lt;/a&gt;, who gave us a look into how his company uses crowd-sourcing to deliver products. Here are some of my notes from that visit. More 99u notes to follow.&lt;/p&gt;
+
+&lt;p&gt;Kaufman got his start as an inventor in high school when he made a lanyard to hold an iPod shuffle. The company he started to ship this product later morphed into Mophie, the maker of the JuiceBox battery case. He later sold that company to start Quirky. His wanted to take all of the pain and learning he went through designing, developing and shipping a product to the masses, so that anyone with a great idea could become an inventor and let someone else handle the rest.&lt;/p&gt;
+
+&lt;p&gt;Their mission is to &amp;quot;Make invention accessible.&amp;quot; What they do beyond helping people see if their ideas are unique and viable, is provide an infrastructure and experts for the entire process of design, development, marketing, and fulfillment.&lt;/p&gt;
+
+&lt;p&gt;Kaufman began his talk with a story comparing the Empire State Building, which took 410 days to complete, with a potato peeler that took 3 years to complete. His point is that having more time to deliver a product doesn&#39;t always lead to better quality. Quirky works in 11 week sprints, and ships 3 new crowd-sourced products every week. To further make his point, he talked about the difference between invention vs. tweaking, and had us look back 100 years ago to the Model T, which gave us a 17mpg automobile in 1909. Fast forward to 2009, and the most popular truck, a Ford, is giving us 16 MPG.&lt;/p&gt;
+
+&lt;p&gt;Quirky makes it possible for anyone to submit ideas. They&#39;re known for helping a teenager bring Pivot Power, a flexing power strip, to the world and making the inventor over a million dollars. Now their intellectual property partnership with GE has allowed them to bring someone&#39;s idea about making air conditioners smarter to save the world&#39;s energy into a reality too. He gave us a look at how the company and their extensive community selects products for manufacturing using weekly community meetings, their web site to manage the decision-making and evolution of ideas. They have an open community-driven selection process. Somehow the Hollywood pitch in my mind is product development shop meets American Idol. They even use a bit of game mechanics to drive product name selection. The profits are shared among everyone who participates in the process.&lt;/p&gt;
+
+&lt;p&gt;Their founder&#39;s passion and company culture feel genuine. They believe in their people, and in no-bullshit core values. I can&#39;t recall what all of their 5 core values were, but among them were impatience, agility, and getting shit done. They actually use those for evaluation. It was great to get a peek into how they take ideas that we&#39;re familiar with in software development, and push them to the limit in manufacturing. They change the status quo and what&#39;s the most interesting part is not so much their output (and their fantastic prototyping facility), but how they&#39;re running a business with so many projects constantly running and so many products shipping given the real world obstacles in manufacturing, which accounts for the slow pace at which the world usually delivers products.&lt;/p&gt;
+
+&lt;p&gt;In addition to the 11 week sprints, they have 3 blackout periods where they close the offices entirely and no one works. No one even answers the phones. They have a big office party the night before every blackout starts (blackout before the blackout I guess). They don&#39;t have set vacation day policies, but everyone is expected to take 3-4 weeks of time off.&lt;/p&gt;
+
+&lt;p&gt;Takeaways:&lt;br /&gt;
+&lt;ul&gt;&lt;br /&gt;
+&lt;li&gt;Utilize constraints and speed to push product quality&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Rely on the wisdom of community&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Believe and value your people—passion is intrinsic to culture&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;See also these &lt;a href=&#34;http://99u.com/articles/6450/7-tips-for-rapid-iteration-aka-the-quirky-approach&#34;&gt;tips from Kaufman for rapid iteration&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;hr&gt;&lt;div class=&#34;screens-thumbs clearfix mb1-5&#34;&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-1.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-1.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-2.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-2.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-3.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-3.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-4.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-4.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://media.konigi.com/notebook/quirky-5.jpg&#34; rel=&#34;group&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/quirky-5.jpg&#34; alt=&#34;&#34; class=&#34;thumb&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;
+  &lt;a href=&#34;https://www.quirky.com/&#34;&gt;https://www.quirky.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Usabilla Discover</title>
+      <link>http://localhost:1313/tools/submissions/usabilla-discover/</link>
+      <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/usabilla-discover/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://discover.usabilla.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2791&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230d6b0e1d02_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://discover.usabilla.com/&#34;&gt;Usabilla Discover&lt;/a&gt; is like a mashup of Pinterest and LittleBigDetails, or maybe it&amp;rsquo;s a social LittleSnapper. Whatever the pitch, it&amp;rsquo;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Note: To get in during the beta, &lt;a href=&#34;http://discover.usabilla.com/?invite&#34;&gt;sign up here with code &amp;quot;KONIGI&amp;quot;&lt;/a&gt;, good for the first 200 who use the code.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://discover.usabilla.com/&#34;&gt;http://discover.usabilla.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>You can now post Mockups to UX.StackExchange.com</title>
+      <link>http://localhost:1313/blog/you-can-now-post-mockups-uxstackexchangecom/</link>
+      <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/you-can-now-post-mockups-uxstackexchangecom/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2557&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4f4b9c9c3be5c_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I&amp;rsquo;m pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange.  You can now post Mockups wireframes with questions and answers to &lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;UX.StackExchange.com&lt;/a&gt; using the free integrated Mockups editor. &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I&amp;rsquo;ve wanted to use for a long time&amp;ndash;a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals. I&amp;rsquo;m of the &amp;ldquo;show me, don&amp;rsquo;t tell me&amp;rdquo; school of communication. Luckily the excellent UX version of StackExchange was created, and Mockups had the plugin model to integrate with it nicely, so lazyweb wishes can happen without even asking. &lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a bit from &lt;a href=&#34;http://blogs.balsamiq.com/product/2012/02/27/uxstackexchange/&#34;&gt;our announcement&lt;/a&gt; at Balsamiq:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;If you don&amp;rsquo;t know what &lt;a href=&#34;http://www.stackexchange.com/&#34;&gt;StackExchange&lt;/a&gt; is, you&amp;rsquo;ve been missing out. It&amp;rsquo;s a collection of community-edited and moderated question and answer websites, each dedicated to becoming the single best online resource on a number of different topics. The most famous StackExchange site is &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;StackOverflow.com&lt;/a&gt;, the ultimate Q&amp;amp;A site for programming questions. Other popular StackExchange sites are &lt;a href=&#34;http://startups.stackexchange.com/&#34;&gt;Startups.StackExchange.com&lt;/a&gt; or &lt;a href=&#34;http://english.stackexchange.com/&#34;&gt;English.StackExchange.com&lt;/a&gt;, about the English Language and its Usage. See a full list &lt;a href=&#34;http://stackexchange.com/sites&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;About a month ago we were excited to see that &lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;UX.StackExchange.com&lt;/a&gt; launched publicly, and thanks to the long beta period had already become a wonderful resource for anyone interested in creating better software.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Some users had been posting Mockups to the site, and finally user Moshe Berman posted &lt;a href=&#34;http://meta.ux.stackexchange.com/questions/647/can-stackexchange-license-balsamiq-for-mockups-on-ux-stackexchange&#34;&gt;this question&lt;/a&gt; asking if the site could license Mockups. Peldi got a message from Joel Spolsky, the two groups iterated on ideas in myBalsamiq, and the rest is history.&lt;/p&gt;
+&lt;p&gt;You can find out more about how to &lt;a href=&#34;http://blogs.balsamiq.com/product/2012/02/27/uxstackexchange/&#34;&gt;use Mockups in the UX StackExchange&lt;/a&gt; in our blog and in &lt;a href=&#34;http://meta.ux.stackexchange.com/questions/647/can-stackexchange-license-balsamiq-for-mockups-on-ux-stackexchange/781#781&#34;&gt;this thread on UX.SE&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ux.stackexchange.com/&#34;&gt;http://ux.stackexchange.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>visualizing.org</title>
+      <link>http://localhost:1313/blog/visualizingorg/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/visualizingorg/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.visualizing.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2443&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4cab6879a13b1_large_1.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote&gt;It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues.  Visualizing is also a free resource to search for data. Use Visualizing to keep up with and be inspired by the latest work from other designers and design schools. You can learn about new visualization tools, blogs, books and other resources here.&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;Visit &lt;a href=&#34;http://visualizing.org/&#34;&gt;visualizing.org&lt;/a&gt; and share your work or get data to start participating.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.visualizing.org/&#34;&gt;http://www.visualizing.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Interface Stack Exchange</title>
+      <link>http://localhost:1313/blog/user-interface-stack-exchange/</link>
+      <pubDate>Wed, 25 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-interface-stack-exchange/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://ui.stackexchange.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2431&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4c7521f44d003_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://ui.stackexchange.com/&#34;&gt;User Interface Stack Exchange&lt;/a&gt; is a free, community driven Q and A site for user interface researchers and experts. It was created through the open democratic process defined at Stack Exchange Area 51, part of the Stack Exchange Network and Stack Overflow. Help out by registering and contributing your expertise.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ui.stackexchange.com/&#34;&gt;http://ui.stackexchange.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2763&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52306d9d14e90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;http://www.conceptfeedback.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Build It With Me Connects App Designers and Builders</title>
+      <link>http://localhost:1313/blog/build-it-me-connects-app-designers-and-builders/</link>
+      <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/build-it-me-connects-app-designers-and-builders/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.builditwith.me/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2221&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b2118e56a283_large_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Build It With Me is a free site that connects like-minded designers &amp;amp; developers with the same goal: create cool &amp;amp; useful apps.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote&gt;Getting funding for your app idea is hard and often unrealistic. Most of the time you may just need to connect with a partner who has a skill set you lack to finish off your app. This is where Build It With Me is comes in, connecting you to those people. Skip the funding. Build It With Me will help you bootstrap your ideas into actual apps.&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.builditwith.me/&#34;&gt;Check it.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.builditwith.me/&#34;&gt;http://www.builditwith.me/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UX Exchange</title>
+      <link>http://localhost:1313/blog/ux-exchange/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ux-exchange/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxexchange.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1918&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4ade06808544c_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://uxexchange.com/&#34;&gt;UX Exchange&lt;/a&gt; is a Q&amp;amp;A site for user experience professionals, modeled after the programming Q&amp;amp;A site &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;. Users post questions, reply with answers and vote questions and answers up and down.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://uxexchange.com/&#34;&gt;http://uxexchange.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Designers: A community of practice for design &amp; user experience people in Open Source</title>
+      <link>http://localhost:1313/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</link>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.designintheopen.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1773&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a421b0645a4e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Leisa Reichelt has started a Ning community for &lt;a href=&#34;http://www.designintheopen.org/&#34;&gt;designers contributing to open source projects&lt;/a&gt;. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;If you’re doing design &amp;amp; user experience work in an open source community, then chances are we have a lot in common – no matter what community we’re working in. We have some big challenges every day, but we also know that if we can overcome those challenges we can make a really big contribution to the sustainability and increased popularity of open source software.&lt;/p&gt;
+&lt;p&gt;The purpose of this site is to create a space where we can come together to share our experiences, to ask each other questions, to compare notes and to promote the projects we’re working on and help get some extra eyes on our work – and to act as a support network.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I like the initial discussion Leisa started about &lt;a href=&#34;http://www.designintheopen.org/forum/topics/best-ways-for-uxdesigners-to&#34;&gt;how to contribute to Open Source design&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.designintheopen.org/&#34;&gt;http://www.designintheopen.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback</title>
+      <link>http://localhost:1313/tools/submissions/concept-feedback/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/concept-feedback/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2763&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52306d9d14e90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Concept Feedback.com is a free community where designers and developers can exchange feedback on design projects. Registered users have the ability to post marketing concepts for free. Concepts may include, but are not limited to, websites, logos, newsletters, landing pages, advertisements and videos. &lt;/p&gt;
+&lt;p&gt;Reviewers can offer constructive feedback on each concept using a proprietary feedback tool. Feedback is automatically collected and archived for the user to help improve the final concept and get better results. In addition to a distinctive professional network, registered users have the capability to post concepts privately, for secure review by clients, co-workers, and friends.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;http://www.conceptfeedback.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>undrln</title>
+      <link>http://localhost:1313/blog/undrln/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/undrln/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.undrln.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1424&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49493243bb370.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.undrln.com/&#34;&gt;underln&lt;/a&gt; is a really simple vote to promote site by smashLAB to scoop any topic or site related to the fields of advertising, marketing, and design. Only 2 inputs: title and URL, and only Title is required.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.undrln.com/&#34;&gt;http://www.undrln.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UX Book Club</title>
+      <link>http://localhost:1313/blog/ux-book-club/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ux-book-club/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxbookclub.org/doku.php&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1417&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt493414b745591.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;A &lt;a href=&#34;http://uxbookclub.org/doku.php&#34;&gt;UX (User Experience) Book Club&lt;/a&gt; is a get-together in which people interested in the area of user experience come to discuss a book relevant to the discipline. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://uxbookclub.org/doku.php&#34;&gt;http://uxbookclub.org/doku.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Email Standards Project</title>
+      <link>http://localhost:1313/blog/email-standards-project/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/email-standards-project/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1398&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt491a17f102c8c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.email-standards.org/&#34;&gt;Email Standards Project&lt;/a&gt; is a community effort to ensure that emails render consistently. Similar to the Web Standards Project, the Email Standards Project community works with email client developers and the design community to improve web standards support and accessibility in email.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;http://www.email-standards.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Product Planner - View and Create User Flows, Viral Loops, and More.</title>
+      <link>http://localhost:1313/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</link>
+      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</guid>
+      <description>&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://productplanner.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1531&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49b7029178fa2.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://productplanner.com/&#34;&gt;Product Planner&lt;/a&gt; is one an brilliant idea. Deconstruct the user flow of web sites, illustrate the flow with annotated screenshot flowcharts, allow users to copy the flow and reuse on the site. Like Konigi, this does a great job of capturing examples of alternative approaches to interaction, showcases them for you to compare, and allows you to select the best examples to learn from and inform you of approaches you may not have thought of. Excellent.&lt;/p&gt;
+&lt;p&gt;Here&#39;s an example flow chart of a sign up loop.&lt;/p&gt;
+&lt;div class=&#34;video&#34; style=&#34;text-align:center&#34;&gt;
+&lt;div style=&#34;width:425px;text-align:left&#34;&gt;&lt;a style=&#34;text-align:center; width:425px;&#34;&gt;&lt;a style=&#34;font:14px;font-family:Arial,Sans-serif;display:block;margin:5px;text-decoration:underline;&#34; href=&#34;http://productplanner.com/gallery/twitter/sign_up_loop_new&#34; title=&#34;Sign Up Loop - New&#34;&gt;Sign Up Loop - New&lt;/a&gt;&lt;/p&gt;
+&lt;object width=&#34;425&#34; height=&#34;375&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; data=&#34;http://www.productplanner.com/static/main.swf&#34; style=&#34;visibility: visible;&#34;&gt;&lt;param name=&#34;flashvars&#34; value=&#34;&amp;flowXML=%3Cflow%20layout%3D%22loop%22%3E%0D%0A%3Csteps%20%3E%0D%0A%3Cstep%20id%3D%2273%22%20name%3D%22Contact%20receives%20email%20invite%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/95f/c41/388/a41/946/3ef/f7d/d17/2c3/c95/843/633/5aeb.png%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2276%22%20name%3D%22Contact%20views%20email%20invite%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/309/786/c27/ec5/7ca/5e1/181/01a/150/b62/d84/356/1cbb.png%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2277%22%20name%3D%22Contact%20clicks%20email%20link%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/8ea/0e6/cb8/81b/9db/156/dee/4db/4c2/6d6/43e/6c1/81db.png%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2257%22%20name%3D%22Contact%20fills%20out%20sign%20up%20form%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/d7b/468/69c/5f1/0fe/f31/065/b43/d43/0d9/533/a22/b59f.jpg%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2284%22%20name%3D%22Contact%20finds%20existing%20friends%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/3d3/18e/bc1/dc4/1fe/c79/0ad/72f/fc9/72b/c0e/fc0/8687.jpg%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2285%22%20name%3D%22Contact%20adds%20existing%20friends%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/6d1/c2e/ad8/2b1/f82/d08/ff7/c40/cf0/b88/124/178/5f2b.jpg%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3Cstep%20id%3D%2266%22%20name%3D%22Contact%20invites%20friends%22%20icon_url%3D%22%22%20image_url%3D%22http%3A//productplanner.com/static/uploads/df9/f55/210/506/d8b/3b7/07f/020/237/508/ffa/5a1/05bc.jpg%22%20custom_image%3D%221%22%3E%3C/step%3E%0D%0A%3C/steps%3E%0D%0A%3C/flow%3E&amp;baseURL=http%3A//productplanner.com/&amp;embedded=1&amp;viewURL=http%3A//productplanner.com/gallery/twitter/sign_up_loop_new&#34;/&gt;&lt;/object&gt;&lt;div style=&#34;font-family:Tahoma,Arial;font-size:11px;height:26px;padding-top:2px;&#34;&gt;View more &lt;a style=&#34;text-decoration:underline;&#34; href=&#34;http://productplanner.com/gallery/twitter&#34; title=&#34;Twitter&#34;&gt;Twitter&lt;/a&gt; user flows.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://productplanner.com/&#34;&gt;http://productplanner.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sumopaint.com beta - Image Editing in the Browser</title>
+      <link>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</link>
+      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sumopaintcom-beta-image-editing-browser/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1383&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48f4b57bab96e_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;Sumopaint&lt;/a&gt;, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. &lt;/p&gt;
+&lt;p&gt;This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing. On the surface this appears to be only a Photoshop-like tool, but if you were to leverage the community and versioning features, the possibilities for a flexible tool like this become pretty interesting. Check it out.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sumopaint.com/&#34;&gt;http://www.sumopaint.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

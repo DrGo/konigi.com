@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Konigi</title>
+    <link>http://localhost:1313/tags/testing/</link>
+    <description>Recent content in Testing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AirServer: Airplay receiver for iOS devices</title>
+      <link>http://localhost:1313/tools/submissions/airserver-airplay-receiver-ios-devices/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/airserver-airplay-receiver-ios-devices/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.airserverapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2693&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fc2a9d3fa1_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.airserverapp.com/&#34;&gt;AirServer&lt;/a&gt; is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Thanks to &lt;a href=&#34;http://kevnull.com/&#34;&gt;Kevin Cheng&lt;/a&gt; for the tip!&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.airserverapp.com/&#34;&gt;http://www.airserverapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Reflector.app: iOS AirPlay mirroring to computer</title>
+      <link>http://localhost:1313/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/reflectorapp-ios-airplay-mirroring-computer/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://www.reflectorapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2696&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fc6286a649_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://www.reflectorapp.com/&#34;&gt;Reflector&lt;/a&gt; lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;@dakotareese tipped me that some users report problems using apps that hack into Airplay. &lt;a href=&#34;http://forums.macrumors.com/showthread.php?t=1410984&#34;&gt;More info here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://www.90percentofeverything.com/&#34;&gt;90poe&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.reflectorapp.com/&#34;&gt;https://www.reflectorapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>BrowserStack: Cross-Browser Testing Tool</title>
+      <link>http://localhost:1313/tools/submissions/browserstack-cross-browser-testing-tool/</link>
+      <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/browserstack-cross-browser-testing-tool/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/browserstack.png&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.browserstack.com/&#34;&gt;Browserstack&lt;/a&gt; allows you to stop relying on screenshot web apps or using multiple virtual machines to do your testing. The service gives you remote, web-based, VNC screen sharing using the web browser you choose, so you can test your web sites and apps in real time rather than relying on static screen comparisons.&lt;/p&gt;
+&lt;p&gt;Enter a URL to test, and select a target browser in the version of your choosing and screen resolution. A VNC connection is opened inside the web app, giving you remote control of the target browser. You test your pages in real time via the VNC screen share, and each browser is configured with developer testing tools (Firebug, Chrome Developer Tools, IE Testing Tools, etc.). The service also allows you to set up a tunnel to test your local server or html pages in their remote browser.&lt;/p&gt;
+&lt;p&gt;Pre-paid, metered plans are available at 10 or 30 hours, or buy monthly or annual plans for unlimited, unmetered testing. &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve never been a fan of screen-capturing testing tools, except for single-use tests like the email newsletter testing. I use multiple VMs running IE browsers mainly. BrowserStack looks worth the money if you&amp;rsquo;re tired of constantly installing and switching VMs. I know I am. I&amp;rsquo;ve been doing a trial for the web app I&amp;rsquo;m working on and the time savings looks worth it to me. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://browserstack.com/&#34;&gt;http://browserstack.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/concept-feedback-website-review-community/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2763&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52306d9d14e90_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.conceptfeedback.com/&#34;&gt;http://www.conceptfeedback.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Google Browser Size</title>
+      <link>http://localhost:1313/tools/submissions/google-browser-size/</link>
+      <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/google-browser-size/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://browsersize.googlelabs.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2719&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fee1da71bf_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://browsersize.googlelabs.com/&#34;&gt;Google Browser Size&lt;/a&gt; is a visualization of browser window sizes for web sites. Enter a URL into the app, and the page is displayed behind an overlay showing the percentage of browser users who are able to view the visible portion, based on their browser&amp;rsquo;s available viewport size, and their display&amp;rsquo;s screen resolution. For example, the &amp;quot;90%&amp;quot; contour means that 90% of people visiting the site have their browser window open to at least this size or larger.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://browsersize.googlelabs.com/&#34;&gt;http://browsersize.googlelabs.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to CSS support in email clients</title>
+      <link>http://localhost:1313/tools/submissions/guide-css-support-email-clients/</link>
+      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/guide-css-support-email-clients/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2723&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fef098f5ec_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Campaign Monitor provides a &lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;table showing the level of CSS support in the 23 different email clients&lt;/a&gt; they test, and covers all the popular applications across desktop, web and mobile email. The web-based version of the guide focusses on the 10 most popular email clients on the market, and they provide a complete report on all 23 email clients in PDF format.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;http://www.campaignmonitor.com/css/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Litmus Browser Testing Software</title>
+      <link>http://localhost:1313/blog/litmus-browser-testing-software/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/litmus-browser-testing-software/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/litmus-mac-app.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;Litmus&lt;/a&gt; is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.&lt;/p&gt;
+&lt;p&gt;They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above. This looks like it will be a great service for small teams or individuals. Doing my test with 2 browsers brought back screenshots within a minute or 2.&lt;/p&gt;
+&lt;p&gt;They offer flexible plans, e.g. a 1 day pass, and subscription plans that are downgraded retain screenshots of previous tests. If your pressed for time, or don&amp;rsquo;t want to fire up that VM, this looks like the service to beat.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;http://litmusapp.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Litmus: Test your email and website designs</title>
+      <link>http://localhost:1313/tools/submissions/litmus-test-your-email-and-website-designs/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/litmus-test-your-email-and-website-designs/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2810&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231443ef3f03_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Litmus &lt;a href=&#34;http://litmusapp.com/&#34;&gt;provides testing of web sites and email messages&lt;/a&gt; across all browser and email platforms for a fee.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;http://litmusapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

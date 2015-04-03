@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics on Konigi</title>
+    <link>http://localhost:1313/tags/ethics/</link>
+    <description>Recent content in Ethics on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dark Patterns</title>
+      <link>http://localhost:1313/blog/dark-patterns/</link>
+      <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/dark-patterns/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;div style=&#34;width:610px&#34; id=&#34;__ss_5191495&#34;&gt;
+&lt;object id=&#34;__sse5191495&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=uxbrightondarkpatternspresentation2-100913110939-phpapp01&amp;amp;stripped_title=ux-brighton-dark-patterns&amp;amp;userName=harrybr&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;/&gt;&lt;embed name=&#34;__sse5191495&#34; src=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=uxbrightondarkpatternspresentation2-100913110939-phpapp01&amp;amp;stripped_title=ux-brighton-dark-patterns&amp;amp;userName=harrybr&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Harry Brignull&amp;rsquo;s &lt;a href=&#34;http://darkpatterns.org/&#34;&gt;Dark Patterns&lt;/a&gt; is a pattern library dedicated to user interfaces that have been designed to trick users into doing things they wouldn’t otherwise have done. He describes the site he created to address this issue:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Dark Patterns &amp;hellip; are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind. The purpose of this site is to catalogue various common types of Dark Pattern, and to name and shame organizations that use them.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Harry&amp;rsquo;s talk at UX Brighton 2010 illustrates examples of brands that are using dark patterns including opting customers in to options they didn&amp;rsquo;t explicitly choose, and adding items to their shopping carts. The talk calls for a code of ethics among professionals in the user interface design industries, and for professional associations to acknowledge that these practices are unethical. This does seem to me as simple a principle as a professional and professional association could adopt, in keeping with the familiar phrase from the principle of ethics for Medicine, &amp;ldquo;First, do no harm.&amp;rdquo;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://darkpatterns.org/&#34;&gt;http://darkpatterns.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grid on Konigi</title>
+    <link>http://localhost:1313/tags/grid/</link>
+    <description>Recent content in Grid on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/grid/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Graph Paper</title>
+      <link>http://localhost:1313/tools/graph-paper/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/graph-paper/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;h3&gt;About&lt;/h3&gt;
+&lt;p&gt;This 8.5 x 11 inch graph paper is made for visual designers, interaction designers, and information architects. You&#39;ll find styles for wireframing user interfaces, and story boarding interaction. I&#39;ve been told that it&#39;s also used by animators and filmmakers. Enjoy.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;h3&gt;Scanning&lt;/h3&gt;
+&lt;p&gt;These cyan and gray grid pages are great for sketching, but also work well when producing high fidelity drawings. The boxes and grid lines of the cyan versions are non-photo blue, so you can easily remove them when scanned. The gray works better if you like more prominent grid lines.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;h3&gt;Download&lt;/h3&gt;
+&lt;p&gt;
+&lt;strong&gt;&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/konigi-graphpaper-pdf.zip&#34; class=&#34;morelink&#34;&gt;Download all of the PDF files.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; class=&#34;mar0 pad0&#34;&gt;
+&lt;input type=&#34;image&#34; src=&#34;https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;&#34;  class=&#34;mar0 pad0 border-none paypal&#34; /&gt;
+&lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34; class=&#34;mar0 pad0&#34; /&gt;
+&lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;2318535&#34; class=&#34;mar0 pad0&#34; /&gt;
+&lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypal.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34; class=&#34;mar0 pad0&#34; /&gt;
+&lt;/form&gt;
+&lt;span class=&#34;t10&#34;&gt;These templates are free to use and distribute, but may not be sold without permission. If you like it, buy me a coffee or make a donation to keep my server running. ;)&lt;/span&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34; id=&#34;wireframe&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-cyan.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-cyan-thumb.png&#34; alt=&#34;&#34; class=&#34;thumb img-responsive&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+&lt;h3&gt;Wireframe with Notes&lt;/h3&gt;
+&lt;p&gt;This is a wireframe grid divided into 24 columns with gutters between each column. The grid is especially useful to designers who are working within a CSS framework such as &lt;a href=&#34;http://code.google.com/p/blueprintcss/&#34;&gt;Blueprint&lt;/a&gt;, which also divides its grid into 24 units, so setting up common divisions is easy (1/4 + 3/4, 1/3 x 3, 1/3 + 2/3, 1/2 x 2, etc.). 1/4 column divisions are marked along the top of the grid, and 1/3 columns are marked on the bottom. There&#39;s also a 1/2 division on the side, which makes it easy to split the grid into 4 quadrants for plotting values on a 2x2 graph. To the right is a ruled column for adding labels and annotations.&lt;/p&gt;
+&lt;p&gt;Preview in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-cyan.png&#34; class=&#34;group&#34; rel=&#34;group-wf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-gray.png&#34; class=&#34;group&#34; rel=&#34;group-wf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download wireframe and notes paper in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-wireframe-cyan.pdf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-wireframe-gray.pdf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34; id=&#34;wireframe-portrait&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-portrait-cyan.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-portrait-cyan-thumb.png&#34; alt=&#34;&#34; class=&#34;thumb img-responsive&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+&lt;h3&gt;Wireframe (Portrait)&lt;/h3&gt;
+&lt;p&gt;The grid in this graph paper is identical to the wireframe paper above, but the notes section is removed to make room for a larger (taller) page schematic. Like the landscape wireframe grid, this one provides 1/4 and 1/3 divisions, but they&#39;re all marked at the top of the grid. Title/project and date areas are provided at the bottom.&lt;/p&gt;
+&lt;p&gt;Preview in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-portrait-cyan.png&#34; class=&#34;group&#34; rel=&#34;group-wfportrait&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-wireframe-portrait-gray.png&#34; class=&#34;group&#34; rel=&#34;group-wfportrait&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download wireframe paper in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-wireframe-portrait-cyan.pdf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-wireframe-portrait-gray.pdf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34; id=&#34;8up&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-8-up-cyan.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-8-up-cyan-thumb.png&#34; alt=&#34;&#34; class=&#34;thumb img-responsive&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+&lt;h3&gt;8-Up&lt;/h3&gt;
+&lt;p&gt;This is a sheet with 8 grid boxes for doing fast thumbnail sketches or &lt;a href=&#34;http://www.quora.com/Todd-Zaki-Warfel/Adaptive-Path/answers&#34;&gt;6-8-5 sketch sheets&lt;/a&gt; following Tod Zaki Warfel&#39;s method of doing 6-8 sketches in 5 minutes. Each cell provides a simple grid and a rule below for a title or caption.&lt;/p&gt;
+&lt;p&gt;Preview in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-8-up-cyan.png&#34; class=&#34;group&#34; rel=&#34;group-8up&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-8-up-gray.png&#34; class=&#34;group&#34; rel=&#34;group-8up&#34;&gt;Gray&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Download the 8-Up paper &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-8-up-cyan.pdf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-8-up-gray.pdf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34; id=&#34;storyboard&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-storyboard-cyan.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-storyboard-cyan-thumb.png&#34; alt=&#34;&#34; class=&#34;thumb img-responsive&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+&lt;h3&gt;Storyboard with Notes&lt;/h3&gt;
+&lt;p&gt;This is a storyboard with 6 cells. Each cell provides a simple grid. The area beneath each cell is ruled for notes.&lt;/p&gt;
+&lt;p&gt;Preview in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-storyboard-cyan.png&#34; class=&#34;group&#34; rel=&#34;group-story&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-storyboard-gray.png&#34; class=&#34;group&#34; rel=&#34;group-story&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download storyboard paper in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-storyboard-cyan.pdf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-storyboard-gray.pdf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;div class=&#34;row&#34; id=&#34;dotgrid&#34;&gt;
+&lt;div class=&#34;columns small-12 medium-4&#34;&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-dotgrid-cyan.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-dotgrid-cyan-thumb.png&#34; alt=&#34;&#34; class=&#34;thumb img-responsive&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;columns small-12 medium-8&#34;&gt;
+&lt;h3&gt;Dot Grid&lt;/h3&gt;
+&lt;p&gt;This is a simple dot grid sheet. For best results when printing, set up your printer to print with 0&#34; margins and do not scale to fit.&lt;/p&gt;
+&lt;p&gt;Preview in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-dotgrid-cyan.png&#34; class=&#34;group&#34; rel=&#34;group-dotgrid&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/png/konigi-dotgrid-gray.png&#34; class=&#34;group&#34; rel=&#34;group-dotgrid&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download Dot Grid paper in &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-dotgrid-cyan.pdf&#34;&gt;Cyan&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/tools/graphpaper/pdf/konigi-dotgrid-gray.pdf&#34;&gt;Gray&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;!-- related grid docs --&gt;
+
+&lt;p&gt;&lt;h3&gt;More Grid Tools&lt;/h3&gt;
+&lt;p&gt;To make the most of this system, a designer can complete their process by using other templates and tools that utilize the same grid system, such as &lt;a href=&#34;omnigraffle-ux-template.html&#34;&gt;an OmniGraffle wireframe template&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;
+img.thumb {
+  display: block;
+  border: 1px solid #eee;
+  margin-bottom: 1em;
+}
+&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

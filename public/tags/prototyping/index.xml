@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping on Konigi</title>
+    <link>http://localhost:1313/tags/prototyping/</link>
+    <description>Recent content in Prototyping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
+&lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
+&lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
+Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.github.io/&#34;&gt;Check it out&lt;/a&gt;.&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;http://anijs.github.io/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>uilang</title>
+      <link>http://localhost:1313/tools/submissions/uilang/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/uilang/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;uilang&lt;/a&gt; is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &lt;/p&gt;
+&lt;pre&gt;&amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt;&lt;/pre&gt;&lt;p&gt;
+You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things. &lt;a href=&#34;http://uilang.com/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;/ht &lt;a href=&#34;https://twitter.com/leonbarnard&#34;&gt;Leon&lt;/a&gt;&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;http://uilang.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Cloudwash: Washing machine prototype by Berg</title>
+      <link>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cloudwash-washing-machine-prototype-berg/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/87522764?color=ffffff&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;I love Berg&amp;rsquo;s demo of their &lt;a href=&#34;http://vimeo.com/bergstudio/cloudwash&#34;&gt;Cloudwash smart washing machine&lt;/a&gt; concept. The company created the prototype to demonstrate how a smart networked appliance might be better designed. The video provides an excellent walkthrough of their design process.&lt;/p&gt;
+&lt;p&gt;They simplify the face, which consisted of many controls for dedicated functions, reducing that to &amp;ldquo;high value functions&amp;rdquo; only. More functionality is accessible via a smart phone app, which also integrates the device with services such as warranty and supplies management and purchasing. &lt;/p&gt;
+&lt;p&gt;I haven&amp;rsquo;t been very interested in the current offerings of smart appliances, particularly networked refrigerators and stoves, but the value of design in this concept is communicated so well that it is compelling. The future of networked appliances is also getting interesting with Google&amp;rsquo;s acquisition of Nest, for example. The greatest concern I might have for core appliances is trust in the security and reliability of these products. Maybe I just watch too much sci-fi. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/87522764&#34;&gt;http://vimeo.com/87522764&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precomposed Touch Gestures</title>
+      <link>http://localhost:1313/tools/submissions/precomposed-touch-gestures/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/precomposed-touch-gestures/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://areuswade.com/precomposed-touch-gestures/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2873&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52f3df1b3ff23_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Aureus Wade&amp;rsquo;s &lt;a href=&#34;http://areuswade.com/precomposed-touch-gestures/&#34;&gt;Precomposed Touch Gestures&lt;/a&gt; are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://areuswade.com/precomposed-touch-gestures/&#34;&gt;http://areuswade.com/precomposed-touch-gestures/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Origami: Design prototyping with Quartz Composer</title>
+      <link>http://localhost:1313/tools/submissions/origami-design-prototyping-quartz-composer/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/origami-design-prototyping-quartz-composer/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://facebook.github.io/origami/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2871&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52f3db12a3a91_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://facebook.github.io/origami/&#34;&gt;Origami&lt;/a&gt; is a free toolkit created by the Facebook Design team for &lt;a href=&#34;https://developer.apple.com/library/mac/documentation/graphicsimaging/conceptual/quartzcomposeruserguide/qc_editor/qc_editor.html&#34;&gt;Quartz Composer&lt;/a&gt;, the visual programming tool that&amp;rsquo;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&amp;rsquo;s UI allows you connect patches with wires (or tubes, if you&amp;rsquo;re familiar with that metaphor) to perform tasks or set behaviors and properties.&lt;/p&gt;
+&lt;p&gt;Jay Thrash&amp;rsquo;s video explains how to use it. Jump to 8&amp;rsquo;22&amp;rdquo; to see the demo. &lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/85578380&#34; width=&#34;500&#34; height=&#34;375&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;http://vimeo.com/85578380&#34;&gt;Prototyping with Facebook Origami&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/jaythrash&#34;&gt;Jay Thrash&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com/&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://facebook.github.io/origami/&#34;&gt;http://facebook.github.io/origami/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Protosketch</title>
+      <link>http://localhost:1313/tools/submissions/protosketch/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/protosketch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://protosketch.uistencils.com/&#34;&gt;Protosketch&lt;/a&gt; is a new free app for iOS from UI Stencils to convert sketches to interactive prototypes. The app is made to work with their sketch pads and stencils.  Sketch your screens, add them to the app, define hot areas for links, select link destinations, and prototype.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://protosketch.uistencils.com/&#34;&gt;https://protosketch.uistencils.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Mixture</title>
+      <link>http://localhost:1313/tools/submissions/mixture/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/mixture/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2706&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fd46e5b40d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;Mixture&lt;/a&gt; is a rapid prototyping and static site generation tool for Mac and Windows. It works with the Liquid templating system, supports includes and smart paths, handles HAML and SASS comilation, CSS and JS minification, and provides a simple model system for global and custom data, and supports access to form and query data in their request model. It can produce static HTML that you can push to a hosting service, and allows use of your own domain. Service integration for testing with BrowserStack and other services is planned.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;../../notebook/static-html-new-old-school.html#comment-847916430&#34;&gt;Via Ryan Riatno&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;http://mixture.io/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Hammer for Mac</title>
+      <link>http://localhost:1313/tools/submissions/hammer-mac/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/hammer-mac/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2813&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt523157b204616_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;Hammer&lt;/a&gt; is a static web site builder for the Mac that lets you build out sites quickly with no server side requirements.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hammer does includes without PHP, compiles Coffeescript to JS, SASS/SCSS to CSS, has an auto-refresh feature for never having to reload the browser, and provides some simple to use helpers. Since it knows about all of the files in your projects, you just reference names and it knows how to build out paths. It has a helper for selected link classes in your navigation elements. When you&#39;re ready to share your prototype you can upload to your own server, zip and send the Build folder, or use their own built in publishing system.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;http://hammerformac.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Redacted Font</title>
+      <link>http://localhost:1313/tools/submissions/redacted-font/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/redacted-font/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;https://github.com/christiannaths/Redacted-Font/blob/master/README.md&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2701&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fcb0bbaee8_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Christian Naths&amp;rsquo; &lt;a href=&#34;https://github.com/christiannaths/Redacted-Font&#34;&gt;Redacted&lt;/a&gt; is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and &lt;a href=&#34;http://blokkfont.com/&#34;&gt;BLOKK&lt;/a&gt; (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&amp;rsquo;t end up wider than your normal font setting.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/christiannaths/Redacted-Font&#34;&gt;Git it for free&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/christiannaths/Redacted-Font/blob/master/README.md&#34;&gt;https://github.com/christiannaths/Redacted-Font/blob/master/README.md&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Tapotype Transition Library</title>
+      <link>http://localhost:1313/tools/submissions/tapotype-transition-library/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/tapotype-transition-library/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://tapotype.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2759&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt52305e9546098_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://tapotype.com/&#34;&gt;Tapotype&lt;/a&gt; is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the &lt;a href=&#34;http://unitid.nl/2011/03/touch-application-prototypes-tap-for-iphone-and-ipad-using-adobe-fireworks/&#34;&gt;TAP&lt;/a&gt; platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tapotype.com/&#34;&gt;http://tapotype.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Text Snippets</title>
+      <link>http://localhost:1313/tools/text-snippets/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/text-snippets/</guid>
+      <description>&lt;h3&gt;About&lt;/h3&gt;
+&lt;p&gt;This is a work in progress. I&#39;m copying over my commonly used text snippets and wireframes as I go.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;People&#39;s Names, Sorted&lt;/h3&gt;
+
+&lt;div id=&#34;peoplenames&#34;&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+  &lt;h5&gt;10, First Name&lt;/h5&gt;
+  &lt;textarea rows=&#34;2&#34; class=&#34;selectall wide t10 noscroll&#34;&gt;&lt;ul&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;&lt;/textarea&gt;
+  &lt;ul&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+  &lt;h5&gt;10, Last Name&lt;/h5&gt;
+  &lt;textarea rows=&#34;2&#34; class=&#34;selectall wide t10 noscroll&#34;&gt;&lt;ul&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;&lt;/textarea&gt;
+  &lt;ul&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+  &lt;h5&gt;20, First Name&lt;/h5&gt;
+  &lt;textarea rows=&#34;2&#34; class=&#34;selectall wide t10 noscroll&#34;&gt;&lt;ul&gt;
+  &lt;li&gt;Adam Minarovich&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Andrew Rothenberg&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;David Morrissey&lt;/li&gt;
+  &lt;li&gt;Emma Bell&lt;/li&gt;
+  &lt;li&gt;Irone Singleton&lt;/li&gt;
+  &lt;li&gt;Jeffrey DeMunn&lt;/li&gt;
+  &lt;li&gt;Jeryl Prescott-Sales&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Madison Lintz&lt;/li&gt;
+  &lt;li&gt;Melissa McBride&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;&lt;/textarea&gt;
+  &lt;ul&gt;
+  &lt;li&gt;Adam Minarovich&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Andrew Rothenberg&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;David Morrissey&lt;/li&gt;
+  &lt;li&gt;Emma Bell&lt;/li&gt;
+  &lt;li&gt;Irone Singleton&lt;/li&gt;
+  &lt;li&gt;Jeffrey DeMunn&lt;/li&gt;
+  &lt;li&gt;Jeryl Prescott-Sales&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Madison Lintz&lt;/li&gt;
+  &lt;li&gt;Melissa McBride&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;columns small-12 medium-6&#34;&gt;
+  &lt;h5&gt;20, Last Name&lt;/h5&gt;
+  &lt;textarea rows=&#34;2&#34; class=&#34;selectall wide t10 noscroll&#34;&gt;&lt;ul&gt;
+  &lt;li&gt;Emma Bell&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Jeffrey DeMunn&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Madison Lintz&lt;/li&gt;
+  &lt;li&gt;Melissa McBride&lt;/li&gt;
+  &lt;li&gt;Adam Minarovich&lt;/li&gt;
+  &lt;li&gt;David Morrissey&lt;/li&gt;
+  &lt;li&gt;Jeryl Prescott-Sales&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Andrew Rothenberg&lt;/li&gt;
+  &lt;li&gt;Irone Singleton&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;&lt;/textarea&gt;
+  &lt;ul&gt;
+  &lt;li&gt;Emma Bell&lt;/li&gt;
+  &lt;li&gt;Jon Bernthal&lt;/li&gt;
+  &lt;li&gt;Sarah Callies&lt;/li&gt;
+  &lt;li&gt;Lauren Cohan&lt;/li&gt;
+  &lt;li&gt;Jeffrey DeMunn&lt;/li&gt;
+  &lt;li&gt;Danai Gurira&lt;/li&gt;
+  &lt;li&gt;Laurie Holden&lt;/li&gt;
+  &lt;li&gt;Andrew Lincoln&lt;/li&gt;
+  &lt;li&gt;Madison Lintz&lt;/li&gt;
+  &lt;li&gt;Melissa McBride&lt;/li&gt;
+  &lt;li&gt;Adam Minarovich&lt;/li&gt;
+  &lt;li&gt;David Morrissey&lt;/li&gt;
+  &lt;li&gt;Jeryl Prescott-Sales&lt;/li&gt;
+  &lt;li&gt;Norman Reedus&lt;/li&gt;
+  &lt;li&gt;Chandler Riggs&lt;/li&gt;
+  &lt;li&gt;Michael Rooker&lt;/li&gt;
+  &lt;li&gt;Andrew Rothenberg&lt;/li&gt;
+  &lt;li&gt;Irone Singleton&lt;/li&gt;
+  &lt;li&gt;Steven Yeun&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;h3&gt;Wireframe Symbols&lt;/h3&gt;
+&lt;a href=&#34;http://media.konigi.com/tools/text-snippets/text-snippets.png&#34; class=&#34;group&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/text-snippets/text-snippets.png&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://konigi.mybalsamiq.com/projects/tools/Text+Snippets.bmml&#34;&gt;Download Balsamiq BMML file&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;style type=&#34;text/css&#34;&gt;#peoplenames li {margin: 0;&amp;ldquo;}&lt;/style&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>protomoto: Prototyping and Wireframing Tool Finder</title>
+      <link>http://localhost:1313/blog/protomoto-prototyping-and-wireframing-tool-finder/</link>
+      <pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2569&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4feb6b253a5fb_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;protomoto&lt;/a&gt; is an excellent showcase of prototyping or wireframing tools created to helps designers find a tool that&amp;rsquo;s suited to the specific devices or platforms they are designing for. The site, developed by Paper &amp;amp; Equator, will be adding more filters in the future as they continue to evolve the resource, so that you can browse the tools based on features. Very cool.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;Check out protomoto&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://protomoto.com/&#34;&gt;http://protomoto.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap Fireworks</title>
+      <link>http://localhost:1313/tools/submissions/bootstrap-fireworks/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/bootstrap-fireworks/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.extendingfireworks.com/?p=133&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2756&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt523052c27920e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.extendingfireworks.com/?p=133&#34;&gt;Bootstrap Fireworks&lt;/a&gt; a UI Toolkit created Grady Kelly for &lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Twitter Bootstrap&lt;/a&gt;, the HTML/CSS/JS framework. The entire UI recreated as vector images for Adobe Fireworks. (Fw PNG)&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.extendingfireworks.com/?p=133&#34;&gt;http://www.extendingfireworks.com/?p=133&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Speed Wireframing a Click-Through Prototype Using Symbols in Mockups</title>
+      <link>http://localhost:1313/blog/speed-wireframing-click-through-prototype-using-symbols-mockups/</link>
+      <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/speed-wireframing-click-through-prototype-using-symbols-mockups/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;347&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/_8IyyvECYrg?fs=1&amp;amp;hl=en_US&amp;amp;hd=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/_8IyyvECYrg?fs=1&amp;amp;hl=en_US&amp;amp;hd=1&#34; type=&#34;application/x-shockwave-flash&#34; width=&#34;610&#34; height=&#34;347&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;&lt;small&gt;Click the full screen icon, it&amp;rsquo;s much better that way. Headphones warning: rowdy party music ahead.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;I rarely do click-through prototypes, but if I have to, then I use Symbols and links in Mockups to make it painless. This is a &lt;a href=&#34;http://youtu.be/_8IyyvECYrg?hd=1&#34;&gt;speed-wireframing video&lt;/a&gt; I whipped up to demonstrate to customers in a few minutes what the experience of wireframing with Symbols is like.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://youtu.be/_8IyyvECYrg?hd=1&#34;&gt;http://youtu.be/_8IyyvECYrg?hd=1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://localhost:1313/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/have-nice-day/</guid>
+      <description>&lt;p&gt;&lt;p class=&#34;dek&#34;&gt;Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.&lt;/p&gt;
+
+&lt;p&gt;I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with. I also love to give my own design resources to peers, or to teach techniques that I think will help people perfect their craft. In the end, I benefit from that exchange the most.&lt;/p&gt;
+
+&lt;p&gt;When asked to comment on slanted opinions that throw a stake in the ground and tend to confuse and divide the community, I abstain. Navel gazing and defining the damned thing became an uninteresting use of time to me long ago. It took some time immersed in those conversations to know that I have nothing to contribute. I&#39;d rather be making stuff than talking about it. I just say call yourself whatever you like, and do whatever works.&lt;/p&gt;
+
+&lt;p&gt;Interface design tools are as good as you make them. When I started out, I had to use &lt;a href=&#34;http://www.google.com/search?q=michael+angeles+visio&#34;&gt;Visio&lt;/a&gt; to communicate UI specs. It wasn&#39;t awesome, but I made it work. Later I found &lt;a href=&#34;http://www.google.com/search?q=michael+angeles+omnigraffle&#34;&gt;Omnigraffle&lt;/a&gt;. It was not designed specifically to enable interface designers, but we made it awesome. We learned how to use it to make our documents communicate design ideas.&lt;/p&gt;
+
+&lt;p&gt;We are the ones who determine what&#39;s useful for us after immersion in tools. We&#39;ve debated what we want in the ultimate IA tool, we&#39;ve found parallels in other industries and fields of practice and made them our own. We&#39;ve experimented with forward-looking low-fidelity prototyping projects like Denim, and pondered what the right suite of tools are for our work. Some of us built them and shared our work. Some of us are still building them.&lt;/p&gt;
+
+&lt;p&gt;Over years of working and watching others work, I&#39;ve noticed that some attributes are common among the people whose work I admire. The people who are the most effective seem to continue to study their practice, and perfect their craft. After long hours of use, they find the way to flow within any app at their disposal, and become as fast and effective as they can using it. The key is what they do with the app once they&#39;ve become expert at their craft, expert in finding the right design, expert in communicating, and expert in refining. There&#39;s some kind of maker/doer tenacity I see in people, and it doesn&#39;t have to do with any one tool.&lt;/p&gt;
+
+&lt;p&gt;There are no good or bad tools for finding the right design. Paper prototypes are your thing? Awesome. If you want to sketch and go right to building in HTML? Go for it! I&#39;ve done it. You want to craft gray box schematics in OmniGraffle, Photoshop, or Mockups? Godspeed you wireframer. Maybe I can help you with that. You want to use a tool that generates interactive prototypes? Have a nice day. :)&lt;/p&gt;
+
+&lt;p&gt;All the side-taking is useless to me. If you&#39;ve ever interviewed people for an IA or IXD position, you know that beautiful documents and prototypes are meaningless if in the end they don&#39;t demonstrate good problem solving and good design decision making. I don&#39;t care what people use. They can use finger puppets and crayons if they help them.&lt;/p&gt;
+
+&lt;p&gt;I say use whatever makes sense or is at your disposal. Your tools are only as effective as you are at using them to accomplish goals. But don&#39;t let anyone tell you that what you choose is wrong or inappropriate. Find the right design and keep winning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

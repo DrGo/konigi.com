@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+<div class="intro b0">
+  <h2>Tools for Ideation</h2>
+  <p>Welcome to my design blog. I post resources, review tools and write the occasional blog post on UX Design. You can find out more <a href="#more">about this site here.</a> -Michael</p>
+</div>
+
+<ul class="home list-grid small-block-grid-1 medium-block-grid-2 large-block-grid-4 block-grid">
+{{ range first 12 (where .Data.Pages "Section" "!=" "music") }}
+    {{ .Render "li-grid"}}
+{{ end }}
+</ul>
+
+<hr>
+
+<div id="more" class="row">
+  <div class="columns small-12 medium-6">
+    <p>Check <strong><a href="/blog">the blog</a></strong> for the latest findings first. The <strong><a href="/tools">Tools</a></strong> section is where you'll find my OmniGraffle <a href="/tools/omnigraffle-wireframe-stencils">Wireframe Stencil</a>, <a href="/tools/omnigraffle-ux-template">UX Template</a>, <a href="/tools/graph-paper">Printable Graph Paper</a> and a <a href="/tools/sketchbooks-diy">DIY Sketchbook Tutorial</a>.</p>
+  </div>
+  <div class="columns small-12 medium-6">
+    <p><strong><a href="/wiki">The Wiki</a></strong> holds resources like my listing of <a href="/wiki/conferences-and-events">Conferences and Events</a>, <a href="/wiki/Jobs">Job Sites</a>, and <a href="/wiki/sketch-book">The Sketch Book</a>, my presentation on UI sketching. Dig even deeper by <a href="/search">Searching</a> or <a href="/tags">Browsing Tags</a>.</p>
+  </div>
+</div>
+
+<hr>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

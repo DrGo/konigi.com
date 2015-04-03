@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screencasting on Konigi</title>
+    <link>http://localhost:1313/tags/screencasting/</link>
+    <description>Recent content in Screencasting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/screencasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Screenr Screencasting Service</title>
+      <link>http://localhost:1313/tools/submissions/screenr-screencasting-service/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/screenr-screencasting-service/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2694&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fc4474a4aa_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;Screenr&lt;/a&gt; is a web-based screen capture tool that lets you record screen video and audio from your Mac or PC and posts a link to the video, hosted on Screenr.com, to your Twitter stream.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://screenr.com/&#34;&gt;http://screenr.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Camtasia for Mac</title>
+      <link>http://localhost:1313/tools/submissions/camtasia-mac/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/camtasia-mac/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2684&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fb24ce0713_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;TechSmith, makers of Morae and Snagit, have released a &lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;Mac version of Camtasia&lt;/a&gt;, the screencast video recording software. The software allows you to capture the screen, audio and iSight input, and provides simple drag and drop editing including a lot of built-in transitions and effects. You can then easily export the HTML and SWF for embedding in a web page. &lt;/p&gt;
+&lt;p&gt;Looks like an easy to use alternative that might take the work out of producing screencasts. The video suggests that TechSmith have really thought about the primary demo and training use cases.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.techsmith.com/camtasiamac/default.asp&#34;&gt;http://www.techsmith.com/camtasiamac/default.asp&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>ScreenToaster Free Online Screen Recorder</title>
+      <link>http://localhost:1313/blog/screentoaster-free-online-screen-recorder/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/screentoaster-free-online-screen-recorder/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.screentoaster.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1400&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt491c7ceb73eb3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.screentoaster.com/&#34;&gt;ScreenToaster&lt;/a&gt; is a pretty incredible web application that lets you record your web browser screen without having to download desktop software. Currently, to record a screen, you open up ScreenToaster in a browser tab, navigate to the page you want to capture, click a keyword combination, and the applet starts recording. Press another key combination to stop. The service saves the session and almost immediately gives you a flash video with your recording. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.screentoaster.com/&#34;&gt;http://www.screentoaster.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

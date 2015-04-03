@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funding on Konigi</title>
+    <link>http://localhost:1313/tags/funding/</link>
+    <description>Recent content in Funding on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/funding/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kickstarter: Fund your creative project</title>
+      <link>http://localhost:1313/blog/kickstarter-fund-your-creative-project/</link>
+      <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/kickstarter-fund-your-creative-project/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.kickstarter.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1612&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a1fc590bef43.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.kickstarter.com/&#34;&gt;Kickstarter&lt;/a&gt; is a brilliant idea for creatives needing funding for projects.  It&amp;rsquo;s a funding platform for artists, designers, filmmakers, musicians, journalists, inventors, bloggers, etc. It works much like fundraising sites you may have used if you&amp;rsquo;ve ever had to raise money for events for non profit organizations. A few years ago I used a similar one for Team In Training.&lt;/p&gt;
+&lt;p&gt;You set up a page stating your mission and the need for funding. On this page you state the monetary goal, and a form allows users to pledge donations at different levels of support. The charges are made via Amazon payments. The project gets 100% of all proceeds minus Amazon&amp;rsquo;s fee for credit card processing.&lt;/p&gt;
+&lt;p&gt;A filmmaker I recently became acquainted with is shooting a documentary film and &lt;a href=&#34;http://www.kickstarter.com/projects/1865033180/let-us-tattoo-you-and-help-us-make-a-documentary-0&#34;&gt;set up a fund raising page for the project&lt;/a&gt; with levels of support that include special bonuses as an incentive, from tickets to the premiere to inclusion in film credits. I remember Jill Sobule also did something similar to this a few years ago to fund an album, giving people bonus gifts and liner note credit for support. &lt;/p&gt;
+&lt;p&gt;Seems like a great way for artists to empower themselves by raising funds through peers and fans without the hassle of going to banks or finding angel investors and VCs. I would bet some investors will be watching this space if web app designer/developers start using it.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kickstarter.com/&#34;&gt;http://www.kickstarter.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

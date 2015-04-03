@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Konigi</title>
+    <link>http://localhost:1313/tags/privacy/</link>
+    <description>Recent content in Privacy on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aral Balkan: I, Simulation</title>
+      <link>http://localhost:1313/blog/aral-balkan-i-simulation/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aral-balkan-i-simulation/</guid>
+      <description>&lt;p&gt;Aral Balkan’s &lt;a href=&#34;https://vimeo.com/106681730&#34;&gt;“I, Simulation”&lt;/a&gt; talk about the current state of privacy and freedom in software and services is one the best presentations I’ve watched this year. Balkan talks about business models that focus on user data, and what that can mean to your &#34;privacy.&#34;  Watch the talk below, given at Open Exchange in Munich, Germany. &lt;/p&gt;
+
+&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/106681730?byline=0&amp;amp;portrait=0&amp;amp;color=ffffff&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;The information you hand over using service providers like Facebook (think also Messenger, Whatsapp, Instagram) and Google (think also Gmail, Hangouts, Android Devices, Drive, Nest, Dropcam, and Fiber) is already being used to create simulations of you, and he likens this use to spyware. It&#39;s a business model of &#34;corporate surveillance.&#34; He quotes Eric Schmidt, who says Google can already predict some of what you&#39;re doing to do. Balkan says that all that is missing in these simulations is your body, and these representations of you have no rights. &lt;/p&gt;
+&lt;p&gt;He poses some challenges to what this means as services get more and more inside of your home and your behaviors and where their involvement becomes less and less apparent. In the end, he is making an argument for what the alternatives are to shift the ownership and control of consumer technology and data from corporations to individuals. You can &lt;a href=&#34;https://ind.ie/manifesto/&#34;&gt;read the ind.ie manifesto&lt;/a&gt; for more about how his company is planning to do that. &lt;/p&gt;
+&lt;p&gt;Recently there&#39;s &lt;a href=&#34;https://gigaom.com/2014/09/25/ello-investor-co-founder-funding-or-not-we-hate-ads-and-we-want-to-shift-values/&#34;&gt;been&lt;/a&gt; &lt;a href=&#34;https://aralbalkan.com/notes/ello-goodbye/&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://medium.com/message/what-does-ethical-social-networking-software-look-like-315373c898ed&#34;&gt;discussion&lt;/a&gt; over what should be apparent to users when they engage in new social software apps. People want to know if someone has already taken VC funding, versus making a statement about being bootstrapped with the goal of not flipping or exiting. When a new business is admitting to taking funding, there&#39;s an assumption that user data will eventually go elsewhere. The right thing to do is be upfront about that. There&#39;s really no guarantee that your data won&#39;t be used in ways you don&#39;t expect even when a company provides a Manifesto with all their good intentions. The firmly expressed statement in Balkan&#39;s Manifesto seems genuine and a better &#34;my word is my bond&#34; indicator than the absence of transparency up front about taking VC funding in the case of Ello. Who knows? &lt;/p&gt;
+&lt;p&gt;It&#39;s been interesting reading what others think of this. While I&#39;m a user of businesses where corporate surveillance is a model, I love not working for a business that monetizes its users data. I realize that not everyone cares about this, and picking who you get to work for is a luxury. I&#39;m personally looking forward to seeing how &lt;a href=&#34;https://ind.ie/&#34;&gt;ind.ie&lt;/a&gt; are going to make their goals happen. &lt;/p&gt;
+&lt;p&gt;Hat tip to &lt;a href=&#34;https://twitter.com/stinie&#34;&gt;@stinie&lt;/a&gt; for the recommendation. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/106681730&#34;&gt;https://vimeo.com/106681730&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

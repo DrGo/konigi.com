@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tasks on Konigi</title>
+    <link>http://localhost:1313/tags/tasks/</link>
+    <description>Recent content in Tasks on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tasks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Evernote Text Editor Task Creation</title>
+      <link>http://localhost:1313/interface/evernote-text-editor-task-creation/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/evernote-text-editor-task-creation/</guid>
+      <description>&lt;p&gt;Evernote, the unique note keeping desktop, mobile, and web-based application allows users to upload notes from images or PDFs or create them right in the software as one would any publishing system. The note creation editor features a simple rich text editor with one feature that is uncommon for web-based editors--a task checkbox. All this does is insert a checkbox wherever the insertion mark (cursor) is located, and while in edit mode, allows you the user to toggle between checked (done) and unchecked (to do). The toggle does not work in view mode, unfortunately. You can then filter notes to show those that contain that contain unfinished, completed, or all tasks.&lt;/p&gt;
+&lt;p&gt;I really like where Evernote is heading with some of the functionalities they&#39;re putting into the editor. They could go a bit further and actually allow link creation between notes and achieving something like a base set of wiki functionality for single users without necessitating forward linking, which is often the biggest cognitive barrier to entry for those new to wikis. The use of tags and notebooks should be enough organizing power for most users.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Creating tasks in notes editor by simply clicking the checkbox icon in the editor controls adds checkbox at insertion point. Tasks may be checked to show done/todo state in edit mode.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/evernote-tasks-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Creating tasks in notes editor by simply clicking the checkbox icon in the editor controls adds c...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/evernote-tasks-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. In view mode, the checkboxes appear, but may not be checked.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/evernote-tasks-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. In view mode, the checkboxes appear, but may not be checked.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/evernote-tasks-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Tasks may be filtered in the notes browser. Interestingly, Evernote even found checkboxes in the PDF of Luke Wroblewski&#39;s Forms ebook as well, and though they were to do items.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/evernote-tasks-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Tasks may be filtered in the notes browser. Interestingly, Evernote even found checkboxes in the ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/evernote-tasks-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.evernote.com/&#34;&gt;http://www.evernote.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

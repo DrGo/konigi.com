@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Problem Solving on Konigi</title>
+    <link>http://localhost:1313/tags/problem-solving/</link>
+    <description>Recent content in Problem Solving on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fred Wilson on Subconscious Information Processing</title>
+      <link>http://localhost:1313/blog/fred-wilson-subconscious-information-processing/</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/fred-wilson-subconscious-information-processing/</guid>
+      <description>&lt;p&gt;Fred Wilson shares advice from his father on how to take advantage of the human brain&#39;s capacity to subconsciously process information for problem solving.&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote&gt;He explained that I should start working on a project as soon as it was assigned. An hour or so would do fine, he told me. He told me to come back to the project every day for at least a little bit and make progress on it slowly over time. I asked him why that was better than cramming at the very end (as I was doing during the conversation).&lt;/p&gt;
+
+&lt;p&gt;He explained that once your brain starts working on a problem, it doesn&#39;t stop. If you get your mind wrapped around a problem with a fair bit of time left to solve it, the brain will solve the problem subconsciously over time and one day you&#39;ll sit down to do some more work on it and the answer will be right in front of you.&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.avc.com/a_vc/2011/06/subconscious-information-processing.html&#34;&gt;Read more.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.avc.com/a_vc/2011/06/subconscious-information-processing.html&#34;&gt;http://www.avc.com/a_vc/2011/06/subconscious-information-processing.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shades of Grey: Wireframes as Thinking Device</title>
+      <link>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</link>
+      <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/shades-grey-wireframes-thinking-device/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2368&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4bd9eb96aa402_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Will Evans writes for UX Mag about &lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;his process for creating wireframes&lt;/a&gt;, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.&lt;/p&gt;
+&lt;p&gt;This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4563398985/&#34;&gt;Stuart Pugh&amp;rsquo;s idea&lt;/a&gt; by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to &lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/4564034112/&#34;&gt;sketching-&amp;gt;wireframing&lt;/a&gt; as well. &lt;/p&gt;
+&lt;p&gt;Something Victor Lombardi wrote about the process of &lt;a href=&#34;http://noisebetweenstations.com/personal/weblogs/?p=2214&#34;&gt;concept design&lt;/a&gt; seems related here. Victor discusses expert vs. novice designers in an article that focussed on the designers&amp;rsquo; tendencies to frame and reframe the problem and approach solutions differently depending on expertise. The idea was basically that the experts, those with years of experience, had the tendency to simultaneously spend time on inquiry and problem framing as well as solution generation, but then abandon deep inquiry and rigor in favor of selection. &lt;/p&gt;
+&lt;p&gt;This reminds me of the few times I&amp;rsquo;ve worked a desk in a reference library in the past, where people framed their problem verbally only to have us help them reframe the problem in terms of a question that could be asked of the information. Language, questions and answers are the communication artifact there. The artifacts are really beside the point, but their usefulness in coming to a solution is important to the process when the discovery requires iterations of inquiry/framing/solving.&lt;/p&gt;
+&lt;p&gt;The communication of ideas that things like wireframes facilitate is what is interesting. Replace wireframe with sketch, model, prototype, what have you. What Will Evans is showing here is that wireframes used in this way, serve as one of the communication artifacts we use for problem framing and solving. THAT is the right way to wireframe.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&#34;&gt;http://uxmag.com/design/shades-of-grey-wireframes-as-thinking-device&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

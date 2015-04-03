@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Details On Demand on Konigi</title>
+    <link>http://localhost:1313/tags/details-on-demand/</link>
+    <description>Recent content in Details On Demand on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/details-on-demand/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Amazon.com TV Show Episode Details</title>
+      <link>http://localhost:1313/interface/amazon-com-tv-show-episode-details/</link>
+      <pubDate>Tue, 22 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/amazon-com-tv-show-episode-details/</guid>
+      <description>&lt;p&gt;Amazon&#39;s Unbox service displays episodes of a TV show&#39;s season in a table listing. Each episode name is listed by title and air date, with a synopsis teaser, pricing information and a checkbox. On the left of each row is a plus (+) icon so the user can view the episode details. The row expands to show an image and the complete synopsis.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Episode listing table.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/amazon-item-details-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Episode listing table.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/amazon-item-details-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Single episode expanded to show details.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/amazon-item-details-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Single episode expanded to show details.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/amazon-item-details-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/gp/product/B000V22QJ0&#34;&gt;http://www.amazon.com/gp/product/B000V22QJ0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AideRSS Table Row Expansion</title>
+      <link>http://localhost:1313/interface/aiderss-table-row-expansion/</link>
+      <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/aiderss-table-row-expansion/</guid>
+      <description>&lt;p&gt;AideRSS is a service that scores and filters RSS feeds so that users can view the most active posts for a web site. Activity is based on number of comments, and posts to digg or del.icio.us. The feeds are displayed in a table, with hot or most active entries indicated by a higher rank and warmer color in the postrank column. A &#34;+ more&#34; icon allows the user to expand entry information within a row.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Feed table.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aiderss-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Feed table.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aiderss-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;+More&amp;quot; expands entry info in a row.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aiderss-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;+More&amp;quot; expands entry info in a row.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aiderss-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.aiderss.com/&#34;&gt;http://www.aiderss.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

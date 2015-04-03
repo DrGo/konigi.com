@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proceedings on Konigi</title>
+    <link>http://localhost:1313/tags/proceedings/</link>
+    <description>Recent content in Proceedings on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/proceedings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mobileHCI 2009 Proceedings</title>
+      <link>http://localhost:1313/blog/mobilehci-2009-proceedings/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mobilehci-2009-proceedings/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://mobilehci.uni-siegen.de/mhci2009.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2243&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4b3cb1caf3b89_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The full text of the proceedings of &lt;a href=&#34;http://mobilehci.uni-siegen.de/mhci2009.html&#34;&gt;MobileHCI09&lt;/a&gt;, the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services is available online. The event, which covers mobile and wearable computing devices and services took place September, 2009 at the University of Bonn in Germany.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mobilehci.uni-siegen.de/mhci2009.html&#34;&gt;http://mobilehci.uni-siegen.de/mhci2009.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Discussion Groups on Konigi</title>
+    <link>http://localhost:1313/tags/discussion-groups/</link>
+    <description>Recent content in Discussion Groups on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/discussion-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HTML Prototyping Discussion Group</title>
+      <link>http://localhost:1313/blog/html-prototyping-discussion-group/</link>
+      <pubDate>Tue, 15 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/html-prototyping-discussion-group/</guid>
+      <description>&lt;p&gt;As you may know, I&#39;ve been working on an html prototyping toolkit that&#39;s in its infancy, and available to play with in pre-release form &lt;a href=&#34;../project/protokit.html&#34;&gt;here on Konigi&lt;/a&gt;. What you also may know is that I hope to put the code in a repository so that people can contribute UI component markup/css/js to it, but what I&#39;ve got is not mature enough yet.&lt;/p&gt;
+
+&lt;p&gt;A few people have already started sharing their ideas and tips with me and I&#39;ve felt like it&#39;s kind of a waste to have some of these discussions happen offline, so I want to step out and start these discussions in a wider venue.&lt;/p&gt;
+
+&lt;p&gt;I&#39;ve created the &lt;a href=&#34;http://groups.google.com/group/htmlprototyping&#34;&gt;HTML Prototyping&lt;/a&gt; Google group so that those of us who are interested in going deep on HTML wireframes or prototypes can talk about what we&#39;re doing and how we&#39;re doing it. Hopefully we&#39;ll give each other advice and find ways to learn new techniques or refine our craft. The group is NOT intended to focus on what I&#39;m doing with the protokit, but is there for anyone who&#39;s using any method to do HTML prototyping. I will be there every day to monitor and participate.&lt;/p&gt;
+
+&lt;p&gt;I will look at every member that comes through this group and promise to try to keep the discussion on topic and keep flaming, trolls, spamming, and advertising from littering the list. So if you&#39;re interested, &lt;a href=&#34;http://groups.google.com/group/htmlprototyping&#34;&gt;sign up and introduce yourself&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let&#39;s go.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/htmlprototyping&#34;&gt;http://groups.google.com/group/htmlprototyping&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

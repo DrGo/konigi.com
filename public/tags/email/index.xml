@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Email on Konigi</title>
+    <link>http://localhost:1313/tags/email/</link>
+    <description>Recent content in Email on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Persona Email Client Prototype</title>
+      <link>http://localhost:1313/blog/persona-email-client-prototype/</link>
+      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/persona-email-client-prototype/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/25588286?title=0&amp;amp;byline=0&amp;amp;portrait=0&#34; width=&#34;610&#34; height=&#34;343&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.personamail.info/&#34;&gt;Persona&lt;/a&gt; is a concept for a theoretical email client prototyped by Ali Seçkin Karayol, Marco Triverio, and Harsha Vardhan at the Copenhagen Institute of Interaction Design. The prototype focusses email on people or conversations rather than presenting the typical data-dense tabular view of messages. The attachment view also offers a nice way of viewing all attached files in a gallery presentation. &lt;/p&gt;
+&lt;p&gt;There are some compelling ideas for re-imagining the focus of email consumption here. The group plans to do some sessions with real users, and I would be interested in seeing if users ask some of the hard questions. Certainly pivoting the entry point to focus on people can help. Another hard problem with email is bubbling up importance, and dealing with volume. So far, I don&amp;rsquo;t see anything beating the processing of filtering email manually and visually, with regard to that problem. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.personamail.info/&#34;&gt;http://www.personamail.info/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anatomy of an Apple Email</title>
+      <link>http://localhost:1313/blog/anatomy-apple-email/</link>
+      <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/anatomy-apple-email/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flowtown.com/blog/wp-content/uploads/2011/01/110110-FLOW-APPLE.png&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2469&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4d2dd8f7b8083_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Peldi tipped me to &lt;a href=&#34;http://www.flowtown.com/blog/anatomy-ofan-apple-email&#34;&gt;this graphic&lt;/a&gt; deconstructing one of Apple&amp;rsquo;s promotional emails.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flowtown.com/blog/wp-content/uploads/2011/01/110110-FLOW-APPLE.png&#34;&gt;http://www.flowtown.com/blog/wp-content/uploads/2011/01/110110-FLOW-APPLE.png&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to CSS support in email clients</title>
+      <link>http://localhost:1313/tools/submissions/guide-css-support-email-clients/</link>
+      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/guide-css-support-email-clients/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2723&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fef098f5ec_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Campaign Monitor provides a &lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;table showing the level of CSS support in the 23 different email clients&lt;/a&gt; they test, and covers all the popular applications across desktop, web and mobile email. The web-based version of the guide focusses on the 10 most popular email clients on the market, and they provide a complete report on all 23 email clients in PDF format.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.campaignmonitor.com/css/&#34;&gt;http://www.campaignmonitor.com/css/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Better Gmail Client Wireframe</title>
+      <link>http://localhost:1313/blog/better-gmail-client-wireframe/</link>
+      <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/better-gmail-client-wireframe/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/bettergmail.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Growl alert. Click and a Quicksilver-like diaogue appears. Click. Reply. Done. Gmail archives. Optionally tag the thread.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Coincidentally, I&amp;rsquo;ve been designing a feature on the product I&amp;rsquo;m working on that does something like this. We have a plugin for our app, a CMS, that turns a project into a Twitter-like micromessaging application. It&amp;rsquo;s only in release 0.1, but I&amp;rsquo;ve designed a few iterations ahead, which we plan to review. &lt;/p&gt;
+&lt;p&gt;The gist for me is this. At work we use Jabber to get alerts for new activity on our internal CMS. We use our Live Blog micromessaging project to do status updates, and other discussion in real time. We want something as easy as IM, as easy as Twitter. &lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;ve been doing all this stuff that makes the stream of messaging easy to respond to when I see something urgent that needs attention. And I begin to notice email differently, and think that it&amp;rsquo;s a big speed bumps in the day when I have to look at it. There are some messages that come in that I wish I could just quickly reply to because they&amp;rsquo;re urgent. But I hate having to load Gmail or Mail.app to stop what I&amp;rsquo;m doing.     &lt;/p&gt;
+&lt;p&gt;Now, I know with added intrusions into your day, this could add to your already full, multi-tasking life. But I simply feel like I want and need it. I want email on my terms until it goes away. So I took some of the ideas I was working on in a project I&amp;rsquo;m doing and saw how those behaviors might apply to email. The wireframe you see above is part of that. &lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve posted the files below so you can look at this single page storyboard if you&amp;rsquo;re curious. If you&amp;rsquo;re interested in taking a peek at how I wireframe, download the OmniGraffle document too and play with it. &lt;/p&gt;
+&lt;p&gt;Download the files&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can view this wireframe as a &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail-large.png&#34;&gt;full-sized PNG&lt;/a&gt; or &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail.pdf&#34;&gt;download as PDF&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;You may also download the &lt;a href=&#34;http://media.konigi.com/wireframes/BetterGmail.graffle.zip&#34;&gt;OmniGraffle file&lt;/a&gt; to see how this wireframe was made.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A lot of people won&amp;rsquo;t agree that email should work this way. If you don&amp;rsquo;t agree, feel free to tell me why  email is fine just the way it is, or tell me that this is a good idea. If you know of an app that has all of these features and functionality, please tell me, because I need it. If you want to develop it, go ahead. I&amp;rsquo;d be happy to be involved because I want this.&lt;/p&gt;
+&lt;p&gt;UPDATE: Chris Messina reminded me about &lt;a href=&#34;http://mailplaneapp.com/&#34;&gt;MailPlane&lt;/a&gt;, which I tried preview releases of last year. Turns out that when you click Mailplane Growl alerts, MailPlane will open a window with the message, and you can click reply to enter your reply, click send, and close the window. This comes close enough without being quite as subtle and effortless as what I&amp;rsquo;ve wireframed above, so this is the solution I&amp;rsquo;m going with for now.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twilert - Twitter search alerts via email</title>
+      <link>http://localhost:1313/blog/twilert-twitter-search-alerts-email/</link>
+      <pubDate>Wed, 10 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/twilert-twitter-search-alerts-email/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1421&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt493fb8d601bbd.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;Twilert&lt;/a&gt; is an email alert/notification service for Twitter. Just enter any brand, product, service, or any keyword. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://swissmiss.typepad.com/weblog/2008/12/twilert.html&#34;&gt;Via SwissMiss&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.twilert.com/&#34;&gt;http://www.twilert.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facebook Loses Users&#39; Email Notification Settings</title>
+      <link>http://localhost:1313/blog/facebook-loses-users-email-notification-settings/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/facebook-loses-users-email-notification-settings/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/facebook-email-settings.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;I got this in my email from Facebook. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Unfortunately, the settings that control which email notifications get sent to you were lost. We&amp;rsquo;re sorry for the inconvenience.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Wow. Really? I agree with &lt;a href=&#34;http://broadcast.oreilly.com/2008/11/dear-facebook-you-lost-my-what.html&#34;&gt;what M. David Peterson&lt;/a&gt; had to say about the issue. Sounds like they&amp;rsquo;ve got some inexperienced engineers running the show. &lt;/p&gt;
+&lt;p&gt;If this had been a web service with critical data that wasn&amp;rsquo;t backed up, people would be pretty pissed. When I went to check my email notifications settings, however, everything seemed to be intact. What gives?&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Email Standards Project</title>
+      <link>http://localhost:1313/blog/email-standards-project/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/email-standards-project/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1398&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt491a17f102c8c.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.email-standards.org/&#34;&gt;Email Standards Project&lt;/a&gt; is a community effort to ensure that emails render consistently. Similar to the Web Standards Project, the Email Standards Project community works with email client developers and the design community to improve web standards support and accessibility in email.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.email-standards.org/&#34;&gt;http://www.email-standards.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Mail Rich Text Editor</title>
+      <link>http://localhost:1313/interface/yahoo-mail-rich-text-editor/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/yahoo-mail-rich-text-editor/</guid>
+      <description>&lt;p&gt;Yahoo! Mail&#39;s rich text editor in the composition form is clean and provides the core set of formatting options you&#39;d need. The implementation is simple and intuitive. A few things they do differently include: rolling some commonly visible controls into drop down menus, e.g. text alignment and list style blocks.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Font face selection and font size are in HTML form selects. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Font face selection and font size are in HTML form selects. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Font color selection. Highlight or background color uses the same color selection control. There seems to be a bug here, where Italics is shown toggled on when the selected text is not italicized.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Font color selection. Highlight or background color uses the same color selection control. There ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. I guess Yahoo! users like emoticons. :)&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. I guess Yahoo! users like emoticons. :)&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Link creation is handled via a JavaScript dialog.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Link creation is handled via a JavaScript dialog.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Text alignment is rolled into a single drop down.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Text alignment is rolled into a single drop down.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. List style in a single drop down.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. List style in a single drop down.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;7. The message composition form in the context of the full page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-7.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;7. The message composition form in the context of the full page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-mail-rich-text-editor-7.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://mail.yahoo.com/&#34;&gt;http://mail.yahoo.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gmail Rich Text Editor</title>
+      <link>http://localhost:1313/interface/gmail-rich-text-editor/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/gmail-rich-text-editor/</guid>
+      <description>&lt;p&gt;Google have been doing some work getting some of their interfaces to be consistent with each other. GMail and Blogger now provide similar interface behaviors and controls, with slight differences. Other applications like Google Sites and Docs continue to have different controls.&lt;/p&gt;
+&lt;p&gt;Gmail and Blogger are among the simplest of these text editor interfaces, for good reason. In blogs and email, rich text formatting should be bare bones and out of the way as much as possible. Google is successful in understanding the differentiation in these use cases from text editing in wiki/site and word processing. The controls are intuitive and usable.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Font face selection is triggered via an icon rather than displaying all font faces. Default font face is indicated as &amp;quot;Normal.&amp;quot;&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Font face selection is triggered via an icon rather than displaying all font faces. Default font ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Relative font sizes are used rather than numerical.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Relative font sizes are used rather than numerical.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Color selection control for font color and background/highlight color.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Color selection control for font color and background/highlight color.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Link creation dialog.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Link creation dialog.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Selected text shown as link. When links are selected controls are displayed in the editor to modify the link.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Selected text shown as link. When links are selected controls are displayed in the editor to modi...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. List controls are displayed, toggled on when active.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. List controls are displayed, toggled on when active.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;7. Running spell check highlights misspelled words.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-7.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;7. Running spell check highlights misspelled words.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-7.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;8. Composition form displayed in context of page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-8.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;8. Composition form displayed in context of page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-rich-text-editor-8.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://gmail.com/&#34;&gt;http://gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flickr Sharing</title>
+      <link>http://localhost:1313/interface/flickr-sharing/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/flickr-sharing/</guid>
+      <description>&lt;p&gt;Flickr have added a sharing interface for their photos and videos. Presumably this is because of the introduction of videos into the ecosystem. The interface is provided via an unobtrusive link that uses AJAX to display contextual menus when clicked.&lt;/p&gt;
+&lt;p&gt;Prior to the introduction of this interface, users had to go to click the &#34;All Sizes&#34; link to find URLs for the item.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;Share This&amp;quot; displays sharing options, showing email sharing by default. Entering text provides auto-completion suggestions using user names.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;Share This&amp;quot; displays sharing options, showing email sharing by default. Enter...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Copying the item link.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Copying the item link.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Copying the embed code.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Copying the embed code.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Posting to a blog. User must have blogs configured to see this option.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Posting to a blog. User must have blogs configured to see this option.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. Posting to blog displays the &amp;quot;Blog this...&amp;quot; page.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/flickr-share-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. Posting to blog displays the &amp;quot;Blog this...&amp;quot; page.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/flickr-share-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://flickr.com/&#34;&gt;http://flickr.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facebook Form Auto-completion</title>
+      <link>http://localhost:1313/interface/facebook-form-auto-completion/</link>
+      <pubDate>Thu, 22 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/facebook-form-auto-completion/</guid>
+      <description>&lt;p&gt;Facebook&#39;s address auto-completion in the compose message form is one of the best examples of auto-completion behavior in a form. The interaction very closely mimics what you would expect to happen in the To field of email applications like Apple Mail and Outlook.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Cursor is in the To: field. Contextual help displayed below input.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Cursor is in the To: field. Contextual help displayed below input.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Typing characters in the input invokes person/recipient auto-completion suggestions. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Typing characters in the input invokes person/recipient auto-completion suggestions. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Selecting a person from auto-completion suggestions, entering a comma, or clicking enter displays the selected recipient in a block. The recipient&#39;s name cannot be edited, but it may be removed by using the backspace key or clicking the &amp;quot;x&amp;quot; next to the name. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Selecting a person from auto-completion suggestions, entering a comma, or clicking enter displays...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/facebook-email-autocompletion-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;object width=&#34;610&#34; height=&#34;358&#34;&gt;    &lt;param name=&#34;allowfullscreen&#34; value=&#34;true&#34; /&gt;   &lt;param name=&#34;allowscriptaccess&#34; value=&#34;always&#34; /&gt;   &lt;param name=&#34;movie&#34; value=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1051375&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; /&gt; &lt;embed src=&#34;http://www.vimeo.com/moogaloop.swf?clip_id=1051375&amp;amp;server=www.vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&#34; type=&#34;application/x-shockwave-flash&#34; allowfullscreen=&#34;true&#34; allowscriptaccess=&#34;always&#34; width=&#34;610&#34; height=&#34;358&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;br /&gt;&lt;a href=&#34;http://www.vimeo.com/1051375?pg=embed&amp;amp;sec=1051375&#34;&gt;Facebook email address auto-completion&lt;/a&gt; from &lt;a href=&#34;http://www.vimeo.com/jibbajabba?pg=embed&amp;amp;sec=1051375&#34;&gt;jibbajabba&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com/?pg=embed&amp;amp;sec=1051375&#34;&gt;Vimeo&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.facebook.com/inbox/?compose&#34;&gt;http://www.facebook.com/inbox/?compose&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Litmus: Test your email and website designs</title>
+      <link>http://localhost:1313/tools/submissions/litmus-test-your-email-and-website-designs/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/litmus-test-your-email-and-website-designs/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2810&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231443ef3f03_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Litmus &lt;a href=&#34;http://litmusapp.com/&#34;&gt;provides testing of web sites and email messages&lt;/a&gt; across all browser and email platforms for a fee.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://litmusapp.com/&#34;&gt;http://litmusapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

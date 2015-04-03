@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Konigi</title>
+    <link>http://localhost:1313/tags/ruby/</link>
+    <description>Recent content in Ruby on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>StaticMatic: Static HTML building framework</title>
+      <link>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/staticmatic-static-html-building-framework/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2740&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230077c0e9ba_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;StaticMatic&lt;/a&gt; is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;http://groups.google.com/group/htmlprototyping/msg/1a379c7d53f96039&#34;&gt;Via Jérôme Gravel-Niquet&lt;/a&gt; on the htmlprototyping group&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://staticmatic.rubyforge.org/&#34;&gt;http://staticmatic.rubyforge.org/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

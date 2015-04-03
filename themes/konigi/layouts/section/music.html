@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+{{ partial "gnav_music.html" . }}
+{{ partial "body_top.html" . }}
+
+
+<p class="intro">This is my music blog, where I write about learning about music production and song writing. You can listen to my <a href="mixes" rel="bookmark" title="Mixes">mixes in Mixcloud</a> and hear my naive experiments with making <a href="songs" rel="bookmark" title="Songs">songs in my Soundcloud</a> page.</p>
+
+<section class="article-list">
+{{ range .Paginator.Pages }}
+  {{ if not (isset .Params "nosection" ) }}
+    {{ .Render "list-node"}}
+  {{end}}
+{{ end }}
+</section>
+<section class="pagination-block">
+{{ template "_internal/pagination.html" . }}
+</section>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

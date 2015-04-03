@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 Second Test on Konigi</title>
+    <link>http://localhost:1313/tags/5-second-test/</link>
+    <description>Recent content in 5 Second Test on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/5-second-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Usaura: Free 5-second tests</title>
+      <link>http://localhost:1313/tools/submissions/usaura-free-5-second-tests/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/usaura-free-5-second-tests/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.usaura.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2777&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230ab613b59e_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.usaura.com/&#34;&gt;Usaura&lt;/a&gt; is a free service for conducting 5-second tests. Upload a screenshot. Enter a question asking your respondents to respond by clicking somewhere on your screenshot. Copy the test url to give to participants or use Twitter to share the test. View the results as a heatmap or as click nodes with time-to-click data.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;I set up &lt;a href=&#34;http://www.usaura.com/test/e1ec2e2b0720565367&#34;&gt;a dummy test to try here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.usaura.com/&#34;&gt;http://www.usaura.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Clue: A 5 Second Test Service</title>
+      <link>http://localhost:1313/tools/submissions/clue-5-second-test-service/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/clue-5-second-test-service/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2819&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231ac733887a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Zurb&amp;rsquo;s &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue&lt;/a&gt; is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;To use, enter a URL for a page you&#39;d like to test, they generate a screenshot, and provide you with URLs for the test and the test report. Here&#39;s an example using this site: &lt;a href=&#34;http://www.clueapp.com/27951&#34;&gt;test&lt;/a&gt; and &lt;a href=&#34;http://www.clueapp.com/27951+&#34;&gt;report&lt;/a&gt;. Feel free to mock my home page at will. ;)&lt;/p&gt;
+
+&lt;p&gt;Users will see a screen with these brief instructions, &amp;quot;Look at this screenshot and remember what you see,&amp;quot; and upon clicking the Take the Test button, they are flashed the screenshot for 5.5 seconds. Afterwards they&#39;re given 5 inputs to describe what they remember seeing. Go to &lt;a href=&#34;http://www.clueapp.com/&#34;&gt;Clue App&lt;/a&gt; to create your own.&lt;/p&gt;
+
+&lt;p&gt;If you&#39;re interested in learning more about this type of first impression task, read about it &lt;a href=&#34;http://www.uie.com/articles/five_second_test/&#34;&gt;UIE&#39;s article&lt;/a&gt; about the technique.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.clueapp.com/&#34;&gt;http://www.clueapp.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>five second test: A simple online usability test</title>
+      <link>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/five-second-test-simple-online-usability-test/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2797&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230f03c96a19_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;five second test&lt;/a&gt; is a simple usability test that helps you measure the effectiveness of your user interfaces by getting users to look at a screen for 5 seconds, and then asking them to recall what they saw. This is something I typically do at the start of a usability test to see what users understand at a high level. Show them a screen, take it away, have them talk, ask them questions. There&amp;rsquo;s more about this method at &lt;a href=&#34;http://www.uie.com/articles/five_second_test/&#34;&gt;UIE&lt;/a&gt;. This site provides a service so you can easily do this kind of thing with users by generating a test and providing a link you can share with participants to take it. The service then emails you the results. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fivesecondtest.com/&#34;&gt;http://www.fivesecondtest.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

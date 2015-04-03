@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magazines on Konigi</title>
+    <link>http://localhost:1313/tags/magazines/</link>
+    <description>Recent content in Magazines on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/magazines/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Offscreen Magazine</title>
+      <link>http://localhost:1313/blog/offscreen-magazine/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/offscreen-magazine/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.offscreenmag.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/offscreen-magazine.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://www.offscreenmag.com/&#34;&gt;Offscreen&lt;/a&gt; is a print magazine that takes an in-depth look at the life and work of people that create websites and apps. They&amp;rsquo;re interested in telling the less obvious human stories of creativity, passion and hard work that hide behind every interface.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The first issue includes conversations with web standards wizard Dan Cederholm, all-round-talent Drew Wilson, former last.fm design lead Hannah Donovan, 37signals&#39; designer and product manager Ryan Singer, design entrepreneur Andrew Wilkinson and pixel-perfectionist Benjamin de Cock.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.offscreenmag.com/&#34;&gt;http://www.offscreenmag.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Experience Publications</title>
+      <link>http://localhost:1313/blog/user-experience-publications/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/user-experience-publications/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1862&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4a8afe9235561.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Nick Finck has created an excellent bibliography of UX web publications. The list is grouped into three main sections; Industry Publications (non-corporate ezines and/or printed magazines), Team &amp;amp; Company Publications (multi-author and/or business focused publications), and Personal Publications (practitioners who write).  &lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;View the list here.&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nickfinck.com/blog/entry/user_experience_publications/&#34;&gt;http://www.nickfinck.com/blog/entry/user_experience_publications/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redub Designs a Better Online Magazine</title>
+      <link>http://localhost:1313/blog/redub-designs-better-online-magazine/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/redub-designs-better-online-magazine/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;&lt;img style=&#34;visibility:hidden;width:0px;height:0px;&#34; border=0 width=0 height=0 src=&#34;http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNDcxMzU1NjAyMDAmcHQ9MTI*NzEzNTU2NTM*MyZwPTEwMTkxJmQ9c3NfZW1iZWQmZz*yJnQ9Jm89MGRjNDg1OTEzNDVlNDlkYWIzZWFiZWNjYWU5YTJhNGUmb2Y9MA==.gif&#34; /&gt;&lt;br /&gt;
+&lt;div style=&#34;width:425px;text-align:left&#34; id=&#34;__ss_1686868&#34;&gt;
+&lt;object style=&#34;margin:0px&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dontmakemescroll-090706092213-phpapp01&amp;amp;stripped_title=dont-make-me-scroll&#34; /&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;/&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;/&gt;&lt;embed src=&#34;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=dontmakemescroll-090706092213-phpapp01&amp;amp;stripped_title=dont-make-me-scroll&#34; type=&#34;application/x-shockwave-flash&#34; allowscriptaccess=&#34;always&#34; allowfullscreen=&#34;true&#34; width=&#34;610&#34; height=&#34;510&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;I came across Redub&amp;rsquo;s &amp;ldquo;Don&amp;rsquo;t Make Me Scroll&amp;rdquo; presentation embedded above, which looks at the current offering of magazine readers which are modeled after print layouts, are difficult to read, SEO-unfriendly, and which rarely use the full capabilities provided by web browsers, e.g. multi-media. Or they&amp;rsquo;re modeled largely after blogs with articles are long and scrolling, are limited by the possibilities of HTML/CSS, and have layouts that aren&amp;rsquo;t differentiated from blogs and which pale in comparison to the layout in the printed version of the original magazine article.&lt;/p&gt;
+&lt;p&gt;Redub is working on a magazine reader, built on Flash, with a keyboard-enabled UI (input devices work as well) that scales to any screen size, does not scroll, and provides designer-friendly layout possiblities. You can &lt;a href=&#34;http://reader.redub.org/good/&#34;&gt;check out the GOOD magazine demo to experience the reader&lt;/a&gt;. There&amp;rsquo;s some really interesting interface design happening there including unobtrusive menus and prev/next paging controls, a pagination bar that is scaled to indicate the amount of content on the page, great examples of interactive media in the content, e.g. interactive charts, and hints at personal options like annotations. It&amp;rsquo;s very well thought-out and works better for reading magazines than any of the readers out there.&lt;/p&gt;
+&lt;p&gt;It seems like they&amp;rsquo;re trying to do for online magazine reading what the Kindle does for ebooks. Exciting stuff to see the full potential of Flash being utilized to improve the magazine reading experience, rather than just port it over to an digital, PDF-like version that doesn&amp;rsquo;t work as well on screen.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://redubllc.com/2009/07/dont-make-me-scroll/&#34;&gt;http://redubllc.com/2009/07/dont-make-me-scroll/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>25 Magazine Style Website Designs</title>
+      <link>http://localhost:1313/blog/25-magazine-style-website-designs/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/25-magazine-style-website-designs/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://vandelaydesign.com/blog/galleries/magazine-style-website/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1461&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt49777cee9b43a.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Vandelay collects screenshots of front page designs of &lt;a href=&#34;http://vandelaydesign.com/blog/galleries/magazine-style-website/&#34;&gt;25 magazine sites&lt;/a&gt;.  &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vandelaydesign.com/blog/galleries/magazine-style-website/&#34;&gt;http://vandelaydesign.com/blog/galleries/magazine-style-website/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Issuu Pagination</title>
+      <link>http://localhost:1313/interface/issuu-pagination/</link>
+      <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/issuu-pagination/</guid>
+      <description>&lt;p&gt;Issuu is an online self-publishing service that allows users to create e-magazines and books that are displayed in their slick Flash reader. The service also provides social features around the content. &lt;/p&gt;
+&lt;p&gt;One of the nicest things about the reader is the usable pagination. The reader features the typical next/previous and jump to page features you&#39;d find in an ebook or PDF reader. They also provide some features that are similar to the browsing experience with Preview, the Dock, and QuickLook in the Mac, utilizing miniature thumbnails of pages to scroll through pages.&lt;/p&gt;
+&lt;p&gt;This is perhaps the best ebook-type reader I&#39;ve seen on the web. I don&#39;t know if they every utilized that behavior where a hovered page would show a turned down corner to indicate that you could &#34;pull&#34; the page corner to turn it. I remember seeing that behavior here and there on some flash sites that had multi-page magazines. This pagination is much easier and flexible than most, and every possible browsing and reading use case seems to have been thought of that I can imagine.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Default view is magazine mode, which allows you to view 2-page spreads.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/issuu-pagination-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Default view is magazine mode, which allows you to view 2-page spreads.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/issuu-pagination-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over a page&#39;s outside edge shows the next page arrow, and last page arrow.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/issuu-pagination-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over a page&#39;s outside edge shows the next page arrow, and last page arrow.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/issuu-pagination-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. The top center of the UI shows the prev/next arrows, flanking a thumbnail gallery view icon. The input to the right shows [current page / total page] field so you can jump to a specific page. The thumbnails at the bottom use a fish eye lens effect like the Mac OS X dock, to allow you to jump to different pages.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/issuu-pagination-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. The top center of the UI shows the prev/next arrows, flanking a thumbnail gallery view icon. The ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/issuu-pagination-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. The thumbnail gallery view of pages opens in a lightbox.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/issuu-pagination-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. The thumbnail gallery view of pages opens in a lightbox.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/issuu-pagination-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Paper View mode showing the page navigator in the left. Paper view mode allows you to scroll vertically through the whole document.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/issuu-pagination-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Paper View mode showing the page navigator in the left. Paper view mode allows you to scroll vert...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/issuu-pagination-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://issuu.com/&#34;&gt;http://issuu.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flickr: The Face (1980-2004)</title>
+      <link>http://localhost:1313/blog/flickr-face-1980-2004/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/flickr-face-1980-2004/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.flickr.com/groups/thefacemagazine/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1365&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48d7af66d9673.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;A Flickr Group with &lt;a href=&#34;http://www.flickr.com/groups/thefacemagazine/&#34;&gt;covers from fashion mag, The Face&lt;/a&gt;. As an undergrad in the early 90&amp;rsquo;s, I was friends with an art dealer I worked with for a few years who read this magazine. He used to let me borrow his clothes, and the thing I took most of the time was his The Face t-shirt that I&amp;rsquo;d wear with a black jacket. This set of photos brings back funny memories of that NYC gallery scene. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/groups/thefacemagazine/&#34;&gt;http://www.flickr.com/groups/thefacemagazine/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veerle&#39;s Inspiration series: Magazines</title>
+      <link>http://localhost:1313/blog/veerles-inspiration-series-magazines/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/veerles-inspiration-series-magazines/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://veerle.duoh.com/blog/comments/inspiration_series_magazines/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/veerle-magazine-inspiration.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Veerle Pieters continues her excellent design inspiration series with screenshots from a handful of &lt;a href=&#34;http://veerle.duoh.com/blog/comments/inspiration_series_magazines/&#34;&gt;magazines&lt;/a&gt;, both digital and ezine.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://veerle.duoh.com/blog/comments/inspiration_series_magazines/&#34;&gt;http://veerle.duoh.com/blog/comments/inspiration_series_magazines/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

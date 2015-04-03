@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Konigi</title>
+    <link>http://localhost:1313/tags/notes/</link>
+    <description>Recent content in Notes on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sarah Mitchell&#39;s Thoughts from Interaction &#39;10</title>
+      <link>http://localhost:1313/blog/sarah-mitchells-thoughts-interaction-10/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/sarah-mitchells-thoughts-interaction-10/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video&#34;&gt;
+&lt;object width=&#34;610&#34; height=&#34;457&#34;&gt; &lt;param name=&#34;flashvars&#34; value=&#34;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fsgmitch%2Fsets%2F72157623396146602%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fsgmitch%2Fsets%2F72157623396146602%2F&amp;set_id=72157623396146602&amp;jump_to=&#34;&gt;&lt;/param&gt; &lt;param name=&#34;movie&#34; value=&#34;http://www.flickr.com/apps/slideshow/show.swf?v=71649&#34;&gt;&lt;/param&gt; &lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34;&gt;&lt;/param&gt;&lt;embed type=&#34;application/x-shockwave-flash&#34; src=&#34;http://www.flickr.com/apps/slideshow/show.swf?v=71649&#34; allowFullScreen=&#34;true&#34; flashvars=&#34;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fsgmitch%2Fsets%2F72157623396146602%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fsgmitch%2Fsets%2F72157623396146602%2F&amp;set_id=72157623396146602&amp;jump_to=&#34; width=&#34;610&#34; height=&#34;457&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;LA UX designer Sarah Mitchell has posted an excellent set of sketch notes from Interaction 10. &lt;a href=&#34;http://www.sgmitch.com/blog/2010/02/interaction-10/&#34;&gt;Go to her blog entry&lt;/a&gt; to read the  accompanying written notes.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sgmitch.com/blog/2010/02/interaction-10/&#34;&gt;http://www.sgmitch.com/blog/2010/02/interaction-10/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

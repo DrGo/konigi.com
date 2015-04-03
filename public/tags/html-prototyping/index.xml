@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html Prototyping on Konigi</title>
+    <link>http://localhost:1313/tags/html-prototyping/</link>
+    <description>Recent content in Html Prototyping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/html-prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/anijs-declarative-handling-library-css-animations/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;AniJS&lt;/a&gt; is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. &lt;/p&gt;
+&lt;p&gt;A simple example contains IF, ON, DO, and TO pairs and would look like this: &lt;/p&gt;
+&lt;pre&gt;&amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;&amp;gt;&lt;/pre&gt;&lt;p&gt;
+Really nice and an easy technique for prototyping. &lt;a href=&#34;http://anijs.github.io/&#34;&gt;Check it out&lt;/a&gt;.&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://anijs.github.io/&#34;&gt;http://anijs.github.io/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>uilang</title>
+      <link>http://localhost:1313/tools/submissions/uilang/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/uilang/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;uilang&lt;/a&gt; is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &lt;/p&gt;
+&lt;pre&gt;&amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt;&lt;/pre&gt;&lt;p&gt;
+You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things. &lt;a href=&#34;http://uilang.com/&#34;&gt;Check it out.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;/ht &lt;a href=&#34;https://twitter.com/leonbarnard&#34;&gt;Leon&lt;/a&gt;&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://uilang.com/&#34;&gt;http://uilang.com&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic UI Library</title>
+      <link>http://localhost:1313/tools/submissions/semantic-ui-library/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/semantic-ui-library/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2848&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5238a75c82786_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;Semantic UI&lt;/a&gt; is a framework for building HTML sites that aims at creating a system based on semantic naming and sensible defaults.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;The framework compares itself directly with Bootstrap. It uses simple, common language for parts of interface elements and familiar rules used in natural languages for describing elements. Interface definitions are tag ambivalent so you can use div, article, section, span without affecting the display of the element.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://semantic-ui.com/&#34;&gt;http://semantic-ui.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Random User Generator</title>
+      <link>http://localhost:1313/tools/submissions/random-user-generator/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/random-user-generator/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://randomuser.me/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2657&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522795038a56f_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://randomuser.me/&#34;&gt;RandomUser&lt;/a&gt; is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://randomuser.me/&#34;&gt;http://randomuser.me/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Mixture</title>
+      <link>http://localhost:1313/tools/submissions/mixture/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/mixture/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2706&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fd46e5b40d_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;Mixture&lt;/a&gt; is a rapid prototyping and static site generation tool for Mac and Windows. It works with the Liquid templating system, supports includes and smart paths, handles HAML and SASS comilation, CSS and JS minification, and provides a simple model system for global and custom data, and supports access to form and query data in their request model. It can produce static HTML that you can push to a hosting service, and allows use of your own domain. Service integration for testing with BrowserStack and other services is planned.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;a href=&#34;../../notebook/static-html-new-old-school.html#comment-847916430&#34;&gt;Via Ryan Riatno&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mixture.io/&#34;&gt;http://mixture.io/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Static HTML: The new old school</title>
+      <link>http://localhost:1313/blog/static-html-new-old-school/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/static-html-new-old-school/</guid>
+      <description>&lt;p&gt;I&#39;ve been looking for ways to energize my creativity in between the longer stretches of time spent on difficult, routine, and less creative work. The thing that has been doing it for me lately is working with static html on some of my smaller production sites.&lt;/p&gt;
+&lt;p&gt;I was playing around with static html tools for a little side project I&#39;ve been toying with. I was tinkering with &lt;a href=&#34;http://www.staceyapp.com/&#34;&gt;Stacey&lt;/a&gt; and &lt;a href=&#34;http://getkirby.com/&#34;&gt;Kirby&lt;/a&gt;. Awesome tools for static PHP page building. I was also playing around with &lt;a href=&#34;http://incident57.com/codekit/&#34;&gt;CodeKit&lt;/a&gt;, which looked like the most promising tool for little projects. But I figured it was all just playing and there wouldn&#39;t be a real static site project for me to work on for a while probably.&lt;/p&gt;
+&lt;p&gt;Then last month we launched &lt;a href=&#34;http://www.uxapprentice.com/&#34;&gt;UX Apprentice&lt;/a&gt; using WordPress. We were on a stable server that hosts some pretty massive sites, so I was happy. But then, as web hosts always do, it went down for a short period. Some rare issue on load balancers was the cause we were told. Downtime happens. But then while discussing this issue I said, &#34;Fuckit. This site is so simple, let&#39;s make it static and put it on an S3 bucket.&#34;&lt;/p&gt;
+&lt;p&gt;A week earlier I was playing with &lt;a href=&#34;http://hammerformac.com/&#34;&gt;Hammer for Mac&lt;/a&gt;, the latest static site builder I had found. Among my options, including just doing it all by hand, this was the simplest of them all. I looked at what I would need to port the site to Amazon&#39;s S3 service for websites with no fuss. All I needed to do was suck the WordPress site down and convert it to static HTML. &lt;/p&gt;
+&lt;p&gt;I know this is small potatoes compared to the bigger things people are doing out there, but I got a kick out of doing this. &lt;/p&gt;
+&lt;p&gt;Here&#39;s how I did it, in case anyone out is considering doing the same:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) Download&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&#34;http://sitesucker.us/mac/mac.html&#34;&gt;SiteSucker&lt;/a&gt; pulled the site down for me and converted it to static HTML. You can &lt;a href=&#34;http://www.linuxjournal.com/content/downloading-entire-web-site-wget&#34;&gt;do it on the cheap with wget&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) Create a Hammer Project&lt;/strong&gt;&lt;br /&gt;
+Look at your downloaded site, and clean out the cruft. Open Hammer for Mac and create your project. Open the source folder. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) Organize files, use HTML editor to convert PHP to Hammer-smart stuff&lt;/strong&gt;&lt;br /&gt;
+I then moved my img, css, and js folders to the new project&#39;s assets/ folder. When Hammer builds, it reads your entire project and then knows where everything is so you can use the @path directive to reference files only by name, and include styles and css simply by name without paths using the @stlylesheet and @javascript directives. I cleaned all files up to use this.&lt;/p&gt;
+&lt;p&gt;I did the find/replace grunt work using &lt;a href=&#34;http://panic.com/coda/&#34;&gt;Coda&lt;/a&gt; on my CSS and html files. Replaced the PHP that I use in my header to use the @include directive and the $title variable. My SCSS files got picked up and compiled with no problems. I then used the @path helper on images in my SCSS.&lt;/p&gt;
+&lt;p&gt;About two hours of this clean up and it built with no errors. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://media.konigi.com/notebook/hammer.png&#34; class=&#34;screenshot&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;All my SCSS was compiled, my includes worked, and my CSS and JS were optimized (combined and minified). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4) Testing&lt;/strong&gt;&lt;br /&gt;
+I set up my hosts on my machine so I could test locally in the browser so all the TypeKit would work after I added that domain. I also learned that you can&#39;t test Typekit with a url using the &lt;a href=&#34;///&#34; title=&#34;///&#34;&gt;file:///&lt;/a&gt; protocol. Bummer. I already use &lt;a href=&#34;http://clickontyler.com/virtualhostx/&#34;&gt;VirtualHostX&lt;/a&gt; which makes simple work of managing multiple hosts on your local machine. It edits your httpd-vhosts.conf and hosts file. I had bought it originally because the web sharing option went away in OS X, and I&#39;m too lazy to edit files just to turn PHP on. &lt;/p&gt;
+&lt;p&gt;Then of course, I tested on all my browsers and tested the responsive layout. We were ready to go. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5) Publish&lt;/strong&gt;&lt;br /&gt;
+Publishing on S3 is pretty simple. A normal person just needs to set up a bucket and use an S3 aware FTP app like &lt;a href=&#34;http://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt; and you&#39;re done. We ended up commiting it to a repository that is watched by a server that kicks off updates to S3 for pages that have changed. &lt;/p&gt;
+&lt;p&gt;That was the whole mini-relaunch that happened quietly after we launched UX Apprentice. We were live on WordPress for a week, and now we&#39;re hosted on an AWS instance and I expect the uptime will be awesome—as good as any S3 site. We do the same for our main balsamiq.com site and every time I see our blogs report downtime, I feel this wave of relief knowing our static pages on S3 are happily being pushed out without issue. &lt;/p&gt;
+&lt;p&gt;Anyhow, that made for an exciting day last week. It&#39;s energizing to feel frustrated by something and quickly turn something around that&#39;s better. And for anyone that&#39;s doing UX work that&#39;s looking for a decent HTML prototyping workflow and knows enough SASS and JS, Hammer may be the thing for you. &lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Hammer for Mac</title>
+      <link>http://localhost:1313/tools/submissions/hammer-mac/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/hammer-mac/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2813&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt523157b204616_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;Hammer&lt;/a&gt; is a static web site builder for the Mac that lets you build out sites quickly with no server side requirements.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hammer does includes without PHP, compiles Coffeescript to JS, SASS/SCSS to CSS, has an auto-refresh feature for never having to reload the browser, and provides some simple to use helpers. Since it knows about all of the files in your projects, you just reference names and it knows how to build out paths. It has a helper for selected link classes in your navigation elements. When you&#39;re ready to share your prototype you can upload to your own server, zip and send the Build folder, or use their own built in publishing system.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hammerformac.com/&#34;&gt;http://hammerformac.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>jKit: jQuery based UI Toolkit</title>
+      <link>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/jkit-jquery-based-ui-toolkit/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2667&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fa3108a630_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;jKit&lt;/a&gt; is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jquery-jkit.com/&#34;&gt;http://jquery-jkit.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>One div: Pure CSS icons</title>
+      <link>http://localhost:1313/tools/submissions/one-div-pure-css-icons/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/one-div-pure-css-icons/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://one-div.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2712&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fe3ea09688_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://one-div.com/&#34;&gt;One Div&lt;/a&gt; is a library of icons that are realised in pure css with only one html div as an alternative to SVG. Icons allow precise borders even when resized—same as one would expect with vector icons.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://one-div.com/&#34;&gt;http://one-div.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Ai to Canvas Plug-In</title>
+      <link>http://localhost:1313/tools/submissions/ai-canvas-plug/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/ai-canvas-plug/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2806&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt523133d860b48_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;Ai-&amp;gt;Canvas plug-in&lt;/a&gt; enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://visitmix.com/labs/ai2canvas/&#34;&gt;http://visitmix.com/labs/ai2canvas/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Learn to Code</title>
+      <link>http://localhost:1313/wiki/learn-code/</link>
+      <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/learn-code/</guid>
+      <description>&lt;p&gt;&lt;h2 id=&#34;toc0&#34;&gt;The Debate&lt;/h2&gt;
+&lt;p&gt;The debate about whether or not designers need to learn to code is essentially about knowing enough HTML and CSS, and maybe some Javascript to be able to prototype web views.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Mastery and the ability to produce production code is not something most interaction designers and information architects will have the opportunity to achieve, but being capable enough to communicate design on web products requires some basic skills that you can learn in a few days or months to start. Here are some resources for designers looking to get started with basic markup and light scripting.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc1&#34;&gt;Start&lt;/h2&gt;
+&lt;p&gt;Great places for beginners to learn basic web markup, stylesheets and programming.&lt;br /&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://learn.shayhowe.com/html-css/&#34;&gt;A Beginner&amp;rsquo;s Guide to HTML and CSS&lt;/a&gt; - Shaye Howe&amp;rsquo;s guide for beginners outlines the fundamentals of front-end design and development with HTML and CSS.&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.codecademy.com/&#34;&gt;Code Academy&lt;/a&gt; - Free. Start with HTML Fundamentals and Javscript intros. Move on to Jquery to add interaction.&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.learnstreet.com/&#34;&gt;LearnStreet&lt;/a&gt; - Free. JavaScript for beginners is a good start. Ruby and Python are also offered.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc2&#34;&gt;Go further&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt; Read some articles on &lt;a href=&#34;http://net.tutsplus.com/tutorials/html-css-techniques/30-html-best-practices-for-beginners/&#34;&gt;good practices and habits&lt;/a&gt; to get into as you to start. &lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://sass-lang.com/&#34;&gt;SASS, Syntactically Awesome Stylesheets&lt;/a&gt; - Stylesheet language with some scripting capabilities that compiles into CSS. There are even light PHP SASS compilers that work with WordPress if you go that route.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2 id=&#34;toc3&#34;&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.w3.org/MarkUp/Guide/&#34;&gt;W3C Markup Guide&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt; &lt;a href=&#34;http://www.w3.org/MarkUp/Guide/Style&#34;&gt;W3C CSS Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wirefy: Responsive Wireframe Library</title>
+      <link>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</link>
+      <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/wirefy-responsive-wireframe-library/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2776&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5230a9c13e1b7_custom_0.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;Wirefy&lt;/a&gt; is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cjdsie.github.com/wirefy/&#34;&gt;http://cjdsie.github.com/wirefy/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Bookmarklet</title>
+      <link>http://localhost:1313/tools/submissions/responsive-design-bookmarklet/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/responsive-design-bookmarklet/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://responsive.victorcoulon.fr/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/rdbookmarklet-1.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Victor Coulon&#39;s &lt;a href=&#34;http://responsive.victorcoulon.fr/&#34;&gt;Responsive Design Bookmarklet&lt;/a&gt; is a simple browser-based tool  for testing your web layout in desktop, tablet and mobile phone dimensions. Save the bookmarklet, go to the page you want to test, then select the bookmarklet. It puts your page in a frame at the dimensions you want to test. &lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Found via &lt;a href=&#34;www.bookslope.html&#34;&gt;Takashi Sakamoto&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;a href=&#34;http://responsive.victorcoulon.fr/&#34;&gt;http://responsive.victorcoulon.fr/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap, from Twitter</title>
+      <link>http://localhost:1313/tools/submissions/bootstrap-twitter/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/bootstrap-twitter/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2722&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt522fee73e56fb_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;Bootstrap&lt;/a&gt; is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.github.com/bootstrap/&#34;&gt;http://twitter.github.com/bootstrap/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>InstaCSS: CSS Documentation Search</title>
+      <link>http://localhost:1313/tools/submissions/instacss-css-documentation-search/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/instacss-css-documentation-search/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;a href=&#34;http://instacss.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/tools/external/instacss.png&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Using &lt;a href=&#34;http://instacss.com/&#34;&gt;InstaCSS&lt;/a&gt; is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&amp;rsquo;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item &lt;a href=&#34;../../notebook/creating-google-menubar-application.html&#34;&gt;like this&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Via &lt;a href=&#34;http://thinkvitamin.com/&#34;&gt;Think Vitamin Newsletter&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://instacss.com/&#34;&gt;http://instacss.com/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+  </channel>
+</rss>

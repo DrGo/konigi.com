@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Konigi</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Typinator: Automatic text software</title>
+      <link>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tools/submissions/typinator-automatic-text-software/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;tool-screenshot mb1&#34;&gt;&lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2826&#39; class=&#39;bluga-thumbnail custom&#39; src=&#39;http://media.konigi.com/bluga/
+wt5231d9f71769a_custom.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using &lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;Typinator&lt;/a&gt;, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Years ago, pre-OS X, used something called TypeIt4Me to handle this and am stoked to have this kind of a tool back in my aresenal. The email response stuff is cool, but what I&#39;ve been using it for most is for all the different kinds of Lorem Ipsum greeking I use. For instance, I have single paragraph, single sentence, title/description/author, etc. What I&#39;m also starting to do is to create these greeked text blocks formatted in Balsamiq&#39;s text syntax, which is kind of like markdown or wiki editing syntax. So can text in some controls to use flags for icons, to create font styles. etc.&lt;/p&gt;
+
+&lt;p&gt;Simple software like this saves your life from the monotony. This is easily one of the best pieces of software I used daily.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ergonis.com/products/typinator/&#34;&gt;http://www.ergonis.com/products/typinator/&lt;/a&gt;&lt;/p&gt;
+      
+</description>
+    </item>
+    
+    <item>
+      <title>Finding Focus While Trying to Work</title>
+      <link>http://localhost:1313/blog/finding-focus-while-trying-work/</link>
+      <pubDate>Tue, 27 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/finding-focus-while-trying-work/</guid>
+      <description>&lt;p class=&#34;dek&#34;&gt;How I try and occasionally succeed at finding focus.&lt;/p&gt;
+&lt;p&gt;Ambient information and notification is killing me; so much so I&#39;m mostly avoiding email, I&#39;m disabling Growl notifications for apps, and looking at stuff like Tweetie on my own time rather than leaving it always on.  I have to admit that I occasionally have a hard time focusing on tasks and have sometimes put more effort into tweaking my systems for getting things done than I should. All for the greater good of finding a better way to be productive, I say. I am of course fooling myself. &lt;/p&gt;
+&lt;p&gt;I have found some practices rather useful for getting things done, and mostly they involve 2 things: 1) turning off the ambient noise and, 2) looking at what needs to get done and getting to work. Here are some of the ways I try to do this.&lt;/p&gt;
+&lt;h3&gt;Reducing Noise&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Checking Email&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Email is the one of the worst offenders for delivering noise to signal. When I need to focus, I try to turn off email for the greater part of the day. I check 2-3 times a day, e.g. 10AM, 1PM, 4PM.  I use an app on the Mac called Alarm Clock Pro that reminds me to check email at those intervals every weekday. I try not to look at email in between. I got the interval email reading idea from Caterina Fake, who &lt;a href=&#34;http://www.flickr.com/photos/caterina/3270176074/&#34;&gt;captured a whiteboard&lt;/a&gt; of a single tasking strategy that apparently someone must be using at Hunch. &lt;/p&gt;
+&lt;p&gt;Mozilla Labs is also working on a project called &lt;a href=&#34;http://labs.mozilla.com/raindrop/2009/10/22/introducing-raindrop/&#34;&gt;Raindrop&lt;/a&gt;, led the by the Thunderbird team, to address the issue of managing email and the countless notifications we get. Some of the &lt;a href=&#34;http://www.flickr.com/photos/43332657@N06/3996189794/in/pool-raindropdesign&#34;&gt;ideas in their first design iteration&lt;/a&gt; look interesting if they can keep the experience simple. I just don&#39;t want another feed I have to watch if it doesn&#39;t boost signal to noise.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unsubscribing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve lost control of email, largely because of newsletters, email lists, and commercial advertisements. I used to be good at filtering out the noise, but somehow I got lazy and didn&#39;t continue to keep the noise out of the inbox. What I do when that happens is send those newsletters to folders via filters and check them on a periodical schedule if I must. Better yet, I unsubscribe to the ones I really don&#39;t read anymore but still receive. If they&#39;re good lists, they&#39;ll have an archive you can search when you need to. &lt;a href=&#34;http://www.ixda.org/discuss.php&#34;&gt;IXDA&#39;s email list&lt;/a&gt; is an example that does the web archive exceptionally well.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dealing with RSS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve left and returned to my feed readers so many times, saying I couldn&#39;t deal with reading everyone anymore. But when I started blogging again, I realized that I wanted to find a way to manage my feeds. I&#39;ve tried using Email systems that digest daily all the most important feeds that I can&#39;t do without. I&#39;ve tried using folders to filter my feed reader. I&#39;ve tried watching the stream through a Friend Feed app. Every one of those just seemed to do nothing to turn down the stream and only let the interesting things through. What I do now is use a combination of services, and use the appropriate one for the amount of time I have available to read.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tabbloid.com/&#34;&gt;Tabbloid&lt;/a&gt; is a service I use for a handful of tech industry rags that post too often. I want to skim them daily so I use Tabbloid to give me a daily email digest of posts. I send it to trash after I skim the titles if there&#39;s nothing of interest.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://reader.google.com/&#34;&gt;Google Reader&#39;s&lt;/a&gt; Explore Popular items is useful for surfacing the most popular entries in your feeds. You seed the reader brain by telling it what items you liked (by clicking smiley icons) and it uses this information to help recommend items to you in the future. The Sort By Magic feed setting is another feature that surfaces items that may be of interest to you, based on what you&#39;ve read and shared in the past.&lt;/p&gt;
+&lt;p&gt;I&#39;ve also been using Shaun Inman&#39;s &lt;a href=&#34;http://feedafever.com/&#34;&gt;Feed a Fever&lt;/a&gt; app, which surfaces the most linked to entries from your subscriptions and shows you a listing of all of the posts pointing to the original item. It has the other category filtering mechanisms you&#39;d expect, but the Hot view is where I spend most of my time. The design is also very light and very easy on the eyes, which I can&#39;t say really for the Google Reader unless I use Helvetireader.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Setting IM status&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I leave IM on, but use status messages for focus time. For example, I set to busy when busy. Duh. If I set status to available and I&#39;m trying to get things done, I don&#39;t always respond immediately unless the IM is from a co-worker. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Turn off Twitter&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have to treat Twitter like email on focus days. I check only replies and DMs a couple times a day. Twitter can be a rathole that leads you down a trail of links that will suck your time dry if you let it. It&#39;s also full of great finds and useful information, but during focus time, it&#39;s just another hose to turn down. &lt;/p&gt;
+&lt;h3&gt;Focusing&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Setting priorities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For me this is the set of near and far set of targets. For some projects I create roadmaps. They can have 1 year and 5 year goals. For product development, I lean on the product roadmap, and I break those down into goals which can be plotted annually, quarterly, monthly, daily. But that exercise is kind of academic with so many factors and people involved&amp;#8212;it&#39;s a moving target. Goals on the design projects I own  are easier to plot. But the general idea is to get the far out goals down, then work backwards listing all the steps that need to happen for the goal to be reached. &lt;/p&gt;
+&lt;p&gt;I know tons of books talk about how you do this, but for me it&#39;s just easy to do for a single project, up to a point. If you&#39;re good at this kind of thing, then it just means using some methodology, like David Allen&#39;s GTD to record it all and order it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using tickler folders&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m a fan of David Allen, who created the productivity system &#34;Getting Things Done,&#34; although I follow his system somewhat loosely using a combination of OmniFocus and notepads. The main idea that works for me is setting up tickler folders for recording the tasks/actions that need to be done and reminding myself of what needs attention.  Works with simple paper files to record and a system of tickler folders to hold the ordered files, as &lt;a href=&#34;http://www.youtube.com/watch?v=N9ULWQ_tnM8&amp;amp;feature=player_embedded#&#34;&gt;Allen demonstrates in this video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Asking your computer to nag&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Making note of the time is one of those simple things I started to do to create a sense of awareness and urgency. I&#39;m one of those people who tend to get lost in an activity and lose track of time; so much so that the day gets away and I wonder how mindful I&#39;ve been while I was bobbing along. I use the Date/Time system preferences to announce the hour. It alerts me to how much time is passing away. Some people would find this annoying, I&#39;m sure, but it actually keeps me in a state of constant, subtle panic. It&#39;s kind of like having a productivity pace maker.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using single app mode&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is perhaps one of those things that writers do all the time, and I&#39;ve only recently started using it when I&#39;m writing. Option-Command-clicking an app in the dock opens it in single window mode, hiding other apps. This kind of happens automatically for me when I&#39;m in Adobe tools in full screen mode, but in other tools that use floating palettes, it&#39;s easy for background applications to distract.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Getting out&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;That is to say, I try step away from the computer when I can. I am a remote guy on my team. I used to have an office, but now I work from home. Working from home can be kind of tough, so I try to get out a few times a week to work around others, and to have lunch or coffee with other designers in the NYC area. &lt;/p&gt;
+&lt;p&gt;When I have to focus, especially when I have to work out designs, I go out and sketch on paper in a cafe. I bring my computer usually, but sometimes it helps to go out without one and sketch somewhere different, where where I&#39;ll feel free from the constant bing of alerts. If people need to reach me they have my cell phone number, and I&#39;m never far away from my office at home.&lt;/p&gt;
+&lt;h3&gt;Sometimes it actually works&lt;/h3&gt;
+&lt;p&gt;These are most of the things I can think of that I do. Sometimes it helps me focus, which is really good, because I have a hard time not getting distracted. The irony of this article is that because of it, I&#39;ve whiled away an hour or so writing this when I could have been productive. What do you do to find focus?&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Finding the Productivity Method That Fits</title>
+      <link>http://localhost:1313/blog/finding-productivity-method-fits/</link>
+      <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/finding-productivity-method-fits/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/printable-ceo-task-timer.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;As many of my friends and colleagues know, I&amp;rsquo;m one of those people that read David Allen&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Getting_Things_Done&#34;&gt;Getting Things Done&lt;/a&gt;&lt;/em&gt;, got the religion, and tried various methods for planning and managing project tasks, using both software and paper. In the past few years, like many, I&amp;rsquo;ve tweaked my approach, taking bits and pieces from here and there to settle on the solution that&amp;rsquo;s most suitable for the way I work. At this point, any resemblance to GTD might be less noticable, but it&amp;rsquo;s beginnings are there. &lt;/p&gt;
+&lt;p&gt;The methods and tools that work best for me now are influenced by &lt;em&gt;GTD&lt;/em&gt;, Niel Fiore&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/0874775043&#34;&gt;The Now Habit&lt;/a&gt;&lt;/em&gt;, and from a broader perspective, by ideas inspired by Napoleon Hill&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Think_and_Grow_Rich&#34;&gt;Think and Grow Rich&lt;/a&gt;&lt;/em&gt;, which seems now to me to be less about planning your road to wealth, and more about how to use thought to visualize goals. Out of those kinds of ideas, stem the more practical suggestions of taking the larger goals and breaking them down into smaller tasks, a la the book &lt;em&gt;&lt;a href=&#34;http://ezinearticles.com/?How-Do-You-Eat-An-Elephant?&amp;amp;id=945215&#34;&gt;How Do You Eat An Elephant: One bite at a time&lt;/a&gt;&lt;/em&gt;, which seemed to be recommended reading years ago to grad students.&lt;/p&gt;
+&lt;p&gt;In any case, the sum of everything I&amp;rsquo;ve taken from those books that I deem doable for me without being unreasonable. I do some of these with regularity, e.g. the high level planning, and others more loosely, e.g. the daily task list.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High and Mid Level Planning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is the outline for a high level plan for a single project. Apply for each project, and iteratively apply to sub-projects. Revisit and revise based on changed goals in the daily/monthly/quarterly view. It&amp;rsquo;s kind of a like a roadmap and is done at the above intervals.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set high level goals per project and record them. This can be done for both work and personal projects.&lt;/li&gt;
+&lt;li&gt;Break the high level down into steps towards achieving that goal, and further break those down into smaller and smaller bits that can each be accomplished in one sitting. Each step should be ideally accomplishable in a specific time frame, e.g. up to 1 hour on 15 minute intervals with repeat attempts as necessary.&lt;/li&gt;
+&lt;li&gt;Review the steps in the process, and record each step as a task or to do.&lt;/li&gt;
+&lt;li&gt;Plot groups of tasks along a high level continuum, e.g. year, quarter, month&lt;/li&gt;
+&lt;li&gt;I may also create a sort of radar and plot the projects on a 2x2 grid with a Y vector for importance/priority and an X vector for level of effort.&lt;/li&gt;
+&lt;li&gt;Put your tasks in project folders (phsyical folders or in software like OmniFocus, Things, an Outliner, Word, etc.), and put in order when possible so that next actions are at the top.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Low Level Planning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is the day to day work of getting things done. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Check your project folders for next actions and list all the goals that need to be done today. GTD peeps call these tickle folders, and the practice is to check these frequently to see where you are.&lt;/li&gt;
+&lt;li&gt;If anything is waiting for feedback or input from someone else, file it back in or defer it, but check in with people you&amp;rsquo;re waiting on if you have to.&lt;/li&gt;
+&lt;li&gt;With your list of goals for the day, mark estimated time to complete or level of effort.&lt;/li&gt;
+&lt;li&gt;Start going down the list based on priority and level of effort and list tasks that you know you can complete for the day. Create a task list based on those &amp;ldquo;can do&amp;rdquo; actions, with estimated times to complete and checkboxes.&lt;/li&gt;
+&lt;li&gt;Record tasks completed and time to complete.&lt;/li&gt;
+&lt;li&gt;At the end of the day, plan your goals for the next day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ongoing Review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is the ongoing planning I do every quarter and every month to set goals, and assess where I am with regard to the last month.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As above, adjust the higher levels according to shifted actual goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&amp;rsquo;s a hell of a lot of stuff, and I haven&amp;rsquo;t even included the idea of planning the things you want to do, a la Now Habit and Uncalendar. I don&amp;rsquo;t do all of these. I do some of the above on paper in my sketchbook. At the top, I place my date and goals radar. Below, I list my tasks with checkboxes, level of effort/duration, and actual completion duration. I&amp;rsquo;ve actually been playing around with a task book based on this, which I print and bind myself.&lt;/p&gt;
+&lt;p&gt;Recently I&amp;rsquo;ve also been turned on to some great ideas that validate the above approach and give me ideas for how to better support this obsession with finding the method the works for me. One is &lt;a href=&#34;http://www.jackcheng.com/time-on-your-side&#34;&gt;Jack Cheng&amp;rsquo;s idea for forward time tagging/estimation&lt;/a&gt; in your task list. And the other is David Seah&amp;rsquo;s &lt;a href=&#34;http://davidseah.com/blog/the-printable-ceo/&#34;&gt;Printable CEO&lt;/a&gt; work sheets for tracking actual effort, and a &lt;a href=&#34;http://davidseah.com/tools/ett/alpha/&#34;&gt;Emergent Time Tracker Flash app&lt;/a&gt; he&amp;rsquo;s developing to do time tracking, which is pictured above. I&amp;rsquo;ve been playing with it, and it&amp;rsquo;s really quite nice. I&amp;rsquo;d be interested in using something like that full time on my Mac and iPhone. The Behance Network&amp;rsquo;s &lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;Action Method&lt;/a&gt; is a nice web-based service that let&amp;rsquo;s you do all of this online.&lt;/p&gt;
+&lt;p&gt;Anyway, now seemed like a good time to start sharing my thoughts on what works for me, mainly because I&amp;rsquo;m interested in hearing what works for other people. For now, I&amp;rsquo;m sticking to a combination of OmniFocus for the longer term planning and paper for the daily planning/tracking and it&amp;rsquo;s working for me. It&amp;rsquo;s been amazing to see how much people like to talk about this topic, but since Merlin&amp;rsquo;s stopped talking about GTD on 43 Folders, maybe we&amp;rsquo;ll stop talking so much about getting things done, and just get them done. Which reminds me, this blog entry has eaten up more than 30 minutes now.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Action Method Online</title>
+      <link>http://localhost:1313/blog/action-method-online/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/action-method-online/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1385&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48ff71dc05870.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Behance introduces &lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;Action Method Online&lt;/a&gt;, a web-based sister to the Action Method paper products that help creatives track and hit action items, and stay productive. Nice.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.actionmethod.com/&#34;&gt;http://www.actionmethod.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menus on Konigi</title>
+    <link>http://localhost:1313/tags/menus/</link>
+    <description>Recent content in Menus on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pinterest Mobile Radial Menus</title>
+      <link>http://localhost:1313/interface/pinterest-mobile-radial-menus/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/pinterest-mobile-radial-menus/</guid>
+      <description>&lt;p&gt;Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.&lt;/p&gt;
+
+&lt;div class=&#34;video&#34;&gt;&lt;div class=&#34;caption aptureNoAutolink&#34;&gt;Screencast / Video&lt;/div&gt;&lt;div class=&#34;video-object&#34;&gt;&lt;iframe src=&#34;http://www.youtube.com/embed/jeGkxfY_UOM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pinterest.com/&#34;&gt;http://www.pinterest.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigation Patterns for Responsive Design</title>
+      <link>http://localhost:1313/blog/navigation-patterns-responsive-design/</link>
+      <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/navigation-patterns-responsive-design/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-2600&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt5119504631343_large.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;I like Brad Frost&amp;rsquo;s examples for handling both &lt;a href=&#34;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&#34;&gt;complex navigation&lt;/a&gt; and &lt;a href=&#34;http://bradfrostweb.com/blog/web/responsive-nav-patterns/&#34;&gt;simple navigation&lt;/a&gt; needs on responsive designs.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Via Leisa IAI Members&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&#34;&gt;http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Make Tree Components in OmniGraffle</title>
+      <link>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</link>
+      <pubDate>Thu, 24 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/how-make-tree-components-omnigraffle/</guid>
+      <description>&lt;p&gt;I swear I&#39;ve answered this question a dozen times, so I&#39;m capturing to refer people in the future. The tree control in my OmnGraffle Wireframe Stencil is a godawful hack that uses tabs and arrow characters. Copying and pasting the arrows, however, screws up the formatting. OmniGraffle just doesn&#39;t make this kind of manipulation of text all that easy and I haven&#39;t found an ideal solution, but if you want to learn how I do it, read on.&lt;/p&gt;
+&lt;p&gt;To use the tree control presently, you utilize the tab stops and insert arrrows from a character viewer. Type CMD-R to show rulers and tab stops in paragraphs of text. Then Option-Tab to move between tab stops. 1 tab for first level arrow. Insert arrows from the character viewer.&lt;/p&gt;
+&lt;p&gt;The video below shows how to :&lt;/p&gt;
+&lt;p&gt;1) Enable the character viewer in OS X System Preferences &gt; Language &amp;amp; Text &gt; Input Sources.&lt;br /&gt;
+2) Use tab stops to Option-tab your text to create hierarchy.&lt;br /&gt;
+3) Use OS X&#39;s character viewer to insert arrows.&lt;/p&gt;
+&lt;p&gt;View it in full screen to see it. &lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&lt;object classid=&#39;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&#39; codebase=&#39;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0&#39; width=&#39;560&#39; height=&#39;345&#39;&gt;&lt;param name=&#39;movie&#39; value=&#39;http://screenr.com/Content/assets/screenr_1116090935.swf&#39; /&gt;&lt;param name=&#39;flashvars&#39; value=&#39;i=81782&#39; /&gt;&lt;param name=&#39;allowFullScreen&#39; value=&#39;true&#39; /&gt;&lt;embed src=&#39;http://screenr.com/Content/assets/screenr_1116090935.swf&#39; flashvars=&#39;i=81782&#39; allowFullScreen=&#39;true&#39; width=&#39;560&#39; height=&#39;345&#39; pluginspage=&#39;http://www.macromedia.com/go/getflashplayer&#39;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;I&#39;m using Option-* to make the bullets. Like I said it&#39;s terribly awkward, but that&#39;s how I make do.&lt;/p&gt;
+&lt;p&gt;Since using paragraph formatting in a text element is unnecessarily difficult, what might be an easier way to manage is to use a table and copy/paste the arrow icons if you find the above technique a pain. &lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>Target Drop Down Menus</title>
+      <link>http://localhost:1313/interface/target-drop-down-menus/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/target-drop-down-menus/</guid>
+      <description>&lt;p&gt;Target&#39;s global navigation features wide, multi-column drop-down menus that stretch to the full width of the page layout. The columns in the drop down show hierarchical lists of product/section contents using font weight and indentation, and additionally allow the company to promote special events.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Drop down for the &amp;quot;Women&amp;quot; section shows a multi-column hierarchical list of all product sub-categories.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/target-dropdown-menu-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Drop down for the &amp;quot;Women&amp;quot; section shows a multi-column hierarchical list of all product...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/target-dropdown-menu-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. The &amp;quot;See All&amp;quot; menu item allows the site to show other product categories that aren&#39;t being featured.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/target-dropdown-menu-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. The &amp;quot;See All&amp;quot; menu item allows the site to show other product categories that aren&amp;#039...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/target-dropdown-menu-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.target.com/ref=nav_2_t_logo&#34;&gt;http://www.target.com/ref=nav_2_t_logo&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Life Magazine Drop Down Menus</title>
+      <link>http://localhost:1313/interface/best-life-magazine-drop-down-menus/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/best-life-magazine-drop-down-menus/</guid>
+      <description>&lt;p&gt;Best Life Magazine&#39;s global navigation uses drop-down menus to provide both sub-section navigation where applicable, and teasers of content in sections, using a multi-column lists and showing a featured article with a thumbnail. &lt;/p&gt;
+&lt;p&gt;Thanks to Fritz for the pointer.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Subscribe drop down shows print and online subscription options.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bestlife-dropdowns-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Subscribe drop down shows print and online subscription options.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bestlife-dropdowns-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Teasers of latest and featured content within a section.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/bestlife-dropdowns-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Teasers of latest and featured content within a section.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/bestlife-dropdowns-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://bestlifeonline.com/&#34;&gt;http://bestlifeonline.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gmail Move and Label Menus</title>
+      <link>http://localhost:1313/interface/gmail-move-and-label-menus/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/gmail-move-and-label-menus/</guid>
+      <description>&lt;p&gt;Google modified the labeling (tagging) menus in Gmail to add a Move option to co-exist with the prior Label drop down menu. The Move menu allows the user to move an email to a single label and then archives it, removing it from the Inbox. The Label menu allows the user to add multiple labels to the email, but does not archive it. Both menus offer a label search input with auto-completion, as well as options to create new or manage existing labels.  &lt;/p&gt;
+&lt;p&gt;This is one of those times when I feel comfortable enough wearing my own hat as a power user to say that while these efficiencies were added, they don&#39;t go far enough. Gmail has always seemed like an leader/innovator in pushing tags rather than folders for organizing email. So I think they can push for implementing advanced features that aren&#39;t the most simple to use at first. These menus really do make it easy to do more with labels without hitting the label menu over and over again for repeat actions.&lt;/p&gt;
+&lt;p&gt;What seems incomplete to me is the auto-completion behavior on the search input. I&#39;m one of those ridiculous Gmail power users that organizes labels into facets by using prefixes, e.g. L: for lists, T: for tags, P: for projects, ~ for GTD labels, e.g. ~action, ~waiting, etc. So in my examples you&#39;ll see that I would be able to tag something L:cycling or T:cycling. But if I enter &#34;cycling&#34; in either of these search boxes, nothing gets found because Gmail only matches from the beginning of the labels. The right way to do it is to match against any text in the string, and luckily MailPlane, the desktop application for Gmail gets this right.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The Move menu offers options to move and archive the current message, as well as create new labels or mark as spam.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The Move menu offers options to move and archive the current message, as well as create new label...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Typing text into the search input allows you to find an existing label, and offers the user an option to create the label if it doesn&#39;t exist.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Typing text into the search input allows you to find an existing label, and offers the user an op...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. This shows a match against my string &amp;quot;T:cyc.&amp;quot;&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. This shows a match against my string &amp;quot;T:cyc.&amp;quot;&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Gmail only matches from the beginning of the string in their search capability. MailPlane&#39;s labelling panel (CMD-L) allows you to search for labels and matches anywhere in the string. So in my scenario above, I can find &amp;quot;cycling&amp;quot; without entering my prefixes.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Gmail only matches from the beginning of the string in their search capability. MailPlane&#39;s ...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. The Label menu allows you to find labels and click checkboxes to apply more than one label to the message. Prior to this, Gmail users had to click the Label drop down menu repeatedly when adding more than one label.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. The Label menu allows you to find labels and click checkboxes to apply more than one label to the...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. Users click the apply button in the drop down menu to add the labels that were checked off.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/gmail-labels-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. Users click the apply button in the drop down menu to add the labels that were checked off.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/gmail-labels-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://gmail.com/&#34;&gt;http://gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shelfari Hybrid Buttons</title>
+      <link>http://localhost:1313/interface/shelfari-hybrid-buttons/</link>
+      <pubDate>Tue, 03 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/shelfari-hybrid-buttons/</guid>
+      <description>&lt;p&gt;Shelfari has a clever hybrid button/drop down menu to display actions on books. The button label shows the current status of the item, e.g. on my shelf, add to my shelf. When the user hovers over a button of a book that&#39;s not in your shelf, the label changes to &#34;Add to I&#39;ve Read&#34;. Clicking the drop down arrow shows other options for the book with shelf actions in the top half (I plan to read, I&#39;m reading now, I&#39;ve read), and the bottom half shows other attributes of your book (Favorite, I own, Wish list). All of these options are checkboxes, so you can select multiple values in the expanded actions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;shelfari-hybrid-buttons-revised.html&#34;&gt;See also Shelfari&#39;s updated button design&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Buttons for books appear to right, showing shelf status (Add to my self/On my shelf). &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Buttons for books appear to right, showing shelf status (Add to my self/On my shelf). &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Label changes when hovering over button to show more specific default action, &amp;quot;Add to I&#39;ve Read.&amp;quot;&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Label changes when hovering over button to show more specific default action, &amp;quot;Add to I&amp;#039...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Drop down behavior shows other options for the book.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Drop down behavior shows other options for the book.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Multiple options allowed, and button label updates depending on selection.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Multiple options allowed, and button label updates depending on selection.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/shelfari-hybrid-buttons-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.shelfari.com/&#34;&gt;http://www.shelfari.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EffectiveUI Accordion Stacks</title>
+      <link>http://localhost:1313/interface/effectiveui-accordion-stacks/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/effectiveui-accordion-stacks/</guid>
+      <description>&lt;p&gt;Effective UI has an interesting Flash UI for presenting menus on their home page using a stacked accordion. Upon landing on the home page, a series of stacked boxes are displayed with both a large descriptive heading of that section and shows the first mini-slide in that deck/stack to help you see what that section is about. Mousing over the first slide in the stack expands the stack to show the headings for the other nodes of content within it, and the user may now hover over the other items to view their descriptions. Clicking a card displays its content in an floated layer.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The front page showing series of stacks. The headings for each stack are shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The front page showing series of stacks. The headings for each stack are shown below.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Mousing over a stack to expose all of the headings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Mousing over a stack to expose all of the headings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Clicking on a card to display its content.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Clicking on a card to display its content.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/effectiveui-accordions-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.effectiveui.com/&#34;&gt;http://www.effectiveui.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wowhead Breadcrumbs</title>
+      <link>http://localhost:1313/interface/wowhead-breadcrumbs/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/wowhead-breadcrumbs/</guid>
+      <description>&lt;p&gt;Wowhead is a database of World of Warcraft information. The database provides a hierarchical subject taxonomy to describe items, and presents that hierarchy in the breadcrumbs for the item. When the user hovers ofer a  branch in the breadcrumb trail, a drop down menu is displayed to show the node siblings and drill down to children. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Single entry view (database record).&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Single entry view (database record).&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Hovering over the current entry&#39;s parent category (Daggers) to view siblings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Hovering over the current entry&#39;s parent category (Daggers) to view siblings.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Hovering over the grandparent category (Weapons) to view its siblings (other grandparent categories).&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Hovering over the grandparent category (Weapons) to view its siblings (other grandparent categori...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wowhead-breadcrumbs-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.wowhead.com/&#34;&gt;http://www.wowhead.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wikipedia Roll Clusters and Wheel Menus</title>
+      <link>http://localhost:1313/interface/wikipedia-roll-clusters-and-wheel-menus/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/wikipedia-roll-clusters-and-wheel-menus/</guid>
+      <description>&lt;p&gt;Wikipedia Roll, a Flash-based Wikipedia browsing application attempts to help provide better exploration of Wikipedia entries by doing some content/link analysis and clustering topics and sub-topics related to the retrieved entry. &lt;/p&gt;
+&lt;p&gt;The screen above shows the entry for &#34;&lt;a href=&#34;http://api-exploration.net/mashups/wikipedia-roll/index_en.php#/Interaction%20design&#34;&gt;interaction design.&lt;/a&gt;&#34; You can see that the links occurring in the article, and presumably, other related topics are grouped into clusters that can be further explored. Each cluster provides a wheel tool for spinning through the group&#39;s available terms. Scrolling to the left/right on the page shows more clusters for the group.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/wikipedia-roll-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. &#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/wikipedia-roll-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://api-exploration.net/mashups/wikipedia-roll/index_en.php#/Interaction%20desig&#34;&gt;http://api-exploration.net/mashups/wikipedia-roll/index_en.php#/Interaction%20desig&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>120 Horizontal Menus</title>
+      <link>http://localhost:1313/blog/120-horizontal-menus/</link>
+      <pubDate>Sun, 11 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/120-horizontal-menus/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1442&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt496a08ffbdaa3.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;CSS Tea collects &lt;a href=&#34;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&#34;&gt;screenshots of 120 global navigation bars&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&#34;&gt;http://www.csstea.com/css-gallery-news-and-resources/264-120-excellent-examples-of-css-horizantal-menu.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Drop Down Menus</title>
+      <link>http://localhost:1313/interface/google-analytics-drop-down-menus/</link>
+      <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/google-analytics-drop-down-menus/</guid>
+      <description>&lt;p&gt;I&#39;m a fan of the drop down menus that span a wide area, e.g. the main body or full page, in order to show a wider range of options rather showing fewer in a vertical drop down and forcing navigation through a fly-out tree. This convention is showing up mostly in global navigation, and with the introduction of Microsoft&#39;s Ribbon, we can expect to see more of it.&lt;/p&gt;
+&lt;p&gt;Google shows buttons with down arrows to indicate that clicking one of those controls will show expanded options in-screen, a la the drop down menu. However, rather than floating a div above the flow of the page, their control expands a div in place below the button, and the expanded div is attached to the button which now looks like a tab. The page flow is respected and content is pushed down, and as each control is opened, any expanded controls are collapsed.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Analytics Dashboard. Controls with down arrows indicate that options are available.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Analytics Dashboard. Controls with down arrows indicate that options are available.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking the date range selector displays calendar or timeline controls.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking the date range selector displays calendar or timeline controls.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. The segment control expands to show granular selection options for filtering your report.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. The segment control expands to show granular selection options for filtering your report.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Simple inline list of export options.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Simple inline list of export options.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Visit filtering options.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Visit filtering options.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/google-analytics-dropmenus-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/analytics/&#34;&gt;http://www.google.com/analytics/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daylife Drop Down Menus</title>
+      <link>http://localhost:1313/interface/daylife-drop-down-menus/</link>
+      <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/daylife-drop-down-menus/</guid>
+      <description>&lt;p&gt;Daylife&#39;s drop down menu in global navigation that provides a wide ribbon to show both navigation to secondary levels and to show teaser content, e.g. the Latest News menu shows top level news categories as well as recent articles in each category. &lt;/p&gt;
+&lt;p&gt;News sites like Daylife and NewsVine have been coming up with interesting ways of changing user&#39;s expectations of what can exist in global navigation. In some cases, the labels and categories for what appear in global navigation suggest a shifting information architecture that is based on what&#39;s interesting now or what people have been reading. &lt;/p&gt;
+&lt;p&gt;The notion of either letting editorial selectivity or bottom-up data analysis determine navigation is what&#39;s interesting to me here when combined with a ribbon menu. It extends the idea of what can be done with a top tags navigation bar, to show more context within each category, which may be more useful with large sets of categories or freetags than displaying every top level in a hierarhical list. I imagine it would even be useful for promoting information or advertising. Ack! I&#39;m sure someone already does it.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Global navigation at the top of the page shows down arrows to indicate expansion of the control.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Global navigation at the top of the page shows down arrows to indicate expansion of the control.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Top news categories with 3 news items for each.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Top news categories with 3 news items for each.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Photos drop down shows editor&#39;s picks, recent photos, and photos recently starred by users.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Photos drop down shows editor&#39;s picks, recent photos, and photos recently starred by users.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Content selected by editorial staff.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Content selected by editorial staff.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Your favorite topics, articles, and photos.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Your favorite topics, articles, and photos.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/daylife-ribbon-menu-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.daylife.com/home&#34;&gt;http://www.daylife.com/home&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Breadcrumb Tab</title>
+      <link>http://localhost:1313/interface/yahoo-breadcrumb-tab/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/yahoo-breadcrumb-tab/</guid>
+      <description>&lt;p&gt;Yahoo&#39;s hybrid tab/breadcrumb navigation is one of my favorite approaches to global and local navigation. This navigation interface answers a few nagging questions that an interface designer might ask. &#34;How do I present the user with an interface that provides focus on the area they&#39;ve navigated to, while providing a path back or to other main areas of interest?&#34;&lt;/p&gt;
+&lt;p&gt;What&#39;s interesting here is that they provide a row of primary navigation tabs at the top level, and replace that with a hybrid tab/breadcrumb once the user makes the decision to drill down. The first problem you encounter with that behavior is that you lose the links back to primary sections of content. To deal with that problem, they provide a drop down menu for the first link in the breadcrumb to show siblings at the top level. Below, they show links for local navigation (children) for the current section in focus.&lt;/p&gt;
+&lt;p&gt;This seems like a unique approach, and I&#39;ve already been influenced enough by this to design a breadcrumb UI that goes even further by providing sibling navigation at lower levels. On my first encounter with this UI earlier this year, however, I didn&#39;t know quite what to make of it because I came in at a lower level rather than at the top. It took me a few minutes to understand the navigation model because of that. I would be interested in hearing opinions of this. For my approach, based on this model, I&#39;m using the breadcrumb in a less prominent location while continuing to use traditional navigation, to slowly introduce this model within a CMS skin.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. The home page primary navigation tabs. Below are Newsvine style top topics.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. The home page primary navigation tabs. Below are Newsvine style top topics.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Selecting &amp;quot;Everyday&amp;quot; tab changes the primary nav to a breadcrumb. Local nav shown below.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Selecting &amp;quot;Everyday&amp;quot; tab changes the primary nav to a breadcrumb. Local nav shown below...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Cotinuing to drill down.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Cotinuing to drill down.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Lowest level with children displayed.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Lowest level with children displayed.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. The drop down arrow next to &amp;quot;Food Home&amp;quot; provides links to top level, primary nav siblings.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. The drop down arrow next to &amp;quot;Food Home&amp;quot; provides links to top level, primary nav siblin...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/yahoo-breadcrumb-tab-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://food.yahoo.com/&#34;&gt;http://food.yahoo.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radial Menu Tests in Firefox</title>
+      <link>http://localhost:1313/blog/radial-menu-tests-firefox/</link>
+      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/radial-menu-tests-firefox/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1396&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt4914c8b4b2c39.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Testing of proof of concept &lt;a href=&#34;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&#34;&gt;prototypes of radial menus&lt;/a&gt;. The idea is to get users to try to select the same menu item repeatedly as the radial menu changes from state to state and capture participants feedback on usability of the interface.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&#34;&gt;http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

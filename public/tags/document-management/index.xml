@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document Management on Konigi</title>
+    <link>http://localhost:1313/tags/document-management/</link>
+    <description>Recent content in Document Management on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/document-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mac Tip: Mounting a Server Automatically</title>
+      <link>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/mac-tip-mounting-server-automatically/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/mounting-mac-server.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/div&gt;&lt;p&gt;One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.  &lt;/p&gt;
+&lt;p&gt;The thing with Webdav is that I can mount the shared folders in my Mac Finder and drag and drop tons of documents in there without going to the web site. But I don&amp;rsquo;t want to have to manually connect to the shared folder. Luckily it&amp;rsquo;s easy to have the Mac OS automatically connect to servers when you log in. Someone tweeted today wondering how you do that, so I posted a screenshot showing how I&amp;rsquo;ve set up my Mac. You can do the same thing with whatever share point or server you use.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure you&amp;rsquo;re in the Finder. Connect to the server using menu Go &amp;gt; Connect to Server, or keyboard shortcut Command-K.&lt;/li&gt;
+&lt;li&gt;With the volume mounted, open System Preferences &amp;gt; Accounts, and select your user account. Click the Login Items tab (you may need to click the lock icon in the lower left to edit login items).&lt;/li&gt;
+&lt;li&gt;Now just drag the mounted volume from the Finder in to your System Preferences &amp;gt; Login Items list.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;That&amp;rsquo;s it. Now your Mac should automatically try to connect to your server volume whenever you log in, and it will show up in your Finder.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

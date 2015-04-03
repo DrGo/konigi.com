@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Konigi</title>
+    <link>http://localhost:1313/tags/visualization/</link>
+    <description>Recent content in Visualization on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 May 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aaron Koblin: Artfully visualizing our humanity</title>
+      <link>http://localhost:1313/blog/aaron-koblin-artfully-visualizing-our-humanity/</link>
+      <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;screenshot&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2635/5765079290_93a160eff7_z.jpg&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;From &lt;a href=&#34;http://www.ted.com/talks/aaron_koblin.html&#34;&gt;Aaron Koblin&amp;rsquo;s TED presentation&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Artist Aaron Koblin takes vast amounts of data &amp;ndash; and at times vast numbers of people &amp;ndash; and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &amp;ldquo;Wilderness Downtown&amp;rdquo; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;video&#34;&gt;
+&amp;lt;!&amp;ndash;copy and paste&amp;ndash;&amp;gt;&amp;lt;!&amp;ndash;copy and paste&amp;ndash;&amp;gt;&lt;object width=&#34;446&#34; height=&#34;326&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34;&gt;&lt;/param&gt;&lt;param name=&#34;allowFullScreen&#34; value=&#34;true&#34; /&gt;&lt;param name=&#34;allowScriptAccess&#34; value=&#34;always&#34;/&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;param name=&#34;bgColor&#34; value=&#34;#ffffff&#34;&gt;&lt;/param&gt; &lt;param name=&#34;flashvars&#34; value=&#34;vu=http://video.ted.com/talk/stream/2011/Blank/AaronKoblin_2011-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/AaronKoblin-2011.embed_thumbnail_r.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1152&amp;lang=eng&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=aaron_koblin;year=2011;theme=a_taste_of_ted2011;theme=media_that_matters;theme=new_on_ted_com;theme=art_unusual;event=TED2011;tag=Arts;tag=Design;tag=Technology;tag=collaboration;tag=data;tag=visualizations;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;&#34; /&gt;&lt;embed src=&#34;http://video.ted.com/assets/player/swf/EmbedPlayer.swf&#34; pluginspace=&#34;http://www.macromedia.com/go/getflashplayer&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; bgColor=&#34;#ffffff&#34; width=&#34;446&#34; height=&#34;326&#34; allowFullScreen=&#34;true&#34; allowScriptAccess=&#34;always&#34; flashvars=&#34;vu=http://video.ted.com/talk/stream/2011/Blank/AaronKoblin_2011-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/AaronKoblin-2011.embed_thumbnail_r.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=1152&amp;lang=eng&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=aaron_koblin;year=2011;theme=a_taste_of_ted2011;theme=media_that_matters;theme=new_on_ted_com;theme=art_unusual;event=TED2011;tag=Arts;tag=Design;tag=Technology;tag=collaboration;tag=data;tag=visualizations;&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;Beautiful, incredibly creative use of user contributed hands for data-driven art. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ted.com/talks/aaron_koblin.html&#34;&gt;http://www.ted.com/talks/aaron_koblin.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>chartbeat dashboard</title>
+      <link>http://localhost:1313/blog/chartbeat-dashboard/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/chartbeat-dashboard/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://chartbeat.com/dashboard/?url=avc.com&amp;amp;k=317a25eccba186e0f6b558f45214c0e7&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/charbeat.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Slick real time data visualization in the dashboard of web analytics service &lt;a href=&#34;http://chartbeat.com/&#34;&gt;chartbeat&lt;/a&gt;. &lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chartbeat.com/dashboard/?url=avc.com&amp;amp;k=317a25eccba186e0f6b558f45214c0e7&#34;&gt;http://chartbeat.com/dashboard/?url=avc.com&amp;k=317a25eccba186e0f6b558f45214c0e7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Architects Web Trend Map 4</title>
+      <link>http://localhost:1313/blog/information-architects-web-trend-map-4/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/information-architects-web-trend-map-4/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://informationarchitects.jp/web-trend-map-4-final-beta/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/iajp-webtrendmap-4.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;Information Architects, Japan, post their 4th &lt;a href=&#34;http://informationarchitects.jp/web-trend-map-4-final-beta/&#34;&gt;Web Trends map&lt;/a&gt;. They&amp;rsquo;ll only be printing 1,000 copies.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://informationarchitects.jp/web-trend-map-4-final-beta/&#34;&gt;http://informationarchitects.jp/web-trend-map-4-final-beta/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Washington Post/Evri Related Content Module</title>
+      <link>http://localhost:1313/interface/washington-postevri-related-content-module/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/washington-postevri-related-content-module/</guid>
+      <description>&lt;p&gt;The Washington Post uses a related content widget created by &lt;a href=&#34;http://evri.com/&#34;&gt;Evri&lt;/a&gt; that indexes content using person, place, and thing (subject) facets and allows the Post to display a list of related content beneath news. The widget, which is actually a bit of SVG/VML and JavaScript, provides a small visualization of topics in the article, and allows the user to do some filtering of the related content. Navigating to topic pages provides a complete filtering view for exploring and narrowing related content. &lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. This widget appearing at the bottom of an article in the Washington Post allows users to find related content. A diagram lists all indexed people, places, things (subjects) found in the current article. &lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/washpost-evri-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. This widget appearing at the bottom of an article in the Washington Post allows users to find rel...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/washpost-evri-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Selecting &amp;quot;Obama&amp;quot; shows the other concepts that have content associated with Obama. The list of Obama content is shown below the diagram.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/washpost-evri-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Selecting &amp;quot;Obama&amp;quot; shows the other concepts that have content associated with Obama. The...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/washpost-evri-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Selecting &amp;quot;Obama&amp;quot; and &amp;quot;General Motors.&amp;quot; The topics update in the link list above the radial diagram and the related content list below is also updated.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/washpost-evri-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Selecting &amp;quot;Obama&amp;quot; and &amp;quot;General Motors.&amp;quot; The topics update in the link list ab...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/washpost-evri-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Clicking the &amp;quot;Obama&amp;quot; text link shows an Obama topic page with allows the user to further explore related topics, and filter news on the topic.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/washpost-evri-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Clicking the &amp;quot;Obama&amp;quot; text link shows an Obama topic page with allows the user to furthe...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/washpost-evri-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.washingtonpost.com/wp-dyn/content/article/2009/02/23/AR2009022302176.html?hpid=topnews&#34;&gt;http://www.washingtonpost.com/wp-dyn/content/article/2009/02/23/AR2009022302176.html?hpid=topnews&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NY Times Visualization Lab</title>
+      <link>http://localhost:1313/blog/ny-times-visualization-lab/</link>
+      <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/ny-times-visualization-lab/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;&lt;img src=&#34;http://media.konigi.com/notebook/nyt-manyeyes-vizlab.jpg&#34; class=&#34;notebook-image&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The New York Times teams up with IBM&amp;rsquo;s Many Eyes project to provide word visualizations of data in the &lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;Vizlab&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vizlab.nytimes.com/&#34;&gt;http://vizlab.nytimes.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Periodic Table of Visualization Methods</title>
+      <link>http://localhost:1313/blog/periodic-table-visualization-methods/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/periodic-table-visualization-methods/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;notebook-screenshot&#34;&gt;&lt;a href=&#34;http://www.visual-literacy.org/periodic_table/periodic_table.html&#34;&gt;&lt;img id=&#39;bluga-thumbnail-1374&#39; class=&#39;bluga-thumbnail large&#39; src=&#39;http://media.konigi.com/bluga/
+wt48e2452845a2d.jpg&#39;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;This is a neat table listing and categorizing visualization methods from the folks at &lt;a href=&#34;http://www.visual-literacy.org/periodic_table/periodic_table.html&#34;&gt;Visual Literacy&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.visual-literacy.org/periodic_table/periodic_table.html&#34;&gt;http://www.visual-literacy.org/periodic_table/periodic_table.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everymoment Now News Visualization</title>
+      <link>http://localhost:1313/interface/everymoment-now-news-visualization/</link>
+      <pubDate>Tue, 16 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/everymoment-now-news-visualization/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://everymomentnow.com/&#34;&gt;everymomentnow&lt;/a&gt; is a beautiful news visualization site designed and developed by Craig Mod. The idea is to provide a sense of volume and correlation between keywords within a given subject area. The current incarnation focuses on Obama/McCain in the news. &lt;/p&gt;
+&lt;p&gt;The clean, minimalist interface allows the user to visualize spikes in news article occurrences for each keyword a the highest level. You choose a single focal point using a keyword (e.g. Obama or McCain) or a date restriction, and the site displays the news articles indexed for that entry point. A much richer interface is also displayed for exploring the set of news articles by other keywords associated with the current keyword/date focus. So you could look at Obama + 9/16/08, or Wall Street + 9/16/08. Presently the interface doesn&#39;t allow for a combination of multiple keywords, e.g. Obama + Wall Street + 9/16/08.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Main page for Obama/McCain news articles.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Main page for Obama/McCain news articles.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Detail page for &amp;quot;Obama + 9/16/08.&amp;quot; More link at bottom of articles displays more articles in page via AJAX.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Detail page for &amp;quot;Obama + 9/16/08.&amp;quot; More link at bottom of articles displays more articl...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3. Date Control shows range of dates to filter the current set.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-3.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;3. Date Control shows range of dates to filter the current set.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-3.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;4. Volume control in upper right: titles only, titles and truncated teaser, titles and long teaser.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-4.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;4. Volume control in upper right: titles only, titles and truncated teaser, titles and long teaser.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-4.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;5. Keyword selection. Allows user to change the keyword criteria for current day.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-5.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;5. Keyword selection. Allows user to change the keyword criteria for current day.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-5.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;6. The &amp;quot;Quick Context&amp;quot; bar at the top allows the user to select one of the candidates or running mates as the focus.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/everymomentnow-6.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;6. The &amp;quot;Quick Context&amp;quot; bar at the top allows the user to select one of the candidates or r...&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/everymomentnow-6.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://everymomentnow.com/&#34;&gt;http://everymomentnow.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AideRSS Table Row Expansion</title>
+      <link>http://localhost:1313/interface/aiderss-table-row-expansion/</link>
+      <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/aiderss-table-row-expansion/</guid>
+      <description>&lt;p&gt;AideRSS is a service that scores and filters RSS feeds so that users can view the most active posts for a web site. Activity is based on number of comments, and posts to digg or del.icio.us. The feeds are displayed in a table, with hot or most active entries indicated by a higher rank and warmer color in the postrank column. A &#34;+ more&#34; icon allows the user to expand entry information within a row.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Feed table.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aiderss-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Feed table.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aiderss-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Clicking &amp;quot;+More&amp;quot; expands entry info in a row.&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/aiderss-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Clicking &amp;quot;+More&amp;quot; expands entry info in a row.&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/aiderss-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://www.aiderss.com/&#34;&gt;http://www.aiderss.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization Sites</title>
+      <link>http://localhost:1313/blog/data-visualization-sites/</link>
+      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/data-visualization-sites/</guid>
+      <description>&lt;p&gt;&lt;p&gt;If you&amp;rsquo;re looking for resources related to data visualization, look no further than the lists on these 2 great resources: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tom-carden.co.uk/2008/04/16/data-visualisation-blogs-you-might-not-know-about/&#34;&gt;Random Etc.&amp;rsquo;s list of 20 resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://meryl.net/2008/01/22/175-data-and-information-visualization-examples-and-resources/&#34;&gt;Meryl.net&amp;rsquo;s list of 175 resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://meryl.net/2008/01/22/175-data-and-information-visualization-examples-and-resources/&#34;&gt;http://meryl.net/2008/01/22/175-data-and-information-visualization-examples-and-resources/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
+      <link>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg&#34; alt=&#34;&#34; class=&#34;notebook-image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://next.yahoo.net/download/newsglobe/&#34;&gt;Yahoo! launched the News Globe&lt;/a&gt;, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page. It&#39;s a jarring experience.&lt;/p&gt;
+&lt;p&gt;This attempt at providing a way to visualize top published news activity is cute, but it&#39;s nowhere near as useful as the interface provided by the Wii. Check out the interaction with the Wii News Channel below:&lt;/p&gt;
+&lt;div class=&#34;center marbot1&#34;&gt;
+&lt;object width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/b7RwuuYWnw4&amp;amp;rel=1&#34;&gt;&lt;/param&gt;&lt;param name=&#34;wmode&#34; value=&#34;transparent&#34;&gt;&lt;/param&gt;&lt;embed src=&#34;http://www.youtube.com/v/b7RwuuYWnw4&amp;amp;rel=1&#34; type=&#34;application/x-shockwave-flash&#34; wmode=&#34;transparent&#34; width=&#34;425&#34; height=&#34;355&#34;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/div&gt;
+&lt;p&gt;There is something much more gratifying in the Wii News Channel experience, and I think the satisfaction I feel is due mostly to the fun of using the Wii remote to spin and navigate the globe. I have get a giddy feeling doing the same thing while I spin the globe in the Wii Weather Channel. But the other thing that makes the Wii experience much more useful is that the news stories are previewed seamlessly while the globe visualization persists. I never thought that reading the news on the TV would be a pleasurable experience, but the zoom and pan features for text is as interesting in the Wii as is the zoom feature on the iPhone. &lt;/p&gt;
+&lt;p&gt;Seems to me that the Yahoo! News Globe is an attempt to mimick the experience of news on the Wii, but it comes across feeling gimmicky and not very useful. The Wii News Channel makes reading news on a TV fluid. For reading news on a computer, I&#39;ll stick with organized lists of text, thanks.  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/jibbajabba/2265266114/&#34; title=&#34;Yahoo! NewsGlobe by jibbajabba, on Flickr&#34; class=&#34;small&#34;&gt;View screenshot on Flickr&lt;/a&gt;&lt;/p&gt;
+    
+</description>
+    </item>
+    
+    <item>
+      <title>YouTube Explore Related Videos</title>
+      <link>http://localhost:1313/interface/youtube-explore-related-videos/</link>
+      <pubDate>Mon, 17 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/interface/youtube-explore-related-videos/</guid>
+      <description>&lt;p&gt;YouTube&#39;s exploring functionality in the full-screen video player allows users to directed exploration of related videos.&lt;/p&gt;
+&lt;p&gt;1) Clicking the explore button in the lower left brings up related videos visualization, which is sort of like a digraph that looks like a constellation of stars. &lt;/p&gt;
+&lt;p&gt;2) Circles in the center are videos. Hover over one circle expands to show you other videos related to that one, forming a cluster. Click a circle to watch a video.&lt;/p&gt;
+&lt;p&gt;3) Circles in the upper left corner indicate the clusters you&#39;ve explored. Clicking on a circle returns you to the related constellation, focused on the cluster you click. Constellation shows the path back to the original video--what relates the video you&#39;re now watching to the video that started your exploration.&lt;/p&gt;
+&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;1. Exploration of related videos&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-constellation-1.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;1. Exploration of related videos&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-constellation-1.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&#34;screens-full&#34; class=&#34;clear&#34;&gt;&lt;div class=&#34;caption&#34;&gt;2. Constellation after watching 2 related videos&lt;/div&gt;&lt;div class=&#34;fullimg clear&#34;&gt;&lt;a href=&#34;http://media.konigi.com/interface/youtube-constellation-2.png&#34; class=&#34;group&#34; rel=&#34;group&#34; title=&#34;2. Constellation after watching 2 related videos&#34;&gt;&lt;img src=&#34;http://media.konigi.com/interface/youtube-constellation-2.png&#34; alt=&#34;&#34; class=&#34;img-responsive&#34;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;        
+&lt;p&gt;&lt;a href=&#34;http://youtube.com/&#34;&gt;http://youtube.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

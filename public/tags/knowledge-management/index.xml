@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Management on Konigi</title>
+    <link>http://localhost:1313/tags/knowledge-management/</link>
+    <description>Recent content in Knowledge Management on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Denning and Yaholkovsky on Real Collaboration</title>
+      <link>http://localhost:1313/blog/denning-and-yaholkovsky-real-collaboration/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/denning-and-yaholkovsky-real-collaboration/</guid>
+      <description>&lt;p&gt;Thomas Van Der Wal Personal provides a &lt;a href=&#34;http://www.personalinfocloud.com/2008/04/denning-and-yah.html&#34;&gt;brief synopsis&lt;/a&gt; of &#34;&lt;a href=&#34;http://portal.acm.org/citation.cfm?doid=1330311.1330316#abstract&#34;&gt;Getting to &#34;we&#34;&lt;/a&gt;&#34;, an article in Communications of the ACM (Volume 51, Issue 4 - April 2008). According to Thomas:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Peter Denning and Peter Yaholkovsky break down the tools needed for various knowledge needs into four categories: 1) Information sharing; 2) Coordination; 3) Cooperation; and Collaboration.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The article apparently discusses the misunderstanding of the term collaboration, and when it is an appropriate practice. There may be some definition of the subtle nuances of the tools for knowledge work here that should be interesting to those involved with social software and km.&lt;/p&gt;
+    
+
+&lt;p&gt;&lt;a href=&#34;http://www.personalinfocloud.com/2008/04/denning-and-yah.html&#34;&gt;http://www.personalinfocloud.com/2008/04/denning-and-yah.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
