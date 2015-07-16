@@ -187,8 +187,8 @@ Provides a transition effect
 */
 @font-face {
   font-family: "SSStandard";
-  src: url('/fonts/ss-standard.eot');
-  src: url('/fonts/ss-standard.eot?#iefix') format('embedded-opentype'), url('/fonts/ss-standard.woff') format('woff'), url('/fonts/ss-standard.ttf') format('truetype'), url('/fonts/ss-standard.svg#SSStandard') format('svg');
+  src: url("/fonts/ss-standard.eot");
+  src: url("/fonts/ss-standard.eot?#iefix") format("embedded-opentype"), url("/fonts/ss-standard.woff") format("woff"), url("/fonts/ss-standard.ttf") format("truetype"), url("/fonts/ss-standard.svg#SSStandard") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -196,7 +196,11 @@ Provides a transition effect
 html:hover [class^="ss-"] {
   -ms-zoom: 1; }
 
-.ss-icon, .ss-icon.ss-standard, [class^="ss-"]:before, [class*=" ss-"]:before, [class^="ss-"].ss-standard:before, [class*=" ss-"].ss-standard:before, [class^="ss-"].right:after, [class*=" ss-"].right:after, [class^="ss-"].ss-standard.right:after, [class*=" ss-"].ss-standard.right:after {
+.ss-icon, .ss-icon.ss-standard,
+[class^="ss-"]:before, [class*=" ss-"]:before,
+[class^="ss-"].ss-standard:before, [class*=" ss-"].ss-standard:before,
+[class^="ss-"].right:after, [class*=" ss-"].right:after,
+[class^="ss-"].ss-standard.right:after, [class*=" ss-"].ss-standard.right:after {
   font-family: "SSStandard";
   font-style: normal;
   font-weight: normal;
@@ -212,7 +216,8 @@ html:hover [class^="ss-"] {
           font-feature-settings: "liga";
   -webkit-font-smoothing: antialiased; }
 
-[class^="ss-"].right:before, [class*=" ss-"].right:before {
+[class^="ss-"].right:before,
+[class*=" ss-"].right:before {
   display: none;
   content: ''; }
 
@@ -770,7 +775,16 @@ html:hover [class^="ss-"] {
   content: ''; }
 
 /*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
-.fancybox-wrap, .fancybox-skin, .fancybox-outer, .fancybox-inner, .fancybox-image, .fancybox-wrap iframe, .fancybox-wrap object, .fancybox-nav, .fancybox-nav span, .fancybox-tmp {
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp {
   padding: 0;
   margin: 0;
   border: 0;
@@ -822,7 +836,7 @@ html:hover [class^="ss-"] {
   max-height: 100%; }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-  background-image: url('/js/jquery.fancybox/fancybox_sprite.png'); }
+  background-image: url("/js/jquery.fancybox/fancybox_sprite.png"); }
 
 #fancybox-loading {
   position: fixed;
@@ -838,7 +852,7 @@ html:hover [class^="ss-"] {
 #fancybox-loading div {
   width: 44px;
   height: 44px;
-  background: url('/js/jquery.fancybox/fancybox_loading.gif') center center no-repeat; }
+  background: url("/js/jquery.fancybox/fancybox_loading.gif") center center no-repeat; }
 
 .fancybox-close {
   position: absolute;
@@ -856,7 +870,7 @@ html:hover [class^="ss-"] {
   height: 100%;
   cursor: pointer;
   text-decoration: none;
-  background: transparent url('/js/jquery.fancybox/blank.gif');
+  background: transparent url("/js/jquery.fancybox/blank.gif");
   /* helps IE */
   -webkit-tap-highlight-color: transparent;
   z-index: 8040; }
@@ -979,11 +993,11 @@ html:hover [class^="ss-"] {
 /*Retina graphics!*/
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-    background-image: url('/js/jquery.fancybox/fancybox_sprite@2x.png');
+    background-image: url("/js/jquery.fancybox/fancybox_sprite@2x.png");
     background-size: 44px 152px;
     /*The size of the normal image, half the size of the hi-res image*/ }
   #fancybox-loading div {
-    background-image: url('/js/jquery.fancybox/fancybox_loading@2x.gif');
+    background-image: url("/js/jquery.fancybox/fancybox_loading@2x.gif");
     background-size: 24px 24px;
     /*The size of the normal image, half the size of the hi-res image*/ } }
 
@@ -1195,10 +1209,19 @@ article {
     height: 100%; }
 
 /* notebook, product, tools section */
-article .notebook-image, article .notebook-screenshot, article .tool-screenshot, .screenshot {
+article .notebook-image,
+article .notebook-screenshot,
+article .tool-screenshot,
+.screenshot {
   text-align: center; }
 
-img.img-responsive, img.notebook-image, .notebook-screenshot img, div.notebook-image img, .screenshot img, .tool-screenshot img, img.bluga-thumbnail {
+img.img-responsive,
+img.notebook-image,
+.notebook-screenshot img,
+div.notebook-image img,
+.screenshot img,
+.tool-screenshot img,
+img.bluga-thumbnail {
   max-width: 100%;
   height: auto;
   margin: 0 auto 1em 0; }
@@ -1212,14 +1235,18 @@ img.bluga-thumbnail {
 .search #content .box {
   margin: 0;
   padding: 0; }
+
 .search #content .search-form {
-  padding: 0 0 .75em 0;
+  padding: 0 0 0.75em 0;
   margin: 0; }
+
 .search #content h2 {
   border-top: 1px solid #ddd;
   padding: .75em 0; }
+
 .search #content dd {
   margin: 0 0 2em 0; }
+
 .search #content p {
   padding: 0;
   margin: 0; }
@@ -1322,7 +1349,7 @@ h4, h5 {
 
 h1.page-title {
   margin: 0 0 1.5em 0;
-  padding: 0 0 .75em 0;
+  padding: 0 0 0.75em 0;
   font-weight: 600;
   font-size: 36px;
   line-height: 36px;
@@ -1334,7 +1361,7 @@ h1.page-title {
     text-transform: capitalize; }
 
 h2.post-title, h2.page-title {
-  margin: 0 0 .5em 0;
+  margin: 0 0 0.5em 0;
   text-align: center;
   font-size: 36px;
   line-height: 36px;
@@ -1350,7 +1377,8 @@ h3.post-title {
   line-height: 1.75rem; }
 
 /* gray */
-.entry #screens-thumbs .actions a, #comments .box h2 {
+.entry #screens-thumbs .actions a,
+#comments .box h2 {
   color: #999; }
 
 a {
@@ -1405,7 +1433,7 @@ table tr, table td {
   background: #fff; }
 
 table th, table td {
-  padding: .75em 6px; }
+  padding: 0.75em 6px; }
 
 table th:first-child, table td:first-child {
   padding-left: 0; }
@@ -1413,7 +1441,12 @@ table th:first-child, table td:first-child {
 ul#filter {
   margin-bottom: .5em; }
 
-body.blog li#gnav-blog a, body.interface li#gnav-interface a, body.tools li#gnav-tools a, body.wiki li#gnav-wiki a, body.music li#gnav-music a, #gnav li.current a {
+body.blog li#gnav-blog a,
+body.interface li#gnav-interface a,
+body.tools li#gnav-tools a,
+body.wiki li#gnav-wiki a,
+body.music li#gnav-music a,
+#gnav li.current a {
   color: #262626 !important; }
 
 footer {
@@ -1433,6 +1466,7 @@ footer {
   line-height: 12px;
   font-size: 0.75rem;
   line-height: 0.75rem; }
+
 .entry #screens-thumbs .actions {
   color: #bbb;
   font-size: 12px;
@@ -1445,6 +1479,7 @@ footer {
   line-height: 18px;
   font-size: 1.125rem;
   line-height: 1.125rem; }
+
 .article-list .pub-date {
   color: #bbb;
   font-size: 14px;
@@ -1455,6 +1490,7 @@ footer {
 
 .screens-thumbs-index .thumb:hover .indexlink a, .screens-thumbs-index .thumb:hover .indexlink-big a {
   color: #fff; }
+
 .screens-thumbs-index .thumb .indexlink a, .screens-thumbs-index .thumb .indexlink-big a {
   font-family: "Lato","Helvetica Neue",sans-serif;
   color: #262626;
@@ -1464,6 +1500,7 @@ footer {
   font-size: 1.5rem;
   line-height: 1.875rem;
   text-decoration: none; }
+
 .screens-thumbs-index .thumb .nodetype a {
   color: #999;
   font-size: 12px;
@@ -1522,4 +1559,3 @@ footer {
   line-height: 12px;
   font-size: 0.75rem;
   line-height: 0.75rem; }
-

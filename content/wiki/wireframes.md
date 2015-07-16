@@ -8,7 +8,7 @@ slug = "wireframes"
 +++
 
 
- 
+
 <h2>Definitions</h2>
 <p>A wireframe is a schematic or other low-fidelity rendering of a computer interface, intended to primarily demonstrate functionality, features, content, and user flow without explicitly specifying the visual design of a product. Wireframes may function as interface specification for products such as computer applications, web and mobile sites, and all products requiring some form of human-computer interaction. </p>
 <p>While wireframes are considered the equivalent of an architect's blueprints, they are typically not meant to be a representation of visual design. They are usually created prior to or in parallel with the visual design of a product, and are created in an iterative fashion, typically by information architects, interaction designers, programmers, and occasionally even product managers. </p>
@@ -42,6 +42,7 @@ slug = "wireframes"
 <li class="dim"><del>Connect-A-Sketch - Create click-through prototypes from images.</del></li>
 <li class="dim"><del>COutline</del></li>
 <li><a href="http://dub.washington.edu:2007/denim/">Denim</a> - A complete sketch-style tool for rapid prototyping using sketched wireframes. A UC Berkeley/Univ. of Washington project. </li>
+<li><a href="https://www.draw.io/">Draw.io</a> (Web App)</li>
 <li class="dim"><del>Easy Prototype (Mac and Windows)</del></li>
 <li><a href="http://www.microsoft.com/expression/products/Blend_Overview.aspx#page-top">Expression Blend</a> (Windows)</li>
 <li><a href="http://www.adobe.com/products/fireworks/">Fireworks</a> (Mac and Windows)</li>
