@@ -104,18 +104,3 @@ slug = "wireframes"
 <li><a href="../notebook/all-right-way-wireframe-videos.html">Videos from "The Right Way to Wireframe" presentations</a>.</li>
 <li><a href="http://protomoto.com/">protomoto</a> -- Resource for finding prototyping and wireframing tools.</li>
 </ul>
-<!--
-OLD URLS
-<a href="http://connectasketch.com" title="http://connectasketch.com">http://connectasketch.com</a>
-<a href="https://www.coutline.com/" title="https://www.coutline.com/">https://www.coutline.com/</a>
-<a href="http://labs.adobe.com/technologies/flashcatalyst/" title="http://labs.adobe.com/technologies/flashcatalyst/">http://labs.adobe.com/technologies/flashcatalyst/</a>
-<a href="http://www.mocklinkr.com" title="http://www.mocklinkr.com">http://www.mocklinkr.com</a>
-<a href="http://www.extremeplanner.com/easyprototype/" title="http://www.extremeplanner.com/easyprototype/">http://www.extremeplanner.com/easyprototype/</a>
---><!--
-OLD URLS
-<a href="http://connectasketch.com" title="http://connectasketch.com">http://connectasketch.com</a>
-<a href="https://www.coutline.com/" title="https://www.coutline.com/">https://www.coutline.com/</a>
-<a href="http://labs.adobe.com/technologies/flashcatalyst/" title="http://labs.adobe.com/technologies/flashcatalyst/">http://labs.adobe.com/technologies/flashcatalyst/</a>
-<a href="http://www.mocklinkr.com" title="http://www.mocklinkr.com">http://www.mocklinkr.com</a>
-<a href="http://www.extremeplanner.com/easyprototype/" title="http://www.extremeplanner.com/easyprototype/">http://www.extremeplanner.com/easyprototype/</a>
--->

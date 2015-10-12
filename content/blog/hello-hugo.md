@@ -1,7 +1,7 @@
 +++
 title = "Hello Hugo: Konigi is now a Static Site"
 description = ""
-tags = ["static sites", "hugo"]
+tags = ["static sites", "hugo", "front end development", "development"]
 date = "2015-04-01"
 categories = ["blog"]
 slug = "hello-hugo"

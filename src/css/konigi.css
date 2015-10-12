@@ -1275,6 +1275,12 @@ ul.inline {
   ul.inline li.current a {
     color: #262626; }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center; }
+
 .hidden {
   display: none; }
 
