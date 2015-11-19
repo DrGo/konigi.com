@@ -1,7 +1,7 @@
 +++
 title = "Mac Tip: Mounting a Server Automatically"
 description = ""
-tags = ["document management", "Macintosh", "tips", "tutorials"]
+tags = ["document management", "mac", "tips", "tutorials"]
 date = "2009-01-02"
 categories = ["blog"]
 slug = "mac-tip-mounting-server-automatically"
@@ -18,5 +18,3 @@ slug = "mac-tip-mounting-server-automatically"
 <li>Now just drag the mounted volume from the Finder in to your System Preferences > Login Items list.</li>
 </ol>
 <p>That's it. Now your Mac should automatically try to connect to your server volume whenever you log in, and it will show up in your Finder.</p>
-    
-  

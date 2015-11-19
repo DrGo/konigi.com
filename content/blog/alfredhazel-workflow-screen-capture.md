@@ -1,7 +1,7 @@
 +++
 title = "Alfred/Hazel Workflow for Screen Capture"
 description = ""
-tags = ["Macintosh", "screen capture", "tips"]
+tags = ["mac", "screen capture", "tips"]
 date = "2013-08-13"
 categories = ["blog"]
 slug = "alfredhazel-workflow-screen-capture"
@@ -19,5 +19,5 @@ slug = "alfredhazel-workflow-screen-capture"
 ls *.png | grep -v icon.png |<br />
 xargs -I {} mv {} ${HOME}/Sites/media.konigi.com/snaps/2013/</code></p></blockquote>
 <p>-F -W 980 outputs a full scrolling screen at 980px wide. You can see what the options are by running this command in the terminal: webkit2png --help.</p>
-    
+
   <a href="https://vimeo.com/72290954">https://vimeo.com/72290954</a>

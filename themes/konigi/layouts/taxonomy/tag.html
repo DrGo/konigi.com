@@ -5,7 +5,7 @@
 <h2 class="page-title">{{ .Title }}</h2>
 
 <section class="article-list">
-  <table>
+  <table class="noborder" style="border:0">
     <tbody>
     {{ range .Data.Pages.GroupByDate "2006" }}
     <thead><tr><th colspan="2"><h5>{{ .Key }}</h5></th></tr></thead>

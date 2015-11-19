@@ -1,7 +1,7 @@
 +++
 title = "Realizations of Rounded Rectangles"
 description = ""
-tags = ["design", "interface", "Macintosh", "perception", "psychology", "shape"]
+tags = ["design", "interface", "mac", "perception", "psychology", "shape"]
 date = "2009-08-03"
 categories = ["blog"]
 slug = "realizations-rounded-rectangles"
@@ -18,5 +18,5 @@ wt4a76fe347eb48.jpg'/></a></div><p>Plasq designer, Keith Lang, recounts the stor
 <p>I think the key is in thinking of a point as a full stop (much like a period in a sentence).</p></blockquote>
 <p>The point being made is that a particular use of shape, color, position, and movement are not simply aesthetic decisions, but can impact visual cognition. Mullet Sano's <em><a href="http://www.amazon.com/exec/obidos/ASIN/0133033899">Designing Visual Interfaces</a></em> is another good source for the kinds of principles that can be used in practice. I haven't read Nänni's book, but have read a lot of literature on visual literacy, and tend to like the argument, however subtle, about the impact of the rounded shape on effort and perception.</p>
 <p><a href="http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/">Read the full article.</a></p>
-    
+
   <a href="http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/">http://www.uiandus.com/2009/07/27/theories/realizations-of-rounded-rectangles/</a>

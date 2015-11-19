@@ -1,7 +1,7 @@
 +++
 title = "Silverback: Usability Testing Software for the Mac"
 description = ""
-tags = ["Macintosh", "software", "tools", "usability testing"]
+tags = ["mac", "software", "tools", "usability testing"]
 date = "2008-07-25"
 categories = ["blog"]
 slug = "silverback-usability-testing-software-mac"
@@ -23,5 +23,5 @@ slug = "silverback-usability-testing-software-mac"
 <p>The other thing that you won't find are simple video editing tools so you can cut pieces out for your highlight reel when presenting your findings--if you do that sort of thing. You can easily do that in QuickTime though and stitch together your clips.</p>
 <p>I think this tool has the right functionality you'd need to do discount testing on the Mac right now. All of the features you need to go the extra mile to make clips presentable are pretty much at your disposal if you have QuickTime Pro or iMovie. For me as a discount usability tester, the best part of this is, I won't have to worry about needing a separate PC to do simple testing. If you bundle this with screensharing tools like those built into iChat or using VNC, you have the makings of a decent Mac UX toolkit.</p>
 <p>Purchase price is only $49.95 and Clearleft are donating 10% of all profits to The Dian Fossey Gorilla Fund. That's two reasons too feel good about making this purchase.</p>
-    
+
   <a href="http://silverbackapp.com/">http://silverbackapp.com/</a>
