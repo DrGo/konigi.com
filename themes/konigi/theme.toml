@@ -1,10 +1,11 @@
 name = "Konigi"
 license = "MIT"
-licenselink = "https://github.com/.../.../LICENSE.md"
-description = ""
+licenselink = "https://github.com/jibbajabba/konigi.com/blob/master/themes/konigi/LICENSE.md"
+description = "Hugo Powered theme for konigi.com design blog."
 homepage = "http://konigi.com/"
 tags = ["konigi", "blog"]
 features = ["sections", "pages"]
+min_version = 0.13
 
 [author]
   name = "Michael Angeles"
